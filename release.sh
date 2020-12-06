@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.4
+# Current Version: 1.1.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -121,14 +121,14 @@ function OutputData() {
     for cnacc_data_task in "${!cnacc_data[@]}"; do
         echo "@@||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_clash_cnacc.yaml
-        echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_shadowrocket.yaml
+        echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_surge_cnacc.yaml
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_quantumult.yaml
     done
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
         echo "||${gfwlist_data[gfwlist_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_clash.yaml
-        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},Proxy" >> ../gfwlist2pac_shadowrocket.yaml
+        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},Proxy" >> ../gfwlist2pac_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_surge.yaml
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},PROXY" >> ../gfwlist2pac_quantumult.yaml
     done
