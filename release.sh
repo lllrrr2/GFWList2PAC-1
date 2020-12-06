@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.0
+# Current Version: 1.1.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -8,16 +8,23 @@
 ## Function
 # Get Data
 function GetData() {
+    cnacc_domain=(
+        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_cnacc.txt"
+    )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_gfwlist.txt"
     )
     rm -rf ./gfwlist2pac_* ./Temp && mkdir ./Temp && cd ./Temp
+    for cnacc_domain_task in "${!cnacc_domain[@]}"; do
+        curl -s --connect-timeout 15 "${cnacc_domain[$cnacc_domain_task]}" >> ./cnacc_domain.tmp
+    done
     for gfwlist_domain_task in "${!gfwlist_domain[@]}"; do
         curl -s --connect-timeout 15 "${gfwlist_domain[$gfwlist_domain_task]}" >> ./gfwlist_domain.tmp
     done
 }
 # Analyse Data
 function AnalyseData() {
+    cnacc_data=($(cat ./cnacc_domain.tmp | grep "\[\|\]" | sed "s/https\:\/\/dns\.alidns\.com\:443\/dns\-query//g;s/https\:\/\/dns\.pub\:443\/dns\-query//g;s/https\:\/\/doh\.opendns\.com\:443\/dns\-query//g;s/tls\:\/\/dns\.alidns\.com\:853//g;s/tls\:\/\/dns\.google\:853//g;s/tls\:\/\/dns\.pub\:853//g;s/\[\///g;s/\/\]//g;s/\//\n/g" | sort | uniq | awk "{ print $2 }"))
     gfwlist_data=($(cat ./gfwlist_domain.tmp | grep "\[\|\]" | sed "s/https\:\/\/dns\.alidns\.com\:443\/dns\-query//g;s/https\:\/\/dns\.pub\:443\/dns\-query//g;s/https\:\/\/doh\.opendns\.com\:443\/dns\-query//g;s/tls\:\/\/dns\.alidns\.com\:853//g;s/tls\:\/\/dns\.google\:853//g;s/tls\:\/\/dns\.pub\:853//g;s/\[\///g;s/\/\]//g;s/\//\n/g" | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
@@ -71,8 +78,12 @@ function GenerateInformation() {
 # Output Data
 function OutputData() {
     GenerateInformation
+    for cnacc_data_task in "${!cnacc_data[@]}"; do
+        echo "@@||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
+        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},DIRECT" >> ../gfwlist2pac_quantumult.yaml
+    done
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-        echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_autoproxy.txt
+        echo "||${gfwlist_data[gfwlist_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_clash.yaml
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_surge.yaml
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},PROXY" >> ../gfwlist2pac_quantumult.yaml
