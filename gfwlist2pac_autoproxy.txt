@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzIyMzE3NQo=
+! Checksum: MTYwNzIyNDY5Ngo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.4-20201206-0
-! TimeUpdated: 2020-12-06T02:52:55+00:00
+! Version: 1.0.4-20201206-1
+! TimeUpdated: 2020-12-06T03:18:16+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com
@@ -7217,6 +7217,7 @@
 @@||aicloud.com
 @@||aicode.cc
 @@||aicunfu.com
+@@||aidafen.com
 @@||aidai.com
 @@||aidaiz.com
 @@||aidalan.com
@@ -8641,6 +8642,7 @@
 @@||axzchou.com
 @@||axzlk.com
 @@||ay57.com
+@@||ay99.net
 @@||ayfdc.com
 @@||ayfy.com
 @@||ayibang.com
