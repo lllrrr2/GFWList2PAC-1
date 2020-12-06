@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.7
+# Current Version: 1.0.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -50,7 +50,7 @@ function GenerateInformation() {
         echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_surge.yaml
         echo "# Title: ${gfwlist2pac_title} for Surge" >> ../gfwlist2pac_surge.yaml
         echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_surge.yaml
-        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_surge.yml
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_surge.yaml
         echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_surge.yaml
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_surge.yaml
     }
