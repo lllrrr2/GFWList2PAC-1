@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.6
+# Current Version: 1.1.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -64,17 +64,6 @@ function GenerateHeaderInformation() {
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_clash_cnacc.yaml
         echo "# Usage: cnVsZS1wcm92aWRlcnM6CiAgZ2Z3bGlzdDJwYWNfY25hY2M6CiAgICBiZWhhdmlvcjogImNsYXNzaWNhbCIKICAgIGludGVydmFsOiAzNjAwCiAgICBwYXRoOiAuL2dmd2xpc3QycGFjX2NuYWNjLnlhbWwKICAgIHR5cGU6IGh0dHAKICAgIHVybDogImh0dHBzOi8vc291cmNlLnpoaWppZS5vbmxpbmUvR0ZXTGlzdDJQQUMvbWFpbi9nZndsaXN0MnBhY19jbGFzaF9jbmFjYy55YW1sIgo=" >> ../gfwlist2pac_clash_cnacc.yaml
     }
-    function gfwlist2pac_pac() {
-        echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_pac.js
-        echo "# Title: ${gfwlist2pac_title} for Proxy Auto-Configuration" >> ../gfwlist2pac_pac.js
-        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_pac.js
-        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_pac.js
-        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_pac.js
-        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_pac.js
-        echo "const direct_address = \"DIRECT;\";" >> ../gfwlist2pac_pac.js
-        echo "const proxy_address = \"PROXY 127.0.0.1:8080; SOCKS 127.0.0.1:1080; PROXY 127.0.0.1:10809; SOCKS 127.0.0.1:10808; DIRECT;\";" >> ../gfwlist2pac_pac.js
-        echo "var cnacc_domain = {" >> ../gfwlist2pac_pac.js
-    }
     function gfwlist2pac_shadowrocket() {
         echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_shadowrocket.conf
         echo "# Title: ${gfwlist2pac_title} for Shadowrocket" >> ../gfwlist2pac_shadowrocket.conf
@@ -117,29 +106,13 @@ function GenerateHeaderInformation() {
     gfwlist2pac_autoproxy
     gfwlist2pac_clash
     gfwlist2pac_clash_cnacc
-    gfwlist2pac_pac
     gfwlist2pac_shadowrocket
     gfwlist2pac_surge
     gfwlist2pac_surge_cnacc
     gfwlist2pac_quantumult
 }
-# Generate Body Information
-function GenerateBodyInformation() {
-    echo "};" >> ../gfwlist2pac_pac.js
-    echo "var gfwlist_domain = {" >> ../gfwlist2pac_pac.js
-}
 # Generate Footer Information
 function GenerateFooterInformation() {
-    echo "};" >> ../gfwlist2pac_pac.js
-    echo "function FindProxyForURL(url, host) {" >> ../gfwlist2pac_pac.js
-    echo "    if (cnacc_domain[host]) {" >> ../gfwlist2pac_pac.js
-    echo "        return direct_address;" >> ../gfwlist2pac_pac.js
-    echo "    } else if (gfwlist_domain[host]) {" >> ../gfwlist2pac_pac.js
-    echo "        return proxy_address;" >> ../gfwlist2pac_pac.js
-    echo "    } else {" >> ../gfwlist2pac_pac.js
-    echo "        return direct_address;" >> ../gfwlist2pac_pac.js
-    echo "    }" >> ../gfwlist2pac_pac.js
-    echo "}" >> ../gfwlist2pac_pac.js
     echo "FINAL,DIRECT" >> ../gfwlist2pac_shadowrocket.conf
 }
 # Output Data
@@ -148,16 +121,13 @@ function OutputData() {
     for cnacc_data_task in "${!cnacc_data[@]}"; do
         echo "@@||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_clash_cnacc.yaml
-        echo "    \"${cnacc_data[cnacc_data_task]}\": true," >> ../gfwlist2pac_pac.js
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_surge_cnacc.yaml
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_quantumult.yaml
     done
-    GenerateBodyInformation
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
         echo "||${gfwlist_data[gfwlist_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_clash.yaml
-        echo "    \"${gfwlist_data[gfwlist_data_task]}\": true," >> ../gfwlist2pac_pac.js
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},Proxy" >> ../gfwlist2pac_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_surge.yaml
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},PROXY" >> ../gfwlist2pac_quantumult.yaml
