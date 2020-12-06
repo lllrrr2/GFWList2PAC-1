@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.2
+# Current Version: 1.0.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -46,20 +46,15 @@ function GenerateInformation() {
     }
     gfwlist2pac_autoproxy
 }
-# Encode Data
-function EncodeData() {
-    cat ../gfwlist2pac_autoproxy.txt | base64 > ../gfwlist2pac_autoproxy.base64 && mv ../gfwlist2pac_autoproxy.base64 ../gfwlist2pac_autoproxy.txt
-}
 # Output Data
 function OutputData() {
     GenerateInformation
     for cnacc_data_task in "${!cnacc_data[@]}"; do
-        echo "@@||${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_autoproxy.txt
+        echo "@@||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
     done
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-        echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_autoproxy.txt
+        echo "||${gfwlist_data[gfwlist_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
     done
-    #EncodeData
     cd .. && rm -rf ./Temp
     exit 0
 }
