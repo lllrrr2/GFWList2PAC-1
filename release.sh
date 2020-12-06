@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -59,7 +59,7 @@ function OutputData() {
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
         echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_autoproxy.txt
     done
-    EncodeData
+    #EncodeData
     cd .. && rm -rf ./Temp
     exit 0
 }
