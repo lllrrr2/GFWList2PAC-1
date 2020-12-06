@@ -1,7 +1,7 @@
-# Checksum: MTYwNzI2NDIwOQo=
+# Checksum: MTYwNzI2NDgzOQo=
 # Title: Zhijie's GFWList for Proxy Auto-Configuration
-# Version: 1.1.9-20201206-4
-# TimeUpdated: 2020-12-06T14:16:49+00:00
+# Version: 1.2.0-20201206-4
+# TimeUpdated: 2020-12-06T14:27:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 var cnacc_domain = {
@@ -86265,9 +86265,12 @@ function FindProxyForURL(url, host) {
     var lastPos;
     do {
         if (cnacc_domain.hasOwnProperty(host)) {
+            return "DIRECT;";
         } else if (gfwlist_domain.hasOwnProperty(host)) {
+            return "PROXY 127.0.0.1:10809; SOCKS 127.0.0.1:10808; DIRECT;";
         }
-        lastPos = host.indexOf(.) + 1;
+        lastPos = host.indexOf(".") + 1;
         host = host.slice(lastPos);
     } while (lastPos >= 1);
+    return "DIRECT;";
 }
