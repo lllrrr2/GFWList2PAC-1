@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzI1NDA2MAo=
+# Checksum: MTYwNzI1NzM0OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.1.8-20201206-3
-# TimeUpdated: 2020-12-06T11:27:40+00:00
+# Version: 1.1.8-20201206-4
+# TimeUpdated: 2020-12-06T12:22:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 # Usage: cnVsZS1wcm92aWRlcnM6CiAgZ2Z3bGlzdDJwYWNfY25hY2M6CiAgICBiZWhhdmlvcjogImNsYXNzaWNhbCIKICAgIGludGVydmFsOiAzNjAwCiAgICBwYXRoOiAuL2dmd2xpc3QycGFjX2NuYWNjLnlhbWwKICAgIHR5cGU6IGh0dHAKICAgIHVybDogImh0dHBzOi8vc291cmNlLnpoaWppZS5vbmxpbmUvR0ZXTGlzdDJQQUMvbWFpbi9nZndsaXN0MnBhY19jbGFzaF9jbmFjYy55YW1sIgo=
@@ -623,7 +623,6 @@ payload:
   - DOMAIN-SUFFIX,086kd.com
   - DOMAIN-SUFFIX,086model.com
   - DOMAIN-SUFFIX,086xinhua.com
-  - DOMAIN-SUFFIX,08817z.com
   - DOMAIN-SUFFIX,0890.com
   - DOMAIN-SUFFIX,08946.com
   - DOMAIN-SUFFIX,08952.com
@@ -2542,7 +2541,6 @@ payload:
   - DOMAIN-SUFFIX,32800.com
   - DOMAIN-SUFFIX,328f.com
   - DOMAIN-SUFFIX,329329.com
-  - DOMAIN-SUFFIX,329569.com
   - DOMAIN-SUFFIX,32bh.com
   - DOMAIN-SUFFIX,32ka.com
   - DOMAIN-SUFFIX,32r.com
@@ -9024,7 +9022,6 @@ payload:
   - DOMAIN-SUFFIX,banjiamao.com
   - DOMAIN-SUFFIX,banjuanshu.com
   - DOMAIN-SUFFIX,bank-swift-code.info
-  - DOMAIN-SUFFIX,bankaiyuan.com
   - DOMAIN-SUFFIX,bankcomm.com
   - DOMAIN-SUFFIX,bankcomm.com.mo
   - DOMAIN-SUFFIX,bankcz.com

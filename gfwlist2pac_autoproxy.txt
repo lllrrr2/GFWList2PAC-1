@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzI1NDA2MAo=
+! Checksum: MTYwNzI1NzM0OAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.1.8-20201206-3
-! TimeUpdated: 2020-12-06T11:27:40+00:00
+! Version: 1.1.8-20201206-4
+! TimeUpdated: 2020-12-06T12:22:28+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com^
@@ -622,7 +622,6 @@
 @@||086kd.com^
 @@||086model.com^
 @@||086xinhua.com^
-@@||08817z.com^
 @@||0890.com^
 @@||08946.com^
 @@||08952.com^
@@ -2541,7 +2540,6 @@
 @@||32800.com^
 @@||328f.com^
 @@||329329.com^
-@@||329569.com^
 @@||32bh.com^
 @@||32ka.com^
 @@||32r.com^
@@ -9023,7 +9021,6 @@
 @@||banjiamao.com^
 @@||banjuanshu.com^
 @@||bank-swift-code.info^
-@@||bankaiyuan.com^
 @@||bankcomm.com^
 @@||bankcomm.com.mo^
 @@||bankcz.com^
