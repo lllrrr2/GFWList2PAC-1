@@ -1,7 +1,7 @@
-# Checksum: MTYwNzIzNTEzNQo=
+# Checksum: MTYwNzIzNTYxOAo=
 # Title: Zhijie's GFWList for Quantumult
 # Version: 1.1.2-20201206-2
-# TimeUpdated: 2020-12-06T06:12:15+00:00
+# TimeUpdated: 2020-12-06T06:20:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -688,7 +688,6 @@ DOMAIN-SUFFIX,0omcp.wang,DIRECT
 DOMAIN-SUFFIX,0quan8.com,DIRECT
 DOMAIN-SUFFIX,0rg.pw,DIRECT
 DOMAIN-SUFFIX,0s8s.com,DIRECT
-DOMAIN-SUFFIX,0tm.cc,DIRECT
 DOMAIN-SUFFIX,0v8739.wang,DIRECT
 DOMAIN-SUFFIX,0x0.biz,DIRECT
 DOMAIN-SUFFIX,0x0d.im,DIRECT
@@ -15378,6 +15377,7 @@ DOMAIN-SUFFIX,dabangp.com,DIRECT
 DOMAIN-SUFFIX,dabangq.com,DIRECT
 DOMAIN-SUFFIX,dabao123.com,DIRECT
 DOMAIN-SUFFIX,dabaoku.com,DIRECT
+DOMAIN-SUFFIX,dabaoku.net,DIRECT
 DOMAIN-SUFFIX,dabieshu.com,DIRECT
 DOMAIN-SUFFIX,dabin69.com,DIRECT
 DOMAIN-SUFFIX,dabo8.com,DIRECT

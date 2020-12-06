@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzIzNTEzNQo=
+! Checksum: MTYwNzIzNTYxOAo=
 ! Title: Zhijie's GFWList for Auto Proxy
 ! Version: 1.1.2-20201206-2
-! TimeUpdated: 2020-12-06T06:12:15+00:00
+! TimeUpdated: 2020-12-06T06:20:18+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com^
@@ -689,7 +689,6 @@
 @@||0quan8.com^
 @@||0rg.pw^
 @@||0s8s.com^
-@@||0tm.cc^
 @@||0v8739.wang^
 @@||0x0.biz^
 @@||0x0d.im^
@@ -15379,6 +15378,7 @@
 @@||dabangq.com^
 @@||dabao123.com^
 @@||dabaoku.com^
+@@||dabaoku.net^
 @@||dabieshu.com^
 @@||dabin69.com^
 @@||dabo8.com^
