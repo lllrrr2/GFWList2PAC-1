@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.3
+# Current Version: 1.0.4
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -50,10 +50,10 @@ function GenerateInformation() {
 function OutputData() {
     GenerateInformation
     for cnacc_data_task in "${!cnacc_data[@]}"; do
-        echo "@@||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
+        echo "@@||${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_autoproxy.txt
     done
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
-        echo "||${gfwlist_data[gfwlist_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
+        echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_autoproxy.txt
     done
     cd .. && rm -rf ./Temp
     exit 0
