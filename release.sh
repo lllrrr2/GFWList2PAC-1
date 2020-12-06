@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.9
+# Current Version: 1.2.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -137,14 +137,14 @@ function GenerateFooterInformation() {
         echo "    var lastPos;" >> ../gfwlist2pac_pac.js
         echo "    do {" >> ../gfwlist2pac_pac.js
         echo "        if (cnacc_domain.hasOwnProperty(host)) {" >> ../gfwlist2pac_pac.js
-        echo "            return "DIRECT;";" >> ../gfwlist2pac_pac.js
+        echo "            return \"DIRECT;\";" >> ../gfwlist2pac_pac.js
         echo "        } else if (gfwlist_domain.hasOwnProperty(host)) {" >> ../gfwlist2pac_pac.js
-        echo "            return "PROXY 127.0.0.1:10809; SOCKS 127.0.0.1:10808; DIRECT;";" >> ../gfwlist2pac_pac.js
+        echo "            return \"PROXY 127.0.0.1:10809; SOCKS 127.0.0.1:10808; DIRECT;\";" >> ../gfwlist2pac_pac.js
         echo "        }" >> ../gfwlist2pac_pac.js
-        echo "        lastPos = host.indexOf(".") + 1;" >> ../gfwlist2pac_pac.js
+        echo "        lastPos = host.indexOf(\".\") + 1;" >> ../gfwlist2pac_pac.js
         echo "        host = host.slice(lastPos);" >> ../gfwlist2pac_pac.js
         echo "    } while (lastPos >= 1);" >> ../gfwlist2pac_pac.js
-        echo "    return "DIRECT;";" >> ../gfwlist2pac_pac.js
+        echo "    return \"DIRECT;\";" >> ../gfwlist2pac_pac.js
         echo "}" >> ../gfwlist2pac_pac.js
     }
     function gfwlist2pac_shadowrocket() {
