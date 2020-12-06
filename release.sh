@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.5
+# Current Version: 1.0.6
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -38,23 +38,43 @@ function GenerateInformation() {
         echo "! Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_autoproxy.txt
     }
     function gfwlist2pac_clash() {
-        echo "payload:" > ../gfwlist2pac_clash.yml
-        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_clash.yml
-        echo "# Title: ${gfwlist2pac_title} for Clash" >> ../gfwlist2pac_clash.yml
-        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_clash.yml
-        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_clash.yml
-        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_clash.yml
-        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_clash.yml
+        echo "payload:" > ../gfwlist2pac_clash.yaml
+        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_clash.yaml
+        echo "# Title: ${gfwlist2pac_title} for Clash" >> ../gfwlist2pac_clash.yaml
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_clash.yaml
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_clash.yaml
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_clash.yaml
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_clash.yaml
+    }
+    function gfwlist2pac_surge() {
+        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_surge.yaml
+        echo "# Title: ${gfwlist2pac_title} for Surge" >> ../gfwlist2pac_surge.yaml
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_surge.yaml
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_surge.yml
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_surge.yaml
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_surge.yaml
+    }
+    function gfwlist2pac_quantumult() {
+        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_quantumult.txt
+        echo "# Title: ${gfwlist2pac_title} for Quantumult" >> ../gfwlist2pac_quantumult.txt
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_quantumult.txt
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_quantumult.txt
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_quantumult.txt
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_quantumult.txt
     }
     gfwlist2pac_autoproxy
     gfwlist2pac_clash
+    gfwlist2pac_surge
+    gfwlist2pac_quantumult
 }
 # Output Data
 function OutputData() {
     GenerateInformation
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
         echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_autoproxy.txt
-        echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_clash.yml
+        echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_clash.yaml
+        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_surge.yaml
+        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},PROXY" >> ../gfwlist2pac_quantumult.txt
     done
     cd .. && rm -rf ./Temp
     exit 0
