@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzIzODU0OQo=
+! Checksum: MTYwNzI0NjI4Mgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.1.5-20201206-2
-! TimeUpdated: 2020-12-06T07:09:09+00:00
+! Version: 1.1.5-20201206-3
+! TimeUpdated: 2020-12-06T09:18:02+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com^
@@ -3755,7 +3755,6 @@
 @@||51php.com^
 @@||51piaozi.com^
 @@||51pigai.com^
-@@||51pintan.com^
 @@||51pinwei.com^
 @@||51pjmm.com^
 @@||51pla.com^
@@ -5770,7 +5769,6 @@
 @@||88360.com^
 @@||884109.com^
 @@||884134.com^
-@@||884358.com^
 @@||8844.com^
 @@||88444l.cc^
 @@||88448.com^
@@ -7988,7 +7986,6 @@
 @@||anzhen.org^
 @@||anzhi.com^
 @@||anzhixun.com^
-@@||anzhouinvest.com^
 @@||anzhuo2.com^
 @@||anzhuoshangdian.com^
 @@||anzhuotiao.com^
@@ -10840,7 +10837,6 @@
 @@||bugsec.org^
 @@||bugtags.com^
 @@||bugutime.com^
-@@||bugv.net^
 @@||bugxia.com^
 @@||buhuiwan.com^
 @@||buhuyo.com^
@@ -58454,7 +58450,6 @@
 ||1688.com.au^
 ||1688hg.com^
 ||168kk.vip^
-||168letou.com^
 ||1690.com^
 ||1690a.com^
 ||1690e.com^

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzIzODU0OQo=
+# Checksum: MTYwNzI0NjI4Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.1.5-20201206-2
-# TimeUpdated: 2020-12-06T07:09:09+00:00
+# Version: 1.1.5-20201206-3
+# TimeUpdated: 2020-12-06T09:18:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 # Usage: cnVsZS1wcm92aWRlcnM6CiAgZ2Z3bGlzdDJwYWNfY25hY2M6CiAgICBiZWhhdmlvcjogImNsYXNzaWNhbCIKICAgIGludGVydmFsOiAzNjAwCiAgICBwYXRoOiAuL2dmd2xpc3QycGFjX2NuYWNjLnlhbWwKICAgIHR5cGU6IGh0dHAKICAgIHVybDogImh0dHBzOi8vc291cmNlLnpoaWppZS5vbmxpbmUvR0ZXTGlzdDJQQUMvbWFpbi9nZndsaXN0MnBhY19jbGFzaF9jbmFjYy55YW1sIgo=
@@ -3756,7 +3756,6 @@ payload:
   - DOMAIN-SUFFIX,51php.com
   - DOMAIN-SUFFIX,51piaozi.com
   - DOMAIN-SUFFIX,51pigai.com
-  - DOMAIN-SUFFIX,51pintan.com
   - DOMAIN-SUFFIX,51pinwei.com
   - DOMAIN-SUFFIX,51pjmm.com
   - DOMAIN-SUFFIX,51pla.com
@@ -5771,7 +5770,6 @@ payload:
   - DOMAIN-SUFFIX,88360.com
   - DOMAIN-SUFFIX,884109.com
   - DOMAIN-SUFFIX,884134.com
-  - DOMAIN-SUFFIX,884358.com
   - DOMAIN-SUFFIX,8844.com
   - DOMAIN-SUFFIX,88444l.cc
   - DOMAIN-SUFFIX,88448.com
@@ -7989,7 +7987,6 @@ payload:
   - DOMAIN-SUFFIX,anzhen.org
   - DOMAIN-SUFFIX,anzhi.com
   - DOMAIN-SUFFIX,anzhixun.com
-  - DOMAIN-SUFFIX,anzhouinvest.com
   - DOMAIN-SUFFIX,anzhuo2.com
   - DOMAIN-SUFFIX,anzhuoshangdian.com
   - DOMAIN-SUFFIX,anzhuotiao.com
@@ -10841,7 +10838,6 @@ payload:
   - DOMAIN-SUFFIX,bugsec.org
   - DOMAIN-SUFFIX,bugtags.com
   - DOMAIN-SUFFIX,bugutime.com
-  - DOMAIN-SUFFIX,bugv.net
   - DOMAIN-SUFFIX,bugxia.com
   - DOMAIN-SUFFIX,buhuiwan.com
   - DOMAIN-SUFFIX,buhuyo.com

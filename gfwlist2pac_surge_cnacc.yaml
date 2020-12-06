@@ -1,7 +1,7 @@
-# Checksum: MTYwNzIzODU0OQo=
+# Checksum: MTYwNzI0NjI4Mgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.1.5-20201206-2
-# TimeUpdated: 2020-12-06T07:09:09+00:00
+# Version: 1.1.5-20201206-3
+# TimeUpdated: 2020-12-06T09:18:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -3754,7 +3754,6 @@ DOMAIN-SUFFIX,51pgzs.com
 DOMAIN-SUFFIX,51php.com
 DOMAIN-SUFFIX,51piaozi.com
 DOMAIN-SUFFIX,51pigai.com
-DOMAIN-SUFFIX,51pintan.com
 DOMAIN-SUFFIX,51pinwei.com
 DOMAIN-SUFFIX,51pjmm.com
 DOMAIN-SUFFIX,51pla.com
@@ -5769,7 +5768,6 @@ DOMAIN-SUFFIX,8828xljcw.com
 DOMAIN-SUFFIX,88360.com
 DOMAIN-SUFFIX,884109.com
 DOMAIN-SUFFIX,884134.com
-DOMAIN-SUFFIX,884358.com
 DOMAIN-SUFFIX,8844.com
 DOMAIN-SUFFIX,88444l.cc
 DOMAIN-SUFFIX,88448.com
@@ -7987,7 +7985,6 @@ DOMAIN-SUFFIX,anzerclub.com
 DOMAIN-SUFFIX,anzhen.org
 DOMAIN-SUFFIX,anzhi.com
 DOMAIN-SUFFIX,anzhixun.com
-DOMAIN-SUFFIX,anzhouinvest.com
 DOMAIN-SUFFIX,anzhuo2.com
 DOMAIN-SUFFIX,anzhuoshangdian.com
 DOMAIN-SUFFIX,anzhuotiao.com
@@ -10839,7 +10836,6 @@ DOMAIN-SUFFIX,bugnull.com
 DOMAIN-SUFFIX,bugsec.org
 DOMAIN-SUFFIX,bugtags.com
 DOMAIN-SUFFIX,bugutime.com
-DOMAIN-SUFFIX,bugv.net
 DOMAIN-SUFFIX,bugxia.com
 DOMAIN-SUFFIX,buhuiwan.com
 DOMAIN-SUFFIX,buhuyo.com
