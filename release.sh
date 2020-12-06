@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.1
+# Current Version: 1.1.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -80,7 +80,7 @@ function OutputData() {
     GenerateInformation
     for cnacc_data_task in "${!cnacc_data[@]}"; do
         echo "@@||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
-        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},DIRECT" >> ../gfwlist2pac_quantumult.yaml
+        echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_quantumult.yaml
     done
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
         echo "||${gfwlist_data[gfwlist_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
