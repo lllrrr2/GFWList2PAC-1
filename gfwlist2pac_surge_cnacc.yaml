@@ -1,7 +1,7 @@
-# Checksum: MTYwNzI2NjA2Mwo=
+# Checksum: MTYwNzI2NzgxNgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.1-20201206-4
-# TimeUpdated: 2020-12-06T14:47:43+00:00
+# Version: 1.2.1-20201206-5
+# TimeUpdated: 2020-12-06T15:16:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -5539,6 +5539,7 @@ DOMAIN-SUFFIX,80anmo.net
 DOMAIN-SUFFIX,80baicai.biz
 DOMAIN-SUFFIX,80bi.com
 DOMAIN-SUFFIX,80fans.com
+DOMAIN-SUFFIX,80hman.com
 DOMAIN-SUFFIX,80host.com
 DOMAIN-SUFFIX,80iter.com
 DOMAIN-SUFFIX,80juqing.com
@@ -13275,6 +13276,7 @@ DOMAIN-SUFFIX,ci4s.com
 DOMAIN-SUFFIX,ci52.com
 DOMAIN-SUFFIX,ci800.com
 DOMAIN-SUFFIX,ciamiecn.com
+DOMAIN-SUFFIX,ciandcd.com
 DOMAIN-SUFFIX,ciaoca.com
 DOMAIN-SUFFIX,ciatcm.org
 DOMAIN-SUFFIX,ciavision.com
@@ -36981,6 +36983,7 @@ DOMAIN-SUFFIX,okdd.net
 DOMAIN-SUFFIX,okemu.com
 DOMAIN-SUFFIX,oketoys.com
 DOMAIN-SUFFIX,okeycar.com
+DOMAIN-SUFFIX,okfri.com
 DOMAIN-SUFFIX,okgj.com
 DOMAIN-SUFFIX,okhqb.com
 DOMAIN-SUFFIX,okidc.com

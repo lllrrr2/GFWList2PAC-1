@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzI2NjA2Mwo=
+! Checksum: MTYwNzI2NzgxNgo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.2.1-20201206-4
-! TimeUpdated: 2020-12-06T14:47:43+00:00
+! Version: 1.2.1-20201206-5
+! TimeUpdated: 2020-12-06T15:16:56+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com^
@@ -5540,6 +5540,7 @@
 @@||80baicai.biz^
 @@||80bi.com^
 @@||80fans.com^
+@@||80hman.com^
 @@||80host.com^
 @@||80iter.com^
 @@||80juqing.com^
@@ -13276,6 +13277,7 @@
 @@||ci52.com^
 @@||ci800.com^
 @@||ciamiecn.com^
+@@||ciandcd.com^
 @@||ciaoca.com^
 @@||ciatcm.org^
 @@||ciavision.com^
@@ -36982,6 +36984,7 @@
 @@||okemu.com^
 @@||oketoys.com^
 @@||okeycar.com^
+@@||okfri.com^
 @@||okgj.com^
 @@||okhqb.com^
 @@||okidc.com^
@@ -59899,6 +59902,7 @@
 ||aa2211.com^
 ||aa228.net^
 ||aa611.net^
+||aa6789.com^
 ||aa757.net^
 ||aa783.com^
 ||aa8258.com^
@@ -64181,6 +64185,7 @@
 ||cn.streetvoice.com^
 ||cn.theaustralian.com.au^
 ||cn.thegay.com^
+||cn.tmagazine.com.nyud.net^
 ||cn.uncyclopedia.wikia.com^
 ||cn.uptodown.com^
 ||cn.venetianmacau.com^

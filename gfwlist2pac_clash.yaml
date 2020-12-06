@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzI2NjA2Mwo=
+# Checksum: MTYwNzI2NzgxNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.1-20201206-4
-# TimeUpdated: 2020-12-06T14:47:43+00:00
+# Version: 1.2.1-20201206-5
+# TimeUpdated: 2020-12-06T15:16:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 # Usage: cnVsZS1wcm92aWRlcnM6CiAgZ2Z3bGlzdDJwYWM6CiAgICBiZWhhdmlvcjogImNsYXNzaWNhbCIKICAgIGludGVydmFsOiAzNjAwCiAgICBwYXRoOiAuL2dmd2xpc3QycGFjLnlhbWwKICAgIHR5cGU6IGh0dHAKICAgIHVybDogImh0dHBzOi8vc291cmNlLnpoaWppZS5vbmxpbmUvR0ZXTGlzdDJQQUMvbWFpbi9nZndsaXN0MnBhY19jbGFzaC55YW1sIgo=
@@ -1736,6 +1736,7 @@ payload:
   - DOMAIN-SUFFIX,aa2211.com
   - DOMAIN-SUFFIX,aa228.net
   - DOMAIN-SUFFIX,aa611.net
+  - DOMAIN-SUFFIX,aa6789.com
   - DOMAIN-SUFFIX,aa757.net
   - DOMAIN-SUFFIX,aa783.com
   - DOMAIN-SUFFIX,aa8258.com
@@ -6018,6 +6019,7 @@ payload:
   - DOMAIN-SUFFIX,cn.streetvoice.com
   - DOMAIN-SUFFIX,cn.theaustralian.com.au
   - DOMAIN-SUFFIX,cn.thegay.com
+  - DOMAIN-SUFFIX,cn.tmagazine.com.nyud.net
   - DOMAIN-SUFFIX,cn.uncyclopedia.wikia.com
   - DOMAIN-SUFFIX,cn.uptodown.com
   - DOMAIN-SUFFIX,cn.venetianmacau.com

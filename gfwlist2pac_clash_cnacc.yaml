@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzI2NjA2Mwo=
+# Checksum: MTYwNzI2NzgxNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.1-20201206-4
-# TimeUpdated: 2020-12-06T14:47:43+00:00
+# Version: 1.2.1-20201206-5
+# TimeUpdated: 2020-12-06T15:16:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 # Usage: cnVsZS1wcm92aWRlcnM6CiAgZ2Z3bGlzdDJwYWNfY25hY2M6CiAgICBiZWhhdmlvcjogImNsYXNzaWNhbCIKICAgIGludGVydmFsOiAzNjAwCiAgICBwYXRoOiAuL2dmd2xpc3QycGFjX2NuYWNjLnlhbWwKICAgIHR5cGU6IGh0dHAKICAgIHVybDogImh0dHBzOi8vc291cmNlLnpoaWppZS5vbmxpbmUvR0ZXTGlzdDJQQUMvbWFpbi9nZndsaXN0MnBhY19jbGFzaF9jbmFjYy55YW1sIgo=
@@ -5541,6 +5541,7 @@ payload:
   - DOMAIN-SUFFIX,80baicai.biz
   - DOMAIN-SUFFIX,80bi.com
   - DOMAIN-SUFFIX,80fans.com
+  - DOMAIN-SUFFIX,80hman.com
   - DOMAIN-SUFFIX,80host.com
   - DOMAIN-SUFFIX,80iter.com
   - DOMAIN-SUFFIX,80juqing.com
@@ -13277,6 +13278,7 @@ payload:
   - DOMAIN-SUFFIX,ci52.com
   - DOMAIN-SUFFIX,ci800.com
   - DOMAIN-SUFFIX,ciamiecn.com
+  - DOMAIN-SUFFIX,ciandcd.com
   - DOMAIN-SUFFIX,ciaoca.com
   - DOMAIN-SUFFIX,ciatcm.org
   - DOMAIN-SUFFIX,ciavision.com
@@ -36983,6 +36985,7 @@ payload:
   - DOMAIN-SUFFIX,okemu.com
   - DOMAIN-SUFFIX,oketoys.com
   - DOMAIN-SUFFIX,okeycar.com
+  - DOMAIN-SUFFIX,okfri.com
   - DOMAIN-SUFFIX,okgj.com
   - DOMAIN-SUFFIX,okhqb.com
   - DOMAIN-SUFFIX,okidc.com
