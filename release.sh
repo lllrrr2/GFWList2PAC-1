@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.4
+# Current Version: 1.0.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -8,23 +8,16 @@
 ## Function
 # Get Data
 function GetData() {
-    cnacc_domain=(
-        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_cnacc.txt"
-    )
     gfwlist_domain=(
         "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_gfwlist.txt"
     )
     rm -rf ./gfwlist2pac_* ./Temp && mkdir ./Temp && cd ./Temp
-    for cnacc_domain_task in "${!cnacc_domain[@]}"; do
-        curl -s --connect-timeout 15 "${cnacc_domain[$cnacc_domain_task]}" >> ./cnacc_domain.tmp
-    done
     for gfwlist_domain_task in "${!gfwlist_domain[@]}"; do
         curl -s --connect-timeout 15 "${gfwlist_domain[$gfwlist_domain_task]}" >> ./gfwlist_domain.tmp
     done
 }
 # Analyse Data
 function AnalyseData() {
-    cnacc_data=($(cat ./cnacc_domain.tmp | grep "\[\|\]" | sed "s/https\:\/\/dns\.alidns\.com\:443\/dns\-query//g;s/https\:\/\/dns\.pub\:443\/dns\-query//g;s/https\:\/\/doh\.opendns\.com\:443\/dns\-query//g;s/tls\:\/\/dns\.alidns\.com\:853//g;s/tls\:\/\/dns\.google\:853//g;s/tls\:\/\/dns\.pub\:853//g;s/\[\///g;s/\/\]//g;s/\//\n/g" | sort | uniq | awk "{ print $2 }"))
     gfwlist_data=($(cat ./gfwlist_domain.tmp | grep "\[\|\]" | sed "s/https\:\/\/dns\.alidns\.com\:443\/dns\-query//g;s/https\:\/\/dns\.pub\:443\/dns\-query//g;s/https\:\/\/doh\.opendns\.com\:443\/dns\-query//g;s/tls\:\/\/dns\.alidns\.com\:853//g;s/tls\:\/\/dns\.google\:853//g;s/tls\:\/\/dns\.pub\:853//g;s/\[\///g;s/\/\]//g;s/\//\n/g" | sort | uniq | awk "{ print $2 }"))
 }
 # Generate Information
@@ -44,16 +37,24 @@ function GenerateInformation() {
         echo "! Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_autoproxy.txt
         echo "! Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_autoproxy.txt
     }
+    function gfwlist2pac_clash() {
+        echo "payload:" > ../gfwlist2pac_clash.yml
+        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_clash.yml
+        echo "# Title: ${gfwlist2pac_title} for Clash" >> ../gfwlist2pac_clash.yml
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_clash.yml
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_clash.yml
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_clash.yml
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_clash.yml
+    }
     gfwlist2pac_autoproxy
+    gfwlist2pac_clash
 }
 # Output Data
 function OutputData() {
     GenerateInformation
-    for cnacc_data_task in "${!cnacc_data[@]}"; do
-        echo "@@||${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_autoproxy.txt
-    done
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
         echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_autoproxy.txt
+        echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_clash.yml
     done
     cd .. && rm -rf ./Temp
     exit 0
