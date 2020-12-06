@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.6
+# Current Version: 1.0.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -55,12 +55,12 @@ function GenerateInformation() {
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_surge.yaml
     }
     function gfwlist2pac_quantumult() {
-        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_quantumult.txt
-        echo "# Title: ${gfwlist2pac_title} for Quantumult" >> ../gfwlist2pac_quantumult.txt
-        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_quantumult.txt
-        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_quantumult.txt
-        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_quantumult.txt
-        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_quantumult.txt
+        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_quantumult.yaml
+        echo "# Title: ${gfwlist2pac_title} for Quantumult" >> ../gfwlist2pac_quantumult.yaml
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_quantumult.yaml
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_quantumult.yaml
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_quantumult.yaml
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_quantumult.yaml
     }
     gfwlist2pac_autoproxy
     gfwlist2pac_clash
@@ -74,7 +74,7 @@ function OutputData() {
         echo "||${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_autoproxy.txt
         echo "  - DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_clash.yaml
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_surge.yaml
-        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},PROXY" >> ../gfwlist2pac_quantumult.txt
+        echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},PROXY" >> ../gfwlist2pac_quantumult.yaml
     done
     cd .. && rm -rf ./Temp
     exit 0
