@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.8
+# Current Version: 1.0.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -47,7 +47,7 @@ function GenerateInformation() {
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_clash.yaml
     }
     function gfwlist2pac_surge() {
-        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_surge.yaml
+        echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_surge.yaml
         echo "# Title: ${gfwlist2pac_title} for Surge" >> ../gfwlist2pac_surge.yaml
         echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_surge.yaml
         echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_surge.yaml
@@ -55,7 +55,7 @@ function GenerateInformation() {
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_surge.yaml
     }
     function gfwlist2pac_quantumult() {
-        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_quantumult.yaml
+        echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_quantumult.yaml
         echo "# Title: ${gfwlist2pac_title} for Quantumult" >> ../gfwlist2pac_quantumult.yaml
         echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_quantumult.yaml
         echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_quantumult.yaml
