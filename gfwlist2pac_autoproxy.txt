@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzI2NzgxNgo=
+! Checksum: MTYwNzI3ODY0OQo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.2.1-20201206-5
-! TimeUpdated: 2020-12-06T15:16:56+00:00
+! Version: 1.2.1-20201206-6
+! TimeUpdated: 2020-12-06T18:17:29+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com^
@@ -2979,6 +2979,7 @@
 @@||3btbtt.com^
 @@||3btjia.com^
 @@||3bwx.com^
+@@||3c3ww.com^
 @@||3cai888.com^
 @@||3cjob.com^
 @@||3conline.com^
@@ -5324,6 +5325,7 @@
 @@||77sbsun.com^
 @@||77tianqi.com^
 @@||77tng.com^
+@@||77vcd.com^
 @@||77xmd.com^
 @@||77xsw.la^
 @@||77y4.com^
@@ -9366,7 +9368,6 @@
 @@||beebeeto.com^
 @@||beecook.com^
 @@||beedancing.com^
-@@||beefunchina.com^
 @@||beego.me^
 @@||beejson.com^
 @@||beekka.com^
@@ -16917,6 +16918,7 @@
 @@||doki8.com^
 @@||doko.com^
 @@||dolanzz.com^
+@@||dolboebishekonchennoenahui.xyz^
 @@||dolby.cc^
 @@||dolcn.com^
 @@||dole.club^
@@ -33762,6 +33764,7 @@
 @@||markchao.org^
 @@||markdream.com^
 @@||marketiva-platform.com^
+@@||marketreportchina.com^
 @@||markhoo.com^
 @@||markjour.com^
 @@||markmiao.com^
@@ -45432,6 +45435,7 @@
 @@||tcloudfamily.com^
 @@||tcm100.com^
 @@||tcmfrj.com^
+@@||tcmiec.com^
 @@||tcmygy.com^
 @@||tcnews.cc^
 @@||tcnvmms.com^
@@ -58964,7 +58968,6 @@
 ||3ren.ca^
 ||3ssee.com^
 ||3tui.net^
-||3u222.com^
 ||3u888.com^
 ||3xplanet.com^
 ||4-word.com^

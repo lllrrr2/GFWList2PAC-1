@@ -1,7 +1,7 @@
-# Checksum: MTYwNzI2NzgxNgo=
+# Checksum: MTYwNzI3ODY0OQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.1-20201206-5
-# TimeUpdated: 2020-12-06T15:16:56+00:00
+# Version: 1.2.1-20201206-6
+# TimeUpdated: 2020-12-06T18:17:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2978,6 +2978,7 @@ DOMAIN-SUFFIX,3baidu.net
 DOMAIN-SUFFIX,3btbtt.com
 DOMAIN-SUFFIX,3btjia.com
 DOMAIN-SUFFIX,3bwx.com
+DOMAIN-SUFFIX,3c3ww.com
 DOMAIN-SUFFIX,3cai888.com
 DOMAIN-SUFFIX,3cjob.com
 DOMAIN-SUFFIX,3conline.com
@@ -5323,6 +5324,7 @@ DOMAIN-SUFFIX,77power.com
 DOMAIN-SUFFIX,77sbsun.com
 DOMAIN-SUFFIX,77tianqi.com
 DOMAIN-SUFFIX,77tng.com
+DOMAIN-SUFFIX,77vcd.com
 DOMAIN-SUFFIX,77xmd.com
 DOMAIN-SUFFIX,77xsw.la
 DOMAIN-SUFFIX,77y4.com
@@ -9365,7 +9367,6 @@ DOMAIN-SUFFIX,beebeepop.com
 DOMAIN-SUFFIX,beebeeto.com
 DOMAIN-SUFFIX,beecook.com
 DOMAIN-SUFFIX,beedancing.com
-DOMAIN-SUFFIX,beefunchina.com
 DOMAIN-SUFFIX,beego.me
 DOMAIN-SUFFIX,beejson.com
 DOMAIN-SUFFIX,beekka.com
@@ -16916,6 +16917,7 @@ DOMAIN-SUFFIX,doitim.com
 DOMAIN-SUFFIX,doki8.com
 DOMAIN-SUFFIX,doko.com
 DOMAIN-SUFFIX,dolanzz.com
+DOMAIN-SUFFIX,dolboebishekonchennoenahui.xyz
 DOMAIN-SUFFIX,dolby.cc
 DOMAIN-SUFFIX,dolcn.com
 DOMAIN-SUFFIX,dole.club
@@ -33761,6 +33763,7 @@ DOMAIN-SUFFIX,marineoverseas.com
 DOMAIN-SUFFIX,markchao.org
 DOMAIN-SUFFIX,markdream.com
 DOMAIN-SUFFIX,marketiva-platform.com
+DOMAIN-SUFFIX,marketreportchina.com
 DOMAIN-SUFFIX,markhoo.com
 DOMAIN-SUFFIX,markjour.com
 DOMAIN-SUFFIX,markmiao.com
@@ -45431,6 +45434,7 @@ DOMAIN-SUFFIX,tclking.com
 DOMAIN-SUFFIX,tcloudfamily.com
 DOMAIN-SUFFIX,tcm100.com
 DOMAIN-SUFFIX,tcmfrj.com
+DOMAIN-SUFFIX,tcmiec.com
 DOMAIN-SUFFIX,tcmygy.com
 DOMAIN-SUFFIX,tcnews.cc
 DOMAIN-SUFFIX,tcnvmms.com
