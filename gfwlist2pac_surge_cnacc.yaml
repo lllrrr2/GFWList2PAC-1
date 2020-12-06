@@ -1,7 +1,7 @@
-# Checksum: MTYwNzI3ODY0OQo=
+# Checksum: MTYwNzI4OTMxOAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.1-20201206-6
-# TimeUpdated: 2020-12-06T18:17:29+00:00
+# Version: 1.2.1-20201206-7
+# TimeUpdated: 2020-12-06T21:15:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2786,7 +2786,6 @@ DOMAIN-SUFFIX,365960.com
 DOMAIN-SUFFIX,365a8.com
 DOMAIN-SUFFIX,365ajw.com
 DOMAIN-SUFFIX,365art.com
-DOMAIN-SUFFIX,365azw.com
 DOMAIN-SUFFIX,365bj.com
 DOMAIN-SUFFIX,365book.net
 DOMAIN-SUFFIX,365care.com
@@ -6802,7 +6801,6 @@ DOMAIN-SUFFIX,abuve.com
 DOMAIN-SUFFIX,abuyun.com
 DOMAIN-SUFFIX,ac268.com
 DOMAIN-SUFFIX,ac57.com
-DOMAIN-SUFFIX,acaob.com
 DOMAIN-SUFFIX,acbnews.com.au
 DOMAIN-SUFFIX,acc-ask.com
 DOMAIN-SUFFIX,acc5.com

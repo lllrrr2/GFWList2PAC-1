@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzI3ODY0OQo=
+! Checksum: MTYwNzI4OTMxOAo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.2.1-20201206-6
-! TimeUpdated: 2020-12-06T18:17:29+00:00
+! Version: 1.2.1-20201206-7
+! TimeUpdated: 2020-12-06T21:15:18+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com^
@@ -2787,7 +2787,6 @@
 @@||365a8.com^
 @@||365ajw.com^
 @@||365art.com^
-@@||365azw.com^
 @@||365bj.com^
 @@||365book.net^
 @@||365care.com^
@@ -6803,7 +6802,6 @@
 @@||abuyun.com^
 @@||ac268.com^
 @@||ac57.com^
-@@||acaob.com^
 @@||acbnews.com.au^
 @@||acc-ask.com^
 @@||acc5.com^
