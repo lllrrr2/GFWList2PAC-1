@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.7
+# Current Version: 1.1.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -113,7 +113,10 @@ function GenerateHeaderInformation() {
 }
 # Generate Footer Information
 function GenerateFooterInformation() {
-    echo "FINAL,DIRECT" >> ../gfwlist2pac_shadowrocket.conf
+    function gfwlist2pac_shadowrocket() {
+        echo "FINAL,DIRECT" >> ../gfwlist2pac_shadowrocket.conf
+    }
+    gfwlist2pac_shadowrocket
 }
 # Output Data
 function OutputData() {
