@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.2
+# Current Version: 1.1.3
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -54,6 +54,16 @@ function GenerateInformation() {
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_clash.yaml
         echo "# Usage: cnVsZS1wcm92aWRlcnM6CiAgZ2Z3bGlzdDJwYWM6CiAgICBiZWhhdmlvcjogImNsYXNzaWNhbCIKICAgIGludGVydmFsOiAzNjAwCiAgICBwYXRoOiAuL2dmd2xpc3QycGFjLnlhbWwKICAgIHR5cGU6IGh0dHAKICAgIHVybDogImh0dHBzOi8vc291cmNlLnpoaWppZS5vbmxpbmUvR0ZXTGlzdDJQQUMvbWFpbi9nZndsaXN0MnBhY19jbGFzaC55YW1sIgo=" >> ../gfwlist2pac_clash.yaml
     }
+    function gfwlist2pac_clash_cnacc() {
+        echo "payload:" > ../gfwlist2pac_clash_cnacc.yaml
+        echo "# Checksum: ${gfwlist2pac_checksum}" >> ../gfwlist2pac_clash_cnacc.yaml
+        echo "# Title: ${gfwlist2pac_title} for Clash" >> ../gfwlist2pac_clash_cnacc.yaml
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_clash_cnacc.yaml
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_clash_cnacc.yaml
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_clash_cnacc.yaml
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_clash_cnacc.yaml
+        echo "# Usage: cnVsZS1wcm92aWRlcnM6CiAgZ2Z3bGlzdDJwYWNfY25hY2M6CiAgICBiZWhhdmlvcjogImNsYXNzaWNhbCIKICAgIGludGVydmFsOiAzNjAwCiAgICBwYXRoOiAuL2dmd2xpc3QycGFjX2NuYWNjLnlhbWwKICAgIHR5cGU6IGh0dHAKICAgIHVybDogImh0dHBzOi8vc291cmNlLnpoaWppZS5vbmxpbmUvR0ZXTGlzdDJQQUMvbWFpbi9nZndsaXN0MnBhY19jbGFzaF9jbmFjYy55YW1sIgo=" >> ../gfwlist2pac_clash_cnacc.yaml
+    }
     function gfwlist2pac_surge() {
         echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_surge.yaml
         echo "# Title: ${gfwlist2pac_title} for Surge" >> ../gfwlist2pac_surge.yaml
@@ -61,6 +71,14 @@ function GenerateInformation() {
         echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_surge.yaml
         echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_surge.yaml
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_surge.yaml
+    }
+    function gfwlist2pac_surge_cnacc() {
+        echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_surge_cnacc.yaml
+        echo "# Title: ${gfwlist2pac_title} for Surge" >> ../gfwlist2pac_surge_cnacc.yaml
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_surge_cnacc.yaml
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_surge_cnacc.yaml
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_surge_cnacc.yaml
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_surge_cnacc.yaml
     }
     function gfwlist2pac_quantumult() {
         echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_quantumult.yaml
@@ -72,7 +90,9 @@ function GenerateInformation() {
     }
     gfwlist2pac_autoproxy
     gfwlist2pac_clash
+    gfwlist2pac_clash_cnacc
     gfwlist2pac_surge
+    gfwlist2pac_surge_cnacc
     gfwlist2pac_quantumult
 }
 # Output Data
@@ -80,6 +100,8 @@ function OutputData() {
     GenerateInformation
     for cnacc_data_task in "${!cnacc_data[@]}"; do
         echo "@@||${cnacc_data[cnacc_data_task]}^" >> ../gfwlist2pac_autoproxy.txt
+        echo "  - DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_clash_cnacc.yaml
+        echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_surge_cnacc.yaml
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_quantumult.yaml
     done
     for gfwlist_data_task in "${!gfwlist_data[@]}"; do
