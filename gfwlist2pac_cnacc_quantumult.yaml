@@ -1,7 +1,7 @@
-# Checksum: MTYwNzMzMjcxNgo=
+# Checksum: MTYwNzM0MzgyMwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201207-3
-# TimeUpdated: 2020-12-07T09:18:36+00:00
+# Version: 1.2.5-20201207-4
+# TimeUpdated: 2020-12-07T12:23:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -7988,7 +7988,6 @@ DOMAIN-SUFFIX,anzhi.com,DIRECT
 DOMAIN-SUFFIX,anzhixun.com,DIRECT
 DOMAIN-SUFFIX,anzhuo2.com,DIRECT
 DOMAIN-SUFFIX,anzhuoshangdian.com,DIRECT
-DOMAIN-SUFFIX,anzhuotiao.com,DIRECT
 DOMAIN-SUFFIX,anzhuowo.com,DIRECT
 DOMAIN-SUFFIX,anzogame.com,DIRECT
 DOMAIN-SUFFIX,anzow.com,DIRECT
@@ -8058,7 +8057,6 @@ DOMAIN-SUFFIX,aotuzuche.com,DIRECT
 DOMAIN-SUFFIX,aowenmarketing.com,DIRECT
 DOMAIN-SUFFIX,aoxiangfuhua.com,DIRECT
 DOMAIN-SUFFIX,aoxintong.com,DIRECT
-DOMAIN-SUFFIX,aoxuis.me,DIRECT
 DOMAIN-SUFFIX,aoya-hk.com,DIRECT
 DOMAIN-SUFFIX,aoyahuanqiu.com,DIRECT
 DOMAIN-SUFFIX,aoye.com,DIRECT
@@ -40891,6 +40889,7 @@ DOMAIN-SUFFIX,rouju.org,DIRECT
 DOMAIN-SUFFIX,round-in.com,DIRECT
 DOMAIN-SUFFIX,roundexpo.com,DIRECT
 DOMAIN-SUFFIX,roushidongwu.com,DIRECT
+DOMAIN-SUFFIX,roushongkanshu.com,DIRECT
 DOMAIN-SUFFIX,router.fun,DIRECT
 DOMAIN-SUFFIX,router.tw,DIRECT
 DOMAIN-SUFFIX,routeryun.com,DIRECT

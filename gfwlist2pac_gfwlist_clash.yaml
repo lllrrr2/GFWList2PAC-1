@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzMzMjcyNAo=
+# Checksum: MTYwNzM0MzgzMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201207-3
-# TimeUpdated: 2020-12-07T09:18:44+00:00
+# Version: 1.2.5-20201207-4
+# TimeUpdated: 2020-12-07T12:23:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5085,7 +5085,6 @@ payload:
   - DOMAIN-SUFFIX,cabet159.com
   - DOMAIN-SUFFIX,cabet171.com
   - DOMAIN-SUFFIX,cabet181.com
-  - DOMAIN-SUFFIX,cabet211.com
   - DOMAIN-SUFFIX,cabet228.com
   - DOMAIN-SUFFIX,cabet258.com
   - DOMAIN-SUFFIX,cabet265.com
@@ -5096,10 +5095,8 @@ payload:
   - DOMAIN-SUFFIX,cabet356.com
   - DOMAIN-SUFFIX,cabet366.com
   - DOMAIN-SUFFIX,cabet372.com
-  - DOMAIN-SUFFIX,cabet398.com
   - DOMAIN-SUFFIX,cabet519.com
   - DOMAIN-SUFFIX,cabet679.com
-  - DOMAIN-SUFFIX,cabet706.com
   - DOMAIN-SUFFIX,cabet833.com
   - DOMAIN-SUFFIX,cabet840.com
   - DOMAIN-SUFFIX,cabet873.com
@@ -14485,6 +14482,7 @@ payload:
   - DOMAIN-SUFFIX,mgoon.com
   - DOMAIN-SUFFIX,mgstage.com
   - DOMAIN-SUFFIX,mh23.cf
+  - DOMAIN-SUFFIX,mh23.tk
   - DOMAIN-SUFFIX,mhradio.org
   - DOMAIN-SUFFIX,mhub.dafapoker.com
   - DOMAIN-SUFFIX,mi513.com

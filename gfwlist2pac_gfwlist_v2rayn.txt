@@ -1,7 +1,7 @@
-# Checksum: MTYwNzMzMjcyNAo=
+# Checksum: MTYwNzM0MzgzMgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201207-3
-# TimeUpdated: 2020-12-07T09:18:44+00:00
+# Version: 1.2.5-20201207-4
+# TimeUpdated: 2020-12-07T12:23:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5084,7 +5084,6 @@ domain:cabet150.com,
 domain:cabet159.com,
 domain:cabet171.com,
 domain:cabet181.com,
-domain:cabet211.com,
 domain:cabet228.com,
 domain:cabet258.com,
 domain:cabet265.com,
@@ -5095,10 +5094,8 @@ domain:cabet352.com,
 domain:cabet356.com,
 domain:cabet366.com,
 domain:cabet372.com,
-domain:cabet398.com,
 domain:cabet519.com,
 domain:cabet679.com,
-domain:cabet706.com,
 domain:cabet833.com,
 domain:cabet840.com,
 domain:cabet873.com,
@@ -14484,6 +14481,7 @@ domain:mgo.com,
 domain:mgoon.com,
 domain:mgstage.com,
 domain:mh23.cf,
+domain:mh23.tk,
 domain:mhradio.org,
 domain:mhub.dafapoker.com,
 domain:mi513.com,
