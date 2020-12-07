@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM1NDI3Ngo=
+# Checksum: MTYwNzM2NTA5OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201207-5
-# TimeUpdated: 2020-12-07T15:17:56+00:00
+# Version: 1.2.5-20201207-6
+# TimeUpdated: 2020-12-07T18:18:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1585,7 +1585,6 @@ domain:17read.com,
 domain:17sct.com,
 domain:17shouhui.com,
 domain:17shuwu.com,
-domain:17sucai.com,
 domain:17sysj.com,
 domain:17tanwan.com,
 domain:17taotaoa.com,
@@ -4756,7 +4755,6 @@ domain:5ydj.com,
 domain:5yedu.com,
 domain:5yi.com,
 domain:5ykj.com,
-domain:5you.cc,
 domain:5yueyy.com,
 domain:5yun.org,
 domain:5zai.com,
@@ -13977,7 +13975,6 @@ domain:cnlightnet.com,
 domain:cnlinfo.net,
 domain:cnlist.com,
 domain:cnlist.org,
-domain:cnliufeng.com,
 domain:cnlive.com,
 domain:cnllz.com,
 domain:cnlogo8.com,
