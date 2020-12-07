@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM0MzgzMgo=
+# Checksum: MTYwNzM1NDI4Mgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201207-4
-# TimeUpdated: 2020-12-07T12:23:52+00:00
+# Version: 1.2.5-20201207-5
+# TimeUpdated: 2020-12-07T15:18:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -210,7 +210,6 @@ DOMAIN-SUFFIX,123-hp.com
 DOMAIN-SUFFIX,123.effers.com
 DOMAIN-SUFFIX,123.suroot.com
 DOMAIN-SUFFIX,123.wuand.com
-DOMAIN-SUFFIX,1231tt.com
 DOMAIN-SUFFIX,1232233.com
 DOMAIN-SUFFIX,123365sb.com
 DOMAIN-SUFFIX,12345proxy.com
@@ -697,7 +696,6 @@ DOMAIN-SUFFIX,33pk9.com
 DOMAIN-SUFFIX,343dy.net
 DOMAIN-SUFFIX,344663.com
 DOMAIN-SUFFIX,345.idv.tw
-DOMAIN-SUFFIX,3485.cabet359.com
 DOMAIN-SUFFIX,3488js.com
 DOMAIN-SUFFIX,35.flnet.org
 DOMAIN-SUFFIX,3580578.com
@@ -4105,7 +4103,6 @@ DOMAIN-SUFFIX,blog.goo.ne.jp
 DOMAIN-SUFFIX,blog.google
 DOMAIN-SUFFIX,blog.gowalla.com
 DOMAIN-SUFFIX,blog.imprezagt1031.idv.tw
-DOMAIN-SUFFIX,blog.inoreader.com
 DOMAIN-SUFFIX,blog.instapaper.com
 DOMAIN-SUFFIX,blog.iphone-dev.org
 DOMAIN-SUFFIX,blog.iset.com.tw
@@ -5077,7 +5074,6 @@ DOMAIN-SUFFIX,cabepelangi.com
 DOMAIN-SUFFIX,cabet016.com
 DOMAIN-SUFFIX,cabet066.com
 DOMAIN-SUFFIX,cabet070.com
-DOMAIN-SUFFIX,cabet075.com
 DOMAIN-SUFFIX,cabet076.com
 DOMAIN-SUFFIX,cabet097.com
 DOMAIN-SUFFIX,cabet150.com
@@ -5091,7 +5087,6 @@ DOMAIN-SUFFIX,cabet274.com
 DOMAIN-SUFFIX,cabet295.com
 DOMAIN-SUFFIX,cabet350.com
 DOMAIN-SUFFIX,cabet352.com
-DOMAIN-SUFFIX,cabet356.com
 DOMAIN-SUFFIX,cabet366.com
 DOMAIN-SUFFIX,cabet372.com
 DOMAIN-SUFFIX,cabet519.com
@@ -14481,7 +14476,6 @@ DOMAIN-SUFFIX,mgo.com
 DOMAIN-SUFFIX,mgoon.com
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,mh23.cf
-DOMAIN-SUFFIX,mh23.tk
 DOMAIN-SUFFIX,mhradio.org
 DOMAIN-SUFFIX,mhub.dafapoker.com
 DOMAIN-SUFFIX,mi513.com
