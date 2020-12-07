@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.4
+# Current Version: 1.2.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -84,11 +84,20 @@ function GenerateHeaderInformation() {
         echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_${cnacc_gfwlist}_quantumult.yaml
         echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_${cnacc_gfwlist}_quantumult.yaml
     }
+    function gfwlist2pac_v2rayn() {
+        echo "# Checksum: ${gfwlist2pac_checksum}" > ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
+        echo "# Title: ${gfwlist2pac_title} for v2rayN" >> ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
+        echo "# Version: ${gfwlist2pac_version}" >> ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
+        echo "# TimeUpdated: ${gfwlist2pac_timeupdated}" >> ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
+        echo "# Expires: ${gfwlist2pac_expires}" >> ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
+        echo "# Homepage: ${gfwlist2pac_homepage}" >> ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
+    }
     gfwlist2pac_autoproxy
     gfwlist2pac_clash
     gfwlist2pac_shadowrocket
     gfwlist2pac_surge
     gfwlist2pac_quantumult
+    gfwlist2pac_v2rayn
 }
 # Generate Footer Information
 function GenerateFooterInformation() {
@@ -114,6 +123,7 @@ function OutputData() {
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_surge.yaml
         echo "DOMAIN-SUFFIX,${cnacc_data[cnacc_data_task]},DIRECT" >> ../gfwlist2pac_${cnacc_gfwlist}_quantumult.yaml
+        echo "domain:${cnacc_data[cnacc_data_task]}," >> ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
     done
     GenerateFooterInformation && EncodeData
     cnacc_gfwlist="gfwlist" && GenerateHeaderInformation
@@ -123,6 +133,7 @@ function OutputData() {
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},Proxy" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]}" >> ../gfwlist2pac_${cnacc_gfwlist}_surge.yaml
         echo "DOMAIN-SUFFIX,${gfwlist_data[gfwlist_data_task]},PROXY" >> ../gfwlist2pac_${cnacc_gfwlist}_quantumult.yaml
+        echo "domain:${gfwlist_data[gfwlist_data_task]}," >> ../gfwlist2pac_${cnacc_gfwlist}_v2rayn.txt
     done
     GenerateFooterInformation && EncodeData
     cd .. && rm -rf ./Temp
