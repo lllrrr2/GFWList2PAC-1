@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzMyMjA2MAo=
+# Checksum: MTYwNzMzMjcxNgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201207-2
-# TimeUpdated: 2020-12-07T06:21:00+00:00
+# Version: 1.2.5-20201207-3
+# TimeUpdated: 2020-12-07T09:18:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -149,6 +149,7 @@ payload:
   - DOMAIN-SUFFIX,021bike.net
   - DOMAIN-SUFFIX,021bolang.com
   - DOMAIN-SUFFIX,021dianyuan.com
+  - DOMAIN-SUFFIX,021dqfm.com
   - DOMAIN-SUFFIX,021dzjx.com
   - DOMAIN-SUFFIX,021east.com
   - DOMAIN-SUFFIX,021gjhb.com
@@ -2193,7 +2194,6 @@ payload:
   - DOMAIN-SUFFIX,2500city.com
   - DOMAIN-SUFFIX,2500sz.com
   - DOMAIN-SUFFIX,251ai.com
-  - DOMAIN-SUFFIX,25223.wang
   - DOMAIN-SUFFIX,2526game.com
   - DOMAIN-SUFFIX,252ai.com
   - DOMAIN-SUFFIX,253.com
@@ -2572,6 +2572,7 @@ payload:
   - DOMAIN-SUFFIX,33519.com
   - DOMAIN-SUFFIX,3361.com
   - DOMAIN-SUFFIX,3366.com
+  - DOMAIN-SUFFIX,336655.com
   - DOMAIN-SUFFIX,336688.net
   - DOMAIN-SUFFIX,3366dns.com
   - DOMAIN-SUFFIX,3367.com
@@ -4345,6 +4346,7 @@ payload:
   - DOMAIN-SUFFIX,56135.com
   - DOMAIN-SUFFIX,5617.com
   - DOMAIN-SUFFIX,562421.com
+  - DOMAIN-SUFFIX,5628l.com
   - DOMAIN-SUFFIX,5636.com
   - DOMAIN-SUFFIX,5648.cc
   - DOMAIN-SUFFIX,56506666.com
@@ -11086,6 +11088,7 @@ payload:
   - DOMAIN-SUFFIX,c73160.com
   - DOMAIN-SUFFIX,c77c.com
   - DOMAIN-SUFFIX,c7c8.com
+  - DOMAIN-SUFFIX,c833.com
   - DOMAIN-SUFFIX,c9018.com
   - DOMAIN-SUFFIX,c969.com
   - DOMAIN-SUFFIX,ca-sme.org
@@ -12630,7 +12633,6 @@ payload:
   - DOMAIN-SUFFIX,chinactv.com
   - DOMAIN-SUFFIX,chinacxgd.com
   - DOMAIN-SUFFIX,chinacxjs.org
-  - DOMAIN-SUFFIX,chinacyec.com
   - DOMAIN-SUFFIX,chinadafen.com
   - DOMAIN-SUFFIX,chinadagui.com
   - DOMAIN-SUFFIX,chinadailyglobal.com
@@ -14350,7 +14352,6 @@ payload:
   - DOMAIN-SUFFIX,cokll.com
   - DOMAIN-SUFFIX,col.ink
   - DOMAIN-SUFFIX,colabug.com
-  - DOMAIN-SUFFIX,colachan.com
   - DOMAIN-SUFFIX,coladrive.com
   - DOMAIN-SUFFIX,colafile.com
   - DOMAIN-SUFFIX,colahotpot.com
@@ -25832,6 +25833,7 @@ payload:
   - DOMAIN-SUFFIX,ichinaenergy.com
   - DOMAIN-SUFFIX,ichip.ren
   - DOMAIN-SUFFIX,ichishu.com
+  - DOMAIN-SUFFIX,ichn.me
   - DOMAIN-SUFFIX,ichong123.com
   - DOMAIN-SUFFIX,ichuanglan.com
   - DOMAIN-SUFFIX,ichuangwei.com
@@ -31548,6 +31550,7 @@ payload:
   - DOMAIN-SUFFIX,leitingjunshi.com
   - DOMAIN-SUFFIX,leiue.com
   - DOMAIN-SUFFIX,leixjun.com
+  - DOMAIN-SUFFIX,leiyunge.com
   - DOMAIN-SUFFIX,leiyunge.net
   - DOMAIN-SUFFIX,lejiachao.com
   - DOMAIN-SUFFIX,lejian.com
@@ -36872,6 +36875,7 @@ payload:
   - DOMAIN-SUFFIX,obkprint.com
   - DOMAIN-SUFFIX,obolee.com
   - DOMAIN-SUFFIX,oborad.com
+  - DOMAIN-SUFFIX,oborr.com
   - DOMAIN-SUFFIX,obugs.net
   - DOMAIN-SUFFIX,obyee.com
   - DOMAIN-SUFFIX,ocar.tv
