@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTYwNzMwMjQxOQo=
+! Checksum: MTYwNzMxMTEzNQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.2.3-20201207-0
-! TimeUpdated: 2020-12-07T00:53:39+00:00
+! Version: 1.2.3-20201207-1
+! TimeUpdated: 2020-12-07T03:18:55+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 @@||0-6.com^
@@ -11653,7 +11653,6 @@
 @@||ccz0.com^
 @@||cczhenfeng.com^
 @@||ccziben.com^
-@@||cczq.com^
 @@||cczq.net^
 @@||ccztv.com^
 @@||cd-cxh.com^
@@ -13294,7 +13293,6 @@
 @@||cicc.com^
 @@||ciccorporate.com^
 @@||ciccphoto.com^
-@@||ciccwm.com^
 @@||ciceme.com^
 @@||ciciec.com^
 @@||cicmag.com^
@@ -13369,7 +13367,6 @@
 @@||citic.com^
 @@||citiccapital.com^
 @@||citiciam.com^
-@@||citicifh.com^
 @@||citics.com^
 @@||citics.com.hk^
 @@||citicsf.com^
@@ -13747,7 +13744,6 @@
 @@||cnbzol.com^
 @@||cnbzs.com^
 @@||cncait.net^
-@@||cncbinternational.com^
 @@||cncc.bingj.com^
 @@||cnccac.com^
 @@||cnccchina.com^
@@ -14846,7 +14842,6 @@
 @@||cscatv.com^
 @@||cscdf.org^
 @@||cscec5b3.com^
-@@||csci.hk^
 @@||cscoal.com^
 @@||cscyw.com^
 @@||csdc.info^
@@ -18429,7 +18424,6 @@
 @@||emojimobile.com^
 @@||empos.net^
 @@||ems517.com^
-@@||emsec.hk^
 @@||emshost.com^
 @@||emswxw.com^
 @@||emsym.com^
@@ -20010,7 +20004,6 @@
 @@||ford.com^
 @@||forenose.com^
 @@||forerunnercollege.com^
-@@||foresightfund.com^
 @@||foresl.com^
 @@||forestfood.com^
 @@||forestpest.org^
@@ -20200,7 +20193,6 @@
 @@||fsecity.com^
 @@||fsehome.com^
 @@||fsesa.com^
-@@||fsfund.com^
 @@||fsgejian.com^
 @@||fshd.com^
 @@||fshzg.com^
@@ -20233,7 +20225,6 @@
 @@||ftbj.net^
 @@||ftcauction.com^
 @@||ftfast.com^
-@@||ftfund.com^
 @@||ftfxgame.com^
 @@||fth.com^
 @@||ftium4.com^
@@ -20493,7 +20484,6 @@
 @@||fzf.com^
 @@||fzfanyi.com^
 @@||fzfapp.com^
-@@||fzfinancing.com^
 @@||fzfzjx.com^
 @@||fzg360.com^
 @@||fzita.com^
@@ -21794,7 +21784,6 @@
 @@||grxjgc.com^
 @@||gryu.net^
 @@||grzmz.com^
-@@||grzq.com^
 @@||gs-loc-cn.apple.com^
 @@||gs-loc.apple.com^
 @@||gs.ww.np.dl.playstation.net^
@@ -24079,7 +24068,6 @@
 @@||hlybar.com^
 @@||hlytec.com^
 @@||hlyy.in^
-@@||hlzqgs.com^
 @@||hlzsgw.com^
 @@||hm-3223.net^
 @@||hm-yc.com^
@@ -24347,7 +24335,6 @@
 @@||hongshu.com^
 @@||hongsungifts.com^
 @@||hongt.com^
-@@||hongtastock.com^
 @@||hongtongad.com^
 @@||hongtu.me^
 @@||hongtuwang.com^
@@ -24594,6 +24581,7 @@
 @@||hrtx.com^
 @@||hrunion.org^
 @@||hrxiongan.com^
+@@||hrzsh.com^
 @@||hrzsw.com^
 @@||hrzy.cc^
 @@||hs-ceo.com^
@@ -25790,21 +25778,11 @@
 @@||icaredbd.com^
 @@||icasiso.com^
 @@||icax.org^
-@@||icbc-uk.com^
 @@||icbc-us.com^
 @@||icbc.co.id^
 @@||icbc.com.mo^
-@@||icbc.com.pe^
-@@||icbc.com.sg^
-@@||icbcasia.com^
 @@||icbcbr.com.br^
 @@||icbclondon.com^
-@@||icbcmy.com^
-@@||icbcstandard.com^
-@@||icbcstandardbank.com^
-@@||icbcstandardresources.com^
-@@||icbcstandardsecurities.com^
-@@||icbcswiss.com^
 @@||icc.one^
 @@||icc365.com^
 @@||iccchina.com^
@@ -27504,7 +27482,6 @@
 @@||izmm.me^
 @@||izshare.net^
 @@||iztwp.com^
-@@||iztzq.com^
 @@||izuche.com^
 @@||izuchecdn.com^
 @@||izuiyou.com^
@@ -29639,7 +29616,6 @@
 @@||jzrb.com^
 @@||jzrsrc.com^
 @@||jzsc8.com^
-@@||jzsec.com^
 @@||jzshequ.com^
 @@||jzsyishu.com^
 @@||jztdc.com^
@@ -31415,7 +31391,6 @@
 @@||lcux.net^
 @@||lcxwfc.com^
 @@||lcxxg.com^
-@@||lczq.com^
 @@||lczyy.com^
 @@||ld0766.com^
 @@||ld12366.com^
@@ -36588,7 +36563,6 @@
 @@||nolanchou.com^
 @@||nomax.vip^
 @@||nome.com^
-@@||nomuraoi-sec.com^
 @@||nonganxian.com^
 @@||nongcun5.com^
 @@||nongfuspring.com^
@@ -42363,7 +42337,6 @@
 @@||shgaoxin.net^
 @@||shgci.com^
 @@||shgjj.com^
-@@||shgsec.com^
 @@||shgskj.com^
 @@||shgyg.com^
 @@||shhanqiao.com^
@@ -45732,7 +45705,6 @@
 @@||tfyou.com^
 @@||tfysw.com^
 @@||tfyum.net^
-@@||tfzq.com^
 @@||tg-vision.com^
 @@||tg-vision.net^
 @@||tg0123.com^
@@ -46380,7 +46352,6 @@
 @@||tongmoe.com^
 @@||tongpankt.com^
 @@||tongshuai.com^
-@@||tongtaiamc.com^
 @@||tongtech.com^
 @@||tongtianta.site^
 @@||tongtongli.com^
@@ -46598,7 +46569,6 @@
 @@||tpy100.com^
 @@||tpyboard.com^
 @@||tpyyes.com^
-@@||tpyzq.com^
 @@||tq321.com^
 @@||tq520.net^
 @@||tqcj.com^
@@ -51199,7 +51169,6 @@
 @@||xcpapa.site^
 @@||xcpapa.xyz^
 @@||xcqq8.com^
-@@||xcsc.com^
 @@||xcshaifen.com^
 @@||xcsinsignia.com^
 @@||xctmr.com^
@@ -51281,7 +51250,6 @@
 @@||xesv5.com^
 @@||xetimes.com^
 @@||xeylon.com^
-@@||xf-fund.com^
 @@||xf-tc.com^
 @@||xf-world.org^
 @@||xf.com^
@@ -53599,7 +53567,6 @@
 @@||yczihua.com^
 @@||yd166.com^
 @@||yda513.com^
-@@||ydamc.com^
 @@||ydbimg.com^
 @@||ydc360.com^
 @@||ydcss.com^
@@ -57790,7 +57757,6 @@
 @@||ztems.com^
 @@||ztestin.com^
 @@||ztfans.com^
-@@||ztfsec.com^
 @@||ztfssc.com^
 @@||ztgame.com^
 @@||ztganme.com^
