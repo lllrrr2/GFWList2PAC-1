@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQxOTExNgo=
+# Checksum: MTYwNzQzMDIzNwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201208-3
-# TimeUpdated: 2020-12-08T09:18:36+00:00
+# Version: 1.2.5-20201208-4
+# TimeUpdated: 2020-12-08T12:23:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2462,7 +2462,6 @@ domain:315003.com,
 domain:3150315.com,
 domain:315166.com,
 domain:315196.com,
-domain:315246.com,
 domain:3158.com,
 domain:315banzhao.com,
 domain:315che.com,
@@ -27707,6 +27706,7 @@ domain:jedi-games.com,
 domain:jedoo.com,
 domain:jeecg.com,
 domain:jeecg.org,
+domain:jeecms.com,
 domain:jeejen.com,
 domain:jeekun.com,
 domain:jeep-leica-prize.com,
