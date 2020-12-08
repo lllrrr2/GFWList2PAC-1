@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM3NTc2OAo=
+# Checksum: MTYwNzM4ODQ4MQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201207-7
-# TimeUpdated: 2020-12-07T21:16:08+00:00
+# Version: 1.2.5-20201208-0
+# TimeUpdated: 2020-12-08T00:48:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2048,6 +2048,7 @@ DOMAIN-SUFFIX,airgonetworks.com,PROXY
 DOMAIN-SUFFIX,airmax360.com,PROXY
 DOMAIN-SUFFIX,airmay.com,PROXY
 DOMAIN-SUFFIX,airpack.tw,PROXY
+DOMAIN-SUFFIX,airport-gov-cn.com,PROXY
 DOMAIN-SUFFIX,airport.brussels,PROXY
 DOMAIN-SUFFIX,airport.com,PROXY
 DOMAIN-SUFFIX,airsupportapp.com,PROXY
@@ -5091,7 +5092,6 @@ DOMAIN-SUFFIX,cabet679.com,PROXY
 DOMAIN-SUFFIX,cabet833.com,PROXY
 DOMAIN-SUFFIX,cabet840.com,PROXY
 DOMAIN-SUFFIX,cabet873.com,PROXY
-DOMAIN-SUFFIX,cabet931.com,PROXY
 DOMAIN-SUFFIX,cabet999.com,PROXY
 DOMAIN-SUFFIX,cablegatesearch.net,PROXY
 DOMAIN-SUFFIX,cabletvdirectv.com,PROXY
@@ -5602,7 +5602,6 @@ DOMAIN-SUFFIX,chimeforchange.org,PROXY
 DOMAIN-SUFFIX,china-5d042.firebaseio.com,PROXY
 DOMAIN-SUFFIX,china-facebook.com,PROXY
 DOMAIN-SUFFIX,china-files.com,PROXY
-DOMAIN-SUFFIX,china-internet-exchange.com,PROXY
 DOMAIN-SUFFIX,china-mmm.jp.net,PROXY
 DOMAIN-SUFFIX,china-mmm.net,PROXY
 DOMAIN-SUFFIX,china-mmm.sa.com,PROXY
@@ -6031,6 +6030,7 @@ DOMAIN-SUFFIX,cnews.com.tw,PROXY
 DOMAIN-SUFFIX,cnex.org.cn,PROXY
 DOMAIN-SUFFIX,cngkfxprime.com,PROXY
 DOMAIN-SUFFIX,cnitter.com,PROXY
+DOMAIN-SUFFIX,cnix-gov-cn.com,PROXY
 DOMAIN-SUFFIX,cnn.com,PROXY
 DOMAIN-SUFFIX,cnnarabic.com,PROXY
 DOMAIN-SUFFIX,cnnews.chosun.com,PROXY
@@ -6460,7 +6460,6 @@ DOMAIN-SUFFIX,cwbbooks.com,PROXY
 DOMAIN-SUFFIX,cweb-pix.com,PROXY
 DOMAIN-SUFFIX,cx.atdmt.com,PROXY
 DOMAIN-SUFFIX,cx.v2ray.cx,PROXY
-DOMAIN-SUFFIX,cxkcloud.com,PROXY
 DOMAIN-SUFFIX,cyber-bay.info,PROXY
 DOMAIN-SUFFIX,cyber-bay.org,PROXY
 DOMAIN-SUFFIX,cyberbondi.com.au,PROXY
@@ -6907,6 +6906,7 @@ DOMAIN-SUFFIX,digital-id.ch,PROXY
 DOMAIN-SUFFIX,digital-rb.com,PROXY
 DOMAIN-SUFFIX,digitalassetlinks.org,PROXY
 DOMAIN-SUFFIX,digitalattackmap.com,PROXY
+DOMAIN-SUFFIX,digitalcertvalidation.com,PROXY
 DOMAIN-SUFFIX,digitalcollections.hoover.org,PROXY
 DOMAIN-SUFFIX,digitalcom.com.ar,PROXY
 DOMAIN-SUFFIX,digitalhub.com,PROXY
@@ -17665,6 +17665,7 @@ DOMAIN-SUFFIX,proxynetwork.org.uk,PROXY
 DOMAIN-SUFFIX,proxynova.com,PROXY
 DOMAIN-SUFFIX,proxypa.com,PROXY
 DOMAIN-SUFFIX,proxypy.net,PROXY
+DOMAIN-SUFFIX,proxyrarbg.org,PROXY
 DOMAIN-SUFFIX,proxyroad.com,PROXY
 DOMAIN-SUFFIX,proxyscrape.com,PROXY
 DOMAIN-SUFFIX,proxyserver.com,PROXY
@@ -18911,6 +18912,7 @@ DOMAIN-SUFFIX,serviporno.com,PROXY
 DOMAIN-SUFFIX,sesawe.net,PROXY
 DOMAIN-SUFFIX,seselah.com,PROXY
 DOMAIN-SUFFIX,seshan.xyz,PROXY
+DOMAIN-SUFFIX,setapp.com,PROXY
 DOMAIN-SUFFIX,sethwklein.net,PROXY
 DOMAIN-SUFFIX,setiantang.com,PROXY
 DOMAIN-SUFFIX,setn.com,PROXY
@@ -19672,7 +19674,6 @@ DOMAIN-SUFFIX,ssr.shouyeren.net,PROXY
 DOMAIN-SUFFIX,ssr.tools,PROXY
 DOMAIN-SUFFIX,ssrapid.com,PROXY
 DOMAIN-SUFFIX,ssrcloud.com,PROXY
-DOMAIN-SUFFIX,ssrcloud.org,PROXY
 DOMAIN-SUFFIX,ssrfree.tk,PROXY
 DOMAIN-SUFFIX,ssrshare.com,PROXY
 DOMAIN-SUFFIX,ssrshare.us,PROXY
@@ -27262,6 +27263,7 @@ DOMAIN-SUFFIX,xn--9kr7l.com,PROXY
 DOMAIN-SUFFIX,xn--9trs65b.com,PROXY
 DOMAIN-SUFFIX,xn--cck1bxhya8f.com,PROXY
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org,PROXY
+DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com,PROXY
 DOMAIN-SUFFIX,xn--flw351e.com,PROXY
 DOMAIN-SUFFIX,xn--ggle-55da.com,PROXY
 DOMAIN-SUFFIX,xn--gogl-0nd52e.com,PROXY

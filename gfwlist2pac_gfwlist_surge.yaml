@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM3NTc2OAo=
+# Checksum: MTYwNzM4ODQ4MQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201207-7
-# TimeUpdated: 2020-12-07T21:16:08+00:00
+# Version: 1.2.5-20201208-0
+# TimeUpdated: 2020-12-08T00:48:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2048,6 +2048,7 @@ DOMAIN-SUFFIX,airgonetworks.com
 DOMAIN-SUFFIX,airmax360.com
 DOMAIN-SUFFIX,airmay.com
 DOMAIN-SUFFIX,airpack.tw
+DOMAIN-SUFFIX,airport-gov-cn.com
 DOMAIN-SUFFIX,airport.brussels
 DOMAIN-SUFFIX,airport.com
 DOMAIN-SUFFIX,airsupportapp.com
@@ -5091,7 +5092,6 @@ DOMAIN-SUFFIX,cabet679.com
 DOMAIN-SUFFIX,cabet833.com
 DOMAIN-SUFFIX,cabet840.com
 DOMAIN-SUFFIX,cabet873.com
-DOMAIN-SUFFIX,cabet931.com
 DOMAIN-SUFFIX,cabet999.com
 DOMAIN-SUFFIX,cablegatesearch.net
 DOMAIN-SUFFIX,cabletvdirectv.com
@@ -5602,7 +5602,6 @@ DOMAIN-SUFFIX,chimeforchange.org
 DOMAIN-SUFFIX,china-5d042.firebaseio.com
 DOMAIN-SUFFIX,china-facebook.com
 DOMAIN-SUFFIX,china-files.com
-DOMAIN-SUFFIX,china-internet-exchange.com
 DOMAIN-SUFFIX,china-mmm.jp.net
 DOMAIN-SUFFIX,china-mmm.net
 DOMAIN-SUFFIX,china-mmm.sa.com
@@ -6031,6 +6030,7 @@ DOMAIN-SUFFIX,cnews.com.tw
 DOMAIN-SUFFIX,cnex.org.cn
 DOMAIN-SUFFIX,cngkfxprime.com
 DOMAIN-SUFFIX,cnitter.com
+DOMAIN-SUFFIX,cnix-gov-cn.com
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnnarabic.com
 DOMAIN-SUFFIX,cnnews.chosun.com
@@ -6460,7 +6460,6 @@ DOMAIN-SUFFIX,cwbbooks.com
 DOMAIN-SUFFIX,cweb-pix.com
 DOMAIN-SUFFIX,cx.atdmt.com
 DOMAIN-SUFFIX,cx.v2ray.cx
-DOMAIN-SUFFIX,cxkcloud.com
 DOMAIN-SUFFIX,cyber-bay.info
 DOMAIN-SUFFIX,cyber-bay.org
 DOMAIN-SUFFIX,cyberbondi.com.au
@@ -6907,6 +6906,7 @@ DOMAIN-SUFFIX,digital-id.ch
 DOMAIN-SUFFIX,digital-rb.com
 DOMAIN-SUFFIX,digitalassetlinks.org
 DOMAIN-SUFFIX,digitalattackmap.com
+DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,digitalcollections.hoover.org
 DOMAIN-SUFFIX,digitalcom.com.ar
 DOMAIN-SUFFIX,digitalhub.com
@@ -17665,6 +17665,7 @@ DOMAIN-SUFFIX,proxynetwork.org.uk
 DOMAIN-SUFFIX,proxynova.com
 DOMAIN-SUFFIX,proxypa.com
 DOMAIN-SUFFIX,proxypy.net
+DOMAIN-SUFFIX,proxyrarbg.org
 DOMAIN-SUFFIX,proxyroad.com
 DOMAIN-SUFFIX,proxyscrape.com
 DOMAIN-SUFFIX,proxyserver.com
@@ -18911,6 +18912,7 @@ DOMAIN-SUFFIX,serviporno.com
 DOMAIN-SUFFIX,sesawe.net
 DOMAIN-SUFFIX,seselah.com
 DOMAIN-SUFFIX,seshan.xyz
+DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,sethwklein.net
 DOMAIN-SUFFIX,setiantang.com
 DOMAIN-SUFFIX,setn.com
@@ -19672,7 +19674,6 @@ DOMAIN-SUFFIX,ssr.shouyeren.net
 DOMAIN-SUFFIX,ssr.tools
 DOMAIN-SUFFIX,ssrapid.com
 DOMAIN-SUFFIX,ssrcloud.com
-DOMAIN-SUFFIX,ssrcloud.org
 DOMAIN-SUFFIX,ssrfree.tk
 DOMAIN-SUFFIX,ssrshare.com
 DOMAIN-SUFFIX,ssrshare.us
@@ -27262,6 +27263,7 @@ DOMAIN-SUFFIX,xn--9kr7l.com
 DOMAIN-SUFFIX,xn--9trs65b.com
 DOMAIN-SUFFIX,xn--cck1bxhya8f.com
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
+DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
 DOMAIN-SUFFIX,xn--flw351e.com
 DOMAIN-SUFFIX,xn--ggle-55da.com
 DOMAIN-SUFFIX,xn--gogl-0nd52e.com
