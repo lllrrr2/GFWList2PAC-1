@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ0MDY4Mwo=
+# Checksum: MTYwNzQ1MTU0Ngo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201208-5
-# TimeUpdated: 2020-12-08T15:18:03+00:00
+# Version: 1.2.5-20201208-6
+# TimeUpdated: 2020-12-08T18:19:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -831,7 +831,6 @@ domain:449940.com,
 domain:449945.com,
 domain:449946.com,
 domain:44afcp.com,
-domain:4555.cabet359.com,
 domain:4565566.com,
 domain:46.flnet.org,
 domain:4612.yzc596.com,
@@ -1211,7 +1210,6 @@ domain:77.now-ip.net,
 domain:771142.com,
 domain:77167c.com,
 domain:7722xj.com,
-domain:7762.cabet359.com,
 domain:7765aa.com,
 domain:7765bb.com,
 domain:7765dd.com,
@@ -5072,7 +5070,6 @@ domain:cabet076.com,
 domain:cabet097.com,
 domain:cabet150.com,
 domain:cabet171.com,
-domain:cabet181.com,
 domain:cabet258.com,
 domain:cabet265.com,
 domain:cabet274.com,
@@ -5081,8 +5078,6 @@ domain:cabet366.com,
 domain:cabet372.com,
 domain:cabet679.com,
 domain:cabet833.com,
-domain:cabet840.com,
-domain:cabet873.com,
 domain:cabet999.com,
 domain:cablegatesearch.net,
 domain:cabletvdirectv.com,
@@ -5994,7 +5989,6 @@ domain:cn.shafaqna.com,
 domain:cn.streetvoice.com,
 domain:cn.theaustralian.com.au,
 domain:cn.thegay.com,
-domain:cn.tmagazine.com.nyud.net,
 domain:cn.uncyclopedia.wikia.com,
 domain:cn.uptodown.com,
 domain:cn.venetianmacau.com,

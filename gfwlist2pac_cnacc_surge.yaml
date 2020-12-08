@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ0MDY3NAo=
+# Checksum: MTYwNzQ1MTUzOAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201208-5
-# TimeUpdated: 2020-12-08T15:17:54+00:00
+# Version: 1.2.5-20201208-6
+# TimeUpdated: 2020-12-08T18:18:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -796,6 +796,7 @@ DOMAIN-SUFFIX,100pd.cc
 DOMAIN-SUFFIX,100ppi.com
 DOMAIN-SUFFIX,100qnrc.com
 DOMAIN-SUFFIX,100rd.com
+DOMAIN-SUFFIX,100rjrc.com
 DOMAIN-SUFFIX,100run.com
 DOMAIN-SUFFIX,100shop.com
 DOMAIN-SUFFIX,100stone.com
@@ -10097,7 +10098,6 @@ DOMAIN-SUFFIX,bjdsppa.com
 DOMAIN-SUFFIX,bjdt360.com
 DOMAIN-SUFFIX,bjeasycom.com
 DOMAIN-SUFFIX,bjepn.com
-DOMAIN-SUFFIX,bjexmail.com
 DOMAIN-SUFFIX,bjfengguang.com
 DOMAIN-SUFFIX,bjffdz.com
 DOMAIN-SUFFIX,bjffkj.com
@@ -13138,7 +13138,6 @@ DOMAIN-SUFFIX,chtse.com
 DOMAIN-SUFFIX,chuaiguo.com
 DOMAIN-SUFFIX,chuairan.com
 DOMAIN-SUFFIX,chuaizhe.com
-DOMAIN-SUFFIX,chuanblog.com
 DOMAIN-SUFFIX,chuanbofanyi.com
 DOMAIN-SUFFIX,chuanbojia.com
 DOMAIN-SUFFIX,chuanboyi.com
@@ -13550,7 +13549,6 @@ DOMAIN-SUFFIX,cloudsation.com
 DOMAIN-SUFFIX,cloudsee.com
 DOMAIN-SUFFIX,cloudsgis.com
 DOMAIN-SUFFIX,cloudsohu.net
-DOMAIN-SUFFIX,cloudstack-china.org
 DOMAIN-SUFFIX,cloudtopo.com
 DOMAIN-SUFFIX,cloudtrans.com
 DOMAIN-SUFFIX,cloudtui.com
@@ -14342,7 +14340,6 @@ DOMAIN-SUFFIX,cokemine.com
 DOMAIN-SUFFIX,cokll.com
 DOMAIN-SUFFIX,col.ink
 DOMAIN-SUFFIX,colabug.com
-DOMAIN-SUFFIX,colachan.com
 DOMAIN-SUFFIX,coladrive.com
 DOMAIN-SUFFIX,colafile.com
 DOMAIN-SUFFIX,colahotpot.com
@@ -15914,6 +15911,7 @@ DOMAIN-SUFFIX,ddove.com
 DOMAIN-SUFFIX,ddpa.com
 DOMAIN-SUFFIX,ddqcw.com
 DOMAIN-SUFFIX,ddr.kim
+DOMAIN-SUFFIX,ddrhhh.com
 DOMAIN-SUFFIX,ddshu.net
 DOMAIN-SUFFIX,ddske.com
 DOMAIN-SUFFIX,ddsoucai.com

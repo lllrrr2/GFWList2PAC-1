@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ0MDY4Mwo=
+# Checksum: MTYwNzQ1MTU0Ngo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201208-5
-# TimeUpdated: 2020-12-08T15:18:03+00:00
+# Version: 1.2.5-20201208-6
+# TimeUpdated: 2020-12-08T18:19:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -831,7 +831,6 @@ DOMAIN-SUFFIX,449940.com
 DOMAIN-SUFFIX,449945.com
 DOMAIN-SUFFIX,449946.com
 DOMAIN-SUFFIX,44afcp.com
-DOMAIN-SUFFIX,4555.cabet359.com
 DOMAIN-SUFFIX,4565566.com
 DOMAIN-SUFFIX,46.flnet.org
 DOMAIN-SUFFIX,4612.yzc596.com
@@ -1211,7 +1210,6 @@ DOMAIN-SUFFIX,77.now-ip.net
 DOMAIN-SUFFIX,771142.com
 DOMAIN-SUFFIX,77167c.com
 DOMAIN-SUFFIX,7722xj.com
-DOMAIN-SUFFIX,7762.cabet359.com
 DOMAIN-SUFFIX,7765aa.com
 DOMAIN-SUFFIX,7765bb.com
 DOMAIN-SUFFIX,7765dd.com
@@ -5072,7 +5070,6 @@ DOMAIN-SUFFIX,cabet076.com
 DOMAIN-SUFFIX,cabet097.com
 DOMAIN-SUFFIX,cabet150.com
 DOMAIN-SUFFIX,cabet171.com
-DOMAIN-SUFFIX,cabet181.com
 DOMAIN-SUFFIX,cabet258.com
 DOMAIN-SUFFIX,cabet265.com
 DOMAIN-SUFFIX,cabet274.com
@@ -5081,8 +5078,6 @@ DOMAIN-SUFFIX,cabet366.com
 DOMAIN-SUFFIX,cabet372.com
 DOMAIN-SUFFIX,cabet679.com
 DOMAIN-SUFFIX,cabet833.com
-DOMAIN-SUFFIX,cabet840.com
-DOMAIN-SUFFIX,cabet873.com
 DOMAIN-SUFFIX,cabet999.com
 DOMAIN-SUFFIX,cablegatesearch.net
 DOMAIN-SUFFIX,cabletvdirectv.com
@@ -5994,7 +5989,6 @@ DOMAIN-SUFFIX,cn.shafaqna.com
 DOMAIN-SUFFIX,cn.streetvoice.com
 DOMAIN-SUFFIX,cn.theaustralian.com.au
 DOMAIN-SUFFIX,cn.thegay.com
-DOMAIN-SUFFIX,cn.tmagazine.com.nyud.net
 DOMAIN-SUFFIX,cn.uncyclopedia.wikia.com
 DOMAIN-SUFFIX,cn.uptodown.com
 DOMAIN-SUFFIX,cn.venetianmacau.com
