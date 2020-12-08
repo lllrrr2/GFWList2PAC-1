@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM4ODQ3Mwo=
+# Checksum: MTYwNzM5NzU2MQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201208-0
-# TimeUpdated: 2020-12-08T00:47:53+00:00
+# Version: 1.2.5-20201208-1
+# TimeUpdated: 2020-12-08T03:19:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -8593,6 +8593,7 @@ DOMAIN-SUFFIX,awaimai.com,DIRECT
 DOMAIN-SUFFIX,awaysoft.com,DIRECT
 DOMAIN-SUFFIX,awc618.com,DIRECT
 DOMAIN-SUFFIX,awcn.cc,DIRECT
+DOMAIN-SUFFIX,aweasdzw.com,DIRECT
 DOMAIN-SUFFIX,aweb.cc,DIRECT
 DOMAIN-SUFFIX,awehunt.com,DIRECT
 DOMAIN-SUFFIX,awesome-bruce.me,DIRECT
@@ -12996,13 +12997,11 @@ DOMAIN-SUFFIX,chindiaforum.com,DIRECT
 DOMAIN-SUFFIX,chine-info.com,DIRECT
 DOMAIN-SUFFIX,chinebuy.com,DIRECT
 DOMAIN-SUFFIX,chinee.com,DIRECT
-DOMAIN-SUFFIX,chinese-goods-provider.com,DIRECT
 DOMAIN-SUFFIX,chinese-luxury.com,DIRECT
 DOMAIN-SUFFIX,chinese-no1.com,DIRECT
 DOMAIN-SUFFIX,chineseacc.com,DIRECT
 DOMAIN-SUFFIX,chineseafs.org,DIRECT
 DOMAIN-SUFFIX,chineseall.com,DIRECT
-DOMAIN-SUFFIX,chinesearchery.cc,DIRECT
 DOMAIN-SUFFIX,chinesecio.com,DIRECT
 DOMAIN-SUFFIX,chinesehongker.com,DIRECT
 DOMAIN-SUFFIX,chinesejk.com,DIRECT
@@ -35307,6 +35306,7 @@ DOMAIN-SUFFIX,msneg.com,DIRECT
 DOMAIN-SUFFIX,mso2011.com,DIRECT
 DOMAIN-SUFFIX,msooso.com,DIRECT
 DOMAIN-SUFFIX,msotu.com,DIRECT
+DOMAIN-SUFFIX,msqzxmr.com,DIRECT
 DOMAIN-SUFFIX,msstatic.com,DIRECT
 DOMAIN-SUFFIX,mstchina.com,DIRECT
 DOMAIN-SUFFIX,mstvb.com,DIRECT
@@ -40591,6 +40591,7 @@ DOMAIN-SUFFIX,rensheng123.com,DIRECT
 DOMAIN-SUFFIX,rensheng5.com,DIRECT
 DOMAIN-SUFFIX,rentiantech.com,DIRECT
 DOMAIN-SUFFIX,rentixuewei.com,DIRECT
+DOMAIN-SUFFIX,renwen.com,DIRECT
 DOMAIN-SUFFIX,renwole.com,DIRECT
 DOMAIN-SUFFIX,renxingwang.com,DIRECT
 DOMAIN-SUFFIX,renyufei.com,DIRECT

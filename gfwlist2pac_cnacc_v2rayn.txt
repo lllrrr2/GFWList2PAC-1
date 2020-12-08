@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM4ODQ3Mwo=
+# Checksum: MTYwNzM5NzU2MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201208-0
-# TimeUpdated: 2020-12-08T00:47:53+00:00
+# Version: 1.2.5-20201208-1
+# TimeUpdated: 2020-12-08T03:19:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -8593,6 +8593,7 @@ domain:awaimai.com,
 domain:awaysoft.com,
 domain:awc618.com,
 domain:awcn.cc,
+domain:aweasdzw.com,
 domain:aweb.cc,
 domain:awehunt.com,
 domain:awesome-bruce.me,
@@ -12996,13 +12997,11 @@ domain:chindiaforum.com,
 domain:chine-info.com,
 domain:chinebuy.com,
 domain:chinee.com,
-domain:chinese-goods-provider.com,
 domain:chinese-luxury.com,
 domain:chinese-no1.com,
 domain:chineseacc.com,
 domain:chineseafs.org,
 domain:chineseall.com,
-domain:chinesearchery.cc,
 domain:chinesecio.com,
 domain:chinesehongker.com,
 domain:chinesejk.com,
@@ -35307,6 +35306,7 @@ domain:msneg.com,
 domain:mso2011.com,
 domain:msooso.com,
 domain:msotu.com,
+domain:msqzxmr.com,
 domain:msstatic.com,
 domain:mstchina.com,
 domain:mstvb.com,
@@ -40591,6 +40591,7 @@ domain:rensheng123.com,
 domain:rensheng5.com,
 domain:rentiantech.com,
 domain:rentixuewei.com,
+domain:renwen.com,
 domain:renwole.com,
 domain:renxingwang.com,
 domain:renyufei.com,

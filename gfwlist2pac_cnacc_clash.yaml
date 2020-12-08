@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzM4ODQ3Mwo=
+# Checksum: MTYwNzM5NzU2MQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201208-0
-# TimeUpdated: 2020-12-08T00:47:53+00:00
+# Version: 1.2.5-20201208-1
+# TimeUpdated: 2020-12-08T03:19:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -8594,6 +8594,7 @@ payload:
   - DOMAIN-SUFFIX,awaysoft.com
   - DOMAIN-SUFFIX,awc618.com
   - DOMAIN-SUFFIX,awcn.cc
+  - DOMAIN-SUFFIX,aweasdzw.com
   - DOMAIN-SUFFIX,aweb.cc
   - DOMAIN-SUFFIX,awehunt.com
   - DOMAIN-SUFFIX,awesome-bruce.me
@@ -12997,13 +12998,11 @@ payload:
   - DOMAIN-SUFFIX,chine-info.com
   - DOMAIN-SUFFIX,chinebuy.com
   - DOMAIN-SUFFIX,chinee.com
-  - DOMAIN-SUFFIX,chinese-goods-provider.com
   - DOMAIN-SUFFIX,chinese-luxury.com
   - DOMAIN-SUFFIX,chinese-no1.com
   - DOMAIN-SUFFIX,chineseacc.com
   - DOMAIN-SUFFIX,chineseafs.org
   - DOMAIN-SUFFIX,chineseall.com
-  - DOMAIN-SUFFIX,chinesearchery.cc
   - DOMAIN-SUFFIX,chinesecio.com
   - DOMAIN-SUFFIX,chinesehongker.com
   - DOMAIN-SUFFIX,chinesejk.com
@@ -35308,6 +35307,7 @@ payload:
   - DOMAIN-SUFFIX,mso2011.com
   - DOMAIN-SUFFIX,msooso.com
   - DOMAIN-SUFFIX,msotu.com
+  - DOMAIN-SUFFIX,msqzxmr.com
   - DOMAIN-SUFFIX,msstatic.com
   - DOMAIN-SUFFIX,mstchina.com
   - DOMAIN-SUFFIX,mstvb.com
@@ -40592,6 +40592,7 @@ payload:
   - DOMAIN-SUFFIX,rensheng5.com
   - DOMAIN-SUFFIX,rentiantech.com
   - DOMAIN-SUFFIX,rentixuewei.com
+  - DOMAIN-SUFFIX,renwen.com
   - DOMAIN-SUFFIX,renwole.com
   - DOMAIN-SUFFIX,renxingwang.com
   - DOMAIN-SUFFIX,renyufei.com
