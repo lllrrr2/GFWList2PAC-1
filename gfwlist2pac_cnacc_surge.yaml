@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQwODQ4NAo=
+# Checksum: MTYwNzQxOTExNgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201208-2
-# TimeUpdated: 2020-12-08T06:21:24+00:00
+# Version: 1.2.5-20201208-3
+# TimeUpdated: 2020-12-08T09:18:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -254,6 +254,7 @@ DOMAIN-SUFFIX,027tc.net
 DOMAIN-SUFFIX,027tianlong.com
 DOMAIN-SUFFIX,027tytpf.com
 DOMAIN-SUFFIX,027wcbyy.com
+DOMAIN-SUFFIX,027wei.com
 DOMAIN-SUFFIX,027xf.com
 DOMAIN-SUFFIX,027yunwei.com
 DOMAIN-SUFFIX,027yx.com
@@ -13172,7 +13173,6 @@ DOMAIN-SUFFIX,chuangyejian.com
 DOMAIN-SUFFIX,chuangyejmw.com
 DOMAIN-SUFFIX,chuangyemeng.com
 DOMAIN-SUFFIX,chuangyepu.com
-DOMAIN-SUFFIX,chuangyezhu.com
 DOMAIN-SUFFIX,chuangyijisu.com
 DOMAIN-SUFFIX,chuangyouqi.com
 DOMAIN-SUFFIX,chuangzaoshi.com
@@ -33701,6 +33701,7 @@ DOMAIN-SUFFIX,mannkit.com
 DOMAIN-SUFFIX,manogk.com
 DOMAIN-SUFFIX,manong.io
 DOMAIN-SUFFIX,manongdao.com
+DOMAIN-SUFFIX,manonggu.com
 DOMAIN-SUFFIX,manongjc.com
 DOMAIN-SUFFIX,manongs.com
 DOMAIN-SUFFIX,manongzj.com
@@ -49735,6 +49736,7 @@ DOMAIN-SUFFIX,whqtdjy.com
 DOMAIN-SUFFIX,whqunyu.com
 DOMAIN-SUFFIX,whr.cc
 DOMAIN-SUFFIX,whrango.com
+DOMAIN-SUFFIX,whrazf.com
 DOMAIN-SUFFIX,whrcbank.com
 DOMAIN-SUFFIX,whreadsoft.com
 DOMAIN-SUFFIX,whrenai.com

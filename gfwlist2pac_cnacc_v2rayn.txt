@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQwODQ4NAo=
+# Checksum: MTYwNzQxOTExNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201208-2
-# TimeUpdated: 2020-12-08T06:21:24+00:00
+# Version: 1.2.5-20201208-3
+# TimeUpdated: 2020-12-08T09:18:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -254,6 +254,7 @@ domain:027tc.net,
 domain:027tianlong.com,
 domain:027tytpf.com,
 domain:027wcbyy.com,
+domain:027wei.com,
 domain:027xf.com,
 domain:027yunwei.com,
 domain:027yx.com,
@@ -13172,7 +13173,6 @@ domain:chuangyejian.com,
 domain:chuangyejmw.com,
 domain:chuangyemeng.com,
 domain:chuangyepu.com,
-domain:chuangyezhu.com,
 domain:chuangyijisu.com,
 domain:chuangyouqi.com,
 domain:chuangzaoshi.com,
@@ -33701,6 +33701,7 @@ domain:mannkit.com,
 domain:manogk.com,
 domain:manong.io,
 domain:manongdao.com,
+domain:manonggu.com,
 domain:manongjc.com,
 domain:manongs.com,
 domain:manongzj.com,
@@ -49735,6 +49736,7 @@ domain:whqtdjy.com,
 domain:whqunyu.com,
 domain:whr.cc,
 domain:whrango.com,
+domain:whrazf.com,
 domain:whrcbank.com,
 domain:whreadsoft.com,
 domain:whrenai.com,
