@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQzMDIzNwo=
+# Checksum: MTYwNzQ0MDY3NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201208-4
-# TimeUpdated: 2020-12-08T12:23:57+00:00
+# Version: 1.2.5-20201208-5
+# TimeUpdated: 2020-12-08T15:17:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1659,7 +1659,6 @@ domain:187801.com,
 domain:187884.com,
 domain:188.com,
 domain:188158.com,
-domain:1884933.com,
 domain:18856.com,
 domain:1885888.com,
 domain:1886zuche.com,
@@ -5766,6 +5765,7 @@ domain:8828xljcw.com,
 domain:88360.com,
 domain:884109.com,
 domain:884134.com,
+domain:884358.com,
 domain:8844.com,
 domain:88444l.cc,
 domain:88448.com,
@@ -14342,6 +14342,7 @@ domain:cokemine.com,
 domain:cokll.com,
 domain:col.ink,
 domain:colabug.com,
+domain:colachan.com,
 domain:coladrive.com,
 domain:colafile.com,
 domain:colahotpot.com,

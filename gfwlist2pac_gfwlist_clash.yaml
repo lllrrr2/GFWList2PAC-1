@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzQzMDI0NQo=
+# Checksum: MTYwNzQ0MDY4Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201208-4
-# TimeUpdated: 2020-12-08T12:24:05+00:00
+# Version: 1.2.5-20201208-5
+# TimeUpdated: 2020-12-08T15:18:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -132,7 +132,6 @@ payload:
   - DOMAIN-SUFFIX,1.bb6688.ws
   - DOMAIN-SUFFIX,10.eve.dyx.com
   - DOMAIN-SUFFIX,1000.tv
-  - DOMAIN-SUFFIX,1000717.com
   - DOMAIN-SUFFIX,1000826.com
   - DOMAIN-SUFFIX,1000860006.com
   - DOMAIN-SUFFIX,1000giri.net
@@ -378,7 +377,6 @@ payload:
   - DOMAIN-SUFFIX,197888.com
   - DOMAIN-SUFFIX,1984bbs.com
   - DOMAIN-SUFFIX,1984blog.com
-  - DOMAIN-SUFFIX,19850608.com
   - DOMAIN-SUFFIX,198k7.com
   - DOMAIN-SUFFIX,1afcp.com
   - DOMAIN-SUFFIX,1bao.org
@@ -743,7 +741,6 @@ payload:
   - DOMAIN-SUFFIX,380033.com
   - DOMAIN-SUFFIX,383qq.net
   - DOMAIN-SUFFIX,383ww.net
-  - DOMAIN-SUFFIX,38666567.com
   - DOMAIN-SUFFIX,38666876.com
   - DOMAIN-SUFFIX,387.am
   - DOMAIN-SUFFIX,38777.com
@@ -840,7 +837,6 @@ payload:
   - DOMAIN-SUFFIX,46.flnet.org
   - DOMAIN-SUFFIX,4612.yzc596.com
   - DOMAIN-SUFFIX,466453.com
-  - DOMAIN-SUFFIX,4681.cabet120.com
   - DOMAIN-SUFFIX,4690.com
   - DOMAIN-SUFFIX,4706.cabet125.com
   - DOMAIN-SUFFIX,48.effers.com
@@ -2858,7 +2854,6 @@ payload:
   - DOMAIN-SUFFIX,asianwomensfilm.de
   - DOMAIN-SUFFIX,asiaone.com
   - DOMAIN-SUFFIX,asiatgp.com
-  - DOMAIN-SUFFIX,asiatoday.us
   - DOMAIN-SUFFIX,asiaxxtv.com
   - DOMAIN-SUFFIX,asis-sugianto.blogspot.hk
   - DOMAIN-SUFFIX,ask.com
@@ -5709,7 +5704,6 @@ payload:
   - DOMAIN-SUFFIX,chinesenewsnet.com
   - DOMAIN-SUFFIX,chineseonboard.com
   - DOMAIN-SUFFIX,chinesepen.org
-  - DOMAIN-SUFFIX,chineseporn.org
   - DOMAIN-SUFFIX,chinesepornweb.com
   - DOMAIN-SUFFIX,chineseposters.net
   - DOMAIN-SUFFIX,chinesetalks.net
