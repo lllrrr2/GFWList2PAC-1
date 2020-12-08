@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzQ1MTUzOAo=
+# Checksum: MTYwNzQ2MjE3OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201208-6
-# TimeUpdated: 2020-12-08T18:18:58+00:00
+# Version: 1.2.5-20201208-7
+# TimeUpdated: 2020-12-08T21:16:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1413,7 +1413,6 @@ payload:
   - DOMAIN-SUFFIX,169qk.com
   - DOMAIN-SUFFIX,169vv.com
   - DOMAIN-SUFFIX,169wz.com
-  - DOMAIN-SUFFIX,16app.tv
   - DOMAIN-SUFFIX,16boke.com
   - DOMAIN-SUFFIX,16dy.com
   - DOMAIN-SUFFIX,16fan.com
@@ -2748,7 +2747,6 @@ payload:
   - DOMAIN-SUFFIX,360vps.com
   - DOMAIN-SUFFIX,360weizhan.com
   - DOMAIN-SUFFIX,360wxw.com
-  - DOMAIN-SUFFIX,360wyw.com
   - DOMAIN-SUFFIX,360wzws.com
   - DOMAIN-SUFFIX,360xh.com
   - DOMAIN-SUFFIX,360xiaos.com
@@ -4148,7 +4146,6 @@ payload:
   - DOMAIN-SUFFIX,52shici.com
   - DOMAIN-SUFFIX,52shijing.com
   - DOMAIN-SUFFIX,52shipping.com
-  - DOMAIN-SUFFIX,52shouyu.com
   - DOMAIN-SUFFIX,52shuxue.com
   - DOMAIN-SUFFIX,52soji.com
   - DOMAIN-SUFFIX,52solution.com
@@ -7845,7 +7842,6 @@ payload:
   - DOMAIN-SUFFIX,anitoys.com
   - DOMAIN-SUFFIX,aniu.so
   - DOMAIN-SUFFIX,aniu.tv
-  - DOMAIN-SUFFIX,aniworld.tv
   - DOMAIN-SUFFIX,anix.xyz
   - DOMAIN-SUFFIX,anj3wy8y.icu
   - DOMAIN-SUFFIX,anji-auto.com
@@ -8569,7 +8565,6 @@ payload:
   - DOMAIN-SUFFIX,avatarmind.com
   - DOMAIN-SUFFIX,avc-mr.com
   - DOMAIN-SUFFIX,avdll.com
-  - DOMAIN-SUFFIX,avenuesforhumanartistry.com
   - DOMAIN-SUFFIX,avexchina.com
   - DOMAIN-SUFFIX,avgchannel.com
   - DOMAIN-SUFFIX,avgh5.com
@@ -10135,7 +10130,6 @@ payload:
   - DOMAIN-SUFFIX,bjidit.com
   - DOMAIN-SUFFIX,bjiebtc.com
   - DOMAIN-SUFFIX,bjilife.com
-  - DOMAIN-SUFFIX,bjinnovate.com
   - DOMAIN-SUFFIX,bjipwqzx.com
   - DOMAIN-SUFFIX,bjjabc.com
   - DOMAIN-SUFFIX,bjjap.com
@@ -13889,7 +13883,6 @@ payload:
   - DOMAIN-SUFFIX,cnhot.cc
   - DOMAIN-SUFFIX,cnhowotruck.com
   - DOMAIN-SUFFIX,cnhpt.com
-  - DOMAIN-SUFFIX,cnhqzb-wx.com
   - DOMAIN-SUFFIX,cnhszx.com
   - DOMAIN-SUFFIX,cnhuanya.com
   - DOMAIN-SUFFIX,cnhup.com
@@ -33908,6 +33901,8 @@ payload:
   - DOMAIN-SUFFIX,mbcloud.com
   - DOMAIN-SUFFIX,mbinary.xyz
   - DOMAIN-SUFFIX,mbokee.com
+  - DOMAIN-SUFFIX,mbscss.com
+  - DOMAIN-SUFFIX,mbsimg.com
   - DOMAIN-SUFFIX,mbsky.com
   - DOMAIN-SUFFIX,mbulanna.com
   - DOMAIN-SUFFIX,mc-ccpit.com

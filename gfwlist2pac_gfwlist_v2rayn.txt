@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ1MTU0Ngo=
+# Checksum: MTYwNzQ2MjE4Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201208-6
-# TimeUpdated: 2020-12-08T18:19:06+00:00
+# Version: 1.2.5-20201208-7
+# TimeUpdated: 2020-12-08T21:16:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1625,6 +1625,7 @@ domain:999.33dzcp.com,
 domain:999.488m5.com,
 domain:999.588m5.com,
 domain:999.988m5.com,
+domain:999.abccp44.com,
 domain:999.aoke33.com,
 domain:999.ba8880.com,
 domain:999.cai87.com,
@@ -3807,7 +3808,6 @@ domain:besztbuy.com,
 domain:bet.flnet.org,
 domain:bet.hkjc.com,
 domain:bet1128.com,
-domain:bet301.com,
 domain:bet365.com,
 domain:bet365.es,
 domain:bet8835.com,
@@ -5065,10 +5065,8 @@ domain:ca979.com,
 domain:ca983.com,
 domain:cabehias.com,
 domain:cabepelangi.com,
-domain:cabet066.com,
 domain:cabet076.com,
 domain:cabet097.com,
-domain:cabet150.com,
 domain:cabet171.com,
 domain:cabet258.com,
 domain:cabet265.com,
