@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM5NzU2MQo=
+# Checksum: MTYwNzQwODQ4NAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201208-1
-# TimeUpdated: 2020-12-08T03:19:21+00:00
+# Version: 1.2.5-20201208-2
+# TimeUpdated: 2020-12-08T06:21:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -12975,6 +12975,7 @@ DOMAIN-SUFFIX,chinaxwcb.com,DIRECT
 DOMAIN-SUFFIX,chinayigui.com,DIRECT
 DOMAIN-SUFFIX,chinayk.com,DIRECT
 DOMAIN-SUFFIX,chinaymc.com,DIRECT
+DOMAIN-SUFFIX,chinayouji.com,DIRECT
 DOMAIN-SUFFIX,chinayyjx.com,DIRECT
 DOMAIN-SUFFIX,chinayyo.com,DIRECT
 DOMAIN-SUFFIX,chinaz.com,DIRECT
@@ -44127,6 +44128,7 @@ DOMAIN-SUFFIX,stdlibrary.com,DIRECT
 DOMAIN-SUFFIX,stdout.pub,DIRECT
 DOMAIN-SUFFIX,stdwp.com,DIRECT
 DOMAIN-SUFFIX,steambang.com,DIRECT
+DOMAIN-SUFFIX,steamboxs.com,DIRECT
 DOMAIN-SUFFIX,steamproxy.net,DIRECT
 DOMAIN-SUFFIX,steamrepcn.com,DIRECT
 DOMAIN-SUFFIX,steamxdf.com,DIRECT
@@ -46414,6 +46416,7 @@ DOMAIN-SUFFIX,top1food.com,DIRECT
 DOMAIN-SUFFIX,top21cn.com,DIRECT
 DOMAIN-SUFFIX,top263.net,DIRECT
 DOMAIN-SUFFIX,top2fun.com,DIRECT
+DOMAIN-SUFFIX,top3456.com,DIRECT
 DOMAIN-SUFFIX,topacg.com,DIRECT
 DOMAIN-SUFFIX,topbester.com,DIRECT
 DOMAIN-SUFFIX,topbiz360.com,DIRECT

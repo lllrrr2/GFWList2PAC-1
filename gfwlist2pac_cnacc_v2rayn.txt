@@ -1,7 +1,7 @@
-# Checksum: MTYwNzM5NzU2MQo=
+# Checksum: MTYwNzQwODQ4NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201208-1
-# TimeUpdated: 2020-12-08T03:19:21+00:00
+# Version: 1.2.5-20201208-2
+# TimeUpdated: 2020-12-08T06:21:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -12975,6 +12975,7 @@ domain:chinaxwcb.com,
 domain:chinayigui.com,
 domain:chinayk.com,
 domain:chinaymc.com,
+domain:chinayouji.com,
 domain:chinayyjx.com,
 domain:chinayyo.com,
 domain:chinaz.com,
@@ -44127,6 +44128,7 @@ domain:stdlibrary.com,
 domain:stdout.pub,
 domain:stdwp.com,
 domain:steambang.com,
+domain:steamboxs.com,
 domain:steamproxy.net,
 domain:steamrepcn.com,
 domain:steamxdf.com,
@@ -46414,6 +46416,7 @@ domain:top1food.com,
 domain:top21cn.com,
 domain:top263.net,
 domain:top2fun.com,
+domain:top3456.com,
 domain:topacg.com,
 domain:topbester.com,
 domain:topbiz360.com,
