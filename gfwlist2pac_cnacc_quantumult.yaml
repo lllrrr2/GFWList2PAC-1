@@ -1,7 +1,7 @@
-# Checksum: MTYwNzUyNzEzMAo=
+# Checksum: MTYwNzUzNzkxMQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201209-5
-# TimeUpdated: 2020-12-09T15:18:50+00:00
+# Version: 1.2.5-20201209-6
+# TimeUpdated: 2020-12-09T18:18:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -3876,6 +3876,7 @@ DOMAIN-SUFFIX,51xbx.com,DIRECT
 DOMAIN-SUFFIX,51xcname.com,DIRECT
 DOMAIN-SUFFIX,51xcrc.com,DIRECT
 DOMAIN-SUFFIX,51xfzy.com,DIRECT
+DOMAIN-SUFFIX,51xgjd.com,DIRECT
 DOMAIN-SUFFIX,51xiancheng.com,DIRECT
 DOMAIN-SUFFIX,51xiaolu.com,DIRECT
 DOMAIN-SUFFIX,51xingjy.com,DIRECT
@@ -7119,7 +7120,6 @@ DOMAIN-SUFFIX,ahkjksw.com,DIRECT
 DOMAIN-SUFFIX,ahkjw.com,DIRECT
 DOMAIN-SUFFIX,ahkrd88.com,DIRECT
 DOMAIN-SUFFIX,ahkxsoft.com,DIRECT
-DOMAIN-SUFFIX,ahlib.com,DIRECT
 DOMAIN-SUFFIX,ahlife.com,DIRECT
 DOMAIN-SUFFIX,ahljnews.com,DIRECT
 DOMAIN-SUFFIX,ahlrb.com,DIRECT
@@ -7305,7 +7305,6 @@ DOMAIN-SUFFIX,ailvxing.com,DIRECT
 DOMAIN-SUFFIX,ailvzhi.com,DIRECT
 DOMAIN-SUFFIX,ailvzhidu.com,DIRECT
 DOMAIN-SUFFIX,aimagang.com,DIRECT
-DOMAIN-SUFFIX,aimaoji.com,DIRECT
 DOMAIN-SUFFIX,aimapp.net,DIRECT
 DOMAIN-SUFFIX,aimeas.com,DIRECT
 DOMAIN-SUFFIX,aimeicaizhuang.com,DIRECT
@@ -8825,6 +8824,7 @@ DOMAIN-SUFFIX,baihexs.com,DIRECT
 DOMAIN-SUFFIX,baihong.com,DIRECT
 DOMAIN-SUFFIX,baihui.com,DIRECT
 DOMAIN-SUFFIX,baihuikangjt.com,DIRECT
+DOMAIN-SUFFIX,baihuoke.com,DIRECT
 DOMAIN-SUFFIX,baihuwang.com,DIRECT
 DOMAIN-SUFFIX,baiila.com,DIRECT
 DOMAIN-SUFFIX,baiinfo.com,DIRECT
@@ -9026,6 +9026,7 @@ DOMAIN-SUFFIX,bansha.com,DIRECT
 DOMAIN-SUFFIX,banshier.com,DIRECT
 DOMAIN-SUFFIX,bantangapp.com,DIRECT
 DOMAIN-SUFFIX,bantangbuy.com,DIRECT
+DOMAIN-SUFFIX,banwojia.com,DIRECT
 DOMAIN-SUFFIX,banxiayue.com,DIRECT
 DOMAIN-SUFFIX,banyuetanxcx.com,DIRECT
 DOMAIN-SUFFIX,banzou.name,DIRECT
@@ -12948,6 +12949,7 @@ DOMAIN-SUFFIX,chinaxwcb.com,DIRECT
 DOMAIN-SUFFIX,chinayigui.com,DIRECT
 DOMAIN-SUFFIX,chinayk.com,DIRECT
 DOMAIN-SUFFIX,chinaymc.com,DIRECT
+DOMAIN-SUFFIX,chinaymtz.com,DIRECT
 DOMAIN-SUFFIX,chinayouji.com,DIRECT
 DOMAIN-SUFFIX,chinayyjx.com,DIRECT
 DOMAIN-SUFFIX,chinayyo.com,DIRECT

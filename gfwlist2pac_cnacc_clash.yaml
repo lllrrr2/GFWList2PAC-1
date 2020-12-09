@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzUyNzEzMAo=
+# Checksum: MTYwNzUzNzkxMQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201209-5
-# TimeUpdated: 2020-12-09T15:18:50+00:00
+# Version: 1.2.5-20201209-6
+# TimeUpdated: 2020-12-09T18:18:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -3877,6 +3877,7 @@ payload:
   - DOMAIN-SUFFIX,51xcname.com
   - DOMAIN-SUFFIX,51xcrc.com
   - DOMAIN-SUFFIX,51xfzy.com
+  - DOMAIN-SUFFIX,51xgjd.com
   - DOMAIN-SUFFIX,51xiancheng.com
   - DOMAIN-SUFFIX,51xiaolu.com
   - DOMAIN-SUFFIX,51xingjy.com
@@ -7120,7 +7121,6 @@ payload:
   - DOMAIN-SUFFIX,ahkjw.com
   - DOMAIN-SUFFIX,ahkrd88.com
   - DOMAIN-SUFFIX,ahkxsoft.com
-  - DOMAIN-SUFFIX,ahlib.com
   - DOMAIN-SUFFIX,ahlife.com
   - DOMAIN-SUFFIX,ahljnews.com
   - DOMAIN-SUFFIX,ahlrb.com
@@ -7306,7 +7306,6 @@ payload:
   - DOMAIN-SUFFIX,ailvzhi.com
   - DOMAIN-SUFFIX,ailvzhidu.com
   - DOMAIN-SUFFIX,aimagang.com
-  - DOMAIN-SUFFIX,aimaoji.com
   - DOMAIN-SUFFIX,aimapp.net
   - DOMAIN-SUFFIX,aimeas.com
   - DOMAIN-SUFFIX,aimeicaizhuang.com
@@ -8826,6 +8825,7 @@ payload:
   - DOMAIN-SUFFIX,baihong.com
   - DOMAIN-SUFFIX,baihui.com
   - DOMAIN-SUFFIX,baihuikangjt.com
+  - DOMAIN-SUFFIX,baihuoke.com
   - DOMAIN-SUFFIX,baihuwang.com
   - DOMAIN-SUFFIX,baiila.com
   - DOMAIN-SUFFIX,baiinfo.com
@@ -9027,6 +9027,7 @@ payload:
   - DOMAIN-SUFFIX,banshier.com
   - DOMAIN-SUFFIX,bantangapp.com
   - DOMAIN-SUFFIX,bantangbuy.com
+  - DOMAIN-SUFFIX,banwojia.com
   - DOMAIN-SUFFIX,banxiayue.com
   - DOMAIN-SUFFIX,banyuetanxcx.com
   - DOMAIN-SUFFIX,banzou.name
@@ -12949,6 +12950,7 @@ payload:
   - DOMAIN-SUFFIX,chinayigui.com
   - DOMAIN-SUFFIX,chinayk.com
   - DOMAIN-SUFFIX,chinaymc.com
+  - DOMAIN-SUFFIX,chinaymtz.com
   - DOMAIN-SUFFIX,chinayouji.com
   - DOMAIN-SUFFIX,chinayyjx.com
   - DOMAIN-SUFFIX,chinayyo.com
