@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzUwNTU1MQo=
+# Checksum: MTYwNzUxNjY1MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201209-3
-# TimeUpdated: 2020-12-09T09:19:11+00:00
+# Version: 1.2.5-20201209-4
+# TimeUpdated: 2020-12-09T12:24:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5063,7 +5063,6 @@ payload:
   - DOMAIN-SUFFIX,ca983.com
   - DOMAIN-SUFFIX,cabehias.com
   - DOMAIN-SUFFIX,cabepelangi.com
-  - DOMAIN-SUFFIX,cabet076.com
   - DOMAIN-SUFFIX,cabet097.com
   - DOMAIN-SUFFIX,cabet171.com
   - DOMAIN-SUFFIX,cabet258.com
@@ -5073,7 +5072,6 @@ payload:
   - DOMAIN-SUFFIX,cabet366.com
   - DOMAIN-SUFFIX,cabet372.com
   - DOMAIN-SUFFIX,cabet679.com
-  - DOMAIN-SUFFIX,cabet833.com
   - DOMAIN-SUFFIX,cabet999.com
   - DOMAIN-SUFFIX,cablegatesearch.net
   - DOMAIN-SUFFIX,cabletvdirectv.com

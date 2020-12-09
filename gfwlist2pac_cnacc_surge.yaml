@@ -1,7 +1,7 @@
-# Checksum: MTYwNzUwNTU0NAo=
+# Checksum: MTYwNzUxNjY0Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201209-3
-# TimeUpdated: 2020-12-09T09:19:04+00:00
+# Version: 1.2.5-20201209-4
+# TimeUpdated: 2020-12-09T12:24:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,010dsmzyy.com
 DOMAIN-SUFFIX,010fk.com
 DOMAIN-SUFFIX,010hetongls.com
 DOMAIN-SUFFIX,010hx.com
+DOMAIN-SUFFIX,010jianzhan.com
 DOMAIN-SUFFIX,010jing-pc.com
 DOMAIN-SUFFIX,0110m.com
 DOMAIN-SUFFIX,0123366.com
@@ -1284,7 +1285,6 @@ DOMAIN-SUFFIX,155idc.com
 DOMAIN-SUFFIX,156580.com
 DOMAIN-SUFFIX,15666.com
 DOMAIN-SUFFIX,156zy.com
-DOMAIN-SUFFIX,1586f.com
 DOMAIN-SUFFIX,1588.tv
 DOMAIN-SUFFIX,15880.com
 DOMAIN-SUFFIX,158jixie.com
@@ -11853,7 +11853,6 @@ DOMAIN-SUFFIX,cenya.com
 DOMAIN-SUFFIX,ceobiao.com
 DOMAIN-SUFFIX,ceoeo.com
 DOMAIN-SUFFIX,ceoim.com
-DOMAIN-SUFFIX,ceons4.com
 DOMAIN-SUFFIX,ceook.com
 DOMAIN-SUFFIX,ceoplaza.com
 DOMAIN-SUFFIX,ceowan.com
@@ -14187,7 +14186,6 @@ DOMAIN-SUFFIX,cocccc.vip
 DOMAIN-SUFFIX,cocimg.com
 DOMAIN-SUFFIX,coco413.com
 DOMAIN-SUFFIX,cocoachina.com
-DOMAIN-SUFFIX,cocode.cc
 DOMAIN-SUFFIX,cocodiy.com
 DOMAIN-SUFFIX,cocomanhua.com
 DOMAIN-SUFFIX,cocoren.com
@@ -21841,6 +21839,7 @@ DOMAIN-SUFFIX,guan5.com
 DOMAIN-SUFFIX,guanaitong.com
 DOMAIN-SUFFIX,guanchangcun.com
 DOMAIN-SUFFIX,guanchao.site
+DOMAIN-SUFFIX,guanchashou.com
 DOMAIN-SUFFIX,guandan.com
 DOMAIN-SUFFIX,guandata.com
 DOMAIN-SUFFIX,guandongphoto.com
@@ -33600,6 +33599,7 @@ DOMAIN-SUFFIX,manage.c3edge.com
 DOMAIN-SUFFIX,managershare.com
 DOMAIN-SUFFIX,manben.com
 DOMAIN-SUFFIX,manboker.com
+DOMAIN-SUFFIX,mandao-tech.com
 DOMAIN-SUFFIX,mandarincapital.net
 DOMAIN-SUFFIX,mandarinedu.org
 DOMAIN-SUFFIX,mandarinhouse.com
