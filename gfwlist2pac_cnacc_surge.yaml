@@ -1,7 +1,7 @@
-# Checksum: MTYwNzUxNjY0Mwo=
+# Checksum: MTYwNzUyNzEzMAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201209-4
-# TimeUpdated: 2020-12-09T12:24:03+00:00
+# Version: 1.2.5-20201209-5
+# TimeUpdated: 2020-12-09T15:18:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -8690,7 +8690,6 @@ DOMAIN-SUFFIX,b8yx.com
 DOMAIN-SUFFIX,b91.com
 DOMAIN-SUFFIX,ba-li.com
 DOMAIN-SUFFIX,ba125.com
-DOMAIN-SUFFIX,baaidu.com
 DOMAIN-SUFFIX,baalchina.net
 DOMAIN-SUFFIX,baba.cc
 DOMAIN-SUFFIX,bababus.com
@@ -9751,7 +9750,6 @@ DOMAIN-SUFFIX,bihongbo.com
 DOMAIN-SUFFIX,bihu.com
 DOMAIN-SUFFIX,bihubao.com
 DOMAIN-SUFFIX,bihuitianxia.com
-DOMAIN-SUFFIX,bihuwo.com
 DOMAIN-SUFFIX,bii-erg.com
 DOMAIN-SUFFIX,biikan.com
 DOMAIN-SUFFIX,biiquan.com
@@ -14311,6 +14309,7 @@ DOMAIN-SUFFIX,cokemine.com
 DOMAIN-SUFFIX,cokll.com
 DOMAIN-SUFFIX,col.ink
 DOMAIN-SUFFIX,colabug.com
+DOMAIN-SUFFIX,colachan.com
 DOMAIN-SUFFIX,coladrive.com
 DOMAIN-SUFFIX,colafile.com
 DOMAIN-SUFFIX,colahotpot.com
@@ -21839,7 +21838,6 @@ DOMAIN-SUFFIX,guan5.com
 DOMAIN-SUFFIX,guanaitong.com
 DOMAIN-SUFFIX,guanchangcun.com
 DOMAIN-SUFFIX,guanchao.site
-DOMAIN-SUFFIX,guanchashou.com
 DOMAIN-SUFFIX,guandan.com
 DOMAIN-SUFFIX,guandata.com
 DOMAIN-SUFFIX,guandongphoto.com
@@ -31078,6 +31076,7 @@ DOMAIN-SUFFIX,lanhuhu.com
 DOMAIN-SUFFIX,lanhusoft.com
 DOMAIN-SUFFIX,lanindex.com
 DOMAIN-SUFFIX,lanjie520.com
+DOMAIN-SUFFIX,lanjing188.com
 DOMAIN-SUFFIX,lanjing5.com
 DOMAIN-SUFFIX,lanjinger.com
 DOMAIN-SUFFIX,lanjingfm.com
@@ -33057,6 +33056,7 @@ DOMAIN-SUFFIX,luoxue.com
 DOMAIN-SUFFIX,luoying66.com
 DOMAIN-SUFFIX,luozhongxu.com
 DOMAIN-SUFFIX,luozk.com
+DOMAIN-SUFFIX,luozongle.com
 DOMAIN-SUFFIX,lup2p.com
 DOMAIN-SUFFIX,lupaworld.com
 DOMAIN-SUFFIX,lupeng.me

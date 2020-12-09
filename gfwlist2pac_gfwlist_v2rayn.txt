@@ -1,7 +1,7 @@
-# Checksum: MTYwNzUxNjY1MAo=
+# Checksum: MTYwNzUyNzE0MAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201209-4
-# TimeUpdated: 2020-12-09T12:24:10+00:00
+# Version: 1.2.5-20201209-5
+# TimeUpdated: 2020-12-09T15:19:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -555,6 +555,7 @@ domain:26.slyip.net,
 domain:26.suroot.com,
 domain:26.ygto.com,
 domain:26260808.com,
+domain:26268.com,
 domain:2646.com,
 domain:2646k.com,
 domain:2646m.com,
@@ -3665,7 +3666,6 @@ domain:beatsinsingapore.com,
 domain:beatsireland.net,
 domain:beatsjoy.com,
 domain:beatsmonstersales.com,
-domain:beatsmusic.com,
 domain:beatsmusic.wang,
 domain:beatsneon.com,
 domain:beatsnzsale.com,

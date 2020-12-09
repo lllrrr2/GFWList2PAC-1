@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzUxNjY1MAo=
+# Checksum: MTYwNzUyNzE0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201209-4
-# TimeUpdated: 2020-12-09T12:24:10+00:00
+# Version: 1.2.5-20201209-5
+# TimeUpdated: 2020-12-09T15:19:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -556,6 +556,7 @@ payload:
   - DOMAIN-SUFFIX,26.suroot.com
   - DOMAIN-SUFFIX,26.ygto.com
   - DOMAIN-SUFFIX,26260808.com
+  - DOMAIN-SUFFIX,26268.com
   - DOMAIN-SUFFIX,2646.com
   - DOMAIN-SUFFIX,2646k.com
   - DOMAIN-SUFFIX,2646m.com
@@ -3666,7 +3667,6 @@ payload:
   - DOMAIN-SUFFIX,beatsireland.net
   - DOMAIN-SUFFIX,beatsjoy.com
   - DOMAIN-SUFFIX,beatsmonstersales.com
-  - DOMAIN-SUFFIX,beatsmusic.com
   - DOMAIN-SUFFIX,beatsmusic.wang
   - DOMAIN-SUFFIX,beatsneon.com
   - DOMAIN-SUFFIX,beatsnzsale.com
