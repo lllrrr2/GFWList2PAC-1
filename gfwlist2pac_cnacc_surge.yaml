@@ -1,7 +1,7 @@
-# Checksum: MTYwNzUzNzkxMQo=
+# Checksum: MTYwNzU0ODU3Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201209-6
-# TimeUpdated: 2020-12-09T18:18:31+00:00
+# Version: 1.2.5-20201209-7
+# TimeUpdated: 2020-12-09T21:16:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2159,7 +2159,6 @@ DOMAIN-SUFFIX,23xsw.cc
 DOMAIN-SUFFIX,23yy.com
 DOMAIN-SUFFIX,23zhuiju.com
 DOMAIN-SUFFIX,240yx.com
-DOMAIN-SUFFIX,242zt.com
 DOMAIN-SUFFIX,2455000.com
 DOMAIN-SUFFIX,246ys.com
 DOMAIN-SUFFIX,2478.com
@@ -7120,6 +7119,7 @@ DOMAIN-SUFFIX,ahkjksw.com
 DOMAIN-SUFFIX,ahkjw.com
 DOMAIN-SUFFIX,ahkrd88.com
 DOMAIN-SUFFIX,ahkxsoft.com
+DOMAIN-SUFFIX,ahlib.com
 DOMAIN-SUFFIX,ahlife.com
 DOMAIN-SUFFIX,ahljnews.com
 DOMAIN-SUFFIX,ahlrb.com
@@ -7419,7 +7419,6 @@ DOMAIN-SUFFIX,aixgl.com
 DOMAIN-SUFFIX,aixiashu.com
 DOMAIN-SUFFIX,aixiatxt.com
 DOMAIN-SUFFIX,aixiawa.com
-DOMAIN-SUFFIX,aixiegao.com
 DOMAIN-SUFFIX,aixiezuo.com
 DOMAIN-SUFFIX,aixigua.com
 DOMAIN-SUFFIX,aixinbaomu.com
@@ -8440,6 +8439,7 @@ DOMAIN-SUFFIX,athmapp.com
 DOMAIN-SUFFIX,atido.com
 DOMAIN-SUFFIX,atimg.com
 DOMAIN-SUFFIX,ating.info
+DOMAIN-SUFFIX,atiyun.com
 DOMAIN-SUFFIX,atjiang.com
 DOMAIN-SUFFIX,atjiehun.com
 DOMAIN-SUFFIX,atm988.com
@@ -47915,6 +47915,7 @@ DOMAIN-SUFFIX,vchome.net
 DOMAIN-SUFFIX,vcinchina.com
 DOMAIN-SUFFIX,vckai.com
 DOMAIN-SUFFIX,vckbase.com
+DOMAIN-SUFFIX,vcloudgtm.com
 DOMAIN-SUFFIX,vclusters.com
 DOMAIN-SUFFIX,vcomic.com
 DOMAIN-SUFFIX,vcomputes.com

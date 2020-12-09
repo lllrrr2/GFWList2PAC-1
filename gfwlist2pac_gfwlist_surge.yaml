@@ -1,7 +1,7 @@
-# Checksum: MTYwNzUzNzkyMQo=
+# Checksum: MTYwNzU0ODU4MAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201209-6
-# TimeUpdated: 2020-12-09T18:18:41+00:00
+# Version: 1.2.5-20201209-7
+# TimeUpdated: 2020-12-09T21:16:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -637,7 +637,6 @@ DOMAIN-SUFFIX,310128.com
 DOMAIN-SUFFIX,310359.web.ioshow.com
 DOMAIN-SUFFIX,310a.com
 DOMAIN-SUFFIX,310app1.com
-DOMAIN-SUFFIX,3147.cabet359.com
 DOMAIN-SUFFIX,315lz.com
 DOMAIN-SUFFIX,3166604.com
 DOMAIN-SUFFIX,31666333.com
@@ -9276,6 +9275,7 @@ DOMAIN-SUFFIX,franklc.com
 DOMAIN-SUFFIX,frassli.ir
 DOMAIN-SUFFIX,frat-party-sluts.com
 DOMAIN-SUFFIX,frcasquesbeats.com
+DOMAIN-SUFFIX,free-aa.com
 DOMAIN-SUFFIX,free-gate.org
 DOMAIN-SUFFIX,free-hada-now.org
 DOMAIN-SUFFIX,free-movie.be

@@ -1,7 +1,7 @@
-# Checksum: MTYwNzUzNzkxMQo=
+# Checksum: MTYwNzU0ODU3Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201209-6
-# TimeUpdated: 2020-12-09T18:18:31+00:00
+# Version: 1.2.5-20201209-7
+# TimeUpdated: 2020-12-09T21:16:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2159,7 +2159,6 @@ domain:23xsw.cc,
 domain:23yy.com,
 domain:23zhuiju.com,
 domain:240yx.com,
-domain:242zt.com,
 domain:2455000.com,
 domain:246ys.com,
 domain:2478.com,
@@ -7120,6 +7119,7 @@ domain:ahkjksw.com,
 domain:ahkjw.com,
 domain:ahkrd88.com,
 domain:ahkxsoft.com,
+domain:ahlib.com,
 domain:ahlife.com,
 domain:ahljnews.com,
 domain:ahlrb.com,
@@ -7419,7 +7419,6 @@ domain:aixgl.com,
 domain:aixiashu.com,
 domain:aixiatxt.com,
 domain:aixiawa.com,
-domain:aixiegao.com,
 domain:aixiezuo.com,
 domain:aixigua.com,
 domain:aixinbaomu.com,
@@ -8440,6 +8439,7 @@ domain:athmapp.com,
 domain:atido.com,
 domain:atimg.com,
 domain:ating.info,
+domain:atiyun.com,
 domain:atjiang.com,
 domain:atjiehun.com,
 domain:atm988.com,
@@ -47915,6 +47915,7 @@ domain:vchome.net,
 domain:vcinchina.com,
 domain:vckai.com,
 domain:vckbase.com,
+domain:vcloudgtm.com,
 domain:vclusters.com,
 domain:vcomic.com,
 domain:vcomputes.com,
