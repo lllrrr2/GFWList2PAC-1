@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ5NDg4NAo=
+# Checksum: MTYwNzUwNTU0NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201209-2
-# TimeUpdated: 2020-12-09T06:21:24+00:00
+# Version: 1.2.5-20201209-3
+# TimeUpdated: 2020-12-09T09:19:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1474,6 +1474,7 @@ DOMAIN-SUFFIX,1758.com
 DOMAIN-SUFFIX,175game.com
 DOMAIN-SUFFIX,175ha.com
 DOMAIN-SUFFIX,175pt.com
+DOMAIN-SUFFIX,175wan.com
 DOMAIN-SUFFIX,17611.com
 DOMAIN-SUFFIX,17666.mobi
 DOMAIN-SUFFIX,17673.com
@@ -1522,7 +1523,6 @@ DOMAIN-SUFFIX,17dm.com
 DOMAIN-SUFFIX,17doubao.com
 DOMAIN-SUFFIX,17dp.com
 DOMAIN-SUFFIX,17emarketing.com
-DOMAIN-SUFFIX,17fanwen.com
 DOMAIN-SUFFIX,17fee.com
 DOMAIN-SUFFIX,17fengguo.com
 DOMAIN-SUFFIX,17fengyou.com
@@ -7411,7 +7411,6 @@ DOMAIN-SUFFIX,aiwan4399.com
 DOMAIN-SUFFIX,aiwan91.com
 DOMAIN-SUFFIX,aiwanba.net
 DOMAIN-SUFFIX,aiwanpai.com
-DOMAIN-SUFFIX,aiwansc.com
 DOMAIN-SUFFIX,aiweibang.com
 DOMAIN-SUFFIX,aiweibk.com
 DOMAIN-SUFFIX,aiweline.com
@@ -9029,7 +9028,6 @@ DOMAIN-SUFFIX,banshier.com
 DOMAIN-SUFFIX,bantangapp.com
 DOMAIN-SUFFIX,bantangbuy.com
 DOMAIN-SUFFIX,banxiayue.com
-DOMAIN-SUFFIX,banyou.la
 DOMAIN-SUFFIX,banyuetanxcx.com
 DOMAIN-SUFFIX,banzou.name
 DOMAIN-SUFFIX,bao-cun.com
@@ -9827,7 +9825,6 @@ DOMAIN-SUFFIX,binmt.cc
 DOMAIN-SUFFIX,binospace.com
 DOMAIN-SUFFIX,binpang.me
 DOMAIN-SUFFIX,binqsoft.com
-DOMAIN-SUFFIX,binvul.com
 DOMAIN-SUFFIX,binxini.com
 DOMAIN-SUFFIX,binyin.com
 DOMAIN-SUFFIX,binzhi.com
@@ -9836,7 +9833,6 @@ DOMAIN-SUFFIX,bio-equip.com
 DOMAIN-SUFFIX,bio-fuyang.com
 DOMAIN-SUFFIX,bio360.net
 DOMAIN-SUFFIX,bio4p.com
-DOMAIN-SUFFIX,bioberi.com
 DOMAIN-SUFFIX,biocloud.net
 DOMAIN-SUFFIX,biocome.com
 DOMAIN-SUFFIX,biodiscover.com

@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ5NDg5Mwo=
+# Checksum: MTYwNzUwNTU1MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201209-2
-# TimeUpdated: 2020-12-09T06:21:33+00:00
+# Version: 1.2.5-20201209-3
+# TimeUpdated: 2020-12-09T09:19:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -880,7 +880,6 @@ domain:50na50.net,
 domain:50webs.com,
 domain:51489.godxtv.com,
 domain:51499.com,
-domain:51529.com,
 domain:5154.18qmm.com,
 domain:516nn.net,
 domain:517pj.com,
