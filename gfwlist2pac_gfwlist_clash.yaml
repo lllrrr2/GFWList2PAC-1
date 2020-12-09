@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzQ3NDg5Ngo=
+# Checksum: MTYwNzQ4Mzk2NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201209-0
-# TimeUpdated: 2020-12-09T00:48:16+00:00
+# Version: 1.2.5-20201209-1
+# TimeUpdated: 2020-12-09T03:19:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1417,7 +1417,6 @@ payload:
   - DOMAIN-SUFFIX,888.etowns.org
   - DOMAIN-SUFFIX,888.gl000.com
   - DOMAIN-SUFFIX,888.sy0606.com
-  - DOMAIN-SUFFIX,888.zc555888.com
   - DOMAIN-SUFFIX,88818.com
   - DOMAIN-SUFFIX,88838333.com
   - DOMAIN-SUFFIX,88857.org
@@ -3894,7 +3893,6 @@ payload:
   - DOMAIN-SUFFIX,biggestproblemintheuniverse.com
   - DOMAIN-SUFFIX,biggo.com.tw
   - DOMAIN-SUFFIX,biggovernment.com
-  - DOMAIN-SUFFIX,bighead.group
   - DOMAIN-SUFFIX,bigjapanesesex.com
   - DOMAIN-SUFFIX,bigjockcock.com
   - DOMAIN-SUFFIX,biglychee.com
@@ -4005,6 +4003,7 @@ payload:
   - DOMAIN-SUFFIX,bjl2033.com
   - DOMAIN-SUFFIX,bjl2077.com
   - DOMAIN-SUFFIX,bjl2088.com
+  - DOMAIN-SUFFIX,bjl2799.com
   - DOMAIN-SUFFIX,bjl4777.com
   - DOMAIN-SUFFIX,bjl5.com
   - DOMAIN-SUFFIX,bjl666.com

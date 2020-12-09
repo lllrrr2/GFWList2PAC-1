@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ3NDg5Ngo=
+# Checksum: MTYwNzQ4Mzk2NAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201209-0
-# TimeUpdated: 2020-12-09T00:48:16+00:00
+# Version: 1.2.5-20201209-1
+# TimeUpdated: 2020-12-09T03:19:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1416,7 +1416,6 @@ domain:888.com,
 domain:888.etowns.org,
 domain:888.gl000.com,
 domain:888.sy0606.com,
-domain:888.zc555888.com,
 domain:88818.com,
 domain:88838333.com,
 domain:88857.org,
@@ -3893,7 +3892,6 @@ domain:bigfishgames.com,
 domain:biggestproblemintheuniverse.com,
 domain:biggo.com.tw,
 domain:biggovernment.com,
-domain:bighead.group,
 domain:bigjapanesesex.com,
 domain:bigjockcock.com,
 domain:biglychee.com,
@@ -4004,6 +4002,7 @@ domain:bjl2011.com,
 domain:bjl2033.com,
 domain:bjl2077.com,
 domain:bjl2088.com,
+domain:bjl2799.com,
 domain:bjl4777.com,
 domain:bjl5.com,
 domain:bjl666.com,

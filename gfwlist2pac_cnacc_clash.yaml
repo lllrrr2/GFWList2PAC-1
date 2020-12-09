@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzQ3NDg4Nwo=
+# Checksum: MTYwNzQ4Mzk1Ngo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201209-0
-# TimeUpdated: 2020-12-09T00:48:07+00:00
+# Version: 1.2.5-20201209-1
+# TimeUpdated: 2020-12-09T03:19:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1409,7 +1409,6 @@ payload:
   - DOMAIN-SUFFIX,169it.com
   - DOMAIN-SUFFIX,169kang.com
   - DOMAIN-SUFFIX,169qk.com
-  - DOMAIN-SUFFIX,169vv.com
   - DOMAIN-SUFFIX,169wz.com
   - DOMAIN-SUFFIX,16boke.com
   - DOMAIN-SUFFIX,16dy.com
@@ -4046,7 +4045,6 @@ payload:
   - DOMAIN-SUFFIX,52cik.com
   - DOMAIN-SUFFIX,52ckd.com
   - DOMAIN-SUFFIX,52click.net
-  - DOMAIN-SUFFIX,52codes.cc
   - DOMAIN-SUFFIX,52codes.net
   - DOMAIN-SUFFIX,52da.com
   - DOMAIN-SUFFIX,52daohang.com
@@ -5802,7 +5800,6 @@ payload:
   - DOMAIN-SUFFIX,88dj.com
   - DOMAIN-SUFFIX,88dushu.com
   - DOMAIN-SUFFIX,88h3.com
-  - DOMAIN-SUFFIX,88haodian.com
   - DOMAIN-SUFFIX,88hom.com
   - DOMAIN-SUFFIX,88ht.com
   - DOMAIN-SUFFIX,88hu.com
@@ -6610,7 +6607,6 @@ payload:
   - DOMAIN-SUFFIX,9mcu.com
   - DOMAIN-SUFFIX,9mi.me
   - DOMAIN-SUFFIX,9mi01.com
-  - DOMAIN-SUFFIX,9mi04.com
   - DOMAIN-SUFFIX,9miao.com
   - DOMAIN-SUFFIX,9miaoketang.com
   - DOMAIN-SUFFIX,9miaoxueyuan.com
@@ -9754,7 +9750,6 @@ payload:
   - DOMAIN-SUFFIX,bigwinepot.com
   - DOMAIN-SUFFIX,bigxiao.com
   - DOMAIN-SUFFIX,bigzhong.com
-  - DOMAIN-SUFFIX,bigzhuang.com
   - DOMAIN-SUFFIX,bihaiji.com
   - DOMAIN-SUFFIX,bihaipack.com
   - DOMAIN-SUFFIX,bihongbo.com
@@ -12980,7 +12975,6 @@ payload:
   - DOMAIN-SUFFIX,chinazns.com
   - DOMAIN-SUFFIX,chinaznyj.com
   - DOMAIN-SUFFIX,chinazov.com
-  - DOMAIN-SUFFIX,chinazyjr.com
   - DOMAIN-SUFFIX,chinca.org
   - DOMAIN-SUFFIX,chindiaforum.com
   - DOMAIN-SUFFIX,chine-info.com
@@ -17030,7 +17024,6 @@ payload:
   - DOMAIN-SUFFIX,douban888.com
   - DOMAIN-SUFFIX,doubaojf.com
   - DOMAIN-SUFFIX,doubean.com
-  - DOMAIN-SUFFIX,douben8.com
   - DOMAIN-SUFFIX,doubimeizhi.com
   - DOMAIN-SUFFIX,doubimm.net
   - DOMAIN-SUFFIX,douboshi.net
@@ -23719,6 +23712,7 @@ payload:
   - DOMAIN-SUFFIX,hgy413.com
   - DOMAIN-SUFFIX,hgyjs.com
   - DOMAIN-SUFFIX,hgyx.cc
+  - DOMAIN-SUFFIX,hgzk.com
   - DOMAIN-SUFFIX,hgzrc.com
   - DOMAIN-SUFFIX,hh-gltd.com
   - DOMAIN-SUFFIX,hh04.com
@@ -29367,6 +29361,7 @@ payload:
   - DOMAIN-SUFFIX,juxinjt.com
   - DOMAIN-SUFFIX,juyanbao.com
   - DOMAIN-SUFFIX,juyoufan.net
+  - DOMAIN-SUFFIX,juyouqian.com
   - DOMAIN-SUFFIX,juyouqu.com
   - DOMAIN-SUFFIX,juyoutv.cc
   - DOMAIN-SUFFIX,juyouxi.com
@@ -47459,7 +47454,6 @@ payload:
   - DOMAIN-SUFFIX,umivi.net
   - DOMAIN-SUFFIX,umiwi.com
   - DOMAIN-SUFFIX,umjicanvas.com
-  - DOMAIN-SUFFIX,umke.shop
   - DOMAIN-SUFFIX,uml-tech.com
   - DOMAIN-SUFFIX,umlchina.com
   - DOMAIN-SUFFIX,umlife.net
@@ -51964,7 +51958,6 @@ payload:
   - DOMAIN-SUFFIX,xingpin.com
   - DOMAIN-SUFFIX,xingqitouzi.com
   - DOMAIN-SUFFIX,xingqiu.tv
-  - DOMAIN-SUFFIX,xingqu11.com
   - DOMAIN-SUFFIX,xingren.com
   - DOMAIN-SUFFIX,xingse.net
   - DOMAIN-SUFFIX,xingseapp.com
