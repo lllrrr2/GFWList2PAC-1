@@ -1,7 +1,7 @@
-# Checksum: MTYwNzQ4Mzk1Ngo=
+# Checksum: MTYwNzQ5NDg4NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201209-1
-# TimeUpdated: 2020-12-09T03:19:16+00:00
+# Version: 1.2.5-20201209-2
+# TimeUpdated: 2020-12-09T06:21:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -914,7 +914,6 @@ domain:1111biao.com,
 domain:1113.cc,
 domain:11160066.com,
 domain:1116yl.com,
-domain:1117797.com,
 domain:111cn.net,
 domain:111hyk.com,
 domain:111jz.com,
@@ -3935,7 +3934,6 @@ domain:51zhujia.com,
 domain:51zixuewang.com,
 domain:51zjxm.com,
 domain:51zjxz.com,
-domain:51zpyc.com,
 domain:51zr.com,
 domain:51zsjc.com,
 domain:51ztzj.com,
