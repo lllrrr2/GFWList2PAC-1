@@ -1,7 +1,7 @@
-# Checksum: MTYwNzYyNDMzMwo=
+# Checksum: MTYwNzYzNDk4Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201210-6
-# TimeUpdated: 2020-12-10T18:18:53+00:00
+# Version: 1.2.5-20201210-7
+# TimeUpdated: 2020-12-10T21:16:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3947,6 +3947,7 @@ domain:51zyzy.com,
 domain:51zzl.com,
 domain:52-ic.com,
 domain:5200.net,
+domain:52004.net,
 domain:5200e.com,
 domain:5200wx.com,
 domain:520101.com,
@@ -5691,6 +5692,7 @@ domain:86hud.com,
 domain:86huoche.com,
 domain:86jg.com,
 domain:86jnjp.com,
+domain:86joy.com,
 domain:86junshi.com,
 domain:86kx.com,
 domain:86lawyer.com,
@@ -14118,7 +14120,6 @@ domain:cnwebe.com,
 domain:cnweblog.com,
 domain:cnwebshow.com,
 domain:cnwen.net,
-domain:cnwenger.com,
 domain:cnwenshi.net,
 domain:cnwest.com,
 domain:cnwest88.com,
@@ -25520,6 +25521,7 @@ domain:hzxiangda.com,
 domain:hzxiyuege.com,
 domain:hzxsjgxx.com,
 domain:hzxsp88.com,
+domain:hzxyns.com,
 domain:hzyestar.com,
 domain:hzyhzp.com,
 domain:hzylpco.com,
@@ -43335,6 +43337,7 @@ domain:slupdate.dlservice.microsoft.com,
 domain:slvdy.com,
 domain:slwh-dfh.com,
 domain:slwwedding.com,
+domain:slxun.com,
 domain:slzsxx.com,
 domain:slzww.com,
 domain:sm160.net,
