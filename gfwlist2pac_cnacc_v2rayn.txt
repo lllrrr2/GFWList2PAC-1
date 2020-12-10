@@ -1,7 +1,7 @@
-# Checksum: MTYwNzU3MDMzMgo=
+# Checksum: MTYwNzU4MTI4Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201210-1
-# TimeUpdated: 2020-12-10T03:18:52+00:00
+# Version: 1.2.5-20201210-2
+# TimeUpdated: 2020-12-10T06:21:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -200,6 +200,7 @@ domain:0243855.com,
 domain:0245.org,
 domain:024888.net,
 domain:02489.com,
+domain:024anfang.com,
 domain:024aosite.com,
 domain:024asdr.com,
 domain:024bj.com,
@@ -6562,7 +6563,6 @@ domain:9fav.com,
 domain:9fbank.com,
 domain:9first.com,
 domain:9fs.com,
-domain:9fstock.com,
 domain:9g.com,
 domain:9gaoding.com,
 domain:9gty.net,
@@ -7164,6 +7164,7 @@ domain:ai7.com,
 domain:ai7.org,
 domain:ai8g.com,
 domain:ai9475.com,
+domain:aiai6.com,
 domain:aiaisz.xyz,
 domain:aiaiu.com,
 domain:aiaor.com,
@@ -7854,7 +7855,6 @@ domain:ann5.net,
 domain:ann9.com,
 domain:anna-eva.com,
 domain:annchain.io,
-domain:anneishuo.com,
 domain:annelhair.com,
 domain:annhe.net,
 domain:annto.com,

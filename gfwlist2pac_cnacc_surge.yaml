@@ -1,7 +1,7 @@
-# Checksum: MTYwNzU3MDMzMgo=
+# Checksum: MTYwNzU4MTI4Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201210-1
-# TimeUpdated: 2020-12-10T03:18:52+00:00
+# Version: 1.2.5-20201210-2
+# TimeUpdated: 2020-12-10T06:21:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -200,6 +200,7 @@ DOMAIN-SUFFIX,0243855.com
 DOMAIN-SUFFIX,0245.org
 DOMAIN-SUFFIX,024888.net
 DOMAIN-SUFFIX,02489.com
+DOMAIN-SUFFIX,024anfang.com
 DOMAIN-SUFFIX,024aosite.com
 DOMAIN-SUFFIX,024asdr.com
 DOMAIN-SUFFIX,024bj.com
@@ -6562,7 +6563,6 @@ DOMAIN-SUFFIX,9fav.com
 DOMAIN-SUFFIX,9fbank.com
 DOMAIN-SUFFIX,9first.com
 DOMAIN-SUFFIX,9fs.com
-DOMAIN-SUFFIX,9fstock.com
 DOMAIN-SUFFIX,9g.com
 DOMAIN-SUFFIX,9gaoding.com
 DOMAIN-SUFFIX,9gty.net
@@ -7164,6 +7164,7 @@ DOMAIN-SUFFIX,ai7.com
 DOMAIN-SUFFIX,ai7.org
 DOMAIN-SUFFIX,ai8g.com
 DOMAIN-SUFFIX,ai9475.com
+DOMAIN-SUFFIX,aiai6.com
 DOMAIN-SUFFIX,aiaisz.xyz
 DOMAIN-SUFFIX,aiaiu.com
 DOMAIN-SUFFIX,aiaor.com
@@ -7854,7 +7855,6 @@ DOMAIN-SUFFIX,ann5.net
 DOMAIN-SUFFIX,ann9.com
 DOMAIN-SUFFIX,anna-eva.com
 DOMAIN-SUFFIX,annchain.io
-DOMAIN-SUFFIX,anneishuo.com
 DOMAIN-SUFFIX,annelhair.com
 DOMAIN-SUFFIX,annhe.net
 DOMAIN-SUFFIX,annto.com
