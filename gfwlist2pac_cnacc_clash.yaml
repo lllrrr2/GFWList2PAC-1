@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzU2MTMzOQo=
+# Checksum: MTYwNzU3MDMzMgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201210-0
-# TimeUpdated: 2020-12-10T00:48:59+00:00
+# Version: 1.2.5-20201210-1
+# TimeUpdated: 2020-12-10T03:18:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -4252,6 +4252,7 @@ payload:
   - DOMAIN-SUFFIX,54doctor.net
   - DOMAIN-SUFFIX,54doctors.net
   - DOMAIN-SUFFIX,54fcnr.com
+  - DOMAIN-SUFFIX,54hacker.com
   - DOMAIN-SUFFIX,54hcz.com
   - DOMAIN-SUFFIX,54heb.com
   - DOMAIN-SUFFIX,54hei.com
@@ -5689,7 +5690,6 @@ payload:
   - DOMAIN-SUFFIX,86huoche.com
   - DOMAIN-SUFFIX,86jg.com
   - DOMAIN-SUFFIX,86jnjp.com
-  - DOMAIN-SUFFIX,86joy.com
   - DOMAIN-SUFFIX,86junshi.com
   - DOMAIN-SUFFIX,86kx.com
   - DOMAIN-SUFFIX,86lawyer.com
@@ -7104,7 +7104,6 @@ payload:
   - DOMAIN-SUFFIX,ahhs10000.com
   - DOMAIN-SUFFIX,ahhtzx.com
   - DOMAIN-SUFFIX,ahhxcm.com
-  - DOMAIN-SUFFIX,ahir8.icu
   - DOMAIN-SUFFIX,ahjdq.com
   - DOMAIN-SUFFIX,ahjgxy.com
   - DOMAIN-SUFFIX,ahjingzhan.com
@@ -13458,6 +13457,7 @@ payload:
   - DOMAIN-SUFFIX,cleey.com
   - DOMAIN-SUFFIX,clewm.net
   - DOMAIN-SUFFIX,clf.red
+  - DOMAIN-SUFFIX,clgg1688.com
   - DOMAIN-SUFFIX,clhcable.com
   - DOMAIN-SUFFIX,cli.im
   - DOMAIN-SUFFIX,click369.com
@@ -41983,6 +41983,7 @@ payload:
   - DOMAIN-SUFFIX,shanglei.net
   - DOMAIN-SUFFIX,shangliancn.com
   - DOMAIN-SUFFIX,shanglin010.com
+  - DOMAIN-SUFFIX,shangluotb.com
   - DOMAIN-SUFFIX,shanglv51.com
   - DOMAIN-SUFFIX,shangmayuan.com
   - DOMAIN-SUFFIX,shangmeijiu.com
@@ -44251,6 +44252,7 @@ payload:
   - DOMAIN-SUFFIX,suhuishou.com
   - DOMAIN-SUFFIX,sui.com
   - DOMAIN-SUFFIX,suibianlu.com
+  - DOMAIN-SUFFIX,suibianzhao.com
   - DOMAIN-SUFFIX,suibiji.com
   - DOMAIN-SUFFIX,suicloud.com
   - DOMAIN-SUFFIX,suilengea.com
