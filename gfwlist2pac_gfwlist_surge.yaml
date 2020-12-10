@@ -1,7 +1,7 @@
-# Checksum: MTYwNzYxMzU0Mwo=
+# Checksum: MTYwNzYyNDM0Mgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201210-5
-# TimeUpdated: 2020-12-10T15:19:03+00:00
+# Version: 1.2.5-20201210-6
+# TimeUpdated: 2020-12-10T18:19:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -17140,6 +17140,7 @@ DOMAIN-SUFFIX,pixolium.com
 DOMAIN-SUFFIX,pixtronix.com
 DOMAIN-SUFFIX,pj22.cc
 DOMAIN-SUFFIX,pj222277.com
+DOMAIN-SUFFIX,pj332888.com
 DOMAIN-SUFFIX,pj333377.com
 DOMAIN-SUFFIX,pj3635.com
 DOMAIN-SUFFIX,pj4977.com

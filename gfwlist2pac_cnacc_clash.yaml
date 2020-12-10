@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzYxMzUzNQo=
+# Checksum: MTYwNzYyNDMzMwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201210-5
-# TimeUpdated: 2020-12-10T15:18:55+00:00
+# Version: 1.2.5-20201210-6
+# TimeUpdated: 2020-12-10T18:18:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -883,7 +883,6 @@ payload:
   - DOMAIN-SUFFIX,10909.com
   - DOMAIN-SUFFIX,1090ys.com
   - DOMAIN-SUFFIX,109814.com
-  - DOMAIN-SUFFIX,109863.com
   - DOMAIN-SUFFIX,109876543210.com
   - DOMAIN-SUFFIX,10bests.com
   - DOMAIN-SUFFIX,10besty.com
@@ -1590,6 +1589,7 @@ payload:
   - DOMAIN-SUFFIX,17taotaoba.com
   - DOMAIN-SUFFIX,17taotaoc.com
   - DOMAIN-SUFFIX,17tigan.com
+  - DOMAIN-SUFFIX,17tourer.com
   - DOMAIN-SUFFIX,17track.net
   - DOMAIN-SUFFIX,17tui.cc
   - DOMAIN-SUFFIX,17tx.com
@@ -1901,6 +1901,7 @@ payload:
   - DOMAIN-SUFFIX,2000new.com
   - DOMAIN-SUFFIX,2002000.xyz
   - DOMAIN-SUFFIX,200218.com
+  - DOMAIN-SUFFIX,2003dns.com
   - DOMAIN-SUFFIX,20063365.com
   - DOMAIN-SUFFIX,2006q.com
   - DOMAIN-SUFFIX,2008php.com
@@ -1924,7 +1925,6 @@ payload:
   - DOMAIN-SUFFIX,20174555.com
   - DOMAIN-SUFFIX,20176699.com
   - DOMAIN-SUFFIX,20180719.com
-  - DOMAIN-SUFFIX,2018jsybh.com
   - DOMAIN-SUFFIX,2018lu.com
   - DOMAIN-SUFFIX,2018rp.com
   - DOMAIN-SUFFIX,2018sshcg.com
@@ -2946,6 +2946,7 @@ payload:
   - DOMAIN-SUFFIX,3975.com
   - DOMAIN-SUFFIX,3987.com
   - DOMAIN-SUFFIX,39ask.net
+  - DOMAIN-SUFFIX,39box.com
   - DOMAIN-SUFFIX,39clean.com
   - DOMAIN-SUFFIX,39cs.com
   - DOMAIN-SUFFIX,39dg.com
@@ -11544,6 +11545,7 @@ payload:
   - DOMAIN-SUFFIX,ccpitjinan.org
   - DOMAIN-SUFFIX,ccpitlight.org
   - DOMAIN-SUFFIX,ccpitnmg.org
+  - DOMAIN-SUFFIX,ccpitqd.org
   - DOMAIN-SUFFIX,ccpitsd.com
   - DOMAIN-SUFFIX,ccpittex.com
   - DOMAIN-SUFFIX,ccpittj.org
@@ -13861,6 +13863,7 @@ payload:
   - DOMAIN-SUFFIX,cnhpt.com
   - DOMAIN-SUFFIX,cnhszx.com
   - DOMAIN-SUFFIX,cnhuanya.com
+  - DOMAIN-SUFFIX,cnhubei.com
   - DOMAIN-SUFFIX,cnhup.com
   - DOMAIN-SUFFIX,cnhutong.com
   - DOMAIN-SUFFIX,cnhvacrnet.com
