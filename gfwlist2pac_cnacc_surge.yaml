@@ -1,7 +1,7 @@
-# Checksum: MTYwNzYwMzA3NQo=
+# Checksum: MTYwNzYxMzUzNQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201210-4
-# TimeUpdated: 2020-12-10T12:24:35+00:00
+# Version: 1.2.5-20201210-5
+# TimeUpdated: 2020-12-10T15:18:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -262,7 +262,6 @@ DOMAIN-SUFFIX,027yunwei.com
 DOMAIN-SUFFIX,027yx.com
 DOMAIN-SUFFIX,027zpw.com
 DOMAIN-SUFFIX,0283home.com
-DOMAIN-SUFFIX,028aide.com
 DOMAIN-SUFFIX,028brother.com
 DOMAIN-SUFFIX,028hema.com
 DOMAIN-SUFFIX,028hr.org
@@ -8935,7 +8934,6 @@ DOMAIN-SUFFIX,bajiemoney.com
 DOMAIN-SUFFIX,bajieyou.com
 DOMAIN-SUFFIX,bajieziyuan.com
 DOMAIN-SUFFIX,bakaawt.com
-DOMAIN-SUFFIX,bakbitionb.com
 DOMAIN-SUFFIX,baklib.com
 DOMAIN-SUFFIX,bakuaiwu.com
 DOMAIN-SUFFIX,bakumon.me
@@ -13320,6 +13318,7 @@ DOMAIN-SUFFIX,ciprun.com
 DOMAIN-SUFFIX,cipscom.com
 DOMAIN-SUFFIX,ciqinghui.com
 DOMAIN-SUFFIX,cirmall.com
+DOMAIN-SUFFIX,cirno9.net
 DOMAIN-SUFFIX,cirunzhang.com
 DOMAIN-SUFFIX,cismef.com
 DOMAIN-SUFFIX,citahub.com
@@ -16878,6 +16877,7 @@ DOMAIN-SUFFIX,dogfight360.com
 DOMAIN-SUFFIX,dogmr.com
 DOMAIN-SUFFIX,dogwhere.com
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,doh.pub:853
 DOMAIN-SUFFIX,dohuo.com
 DOMAIN-SUFFIX,doido.com
 DOMAIN-SUFFIX,doit.am
@@ -26544,6 +26544,7 @@ DOMAIN-SUFFIX,inbeijing.org
 DOMAIN-SUFFIX,inbilin.com
 DOMAIN-SUFFIX,inboxarchiver.com
 DOMAIN-SUFFIX,incake.net
+DOMAIN-SUFFIX,inchangling.com
 DOMAIN-SUFFIX,incloudexpo.com
 DOMAIN-SUFFIX,incnjp.com
 DOMAIN-SUFFIX,incoto.com
@@ -58142,3 +58143,4 @@ DOMAIN-SUFFIX,zzzyk.com
 DOMAIN-SUFFIX,zzzzaaaa.com
 DOMAIN-SUFFIX,zzzzhong.com
 DOMAIN-SUFFIX,zzzzmall.com
+DOMAIN-SUFFIX,zzzzmall.comtls:
