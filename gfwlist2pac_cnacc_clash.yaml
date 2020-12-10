@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzU0ODU3Mgo=
+# Checksum: MTYwNzU2MTMzOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201209-7
-# TimeUpdated: 2020-12-09T21:16:12+00:00
+# Version: 1.2.5-20201210-0
+# TimeUpdated: 2020-12-10T00:48:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1901,7 +1901,6 @@ payload:
   - DOMAIN-SUFFIX,2000new.com
   - DOMAIN-SUFFIX,2002000.xyz
   - DOMAIN-SUFFIX,200218.com
-  - DOMAIN-SUFFIX,2003dns.com
   - DOMAIN-SUFFIX,20063365.com
   - DOMAIN-SUFFIX,2006q.com
   - DOMAIN-SUFFIX,2008php.com
@@ -2829,6 +2828,7 @@ payload:
   - DOMAIN-SUFFIX,365ttcz.com
   - DOMAIN-SUFFIX,365webcall.com
   - DOMAIN-SUFFIX,365weifu.com
+  - DOMAIN-SUFFIX,365wenku.com
   - DOMAIN-SUFFIX,365world.com
   - DOMAIN-SUFFIX,365wos.com
   - DOMAIN-SUFFIX,365xiazai.com
@@ -5146,7 +5146,6 @@ payload:
   - DOMAIN-SUFFIX,71du.com
   - DOMAIN-SUFFIX,71gif.com
   - DOMAIN-SUFFIX,71lady.com
-  - DOMAIN-SUFFIX,71lady.net
   - DOMAIN-SUFFIX,71p.net
   - DOMAIN-SUFFIX,71study.com
   - DOMAIN-SUFFIX,71wl.com
@@ -12815,7 +12814,6 @@ payload:
   - DOMAIN-SUFFIX,chinaqking.com
   - DOMAIN-SUFFIX,chinaquickpcb.com
   - DOMAIN-SUFFIX,chinardr.com
-  - DOMAIN-SUFFIX,chinaren.com
   - DOMAIN-SUFFIX,chinareports.org
   - DOMAIN-SUFFIX,chinarootdesign.com
   - DOMAIN-SUFFIX,chinarta.com
@@ -34985,6 +34983,7 @@ payload:
   - DOMAIN-SUFFIX,moji001.com
   - DOMAIN-SUFFIX,moji002.com
   - DOMAIN-SUFFIX,mojichina.com
+  - DOMAIN-SUFFIX,mojidict.com
   - DOMAIN-SUFFIX,mojidong.com
   - DOMAIN-SUFFIX,mojieai.com
   - DOMAIN-SUFFIX,mojiegou5.com
@@ -44190,6 +44189,7 @@ payload:
   - DOMAIN-SUFFIX,su-long.com
   - DOMAIN-SUFFIX,su-yongchen.com
   - DOMAIN-SUFFIX,suanbanyun.com
+  - DOMAIN-SUFFIX,suanbuliu.com
   - DOMAIN-SUFFIX,suandao.com
   - DOMAIN-SUFFIX,suanisp.com
   - DOMAIN-SUFFIX,suanjuzi.com
@@ -46712,6 +46712,7 @@ payload:
   - DOMAIN-SUFFIX,tszww.net
   - DOMAIN-SUFFIX,tszyzx.com
   - DOMAIN-SUFFIX,tt-bike.com
+  - DOMAIN-SUFFIX,tt1h.com
   - DOMAIN-SUFFIX,tt65.org
   - DOMAIN-SUFFIX,tt86.com
   - DOMAIN-SUFFIX,ttadm.com
