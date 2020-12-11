@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY5OTkxNgo=
+# Checksum: MTYwNzcxMDczMwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201211-5
-# TimeUpdated: 2020-12-11T15:18:36+00:00
+# Version: 1.2.5-20201211-6
+# TimeUpdated: 2020-12-11T18:18:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -800,6 +800,7 @@ domain:4040.idv.tw,
 domain:404museum.com,
 domain:404url.com,
 domain:4050.cabet511.com,
+domain:40shopping.com,
 domain:412580.com,
 domain:4151.yzc596.com,
 domain:422555.com,
@@ -1610,7 +1611,6 @@ domain:991.com,
 domain:992.flnet.org,
 domain:99363973-sd.cp168.ws,
 domain:9960xl.com,
-domain:9961234.com,
 domain:999.088m5.com,
 domain:999.118m5.com,
 domain:999.158m5.com,
@@ -3997,7 +3997,6 @@ domain:bjl2077.com,
 domain:bjl2088.com,
 domain:bjl2799.com,
 domain:bjl4777.com,
-domain:bjl5.com,
 domain:bjl666.com,
 domain:bjl6777.com,
 domain:bjl7520.com,

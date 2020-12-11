@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY5OTkwOQo=
+# Checksum: MTYwNzcxMDcyNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201211-5
-# TimeUpdated: 2020-12-11T15:18:29+00:00
+# Version: 1.2.5-20201211-6
+# TimeUpdated: 2020-12-11T18:18:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1851,7 +1851,6 @@ domain:1sohu.com,
 domain:1speaking.com,
 domain:1stchip.com,
 domain:1stjc.com,
-domain:1su7w68.wang,
 domain:1t.click,
 domain:1t.io,
 domain:1t1t.com,
@@ -8647,7 +8646,6 @@ domain:azureyun.com,
 domain:azycjd.com,
 domain:azyx.com,
 domain:azz.net,
-domain:azzmtool.com,
 domain:b-chem.com,
 domain:b-eurochina.com,
 domain:b-fairy.com,
@@ -38535,6 +38533,7 @@ domain:ppsport.com,
 domain:ppstream.com,
 domain:ppstream.net,
 domain:ppstv.com,
+domain:ppstv.net,
 domain:ppswan.com,
 domain:ppt118.com,
 domain:ppt123.net,

@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY5OTkwOQo=
+# Checksum: MTYwNzcxMDcyNQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201211-5
-# TimeUpdated: 2020-12-11T15:18:29+00:00
+# Version: 1.2.5-20201211-6
+# TimeUpdated: 2020-12-11T18:18:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -1851,7 +1851,6 @@ DOMAIN-SUFFIX,1sohu.com,DIRECT
 DOMAIN-SUFFIX,1speaking.com,DIRECT
 DOMAIN-SUFFIX,1stchip.com,DIRECT
 DOMAIN-SUFFIX,1stjc.com,DIRECT
-DOMAIN-SUFFIX,1su7w68.wang,DIRECT
 DOMAIN-SUFFIX,1t.click,DIRECT
 DOMAIN-SUFFIX,1t.io,DIRECT
 DOMAIN-SUFFIX,1t1t.com,DIRECT
@@ -8647,7 +8646,6 @@ DOMAIN-SUFFIX,azureyun.com,DIRECT
 DOMAIN-SUFFIX,azycjd.com,DIRECT
 DOMAIN-SUFFIX,azyx.com,DIRECT
 DOMAIN-SUFFIX,azz.net,DIRECT
-DOMAIN-SUFFIX,azzmtool.com,DIRECT
 DOMAIN-SUFFIX,b-chem.com,DIRECT
 DOMAIN-SUFFIX,b-eurochina.com,DIRECT
 DOMAIN-SUFFIX,b-fairy.com,DIRECT
@@ -38535,6 +38533,7 @@ DOMAIN-SUFFIX,ppsport.com,DIRECT
 DOMAIN-SUFFIX,ppstream.com,DIRECT
 DOMAIN-SUFFIX,ppstream.net,DIRECT
 DOMAIN-SUFFIX,ppstv.com,DIRECT
+DOMAIN-SUFFIX,ppstv.net,DIRECT
 DOMAIN-SUFFIX,ppswan.com,DIRECT
 DOMAIN-SUFFIX,ppt118.com,DIRECT
 DOMAIN-SUFFIX,ppt123.net,DIRECT
