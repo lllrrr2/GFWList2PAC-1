@@ -1,7 +1,7 @@
-# Checksum: MTYwNzYzNDk5Ngo=
+# Checksum: MTYwNzY0NzgwOAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201210-7
-# TimeUpdated: 2020-12-10T21:16:36+00:00
+# Version: 1.2.5-20201211-0
+# TimeUpdated: 2020-12-11T00:50:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -17216,7 +17216,6 @@ DOMAIN-SUFFIX,plays.com.tw,PROXY
 DOMAIN-SUFFIX,playshowtv.com,PROXY
 DOMAIN-SUFFIX,playssh.com,PROXY
 DOMAIN-SUFFIX,playstation.com,PROXY
-DOMAIN-SUFFIX,playstationnetwork.com,PROXY
 DOMAIN-SUFFIX,playtube.pk,PROXY
 DOMAIN-SUFFIX,playvalorant.com,PROXY
 DOMAIN-SUFFIX,playvid.com,PROXY
