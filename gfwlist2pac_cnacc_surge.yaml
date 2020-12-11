@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY4OTQ1OQo=
+# Checksum: MTYwNzY5OTkwOQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201211-4
-# TimeUpdated: 2020-12-11T12:24:19+00:00
+# Version: 1.2.5-20201211-5
+# TimeUpdated: 2020-12-11T15:18:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1283,6 +1283,7 @@ DOMAIN-SUFFIX,155idc.com
 DOMAIN-SUFFIX,156580.com
 DOMAIN-SUFFIX,15666.com
 DOMAIN-SUFFIX,156zy.com
+DOMAIN-SUFFIX,1586f.com
 DOMAIN-SUFFIX,1588.tv
 DOMAIN-SUFFIX,15880.com
 DOMAIN-SUFFIX,158jixie.com
@@ -6695,6 +6696,7 @@ DOMAIN-SUFFIX,a8gz.com
 DOMAIN-SUFFIX,a8tg.com
 DOMAIN-SUFFIX,a8v5.com
 DOMAIN-SUFFIX,a8z8.com
+DOMAIN-SUFFIX,a8zown.store
 DOMAIN-SUFFIX,a9188.com
 DOMAIN-SUFFIX,a9377j.com
 DOMAIN-SUFFIX,a9377x.com

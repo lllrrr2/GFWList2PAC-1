@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY4OTQ1OQo=
+# Checksum: MTYwNzY5OTkwOQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201211-4
-# TimeUpdated: 2020-12-11T12:24:19+00:00
+# Version: 1.2.5-20201211-5
+# TimeUpdated: 2020-12-11T15:18:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1283,6 +1283,7 @@ domain:155idc.com,
 domain:156580.com,
 domain:15666.com,
 domain:156zy.com,
+domain:1586f.com,
 domain:1588.tv,
 domain:15880.com,
 domain:158jixie.com,
@@ -6695,6 +6696,7 @@ domain:a8gz.com,
 domain:a8tg.com,
 domain:a8v5.com,
 domain:a8z8.com,
+domain:a8zown.store,
 domain:a9188.com,
 domain:a9377j.com,
 domain:a9377x.com,

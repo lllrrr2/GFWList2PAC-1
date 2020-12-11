@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY4OTQ2Ngo=
+# Checksum: MTYwNzY5OTkxNgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201211-4
-# TimeUpdated: 2020-12-11T12:24:26+00:00
+# Version: 1.2.5-20201211-5
+# TimeUpdated: 2020-12-11T15:18:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -5297,6 +5297,7 @@ DOMAIN-SUFFIX,cc18.tv,PROXY
 DOMAIN-SUFFIX,cc18sm.tv,PROXY
 DOMAIN-SUFFIX,cc18tv.com,PROXY
 DOMAIN-SUFFIX,cc353.com,PROXY
+DOMAIN-SUFFIX,cc9514.com,PROXY
 DOMAIN-SUFFIX,cca45.com,PROXY
 DOMAIN-SUFFIX,ccache.org,PROXY
 DOMAIN-SUFFIX,ccavgirl.com,PROXY
