@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY1Njc3Ngo=
+# Checksum: MTYwNzY2NzY3NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201211-1
-# TimeUpdated: 2020-12-11T03:19:36+00:00
+# Version: 1.2.5-20201211-2
+# TimeUpdated: 2020-12-11T06:21:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3886,7 +3886,6 @@ domain:51xpj.com,
 domain:51xue8.com,
 domain:51xuediannao.com,
 domain:51xuetang.com,
-domain:51xuewen.com,
 domain:51xueyingyu.com,
 domain:51xumei.com,
 domain:51xw.net,
@@ -4756,7 +4755,6 @@ domain:5zg.com,
 domain:5zhufu.com,
 domain:5zzu.com,
 domain:6-china.com,
-domain:6000gou.com,
 domain:600525.net,
 domain:600zi.com,
 domain:602.com,
@@ -9211,7 +9209,6 @@ domain:bbgstatic.com,
 domain:bbicn.com,
 domain:bbiquge.com,
 domain:bbjkw.net,
-domain:bbk.com,
 domain:bbkantu.com,
 domain:bbmy.net,
 domain:bbobo.com,
@@ -13980,6 +13977,7 @@ domain:cnnot.com,
 domain:cnnovels.com,
 domain:cnnpa.com,
 domain:cnnpz.com,
+domain:cnns.net,
 domain:cnntt.com,
 domain:cnnuo.com,
 domain:cnobol.com,
@@ -24425,6 +24423,7 @@ domain:hoxled.com,
 domain:hoxue.com,
 domain:hoyoh.com,
 domain:hozin.com,
+domain:hp-china.biz,
 domain:hp-marathon.com,
 domain:hp123.com,
 domain:hp2pe.buzz,

@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY1Njc3Ngo=
+# Checksum: MTYwNzY2NzY3NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201211-1
-# TimeUpdated: 2020-12-11T03:19:36+00:00
+# Version: 1.2.5-20201211-2
+# TimeUpdated: 2020-12-11T06:21:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -3886,7 +3886,6 @@ DOMAIN-SUFFIX,51xpj.com
 DOMAIN-SUFFIX,51xue8.com
 DOMAIN-SUFFIX,51xuediannao.com
 DOMAIN-SUFFIX,51xuetang.com
-DOMAIN-SUFFIX,51xuewen.com
 DOMAIN-SUFFIX,51xueyingyu.com
 DOMAIN-SUFFIX,51xumei.com
 DOMAIN-SUFFIX,51xw.net
@@ -4756,7 +4755,6 @@ DOMAIN-SUFFIX,5zg.com
 DOMAIN-SUFFIX,5zhufu.com
 DOMAIN-SUFFIX,5zzu.com
 DOMAIN-SUFFIX,6-china.com
-DOMAIN-SUFFIX,6000gou.com
 DOMAIN-SUFFIX,600525.net
 DOMAIN-SUFFIX,600zi.com
 DOMAIN-SUFFIX,602.com
@@ -9211,7 +9209,6 @@ DOMAIN-SUFFIX,bbgstatic.com
 DOMAIN-SUFFIX,bbicn.com
 DOMAIN-SUFFIX,bbiquge.com
 DOMAIN-SUFFIX,bbjkw.net
-DOMAIN-SUFFIX,bbk.com
 DOMAIN-SUFFIX,bbkantu.com
 DOMAIN-SUFFIX,bbmy.net
 DOMAIN-SUFFIX,bbobo.com
@@ -13980,6 +13977,7 @@ DOMAIN-SUFFIX,cnnot.com
 DOMAIN-SUFFIX,cnnovels.com
 DOMAIN-SUFFIX,cnnpa.com
 DOMAIN-SUFFIX,cnnpz.com
+DOMAIN-SUFFIX,cnns.net
 DOMAIN-SUFFIX,cnntt.com
 DOMAIN-SUFFIX,cnnuo.com
 DOMAIN-SUFFIX,cnobol.com
@@ -24425,6 +24423,7 @@ DOMAIN-SUFFIX,hoxled.com
 DOMAIN-SUFFIX,hoxue.com
 DOMAIN-SUFFIX,hoyoh.com
 DOMAIN-SUFFIX,hozin.com
+DOMAIN-SUFFIX,hp-china.biz
 DOMAIN-SUFFIX,hp-marathon.com
 DOMAIN-SUFFIX,hp123.com
 DOMAIN-SUFFIX,hp2pe.buzz
