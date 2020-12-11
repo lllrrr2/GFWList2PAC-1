@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzY0NzgwMAo=
+# Checksum: MTYwNzY1Njc3Ngo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201211-0
-# TimeUpdated: 2020-12-11T00:50:00+00:00
+# Version: 1.2.5-20201211-1
+# TimeUpdated: 2020-12-11T03:19:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -8639,7 +8639,6 @@ payload:
   - DOMAIN-SUFFIX,azfashao.com
   - DOMAIN-SUFFIX,azg168.com
   - DOMAIN-SUFFIX,azhituo.com
-  - DOMAIN-SUFFIX,azme-contractors.com
   - DOMAIN-SUFFIX,azonvo.com
   - DOMAIN-SUFFIX,azooo.com
   - DOMAIN-SUFFIX,azoyacdn.com
@@ -9178,7 +9177,6 @@ payload:
   - DOMAIN-SUFFIX,bayimob.com
   - DOMAIN-SUFFIX,bayinfu.com
   - DOMAIN-SUFFIX,bayinh.com
-  - DOMAIN-SUFFIX,bayinmao.com
   - DOMAIN-SUFFIX,bayuegua.com
   - DOMAIN-SUFFIX,bayueju.com
   - DOMAIN-SUFFIX,bayueweb.com
@@ -10107,7 +10105,6 @@ payload:
   - DOMAIN-SUFFIX,bjhybm.net
   - DOMAIN-SUFFIX,bjhzkq.com
   - DOMAIN-SUFFIX,bjiab.com
-  - DOMAIN-SUFFIX,bjicjm.com
   - DOMAIN-SUFFIX,bjidc.net
   - DOMAIN-SUFFIX,bjidit.com
   - DOMAIN-SUFFIX,bjiebtc.com
@@ -14199,7 +14196,6 @@ payload:
   - DOMAIN-SUFFIX,cocounion.com
   - DOMAIN-SUFFIX,cocty.com
   - DOMAIN-SUFFIX,codante.org
-  - DOMAIN-SUFFIX,codar.club
   - DOMAIN-SUFFIX,code-by.org
   - DOMAIN-SUFFIX,code.sh
   - DOMAIN-SUFFIX,code4apk.com
@@ -15636,6 +15632,7 @@ payload:
   - DOMAIN-SUFFIX,daoyu8.com
   - DOMAIN-SUFFIX,daozhao.com
   - DOMAIN-SUFFIX,dapei.cc
+  - DOMAIN-SUFFIX,dapeitang.com
   - DOMAIN-SUFFIX,dapengjiaoyu.com
   - DOMAIN-SUFFIX,dapenti.com
   - DOMAIN-SUFFIX,dapiniu.com
@@ -18208,6 +18205,7 @@ payload:
   - DOMAIN-SUFFIX,ehedco.com
   - DOMAIN-SUFFIX,ehinvest.hk
   - DOMAIN-SUFFIX,ehn3.com
+  - DOMAIN-SUFFIX,ehome5.com
   - DOMAIN-SUFFIX,ehome8.com
   - DOMAIN-SUFFIX,ehomeclouds.com
   - DOMAIN-SUFFIX,ehomeday.com
@@ -28529,6 +28527,7 @@ payload:
   - DOMAIN-SUFFIX,jjbisai.com
   - DOMAIN-SUFFIX,jjblove.com
   - DOMAIN-SUFFIX,jjbnews.xyz
+  - DOMAIN-SUFFIX,jjccb.com
   - DOMAIN-SUFFIX,jjcdn.com
   - DOMAIN-SUFFIX,jjcfsb.com
   - DOMAIN-SUFFIX,jjcoffetel.cc
@@ -47098,6 +47097,7 @@ payload:
   - DOMAIN-SUFFIX,txt99.com
   - DOMAIN-SUFFIX,txtbbs.com
   - DOMAIN-SUFFIX,txtduo.com
+  - DOMAIN-SUFFIX,txtle.com
   - DOMAIN-SUFFIX,txtreader.org
   - DOMAIN-SUFFIX,txttool.com
   - DOMAIN-SUFFIX,txtuu.com
