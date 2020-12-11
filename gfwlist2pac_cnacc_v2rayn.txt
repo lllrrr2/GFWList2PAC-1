@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY3ODM1NQo=
+# Checksum: MTYwNzY4OTQ1OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201211-3
-# TimeUpdated: 2020-12-11T09:19:15+00:00
+# Version: 1.2.5-20201211-4
+# TimeUpdated: 2020-12-11T12:24:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1275,7 +1275,6 @@ domain:1515bh.com,
 domain:15166.com,
 domain:1518.com,
 domain:151kan.com,
-domain:152203.com,
 domain:152500.com,
 domain:15311223344.com,
 domain:1545ts.com,
@@ -1536,6 +1535,7 @@ domain:17getfun.com,
 domain:17gwx.com,
 domain:17haibao.com,
 domain:17haoyun.com,
+domain:17hds.com,
 domain:17house.com,
 domain:17hpl.com,
 domain:17huang.com,
@@ -6800,7 +6800,6 @@ domain:accspeed.com,
 domain:accu.cc,
 domain:ace-pow.com,
 domain:acechuang.com,
-domain:acehat.com,
 domain:acejoy.com,
 domain:acelamicro.com,
 domain:acesheep.com,
