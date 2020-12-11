@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY2NzY3NAo=
+# Checksum: MTYwNzY3ODM1NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201211-2
-# TimeUpdated: 2020-12-11T06:21:14+00:00
+# Version: 1.2.5-20201211-3
+# TimeUpdated: 2020-12-11T09:19:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -10092,7 +10092,6 @@ DOMAIN-SUFFIX,bjhee.com
 DOMAIN-SUFFIX,bjhengjia.net
 DOMAIN-SUFFIX,bjheniantang.com
 DOMAIN-SUFFIX,bjhj10000.com
-DOMAIN-SUFFIX,bjhmxx.net
 DOMAIN-SUFFIX,bjhouse.com
 DOMAIN-SUFFIX,bjhqs.com
 DOMAIN-SUFFIX,bjhrkc.com
@@ -12596,6 +12595,7 @@ DOMAIN-SUFFIX,chinacses.org
 DOMAIN-SUFFIX,chinactv.com
 DOMAIN-SUFFIX,chinacxgd.com
 DOMAIN-SUFFIX,chinacxjs.org
+DOMAIN-SUFFIX,chinacyec.com
 DOMAIN-SUFFIX,chinadafen.com
 DOMAIN-SUFFIX,chinadagui.com
 DOMAIN-SUFFIX,chinadailyglobal.com
@@ -28423,6 +28423,7 @@ DOMAIN-SUFFIX,jiucaicaijing.com
 DOMAIN-SUFFIX,jiuchutong.com
 DOMAIN-SUFFIX,jiucool.org
 DOMAIN-SUFFIX,jiuday.com
+DOMAIN-SUFFIX,jiudiandyw.com
 DOMAIN-SUFFIX,jiudiankji168.com
 DOMAIN-SUFFIX,jiudianyuedu.com
 DOMAIN-SUFFIX,jiuding18.com
@@ -36418,6 +36419,7 @@ DOMAIN-SUFFIX,njzc025.com
 DOMAIN-SUFFIX,njzglxs.com
 DOMAIN-SUFFIX,njzhonglv.com
 DOMAIN-SUFFIX,njzhzx.net
+DOMAIN-SUFFIX,njzrxx.xyz
 DOMAIN-SUFFIX,njzztyl.com
 DOMAIN-SUFFIX,nk84.com
 DOMAIN-SUFFIX,nkqingnianshuo.com
@@ -45161,6 +45163,7 @@ DOMAIN-SUFFIX,tanghushi.com
 DOMAIN-SUFFIX,tangide.com
 DOMAIN-SUFFIX,tangjie.me
 DOMAIN-SUFFIX,tangjiu.com
+DOMAIN-SUFFIX,tangkx.com
 DOMAIN-SUFFIX,tanglei.name
 DOMAIN-SUFFIX,tangmi.net
 DOMAIN-SUFFIX,tangobrowser.net

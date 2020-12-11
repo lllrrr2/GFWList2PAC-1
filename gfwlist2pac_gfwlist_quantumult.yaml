@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY2NzY4Mwo=
+# Checksum: MTYwNzY3ODM2Mwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201211-2
-# TimeUpdated: 2020-12-11T06:21:23+00:00
+# Version: 1.2.5-20201211-3
+# TimeUpdated: 2020-12-11T09:19:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -1391,7 +1391,6 @@ DOMAIN-SUFFIX,85st.com,PROXY
 DOMAIN-SUFFIX,85tube.com,PROXY
 DOMAIN-SUFFIX,863.zyns.com,PROXY
 DOMAIN-SUFFIX,8696.cc,PROXY
-DOMAIN-SUFFIX,8702000.com,PROXY
 DOMAIN-SUFFIX,87080.com,PROXY
 DOMAIN-SUFFIX,875.sellclassics.com,PROXY
 DOMAIN-SUFFIX,87559.com,PROXY
@@ -21631,6 +21630,7 @@ DOMAIN-SUFFIX,ushuarencity.echainhost.com,PROXY
 DOMAIN-SUFFIX,usma.edu,PROXY
 DOMAIN-SUFFIX,usmagazine.com,PROXY
 DOMAIN-SUFFIX,usmgtcg.ning.com,PROXY
+DOMAIN-SUFFIX,usno.navy.mil,PROXY
 DOMAIN-SUFFIX,usocctn.com,PROXY
 DOMAIN-SUFFIX,uspto.gov,PROXY
 DOMAIN-SUFFIX,ustibetcommittee.org,PROXY

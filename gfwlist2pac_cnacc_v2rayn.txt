@@ -1,7 +1,7 @@
-# Checksum: MTYwNzY2NzY3NAo=
+# Checksum: MTYwNzY3ODM1NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201211-2
-# TimeUpdated: 2020-12-11T06:21:14+00:00
+# Version: 1.2.5-20201211-3
+# TimeUpdated: 2020-12-11T09:19:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10092,7 +10092,6 @@ domain:bjhee.com,
 domain:bjhengjia.net,
 domain:bjheniantang.com,
 domain:bjhj10000.com,
-domain:bjhmxx.net,
 domain:bjhouse.com,
 domain:bjhqs.com,
 domain:bjhrkc.com,
@@ -12596,6 +12595,7 @@ domain:chinacses.org,
 domain:chinactv.com,
 domain:chinacxgd.com,
 domain:chinacxjs.org,
+domain:chinacyec.com,
 domain:chinadafen.com,
 domain:chinadagui.com,
 domain:chinadailyglobal.com,
@@ -28423,6 +28423,7 @@ domain:jiucaicaijing.com,
 domain:jiuchutong.com,
 domain:jiucool.org,
 domain:jiuday.com,
+domain:jiudiandyw.com,
 domain:jiudiankji168.com,
 domain:jiudianyuedu.com,
 domain:jiuding18.com,
@@ -36418,6 +36419,7 @@ domain:njzc025.com,
 domain:njzglxs.com,
 domain:njzhonglv.com,
 domain:njzhzx.net,
+domain:njzrxx.xyz,
 domain:njzztyl.com,
 domain:nk84.com,
 domain:nkqingnianshuo.com,
@@ -45161,6 +45163,7 @@ domain:tanghushi.com,
 domain:tangide.com,
 domain:tangjie.me,
 domain:tangjiu.com,
+domain:tangkx.com,
 domain:tanglei.name,
 domain:tangmi.net,
 domain:tangobrowser.net,
