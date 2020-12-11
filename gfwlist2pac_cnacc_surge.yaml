@@ -1,7 +1,7 @@
-# Checksum: MTYwNzcxMDcyNQo=
+# Checksum: MTYwNzcyMTM3NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201211-6
-# TimeUpdated: 2020-12-11T18:18:45+00:00
+# Version: 1.2.5-20201211-7
+# TimeUpdated: 2020-12-11T21:16:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -78,7 +78,6 @@ DOMAIN-SUFFIX,010bianhu.com
 DOMAIN-SUFFIX,010bjzs.com
 DOMAIN-SUFFIX,010byyy.com
 DOMAIN-SUFFIX,010dh.com
-DOMAIN-SUFFIX,010dsmzyy.com
 DOMAIN-SUFFIX,010fk.com
 DOMAIN-SUFFIX,010hetongls.com
 DOMAIN-SUFFIX,010hx.com
@@ -1692,6 +1691,7 @@ DOMAIN-SUFFIX,18guanjia.com
 DOMAIN-SUFFIX,18heat.com
 DOMAIN-SUFFIX,18kf.net
 DOMAIN-SUFFIX,18ladys.com
+DOMAIN-SUFFIX,18link.com
 DOMAIN-SUFFIX,18lipin.com
 DOMAIN-SUFFIX,18ph.com
 DOMAIN-SUFFIX,18pk.com
@@ -3186,7 +3186,6 @@ DOMAIN-SUFFIX,40ya.com
 DOMAIN-SUFFIX,41188.com
 DOMAIN-SUFFIX,411au.com
 DOMAIN-SUFFIX,4124.com
-DOMAIN-SUFFIX,4143.cc
 DOMAIN-SUFFIX,41443.com
 DOMAIN-SUFFIX,415.net
 DOMAIN-SUFFIX,417418.com
@@ -6713,7 +6712,6 @@ DOMAIN-SUFFIX,aadongman.com
 DOMAIN-SUFFIX,aafangz.com
 DOMAIN-SUFFIX,aamachina.org
 DOMAIN-SUFFIX,aaniao.com
-DOMAIN-SUFFIX,aapig.cc
 DOMAIN-SUFFIX,aapig.com
 DOMAIN-SUFFIX,aaqqw.com
 DOMAIN-SUFFIX,aarch64.me
@@ -7331,7 +7329,6 @@ DOMAIN-SUFFIX,aiotvoice.com
 DOMAIN-SUFFIX,aiouportal.com
 DOMAIN-SUFFIX,aipage.com
 DOMAIN-SUFFIX,aipai.com
-DOMAIN-SUFFIX,aipaiju.com
 DOMAIN-SUFFIX,aipear.com
 DOMAIN-SUFFIX,aipenglai.com
 DOMAIN-SUFFIX,aipiaxi.com
@@ -10348,7 +10345,6 @@ DOMAIN-SUFFIX,bloomgamer.com
 DOMAIN-SUFFIX,blqx.com
 DOMAIN-SUFFIX,blqy.com
 DOMAIN-SUFFIX,blskye.com
-DOMAIN-SUFFIX,bltzsb.com
 DOMAIN-SUFFIX,blue-city.com
 DOMAIN-SUFFIX,blue-zero.com
 DOMAIN-SUFFIX,bluebeebox.com
@@ -12576,7 +12572,6 @@ DOMAIN-SUFFIX,chinacgv.com
 DOMAIN-SUFFIX,chinachemnet.com
 DOMAIN-SUFFIX,chinachugui.com
 DOMAIN-SUFFIX,chinacics.org
-DOMAIN-SUFFIX,chinaciosummit.com
 DOMAIN-SUFFIX,chinacity.net
 DOMAIN-SUFFIX,chinackf.net
 DOMAIN-SUFFIX,chinacma.org
@@ -36720,6 +36715,7 @@ DOMAIN-SUFFIX,nuvoton-m0.com
 DOMAIN-SUFFIX,nuvoton-mcu.com
 DOMAIN-SUFFIX,nuxue.com
 DOMAIN-SUFFIX,nv2118.com
+DOMAIN-SUFFIX,nvbing5.net
 DOMAIN-SUFFIX,nvcong.com
 DOMAIN-SUFFIX,nvdiao.com
 DOMAIN-SUFFIX,nvliren.com
