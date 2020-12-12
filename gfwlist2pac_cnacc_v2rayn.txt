@@ -1,7 +1,7 @@
-# Checksum: MTYwNzcyMTM3NAo=
+# Checksum: MTYwNzczNDE3NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201211-7
-# TimeUpdated: 2020-12-11T21:16:14+00:00
+# Version: 1.2.5-20201212-0
+# TimeUpdated: 2020-12-12T00:49:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -8093,6 +8093,7 @@ domain:apkzu.com,
 domain:aplan.tv,
 domain:aplum-inc.com,
 domain:aplum.com,
+domain:apluscap.com,
 domain:aplusunion.com,
 domain:apmarry.com,
 domain:apmbooth.com,
@@ -9137,7 +9138,6 @@ domain:barodainfo.com,
 domain:baron-bj.com,
 domain:barretlee.com,
 domain:barstowcollege.net,
-domain:bartelhall.com,
 domain:bartender.cc,
 domain:bartholomewart.com,
 domain:bartmoney.com,
@@ -9247,7 +9247,6 @@ domain:bccv.com,
 domain:bcdaren.com,
 domain:bcdy.net,
 domain:bcitb.com,
-domain:bcjk888.com,
 domain:bclsw.com,
 domain:bcmcdn.com,
 domain:bcoderss.com,

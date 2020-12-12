@@ -1,7 +1,7 @@
-# Checksum: MTYwNzcyMTM4Mwo=
+# Checksum: MTYwNzczNDE4MQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201211-7
-# TimeUpdated: 2020-12-11T21:16:23+00:00
+# Version: 1.2.5-20201212-0
+# TimeUpdated: 2020-12-12T00:49:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -374,6 +374,7 @@ DOMAIN-SUFFIX,19777.com,PROXY
 DOMAIN-SUFFIX,197888.com,PROXY
 DOMAIN-SUFFIX,1984bbs.com,PROXY
 DOMAIN-SUFFIX,1984blog.com,PROXY
+DOMAIN-SUFFIX,19850608.com,PROXY
 DOMAIN-SUFFIX,198k7.com,PROXY
 DOMAIN-SUFFIX,1afcp.com,PROXY
 DOMAIN-SUFFIX,1bao.org,PROXY
@@ -2844,6 +2845,7 @@ DOMAIN-SUFFIX,asianspiss.com,PROXY
 DOMAIN-SUFFIX,asianwomensfilm.de,PROXY
 DOMAIN-SUFFIX,asiaone.com,PROXY
 DOMAIN-SUFFIX,asiatgp.com,PROXY
+DOMAIN-SUFFIX,asiatoday.us,PROXY
 DOMAIN-SUFFIX,asiaxxtv.com,PROXY
 DOMAIN-SUFFIX,asis-sugianto.blogspot.hk,PROXY
 DOMAIN-SUFFIX,ask.com,PROXY
@@ -3258,6 +3260,7 @@ DOMAIN-SUFFIX,bankdirect.com,PROXY
 DOMAIN-SUFFIX,bankiowa.com,PROXY
 DOMAIN-SUFFIX,bankmandiri.co.id,PROXY
 DOMAIN-SUFFIX,bankmobilevibe.com,PROXY
+DOMAIN-SUFFIX,banned.video,PROXY
 DOMAIN-SUFFIX,bannedbook.org,PROXY
 DOMAIN-SUFFIX,bannednews.org,PROXY
 DOMAIN-SUFFIX,banorte.com,PROXY
@@ -7749,6 +7752,7 @@ DOMAIN-SUFFIX,edisebay.com,PROXY
 DOMAIN-SUFFIX,edmontonchina.cn,PROXY
 DOMAIN-SUFFIX,edmontonchina.com,PROXY
 DOMAIN-SUFFIX,edmontonservice.com,PROXY
+DOMAIN-SUFFIX,edninfo.com,PROXY
 DOMAIN-SUFFIX,edns.biz,PROXY
 DOMAIN-SUFFIX,edoors.com,PROXY
 DOMAIN-SUFFIX,edson.net.br,PROXY
@@ -7972,9 +7976,14 @@ DOMAIN-SUFFIX,epinions.com,PROXY
 DOMAIN-SUFFIX,episcopalchurch.org,PROXY
 DOMAIN-SUFFIX,episodic.com,PROXY
 DOMAIN-SUFFIX,epmedios.com.mx,PROXY
+DOMAIN-SUFFIX,epoch.cloud,PROXY
 DOMAIN-SUFFIX,epoch.com,PROXY
+DOMAIN-SUFFIX,epochbuy.com,PROXY
+DOMAIN-SUFFIX,epochcar.com,PROXY
 DOMAIN-SUFFIX,epochhk.com,PROXY
+DOMAIN-SUFFIX,epochmall.com,PROXY
 DOMAIN-SUFFIX,epochmediagroup.com,PROXY
+DOMAIN-SUFFIX,epochshop.com,PROXY
 DOMAIN-SUFFIX,epochstories.com,PROXY
 DOMAIN-SUFFIX,epochtime.com,PROXY
 DOMAIN-SUFFIX,epochtimes-bg.com,PROXY
@@ -7995,6 +8004,7 @@ DOMAIN-SUFFIX,epochtimes.it,PROXY
 DOMAIN-SUFFIX,epochtimes.jp,PROXY
 DOMAIN-SUFFIX,epochtimes.ru,PROXY
 DOMAIN-SUFFIX,epochtimes.se,PROXY
+DOMAIN-SUFFIX,epochtimeshk.org,PROXY
 DOMAIN-SUFFIX,epochtimestr.com,PROXY
 DOMAIN-SUFFIX,epochweek.com,PROXY
 DOMAIN-SUFFIX,epochweekly.com,PROXY
@@ -8086,6 +8096,7 @@ DOMAIN-SUFFIX,ets.cc,PROXY
 DOMAIN-SUFFIX,etsy.com,PROXY
 DOMAIN-SUFFIX,ettego.com,PROXY
 DOMAIN-SUFFIX,ettoday.net,PROXY
+DOMAIN-SUFFIX,etviet.com,PROXY
 DOMAIN-SUFFIX,etvonline.hk,PROXY
 DOMAIN-SUFFIX,eu-consumer-empowerment.com,PROXY
 DOMAIN-SUFFIX,eu.12bet.co.uk,PROXY
@@ -10161,6 +10172,7 @@ DOMAIN-SUFFIX,goldspot.us,PROXY
 DOMAIN-SUFFIX,goldstep.net,PROXY
 DOMAIN-SUFFIX,goldwave.com,PROXY
 DOMAIN-SUFFIX,goliathguitartutorials.com,PROXY
+DOMAIN-SUFFIX,golosameriki.com,PROXY
 DOMAIN-SUFFIX,golpebaixo.com.br,PROXY
 DOMAIN-SUFFIX,gomextv.com,PROXY
 DOMAIN-SUFFIX,gommehd.net,PROXY
@@ -11940,6 +11952,8 @@ DOMAIN-SUFFIX,infoduri.com,PROXY
 DOMAIN-SUFFIX,infoqube.biz,PROXY
 DOMAIN-SUFFIX,informer.com,PROXY
 DOMAIN-SUFFIX,informs.org,PROXY
+DOMAIN-SUFFIX,infowars.com,PROXY
+DOMAIN-SUFFIX,infowarsmedia.com,PROXY
 DOMAIN-SUFFIX,infrapedia.com,PROXY
 DOMAIN-SUFFIX,ingads.com,PROXY
 DOMAIN-SUFFIX,ingarden.pt,PROXY
@@ -15355,9 +15369,10 @@ DOMAIN-SUFFIX,n1g.org,PROXY
 DOMAIN-SUFFIX,n2.flnet.org,PROXY
 DOMAIN-SUFFIX,n24.de,PROXY
 DOMAIN-SUFFIX,n2k2.ch,PROXY
-DOMAIN-SUFFIX,n3ro.fun,PROXY
 DOMAIN-SUFFIX,n3ro.live,PROXY
+DOMAIN-SUFFIX,n3ro.lol,PROXY
 DOMAIN-SUFFIX,n3ro.net,PROXY
+DOMAIN-SUFFIX,n3ro.wtf,PROXY
 DOMAIN-SUFFIX,n47s.ras.flnet.org,PROXY
 DOMAIN-SUFFIX,n70717.com,PROXY
 DOMAIN-SUFFIX,n88800.com,PROXY
@@ -16060,7 +16075,9 @@ DOMAIN-SUFFIX,ntbna.gov.tw,PROXY
 DOMAIN-SUFFIX,ntc.party,PROXY
 DOMAIN-SUFFIX,ntd.com,PROXY
 DOMAIN-SUFFIX,ntd.tv,PROXY
+DOMAIN-SUFFIX,ntdca.com,PROXY
 DOMAIN-SUFFIX,ntdcantonese.com,PROXY
+DOMAIN-SUFFIX,ntdimg.com,PROXY
 DOMAIN-SUFFIX,ntdtv.ca,PROXY
 DOMAIN-SUFFIX,ntdtv.com,PROXY
 DOMAIN-SUFFIX,ntdtv.com.tw,PROXY
@@ -16957,6 +16974,7 @@ DOMAIN-SUFFIX,perplex.at,PROXY
 DOMAIN-SUFFIX,persagg.com,PROXY
 DOMAIN-SUFFIX,persecution.net,PROXY
 DOMAIN-SUFFIX,persecutionblog.com,PROXY
+DOMAIN-SUFFIX,persianepochtimes.com,PROXY
 DOMAIN-SUFFIX,persiankitty.com,PROXY
 DOMAIN-SUFFIX,personal.cityu.edu.hk,PROXY
 DOMAIN-SUFFIX,personaltrainermath.com,PROXY
@@ -22492,6 +22510,7 @@ DOMAIN-SUFFIX,wangruoshui.net,PROXY
 DOMAIN-SUFFIX,wanip.ch,PROXY
 DOMAIN-SUFFIX,wankspider.com,PROXY
 DOMAIN-SUFFIX,wannaflix.com,PROXY
+DOMAIN-SUFFIX,wanokokorosoh.com,PROXY
 DOMAIN-SUFFIX,wanqiucai.com,PROXY
 DOMAIN-SUFFIX,want-daily.com,PROXY
 DOMAIN-SUFFIX,wanyepu.com,PROXY

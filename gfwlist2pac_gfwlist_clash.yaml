@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzcyMTM4Mwo=
+# Checksum: MTYwNzczNDE4MQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201211-7
-# TimeUpdated: 2020-12-11T21:16:23+00:00
+# Version: 1.2.5-20201212-0
+# TimeUpdated: 2020-12-12T00:49:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -375,6 +375,7 @@ payload:
   - DOMAIN-SUFFIX,197888.com
   - DOMAIN-SUFFIX,1984bbs.com
   - DOMAIN-SUFFIX,1984blog.com
+  - DOMAIN-SUFFIX,19850608.com
   - DOMAIN-SUFFIX,198k7.com
   - DOMAIN-SUFFIX,1afcp.com
   - DOMAIN-SUFFIX,1bao.org
@@ -2845,6 +2846,7 @@ payload:
   - DOMAIN-SUFFIX,asianwomensfilm.de
   - DOMAIN-SUFFIX,asiaone.com
   - DOMAIN-SUFFIX,asiatgp.com
+  - DOMAIN-SUFFIX,asiatoday.us
   - DOMAIN-SUFFIX,asiaxxtv.com
   - DOMAIN-SUFFIX,asis-sugianto.blogspot.hk
   - DOMAIN-SUFFIX,ask.com
@@ -3259,6 +3261,7 @@ payload:
   - DOMAIN-SUFFIX,bankiowa.com
   - DOMAIN-SUFFIX,bankmandiri.co.id
   - DOMAIN-SUFFIX,bankmobilevibe.com
+  - DOMAIN-SUFFIX,banned.video
   - DOMAIN-SUFFIX,bannedbook.org
   - DOMAIN-SUFFIX,bannednews.org
   - DOMAIN-SUFFIX,banorte.com
@@ -7750,6 +7753,7 @@ payload:
   - DOMAIN-SUFFIX,edmontonchina.cn
   - DOMAIN-SUFFIX,edmontonchina.com
   - DOMAIN-SUFFIX,edmontonservice.com
+  - DOMAIN-SUFFIX,edninfo.com
   - DOMAIN-SUFFIX,edns.biz
   - DOMAIN-SUFFIX,edoors.com
   - DOMAIN-SUFFIX,edson.net.br
@@ -7973,9 +7977,14 @@ payload:
   - DOMAIN-SUFFIX,episcopalchurch.org
   - DOMAIN-SUFFIX,episodic.com
   - DOMAIN-SUFFIX,epmedios.com.mx
+  - DOMAIN-SUFFIX,epoch.cloud
   - DOMAIN-SUFFIX,epoch.com
+  - DOMAIN-SUFFIX,epochbuy.com
+  - DOMAIN-SUFFIX,epochcar.com
   - DOMAIN-SUFFIX,epochhk.com
+  - DOMAIN-SUFFIX,epochmall.com
   - DOMAIN-SUFFIX,epochmediagroup.com
+  - DOMAIN-SUFFIX,epochshop.com
   - DOMAIN-SUFFIX,epochstories.com
   - DOMAIN-SUFFIX,epochtime.com
   - DOMAIN-SUFFIX,epochtimes-bg.com
@@ -7996,6 +8005,7 @@ payload:
   - DOMAIN-SUFFIX,epochtimes.jp
   - DOMAIN-SUFFIX,epochtimes.ru
   - DOMAIN-SUFFIX,epochtimes.se
+  - DOMAIN-SUFFIX,epochtimeshk.org
   - DOMAIN-SUFFIX,epochtimestr.com
   - DOMAIN-SUFFIX,epochweek.com
   - DOMAIN-SUFFIX,epochweekly.com
@@ -8087,6 +8097,7 @@ payload:
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,ettego.com
   - DOMAIN-SUFFIX,ettoday.net
+  - DOMAIN-SUFFIX,etviet.com
   - DOMAIN-SUFFIX,etvonline.hk
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
   - DOMAIN-SUFFIX,eu.12bet.co.uk
@@ -10162,6 +10173,7 @@ payload:
   - DOMAIN-SUFFIX,goldstep.net
   - DOMAIN-SUFFIX,goldwave.com
   - DOMAIN-SUFFIX,goliathguitartutorials.com
+  - DOMAIN-SUFFIX,golosameriki.com
   - DOMAIN-SUFFIX,golpebaixo.com.br
   - DOMAIN-SUFFIX,gomextv.com
   - DOMAIN-SUFFIX,gommehd.net
@@ -11941,6 +11953,8 @@ payload:
   - DOMAIN-SUFFIX,infoqube.biz
   - DOMAIN-SUFFIX,informer.com
   - DOMAIN-SUFFIX,informs.org
+  - DOMAIN-SUFFIX,infowars.com
+  - DOMAIN-SUFFIX,infowarsmedia.com
   - DOMAIN-SUFFIX,infrapedia.com
   - DOMAIN-SUFFIX,ingads.com
   - DOMAIN-SUFFIX,ingarden.pt
@@ -15356,9 +15370,10 @@ payload:
   - DOMAIN-SUFFIX,n2.flnet.org
   - DOMAIN-SUFFIX,n24.de
   - DOMAIN-SUFFIX,n2k2.ch
-  - DOMAIN-SUFFIX,n3ro.fun
   - DOMAIN-SUFFIX,n3ro.live
+  - DOMAIN-SUFFIX,n3ro.lol
   - DOMAIN-SUFFIX,n3ro.net
+  - DOMAIN-SUFFIX,n3ro.wtf
   - DOMAIN-SUFFIX,n47s.ras.flnet.org
   - DOMAIN-SUFFIX,n70717.com
   - DOMAIN-SUFFIX,n88800.com
@@ -16061,7 +16076,9 @@ payload:
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,ntd.com
   - DOMAIN-SUFFIX,ntd.tv
+  - DOMAIN-SUFFIX,ntdca.com
   - DOMAIN-SUFFIX,ntdcantonese.com
+  - DOMAIN-SUFFIX,ntdimg.com
   - DOMAIN-SUFFIX,ntdtv.ca
   - DOMAIN-SUFFIX,ntdtv.com
   - DOMAIN-SUFFIX,ntdtv.com.tw
@@ -16958,6 +16975,7 @@ payload:
   - DOMAIN-SUFFIX,persagg.com
   - DOMAIN-SUFFIX,persecution.net
   - DOMAIN-SUFFIX,persecutionblog.com
+  - DOMAIN-SUFFIX,persianepochtimes.com
   - DOMAIN-SUFFIX,persiankitty.com
   - DOMAIN-SUFFIX,personal.cityu.edu.hk
   - DOMAIN-SUFFIX,personaltrainermath.com
@@ -22493,6 +22511,7 @@ payload:
   - DOMAIN-SUFFIX,wanip.ch
   - DOMAIN-SUFFIX,wankspider.com
   - DOMAIN-SUFFIX,wannaflix.com
+  - DOMAIN-SUFFIX,wanokokorosoh.com
   - DOMAIN-SUFFIX,wanqiucai.com
   - DOMAIN-SUFFIX,want-daily.com
   - DOMAIN-SUFFIX,wanyepu.com

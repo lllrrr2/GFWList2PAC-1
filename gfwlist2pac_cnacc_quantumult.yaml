@@ -1,7 +1,7 @@
-# Checksum: MTYwNzcyMTM3NAo=
+# Checksum: MTYwNzczNDE3NAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201211-7
-# TimeUpdated: 2020-12-11T21:16:14+00:00
+# Version: 1.2.5-20201212-0
+# TimeUpdated: 2020-12-12T00:49:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -8093,6 +8093,7 @@ DOMAIN-SUFFIX,apkzu.com,DIRECT
 DOMAIN-SUFFIX,aplan.tv,DIRECT
 DOMAIN-SUFFIX,aplum-inc.com,DIRECT
 DOMAIN-SUFFIX,aplum.com,DIRECT
+DOMAIN-SUFFIX,apluscap.com,DIRECT
 DOMAIN-SUFFIX,aplusunion.com,DIRECT
 DOMAIN-SUFFIX,apmarry.com,DIRECT
 DOMAIN-SUFFIX,apmbooth.com,DIRECT
@@ -9137,7 +9138,6 @@ DOMAIN-SUFFIX,barodainfo.com,DIRECT
 DOMAIN-SUFFIX,baron-bj.com,DIRECT
 DOMAIN-SUFFIX,barretlee.com,DIRECT
 DOMAIN-SUFFIX,barstowcollege.net,DIRECT
-DOMAIN-SUFFIX,bartelhall.com,DIRECT
 DOMAIN-SUFFIX,bartender.cc,DIRECT
 DOMAIN-SUFFIX,bartholomewart.com,DIRECT
 DOMAIN-SUFFIX,bartmoney.com,DIRECT
@@ -9247,7 +9247,6 @@ DOMAIN-SUFFIX,bccv.com,DIRECT
 DOMAIN-SUFFIX,bcdaren.com,DIRECT
 DOMAIN-SUFFIX,bcdy.net,DIRECT
 DOMAIN-SUFFIX,bcitb.com,DIRECT
-DOMAIN-SUFFIX,bcjk888.com,DIRECT
 DOMAIN-SUFFIX,bclsw.com,DIRECT
 DOMAIN-SUFFIX,bcmcdn.com,DIRECT
 DOMAIN-SUFFIX,bcoderss.com,DIRECT
