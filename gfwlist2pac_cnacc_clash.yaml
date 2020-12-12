@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzc1NDA3OQo=
+# Checksum: MTYwNzc2NDc0OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201212-2
-# TimeUpdated: 2020-12-12T06:21:19+00:00
+# Version: 1.2.5-20201212-3
+# TimeUpdated: 2020-12-12T09:19:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -3260,6 +3260,7 @@ payload:
   - DOMAIN-SUFFIX,457920.com
   - DOMAIN-SUFFIX,458hospital.com
   - DOMAIN-SUFFIX,458kq.com
+  - DOMAIN-SUFFIX,4593xx.com
   - DOMAIN-SUFFIX,45eee.com
   - DOMAIN-SUFFIX,45fan.com
   - DOMAIN-SUFFIX,45it.com
@@ -4447,6 +4448,7 @@ payload:
   - DOMAIN-SUFFIX,58cloud.com
   - DOMAIN-SUFFIX,58coin.com
   - DOMAIN-SUFFIX,58cyjm.com
+  - DOMAIN-SUFFIX,58czt.com
   - DOMAIN-SUFFIX,58daojia.com
   - DOMAIN-SUFFIX,58display.com
   - DOMAIN-SUFFIX,58dm.com
@@ -11533,7 +11535,6 @@ payload:
   - DOMAIN-SUFFIX,ccpitjinan.org
   - DOMAIN-SUFFIX,ccpitlight.org
   - DOMAIN-SUFFIX,ccpitnmg.org
-  - DOMAIN-SUFFIX,ccpitqd.org
   - DOMAIN-SUFFIX,ccpitsd.com
   - DOMAIN-SUFFIX,ccpittex.com
   - DOMAIN-SUFFIX,ccpittj.org
@@ -14007,6 +14008,7 @@ payload:
   - DOMAIN-SUFFIX,cnponer.com
   - DOMAIN-SUFFIX,cnpou.com
   - DOMAIN-SUFFIX,cnpowdernet.com
+  - DOMAIN-SUFFIX,cnpps.org
   - DOMAIN-SUFFIX,cnpubg.com
   - DOMAIN-SUFFIX,cnpv.com
   - DOMAIN-SUFFIX,cnpython.com

@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc1NDA3OQo=
+# Checksum: MTYwNzc2NDc0OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201212-2
-# TimeUpdated: 2020-12-12T06:21:19+00:00
+# Version: 1.2.5-20201212-3
+# TimeUpdated: 2020-12-12T09:19:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3259,6 +3259,7 @@ domain:457777c.com,
 domain:457920.com,
 domain:458hospital.com,
 domain:458kq.com,
+domain:4593xx.com,
 domain:45eee.com,
 domain:45fan.com,
 domain:45it.com,
@@ -4446,6 +4447,7 @@ domain:58che.com,
 domain:58cloud.com,
 domain:58coin.com,
 domain:58cyjm.com,
+domain:58czt.com,
 domain:58daojia.com,
 domain:58display.com,
 domain:58dm.com,
@@ -11532,7 +11534,6 @@ domain:ccpithz.org,
 domain:ccpitjinan.org,
 domain:ccpitlight.org,
 domain:ccpitnmg.org,
-domain:ccpitqd.org,
 domain:ccpitsd.com,
 domain:ccpittex.com,
 domain:ccpittj.org,
@@ -14006,6 +14007,7 @@ domain:cnpkm.com,
 domain:cnponer.com,
 domain:cnpou.com,
 domain:cnpowdernet.com,
+domain:cnpps.org,
 domain:cnpubg.com,
 domain:cnpv.com,
 domain:cnpython.com,

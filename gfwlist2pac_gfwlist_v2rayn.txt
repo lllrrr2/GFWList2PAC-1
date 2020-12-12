@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc1NDA4OAo=
+# Checksum: MTYwNzc2NDc1Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201212-2
-# TimeUpdated: 2020-12-12T06:21:28+00:00
+# Version: 1.2.5-20201212-3
+# TimeUpdated: 2020-12-12T09:19:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -15367,6 +15367,7 @@ domain:n-tv.de,
 domain:n.yam.com,
 domain:n1g.org,
 domain:n2.flnet.org,
+domain:n2.n4t.co,
 domain:n24.de,
 domain:n2k2.ch,
 domain:n3ro.live,
