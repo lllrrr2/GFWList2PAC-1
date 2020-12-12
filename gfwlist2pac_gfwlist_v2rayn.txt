@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc5NzEzOQo=
+# Checksum: MTYwNzgwNzg1MAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201212-6
-# TimeUpdated: 2020-12-12T18:18:59+00:00
+# Version: 1.2.5-20201212-7
+# TimeUpdated: 2020-12-12T21:17:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -199,6 +199,7 @@ domain:114zhaofang.com,
 domain:116.etowns.org,
 domain:1165g.com,
 domain:1165p.com,
+domain:119hg.com,
 domain:11afcp.com,
 domain:11cpk.com,
 domain:11sebb.com,
