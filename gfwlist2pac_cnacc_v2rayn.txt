@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc3NTgyNAo=
+# Checksum: MTYwNzc4NjI3NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201212-4
-# TimeUpdated: 2020-12-12T12:23:44+00:00
+# Version: 1.2.5-20201212-5
+# TimeUpdated: 2020-12-12T15:17:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10142,7 +10142,6 @@ domain:bjmslp.com,
 domain:bjmti.com,
 domain:bjnaxl.com,
 domain:bjnsr.com,
-domain:bjoppein.com,
 domain:bjornfromsweden.com,
 domain:bjp321.com,
 domain:bjpanzisheying.com,
@@ -13592,7 +13591,6 @@ domain:cmsyou.com,
 domain:cmsyuanma.com,
 domain:cmt178.com,
 domain:cmt7.com,
-domain:cmtdi.com,
 domain:cmtech.net,
 domain:cmuliang.com,
 domain:cmwb.com,
@@ -45838,6 +45836,7 @@ domain:tianinfo.com,
 domain:tianjiegame.com,
 domain:tianjieleather.com,
 domain:tianjihr.com,
+domain:tianjikuaidu.com,
 domain:tianjinxs.com,
 domain:tiankong.com,
 domain:tiankonguse.com,

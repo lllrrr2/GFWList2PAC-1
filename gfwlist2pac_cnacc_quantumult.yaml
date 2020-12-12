@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc3NTgyNAo=
+# Checksum: MTYwNzc4NjI3NQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201212-4
-# TimeUpdated: 2020-12-12T12:23:44+00:00
+# Version: 1.2.5-20201212-5
+# TimeUpdated: 2020-12-12T15:17:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -10142,7 +10142,6 @@ DOMAIN-SUFFIX,bjmslp.com,DIRECT
 DOMAIN-SUFFIX,bjmti.com,DIRECT
 DOMAIN-SUFFIX,bjnaxl.com,DIRECT
 DOMAIN-SUFFIX,bjnsr.com,DIRECT
-DOMAIN-SUFFIX,bjoppein.com,DIRECT
 DOMAIN-SUFFIX,bjornfromsweden.com,DIRECT
 DOMAIN-SUFFIX,bjp321.com,DIRECT
 DOMAIN-SUFFIX,bjpanzisheying.com,DIRECT
@@ -13592,7 +13591,6 @@ DOMAIN-SUFFIX,cmsyou.com,DIRECT
 DOMAIN-SUFFIX,cmsyuanma.com,DIRECT
 DOMAIN-SUFFIX,cmt178.com,DIRECT
 DOMAIN-SUFFIX,cmt7.com,DIRECT
-DOMAIN-SUFFIX,cmtdi.com,DIRECT
 DOMAIN-SUFFIX,cmtech.net,DIRECT
 DOMAIN-SUFFIX,cmuliang.com,DIRECT
 DOMAIN-SUFFIX,cmwb.com,DIRECT
@@ -45838,6 +45836,7 @@ DOMAIN-SUFFIX,tianinfo.com,DIRECT
 DOMAIN-SUFFIX,tianjiegame.com,DIRECT
 DOMAIN-SUFFIX,tianjieleather.com,DIRECT
 DOMAIN-SUFFIX,tianjihr.com,DIRECT
+DOMAIN-SUFFIX,tianjikuaidu.com,DIRECT
 DOMAIN-SUFFIX,tianjinxs.com,DIRECT
 DOMAIN-SUFFIX,tiankong.com,DIRECT
 DOMAIN-SUFFIX,tiankonguse.com,DIRECT
