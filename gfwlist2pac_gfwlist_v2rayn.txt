@@ -1,7 +1,7 @@
-# Checksum: MTYwNzczNDE4MQo=
+# Checksum: MTYwNzc0MzIwNAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201212-0
-# TimeUpdated: 2020-12-12T00:49:41+00:00
+# Version: 1.2.5-20201212-1
+# TimeUpdated: 2020-12-12T03:20:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1557,6 +1557,7 @@ domain:96tang.site,
 domain:97333vip.com,
 domain:97777vip.com,
 domain:977ai.com,
+domain:97888vip.com,
 domain:97919.com,
 domain:97gae.com,
 domain:97lm.com,

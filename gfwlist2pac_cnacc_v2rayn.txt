@@ -1,7 +1,7 @@
-# Checksum: MTYwNzczNDE3NAo=
+# Checksum: MTYwNzc0MzE5Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201212-0
-# TimeUpdated: 2020-12-12T00:49:34+00:00
+# Version: 1.2.5-20201212-1
+# TimeUpdated: 2020-12-12T03:19:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -688,7 +688,6 @@ domain:0omcp.wang,
 domain:0quan8.com,
 domain:0rg.pw,
 domain:0s8s.com,
-domain:0v8739.wang,
 domain:0x0.biz,
 domain:0x0d.im,
 domain:0x100.club,
@@ -2607,7 +2606,6 @@ domain:345k.com,
 domain:345kam.com,
 domain:345ok.net,
 domain:3464.com,
-domain:347u65.wang,
 domain:349603.cc,
 domain:3499.co,
 domain:349broomestreet.com,
@@ -11658,6 +11656,7 @@ domain:cdhtnews.com,
 domain:cdhulan.com,
 domain:cdili.com,
 domain:cdjingfeng.com,
+domain:cdjinpeng.com,
 domain:cdjnrc.com,
 domain:cdjsjx.com,
 domain:cdjxjy.com,
