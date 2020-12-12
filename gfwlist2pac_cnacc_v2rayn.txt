@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc0MzE5Nwo=
+# Checksum: MTYwNzc1NDA3OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201212-1
-# TimeUpdated: 2020-12-12T03:19:57+00:00
+# Version: 1.2.5-20201212-2
+# TimeUpdated: 2020-12-12T06:21:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2596,7 +2596,6 @@ domain:341666666.com,
 domain:343480.com,
 domain:345166.com,
 domain:3454.com,
-domain:3456.cc,
 domain:3456.com,
 domain:3456.tv,
 domain:34580.com,
@@ -6920,6 +6919,7 @@ domain:adjucai.com,
 domain:adjumo.com,
 domain:adjuz.com,
 domain:adkk.wang,
+domain:adkungfu.com,
 domain:adl888.com,
 domain:adl999.com,
 domain:adlefee.com,
