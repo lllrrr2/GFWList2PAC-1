@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc2NDc0OQo=
+# Checksum: MTYwNzc3NTgyNAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201212-3
-# TimeUpdated: 2020-12-12T09:19:09+00:00
+# Version: 1.2.5-20201212-4
+# TimeUpdated: 2020-12-12T12:23:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -9796,7 +9796,6 @@ DOMAIN-SUFFIX,bingdian01.com
 DOMAIN-SUFFIX,bingdong700.com
 DOMAIN-SUFFIX,bingdou.net
 DOMAIN-SUFFIX,bingelmedia.com
-DOMAIN-SUFFIX,bingjun.cc
 DOMAIN-SUFFIX,binglai.net
 DOMAIN-SUFFIX,binglanggu.com
 DOMAIN-SUFFIX,binglixue.com
@@ -12954,6 +12953,7 @@ DOMAIN-SUFFIX,chinaznj.com
 DOMAIN-SUFFIX,chinazns.com
 DOMAIN-SUFFIX,chinaznyj.com
 DOMAIN-SUFFIX,chinazov.com
+DOMAIN-SUFFIX,chinazyjr.com
 DOMAIN-SUFFIX,chinca.org
 DOMAIN-SUFFIX,chindiaforum.com
 DOMAIN-SUFFIX,chine-info.com
@@ -16119,6 +16119,7 @@ DOMAIN-SUFFIX,dfsyc168.com
 DOMAIN-SUFFIX,dfsyjm.com
 DOMAIN-SUFFIX,dftoutiao.com
 DOMAIN-SUFFIX,dftq.net
+DOMAIN-SUFFIX,dfv5.net
 DOMAIN-SUFFIX,dfxq.com
 DOMAIN-SUFFIX,dfyanyi.com
 DOMAIN-SUFFIX,dfyapp.com
@@ -16300,6 +16301,7 @@ DOMAIN-SUFFIX,diantui.net
 DOMAIN-SUFFIX,dianwannan.com
 DOMAIN-SUFFIX,dianwoba.com
 DOMAIN-SUFFIX,dianwoda.com
+DOMAIN-SUFFIX,dianwoyou.com
 DOMAIN-SUFFIX,dianxinnews.com
 DOMAIN-SUFFIX,dianyingbars.com
 DOMAIN-SUFFIX,dianyingjie.com
@@ -22975,6 +22977,7 @@ DOMAIN-SUFFIX,happymath.org
 DOMAIN-SUFFIX,happymath2009.org
 DOMAIN-SUFFIX,happymmall.com
 DOMAIN-SUFFIX,happynear.wang
+DOMAIN-SUFFIX,happynm.com
 DOMAIN-SUFFIX,happyphonewoods.com
 DOMAIN-SUFFIX,happyplaygame.net
 DOMAIN-SUFFIX,happysky.org
@@ -43326,6 +43329,7 @@ DOMAIN-SUFFIX,slmbio.com
 DOMAIN-SUFFIX,slmwp.com
 DOMAIN-SUFFIX,slogra.com
 DOMAIN-SUFFIX,slooti.com
+DOMAIN-SUFFIX,slpi1.com
 DOMAIN-SUFFIX,slready.com
 DOMAIN-SUFFIX,slsteel.com
 DOMAIN-SUFFIX,slswx7.com

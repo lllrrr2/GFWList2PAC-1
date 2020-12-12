@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc2NDc0OQo=
+# Checksum: MTYwNzc3NTgyNAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201212-3
-# TimeUpdated: 2020-12-12T09:19:09+00:00
+# Version: 1.2.5-20201212-4
+# TimeUpdated: 2020-12-12T12:23:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -9796,7 +9796,6 @@ DOMAIN-SUFFIX,bingdian01.com,DIRECT
 DOMAIN-SUFFIX,bingdong700.com,DIRECT
 DOMAIN-SUFFIX,bingdou.net,DIRECT
 DOMAIN-SUFFIX,bingelmedia.com,DIRECT
-DOMAIN-SUFFIX,bingjun.cc,DIRECT
 DOMAIN-SUFFIX,binglai.net,DIRECT
 DOMAIN-SUFFIX,binglanggu.com,DIRECT
 DOMAIN-SUFFIX,binglixue.com,DIRECT
@@ -12954,6 +12953,7 @@ DOMAIN-SUFFIX,chinaznj.com,DIRECT
 DOMAIN-SUFFIX,chinazns.com,DIRECT
 DOMAIN-SUFFIX,chinaznyj.com,DIRECT
 DOMAIN-SUFFIX,chinazov.com,DIRECT
+DOMAIN-SUFFIX,chinazyjr.com,DIRECT
 DOMAIN-SUFFIX,chinca.org,DIRECT
 DOMAIN-SUFFIX,chindiaforum.com,DIRECT
 DOMAIN-SUFFIX,chine-info.com,DIRECT
@@ -16119,6 +16119,7 @@ DOMAIN-SUFFIX,dfsyc168.com,DIRECT
 DOMAIN-SUFFIX,dfsyjm.com,DIRECT
 DOMAIN-SUFFIX,dftoutiao.com,DIRECT
 DOMAIN-SUFFIX,dftq.net,DIRECT
+DOMAIN-SUFFIX,dfv5.net,DIRECT
 DOMAIN-SUFFIX,dfxq.com,DIRECT
 DOMAIN-SUFFIX,dfyanyi.com,DIRECT
 DOMAIN-SUFFIX,dfyapp.com,DIRECT
@@ -16300,6 +16301,7 @@ DOMAIN-SUFFIX,diantui.net,DIRECT
 DOMAIN-SUFFIX,dianwannan.com,DIRECT
 DOMAIN-SUFFIX,dianwoba.com,DIRECT
 DOMAIN-SUFFIX,dianwoda.com,DIRECT
+DOMAIN-SUFFIX,dianwoyou.com,DIRECT
 DOMAIN-SUFFIX,dianxinnews.com,DIRECT
 DOMAIN-SUFFIX,dianyingbars.com,DIRECT
 DOMAIN-SUFFIX,dianyingjie.com,DIRECT
@@ -22975,6 +22977,7 @@ DOMAIN-SUFFIX,happymath.org,DIRECT
 DOMAIN-SUFFIX,happymath2009.org,DIRECT
 DOMAIN-SUFFIX,happymmall.com,DIRECT
 DOMAIN-SUFFIX,happynear.wang,DIRECT
+DOMAIN-SUFFIX,happynm.com,DIRECT
 DOMAIN-SUFFIX,happyphonewoods.com,DIRECT
 DOMAIN-SUFFIX,happyplaygame.net,DIRECT
 DOMAIN-SUFFIX,happysky.org,DIRECT
@@ -43326,6 +43329,7 @@ DOMAIN-SUFFIX,slmbio.com,DIRECT
 DOMAIN-SUFFIX,slmwp.com,DIRECT
 DOMAIN-SUFFIX,slogra.com,DIRECT
 DOMAIN-SUFFIX,slooti.com,DIRECT
+DOMAIN-SUFFIX,slpi1.com,DIRECT
 DOMAIN-SUFFIX,slready.com,DIRECT
 DOMAIN-SUFFIX,slsteel.com,DIRECT
 DOMAIN-SUFFIX,slswx7.com,DIRECT
