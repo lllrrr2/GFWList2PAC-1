@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc4NjI3NQo=
+# Checksum: MTYwNzc5NzEzMQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201212-5
-# TimeUpdated: 2020-12-12T15:17:55+00:00
+# Version: 1.2.5-20201212-6
+# TimeUpdated: 2020-12-12T18:18:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -6891,7 +6891,6 @@ DOMAIN-SUFFIX,adccd.com,DIRECT
 DOMAIN-SUFFIX,adcdownload.apple.com,DIRECT
 DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net,DIRECT
 DOMAIN-SUFFIX,adchitu.net,DIRECT
-DOMAIN-SUFFIX,add-urlfree.com,DIRECT
 DOMAIN-SUFFIX,addaad.com,DIRECT
 DOMAIN-SUFFIX,addgog.com,DIRECT
 DOMAIN-SUFFIX,addnewer.com,DIRECT
@@ -7085,6 +7084,7 @@ DOMAIN-SUFFIX,ahalei.com,DIRECT
 DOMAIN-SUFFIX,ahanxun.com,DIRECT
 DOMAIN-SUFFIX,ahao.moe,DIRECT
 DOMAIN-SUFFIX,ahaohao.com,DIRECT
+DOMAIN-SUFFIX,ahbaojia.com,DIRECT
 DOMAIN-SUFFIX,ahbb.cc,DIRECT
 DOMAIN-SUFFIX,ahbdfyy.com,DIRECT
 DOMAIN-SUFFIX,ahbztv.com,DIRECT
@@ -7304,6 +7304,7 @@ DOMAIN-SUFFIX,ailvxing.com,DIRECT
 DOMAIN-SUFFIX,ailvzhi.com,DIRECT
 DOMAIN-SUFFIX,ailvzhidu.com,DIRECT
 DOMAIN-SUFFIX,aimagang.com,DIRECT
+DOMAIN-SUFFIX,aimaoji.com,DIRECT
 DOMAIN-SUFFIX,aimapp.net,DIRECT
 DOMAIN-SUFFIX,aimeas.com,DIRECT
 DOMAIN-SUFFIX,aimeicaizhuang.com,DIRECT
@@ -7965,6 +7966,7 @@ DOMAIN-SUFFIX,anzhi.com,DIRECT
 DOMAIN-SUFFIX,anzhixun.com,DIRECT
 DOMAIN-SUFFIX,anzhuo2.com,DIRECT
 DOMAIN-SUFFIX,anzhuoshangdian.com,DIRECT
+DOMAIN-SUFFIX,anzhuotan.com,DIRECT
 DOMAIN-SUFFIX,anzhuowo.com,DIRECT
 DOMAIN-SUFFIX,anzogame.com,DIRECT
 DOMAIN-SUFFIX,anzow.com,DIRECT
@@ -8034,6 +8036,7 @@ DOMAIN-SUFFIX,aotuzuche.com,DIRECT
 DOMAIN-SUFFIX,aowenmarketing.com,DIRECT
 DOMAIN-SUFFIX,aoxiangfuhua.com,DIRECT
 DOMAIN-SUFFIX,aoxintong.com,DIRECT
+DOMAIN-SUFFIX,aoxuis.me,DIRECT
 DOMAIN-SUFFIX,aoya-hk.com,DIRECT
 DOMAIN-SUFFIX,aoyahuanqiu.com,DIRECT
 DOMAIN-SUFFIX,aoye.com,DIRECT
@@ -10357,7 +10360,6 @@ DOMAIN-SUFFIX,bluelettercn.org,DIRECT
 DOMAIN-SUFFIX,bluelightfuse.com,DIRECT
 DOMAIN-SUFFIX,bluelive.me,DIRECT
 DOMAIN-SUFFIX,blueplus.cc,DIRECT
-DOMAIN-SUFFIX,blueriiver-eu.com,DIRECT
 DOMAIN-SUFFIX,bluesdream.com,DIRECT
 DOMAIN-SUFFIX,blueshow.net,DIRECT
 DOMAIN-SUFFIX,blueskykong.com,DIRECT
@@ -42595,6 +42597,7 @@ DOMAIN-SUFFIX,showmebug.com,DIRECT
 DOMAIN-SUFFIX,showppt.com,DIRECT
 DOMAIN-SUFFIX,showself.com,DIRECT
 DOMAIN-SUFFIX,showstart.com,DIRECT
+DOMAIN-SUFFIX,showstone.net,DIRECT
 DOMAIN-SUFFIX,showyear.com,DIRECT
 DOMAIN-SUFFIX,shoyoo.com,DIRECT
 DOMAIN-SUFFIX,shpanli.com,DIRECT
@@ -42962,6 +42965,7 @@ DOMAIN-SUFFIX,siluke.tw,DIRECT
 DOMAIN-SUFFIX,silukeke.com,DIRECT
 DOMAIN-SUFFIX,silusheji.com,DIRECT
 DOMAIN-SUFFIX,siluwu.com,DIRECT
+DOMAIN-SUFFIX,silverfox-cn.com,DIRECT
 DOMAIN-SUFFIX,silverlight.dlservice.microsoft.com,DIRECT
 DOMAIN-SUFFIX,silverlighter.net,DIRECT
 DOMAIN-SUFFIX,silversand.net,DIRECT

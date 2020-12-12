@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc4NjI4Mwo=
+# Checksum: MTYwNzc5NzEzOQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201212-5
-# TimeUpdated: 2020-12-12T15:18:03+00:00
+# Version: 1.2.5-20201212-6
+# TimeUpdated: 2020-12-12T18:18:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5977,6 +5977,7 @@ DOMAIN-SUFFIX,cn.shafaqna.com
 DOMAIN-SUFFIX,cn.streetvoice.com
 DOMAIN-SUFFIX,cn.theaustralian.com.au
 DOMAIN-SUFFIX,cn.thegay.com
+DOMAIN-SUFFIX,cn.tmagazine.com.nyud.net
 DOMAIN-SUFFIX,cn.uncyclopedia.wikia.com
 DOMAIN-SUFFIX,cn.uptodown.com
 DOMAIN-SUFFIX,cn.venetianmacau.com

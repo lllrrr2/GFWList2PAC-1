@@ -1,7 +1,7 @@
-# Checksum: MTYwNzc4NjI3NQo=
+# Checksum: MTYwNzc5NzEzMQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201212-5
-# TimeUpdated: 2020-12-12T15:17:55+00:00
+# Version: 1.2.5-20201212-6
+# TimeUpdated: 2020-12-12T18:18:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6891,7 +6891,6 @@ DOMAIN-SUFFIX,adccd.com
 DOMAIN-SUFFIX,adcdownload.apple.com
 DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
 DOMAIN-SUFFIX,adchitu.net
-DOMAIN-SUFFIX,add-urlfree.com
 DOMAIN-SUFFIX,addaad.com
 DOMAIN-SUFFIX,addgog.com
 DOMAIN-SUFFIX,addnewer.com
@@ -7085,6 +7084,7 @@ DOMAIN-SUFFIX,ahalei.com
 DOMAIN-SUFFIX,ahanxun.com
 DOMAIN-SUFFIX,ahao.moe
 DOMAIN-SUFFIX,ahaohao.com
+DOMAIN-SUFFIX,ahbaojia.com
 DOMAIN-SUFFIX,ahbb.cc
 DOMAIN-SUFFIX,ahbdfyy.com
 DOMAIN-SUFFIX,ahbztv.com
@@ -7304,6 +7304,7 @@ DOMAIN-SUFFIX,ailvxing.com
 DOMAIN-SUFFIX,ailvzhi.com
 DOMAIN-SUFFIX,ailvzhidu.com
 DOMAIN-SUFFIX,aimagang.com
+DOMAIN-SUFFIX,aimaoji.com
 DOMAIN-SUFFIX,aimapp.net
 DOMAIN-SUFFIX,aimeas.com
 DOMAIN-SUFFIX,aimeicaizhuang.com
@@ -7965,6 +7966,7 @@ DOMAIN-SUFFIX,anzhi.com
 DOMAIN-SUFFIX,anzhixun.com
 DOMAIN-SUFFIX,anzhuo2.com
 DOMAIN-SUFFIX,anzhuoshangdian.com
+DOMAIN-SUFFIX,anzhuotan.com
 DOMAIN-SUFFIX,anzhuowo.com
 DOMAIN-SUFFIX,anzogame.com
 DOMAIN-SUFFIX,anzow.com
@@ -8034,6 +8036,7 @@ DOMAIN-SUFFIX,aotuzuche.com
 DOMAIN-SUFFIX,aowenmarketing.com
 DOMAIN-SUFFIX,aoxiangfuhua.com
 DOMAIN-SUFFIX,aoxintong.com
+DOMAIN-SUFFIX,aoxuis.me
 DOMAIN-SUFFIX,aoya-hk.com
 DOMAIN-SUFFIX,aoyahuanqiu.com
 DOMAIN-SUFFIX,aoye.com
@@ -10357,7 +10360,6 @@ DOMAIN-SUFFIX,bluelettercn.org
 DOMAIN-SUFFIX,bluelightfuse.com
 DOMAIN-SUFFIX,bluelive.me
 DOMAIN-SUFFIX,blueplus.cc
-DOMAIN-SUFFIX,blueriiver-eu.com
 DOMAIN-SUFFIX,bluesdream.com
 DOMAIN-SUFFIX,blueshow.net
 DOMAIN-SUFFIX,blueskykong.com
@@ -42595,6 +42597,7 @@ DOMAIN-SUFFIX,showmebug.com
 DOMAIN-SUFFIX,showppt.com
 DOMAIN-SUFFIX,showself.com
 DOMAIN-SUFFIX,showstart.com
+DOMAIN-SUFFIX,showstone.net
 DOMAIN-SUFFIX,showyear.com
 DOMAIN-SUFFIX,shoyoo.com
 DOMAIN-SUFFIX,shpanli.com
@@ -42962,6 +42965,7 @@ DOMAIN-SUFFIX,siluke.tw
 DOMAIN-SUFFIX,silukeke.com
 DOMAIN-SUFFIX,silusheji.com
 DOMAIN-SUFFIX,siluwu.com
+DOMAIN-SUFFIX,silverfox-cn.com
 DOMAIN-SUFFIX,silverlight.dlservice.microsoft.com
 DOMAIN-SUFFIX,silverlighter.net
 DOMAIN-SUFFIX,silversand.net
