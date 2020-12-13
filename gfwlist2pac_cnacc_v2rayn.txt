@@ -1,7 +1,7 @@
-# Checksum: MTYwNzg1MTE0MQo=
+# Checksum: MTYwNzg2MjI2NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201213-3
-# TimeUpdated: 2020-12-13T09:19:01+00:00
+# Version: 1.2.5-20201213-4
+# TimeUpdated: 2020-12-13T12:24:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -4252,7 +4252,6 @@ domain:54chen.com,
 domain:54doctor.net,
 domain:54doctors.net,
 domain:54fcnr.com,
-domain:54hacker.com,
 domain:54hcz.com,
 domain:54heb.com,
 domain:54hei.com,
@@ -8530,7 +8529,6 @@ domain:autooo.net,
 domain:autoparts-yoto.com,
 domain:autophagy.net,
 domain:autoplansearch.com,
-domain:autoq7.com,
 domain:autoqingdao.com,
 domain:autoshanghai.org,
 domain:autosmt.net,
