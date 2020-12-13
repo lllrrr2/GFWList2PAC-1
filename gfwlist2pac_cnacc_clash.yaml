@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzgwNzg0Mgo=
+# Checksum: MTYwNzgyMDczNwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201212-7
-# TimeUpdated: 2020-12-12T21:17:22+00:00
+# Version: 1.2.5-20201213-0
+# TimeUpdated: 2020-12-13T00:52:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -8771,6 +8771,7 @@ payload:
   - DOMAIN-SUFFIX,baideye.com
   - DOMAIN-SUFFIX,baidu-int.com
   - DOMAIN-SUFFIX,baidu-mgame.com
+  - DOMAIN-SUFFIX,baidu.cc
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-SUFFIX,baidu.mobi
   - DOMAIN-SUFFIX,baidu.net
@@ -9198,6 +9199,7 @@ payload:
   - DOMAIN-SUFFIX,bbbaaa.com
   - DOMAIN-SUFFIX,bbbao.com
   - DOMAIN-SUFFIX,bbbb.com
+  - DOMAIN-SUFFIX,bbbcdns.com
   - DOMAIN-SUFFIX,bbbtgo.com
   - DOMAIN-SUFFIX,bbbvip.com
   - DOMAIN-SUFFIX,bbcmart.com
@@ -10758,7 +10760,6 @@ payload:
   - DOMAIN-SUFFIX,bttwo.com
   - DOMAIN-SUFFIX,btv.org
   - DOMAIN-SUFFIX,btvcd.net
-  - DOMAIN-SUFFIX,btw877.icu
   - DOMAIN-SUFFIX,btwob.net
   - DOMAIN-SUFFIX,btwuji.com
   - DOMAIN-SUFFIX,btxl8.com
@@ -11296,6 +11297,7 @@ payload:
   - DOMAIN-SUFFIX,cappchem.com
   - DOMAIN-SUFFIX,cappeg.com
   - DOMAIN-SUFFIX,capvision.com
+  - DOMAIN-SUFFIX,car-sort.com
   - DOMAIN-SUFFIX,car0575.com
   - DOMAIN-SUFFIX,car136.com
   - DOMAIN-SUFFIX,car2100.com
@@ -13466,6 +13468,7 @@ payload:
   - DOMAIN-SUFFIX,clinicmed.net
   - DOMAIN-SUFFIX,cliport.com
   - DOMAIN-SUFFIX,clivechia.com
+  - DOMAIN-SUFFIX,cljmmm123.com
   - DOMAIN-SUFFIX,clkyjt.com
   - DOMAIN-SUFFIX,clled.com
   - DOMAIN-SUFFIX,clloz.com
@@ -22431,6 +22434,7 @@ payload:
   - DOMAIN-SUFFIX,h5uc.com
   - DOMAIN-SUFFIX,h5war.com
   - DOMAIN-SUFFIX,h5youxi.com
+  - DOMAIN-SUFFIX,h621.com
   - DOMAIN-SUFFIX,h6295.com
   - DOMAIN-SUFFIX,h6688.com
   - DOMAIN-SUFFIX,h6969.com
@@ -27434,6 +27438,7 @@ payload:
   - DOMAIN-SUFFIX,izzx.cc
   - DOMAIN-SUFFIX,j-h-k.com
   - DOMAIN-SUFFIX,j-smu.com
+  - DOMAIN-SUFFIX,j-test.com
   - DOMAIN-SUFFIX,j1.com
   - DOMAIN-SUFFIX,j1health.com
   - DOMAIN-SUFFIX,j1sc.com
@@ -41419,6 +41424,7 @@ payload:
   - DOMAIN-SUFFIX,sclinktech.com
   - DOMAIN-SUFFIX,scly56.com
   - DOMAIN-SUFFIX,scmenhu.com
+  - DOMAIN-SUFFIX,scmeye.com
   - DOMAIN-SUFFIX,scmor.com
   - DOMAIN-SUFFIX,scmsky.com
   - DOMAIN-SUFFIX,scmsljj.com

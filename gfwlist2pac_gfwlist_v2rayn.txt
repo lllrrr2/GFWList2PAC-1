@@ -1,7 +1,7 @@
-# Checksum: MTYwNzgwNzg1MAo=
+# Checksum: MTYwNzgyMDc0NAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201212-7
-# TimeUpdated: 2020-12-12T21:17:30+00:00
+# Version: 1.2.5-20201213-0
+# TimeUpdated: 2020-12-13T00:52:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -476,7 +476,6 @@ domain:223nn.net,
 domain:223pp.net,
 domain:223ww.net,
 domain:223zz.net,
-domain:224.cc,
 domain:2245z.com,
 domain:225.etowns.org,
 domain:225540.com,
