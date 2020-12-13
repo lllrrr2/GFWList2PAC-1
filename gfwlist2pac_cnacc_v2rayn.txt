@@ -1,7 +1,7 @@
-# Checksum: MTYwNzg0MDQ5Nwo=
+# Checksum: MTYwNzg1MTE0MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201213-2
-# TimeUpdated: 2020-12-13T06:21:37+00:00
+# Version: 1.2.5-20201213-3
+# TimeUpdated: 2020-12-13T09:19:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1815,6 +1815,7 @@ domain:1miba.com,
 domain:1mifudao.com,
 domain:1mingpian.com,
 domain:1mishu.com,
+domain:1mm8.com,
 domain:1mod.org,
 domain:1more.com,
 domain:1mpi.com,
@@ -3308,7 +3309,6 @@ domain:49321.com,
 domain:49358.com,
 domain:49363.com,
 domain:4949567.com,
-domain:49644913.com,
 domain:497585.com,
 domain:498.net,
 domain:49914.com,
@@ -8155,6 +8155,7 @@ domain:appkefu.com,
 domain:appkg.com,
 domain:appldnld.apple.com,
 domain:apple110.com,
+domain:apple21.com,
 domain:apple88.net,
 domain:apple886.com,
 domain:apple90.com,
@@ -24156,6 +24157,7 @@ domain:hnxuntang.com,
 domain:hnxyjt.com,
 domain:hnycsk.com,
 domain:hnyfkj.com,
+domain:hnyh.net,
 domain:hnyingfang.com,
 domain:hnyinhan.com,
 domain:hnyouneng.com,

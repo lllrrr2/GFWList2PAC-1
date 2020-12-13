@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzg0MDQ5Nwo=
+# Checksum: MTYwNzg1MTE0MQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201213-2
-# TimeUpdated: 2020-12-13T06:21:37+00:00
+# Version: 1.2.5-20201213-3
+# TimeUpdated: 2020-12-13T09:19:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1816,6 +1816,7 @@ payload:
   - DOMAIN-SUFFIX,1mifudao.com
   - DOMAIN-SUFFIX,1mingpian.com
   - DOMAIN-SUFFIX,1mishu.com
+  - DOMAIN-SUFFIX,1mm8.com
   - DOMAIN-SUFFIX,1mod.org
   - DOMAIN-SUFFIX,1more.com
   - DOMAIN-SUFFIX,1mpi.com
@@ -3309,7 +3310,6 @@ payload:
   - DOMAIN-SUFFIX,49358.com
   - DOMAIN-SUFFIX,49363.com
   - DOMAIN-SUFFIX,4949567.com
-  - DOMAIN-SUFFIX,49644913.com
   - DOMAIN-SUFFIX,497585.com
   - DOMAIN-SUFFIX,498.net
   - DOMAIN-SUFFIX,49914.com
@@ -8156,6 +8156,7 @@ payload:
   - DOMAIN-SUFFIX,appkg.com
   - DOMAIN-SUFFIX,appldnld.apple.com
   - DOMAIN-SUFFIX,apple110.com
+  - DOMAIN-SUFFIX,apple21.com
   - DOMAIN-SUFFIX,apple88.net
   - DOMAIN-SUFFIX,apple886.com
   - DOMAIN-SUFFIX,apple90.com
@@ -24157,6 +24158,7 @@ payload:
   - DOMAIN-SUFFIX,hnxyjt.com
   - DOMAIN-SUFFIX,hnycsk.com
   - DOMAIN-SUFFIX,hnyfkj.com
+  - DOMAIN-SUFFIX,hnyh.net
   - DOMAIN-SUFFIX,hnyingfang.com
   - DOMAIN-SUFFIX,hnyinhan.com
   - DOMAIN-SUFFIX,hnyouneng.com
