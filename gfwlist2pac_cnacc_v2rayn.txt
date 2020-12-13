@@ -1,7 +1,7 @@
-# Checksum: MTYwNzg4MzUxNAo=
+# Checksum: MTYwNzg5NDE3Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201213-6
-# TimeUpdated: 2020-12-13T18:18:34+00:00
+# Version: 1.2.5-20201213-7
+# TimeUpdated: 2020-12-13T21:16:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -402,7 +402,6 @@ domain:0536qz.com,
 domain:0537tt.com,
 domain:0537yz.com,
 domain:053c.com,
-domain:0543hr.com,
 domain:0546dsw.com,
 domain:0546fdc.com,
 domain:0550.com,
@@ -10002,7 +10001,6 @@ domain:bizsofts.com,
 domain:bizvane.com,
 domain:bj-apc.com,
 domain:bj-big.com,
-domain:bj-dsmzyy.com,
 domain:bj-fd.com,
 domain:bj-sagtar.com,
 domain:bj-saite.com,
