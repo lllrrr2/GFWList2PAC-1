@@ -1,7 +1,7 @@
-# Checksum: MTYwNzg3MjY4Mgo=
+# Checksum: MTYwNzg4MzUxNAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201213-5
-# TimeUpdated: 2020-12-13T15:18:02+00:00
+# Version: 1.2.5-20201213-6
+# TimeUpdated: 2020-12-13T18:18:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -34080,6 +34080,7 @@ domain:meimeidu.com,
 domain:meimeio.com,
 domain:meimi.cc,
 domain:meimingteng.com,
+domain:meimotuan.com,
 domain:meinv.com,
 domain:meip0.me,
 domain:meipai.com,
@@ -35950,6 +35951,7 @@ domain:nd15.com,
 domain:nd56.com,
 domain:nddaily.com,
 domain:ndfeb1688.com,
+domain:ndfslk.store,
 domain:ndidu.com,
 domain:ndmh.com,
 domain:ndtsg.com,
@@ -40624,6 +40626,7 @@ domain:rfsister.com,
 domain:rg950.com,
 domain:rg959.com,
 domain:rgas-chengdu.com,
+domain:rgb128.com,
 domain:rgfc.net,
 domain:rgoo.com,
 domain:rgt5ey.bar,
@@ -44999,6 +45002,7 @@ domain:szzbmy.com,
 domain:szzfzd.com,
 domain:szzh365.com,
 domain:szzs360.com,
+domain:szzxks.net,
 domain:szzxs.com,
 domain:szzyqc.net,
 domain:t-bb.net,
