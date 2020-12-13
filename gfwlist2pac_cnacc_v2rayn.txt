@@ -1,7 +1,7 @@
-# Checksum: MTYwNzgyMDczNwo=
+# Checksum: MTYwNzgyOTYyMAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201213-0
-# TimeUpdated: 2020-12-13T00:52:17+00:00
+# Version: 1.2.5-20201213-1
+# TimeUpdated: 2020-12-13T03:20:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -9198,7 +9198,6 @@ domain:bbaqw.com,
 domain:bbbaaa.com,
 domain:bbbao.com,
 domain:bbbb.com,
-domain:bbbcdns.com,
 domain:bbbtgo.com,
 domain:bbbvip.com,
 domain:bbcmart.com,
@@ -12016,6 +12015,7 @@ domain:chainsinn.com,
 domain:chainsql.net,
 domain:chainwhy.com,
 domain:chainwon.com,
+domain:chaiqiu.wang,
 domain:chairyfish.com,
 domain:chaishiguan.com,
 domain:chaitin.com,
@@ -32018,6 +32018,7 @@ domain:liminwang.com,
 domain:limless.com,
 domain:limoer.cc,
 domain:limufang.com,
+domain:lin-php.com,
 domain:linakesi.com,
 domain:linban.com,
 domain:linchen.me,
