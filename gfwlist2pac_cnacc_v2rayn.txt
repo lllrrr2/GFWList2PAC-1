@@ -1,7 +1,7 @@
-# Checksum: MTYwNzgyOTYyMAo=
+# Checksum: MTYwNzg0MDQ5Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201213-1
-# TimeUpdated: 2020-12-13T03:20:20+00:00
+# Version: 1.2.5-20201213-2
+# TimeUpdated: 2020-12-13T06:21:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5560,7 +5560,6 @@ domain:815ybw.com,
 domain:81629.com,
 domain:81677.com,
 domain:8169.com,
-domain:816edu.com,
 domain:81761.com,
 domain:817711.com,
 domain:818.com,
@@ -7323,7 +7322,6 @@ domain:ainirobot.com,
 domain:ainiseo.com,
 domain:ainiu.net,
 domain:ainiugu6.com,
-domain:ainiuwa.com,
 domain:ainyi.com,
 domain:aiops.com,
 domain:aiotvoice.com,
@@ -16599,6 +16597,7 @@ domain:djkpai.com,
 domain:djkxl.com,
 domain:djlsoft.net,
 domain:djsh5.com,
+domain:djsoso.com,
 domain:djstechpc.com,
 domain:djstg.com,
 domain:dju8.com,

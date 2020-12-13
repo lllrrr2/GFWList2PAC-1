@@ -1,7 +1,7 @@
-# Checksum: MTYwNzgyOTYyOQo=
+# Checksum: MTYwNzg0MDUwNgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201213-1
-# TimeUpdated: 2020-12-13T03:20:29+00:00
+# Version: 1.2.5-20201213-2
+# TimeUpdated: 2020-12-13T06:21:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3836,6 +3836,7 @@ DOMAIN-SUFFIX,beyondfirewall-big5.blogspot.hk
 DOMAIN-SUFFIX,beyondfirewall.com
 DOMAIN-SUFFIX,bf168.pomiav.com
 DOMAIN-SUFFIX,bf2468.com
+DOMAIN-SUFFIX,bf550.com
 DOMAIN-SUFFIX,bf633.com
 DOMAIN-SUFFIX,bf730.com
 DOMAIN-SUFFIX,bf750.com
