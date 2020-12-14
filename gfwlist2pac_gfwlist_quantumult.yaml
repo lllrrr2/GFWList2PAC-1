@@ -1,7 +1,7 @@
-# Checksum: MTYwNzkzNzU5Mgo=
+# Checksum: MTYwNzk0ODc0MAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201214-3
-# TimeUpdated: 2020-12-14T09:19:52+00:00
+# Version: 1.2.5-20201214-4
+# TimeUpdated: 2020-12-14T12:25:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -3196,7 +3196,6 @@ DOMAIN-SUFFIX,babes.com,PROXY
 DOMAIN-SUFFIX,babueco.com,PROXY
 DOMAIN-SUFFIX,baby-kingdom.com,PROXY
 DOMAIN-SUFFIX,babykan.com,PROXY
-DOMAIN-SUFFIX,babynet.com.hk,PROXY
 DOMAIN-SUFFIX,babyzone.com,PROXY
 DOMAIN-SUFFIX,bacc.game88city.net,PROXY
 DOMAIN-SUFFIX,bachelorsgrove.net,PROXY

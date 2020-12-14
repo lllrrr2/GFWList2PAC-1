@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzkzNzU5Mgo=
+# Checksum: MTYwNzk0ODc0MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201214-3
-# TimeUpdated: 2020-12-14T09:19:52+00:00
+# Version: 1.2.5-20201214-4
+# TimeUpdated: 2020-12-14T12:25:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3197,7 +3197,6 @@ payload:
   - DOMAIN-SUFFIX,babueco.com
   - DOMAIN-SUFFIX,baby-kingdom.com
   - DOMAIN-SUFFIX,babykan.com
-  - DOMAIN-SUFFIX,babynet.com.hk
   - DOMAIN-SUFFIX,babyzone.com
   - DOMAIN-SUFFIX,bacc.game88city.net
   - DOMAIN-SUFFIX,bachelorsgrove.net
