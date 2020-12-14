@@ -1,7 +1,7 @@
-# Checksum: MTYwNzk2OTg1OQo=
+# Checksum: MTYwNzk4MDYxNwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201214-6
-# TimeUpdated: 2020-12-14T18:17:39+00:00
+# Version: 1.2.5-20201214-7
+# TimeUpdated: 2020-12-14T21:16:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -31092,6 +31092,7 @@ DOMAIN-SUFFIX,lanmit.com,DIRECT
 DOMAIN-SUFFIX,lanou3g.com,DIRECT
 DOMAIN-SUFFIX,lanqb.com,DIRECT
 DOMAIN-SUFFIX,lanqi.com,DIRECT
+DOMAIN-SUFFIX,lanqiao.org,DIRECT
 DOMAIN-SUFFIX,lanqibing.com,DIRECT
 DOMAIN-SUFFIX,lanqiutv.com,DIRECT
 DOMAIN-SUFFIX,lanqiuzu.com,DIRECT
