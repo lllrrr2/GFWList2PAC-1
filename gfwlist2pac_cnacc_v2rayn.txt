@@ -1,7 +1,7 @@
-# Checksum: MTYwNzk0ODczMgo=
+# Checksum: MTYwNzk1OTE0MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201214-4
-# TimeUpdated: 2020-12-14T12:25:32+00:00
+# Version: 1.2.5-20201214-5
+# TimeUpdated: 2020-12-14T15:19:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -388,7 +388,6 @@ domain:0523tx.net,
 domain:0523zp.com,
 domain:0523zz.com,
 domain:0527zz.com,
-domain:052tv.com,
 domain:052yx.com,
 domain:053135.com,
 domain:0531jb.com,
@@ -5769,7 +5768,6 @@ domain:886abc.com,
 domain:886bl.com,
 domain:886vps.com,
 domain:887w.com,
-domain:8881884.com,
 domain:8881919.cc,
 domain:8884321.com,
 domain:88845678.com,

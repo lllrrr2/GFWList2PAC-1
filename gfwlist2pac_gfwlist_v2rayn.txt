@@ -1,7 +1,7 @@
-# Checksum: MTYwNzk0ODc0MAo=
+# Checksum: MTYwNzk1OTE0OQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201214-4
-# TimeUpdated: 2020-12-14T12:25:40+00:00
+# Version: 1.2.5-20201214-5
+# TimeUpdated: 2020-12-14T15:19:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -880,6 +880,7 @@ domain:50na50.net,
 domain:50webs.com,
 domain:51489.godxtv.com,
 domain:51499.com,
+domain:51529.com,
 domain:5154.18qmm.com,
 domain:516nn.net,
 domain:517pj.com,
@@ -926,6 +927,7 @@ domain:52jav.com,
 domain:52kjwang.com,
 domain:52news.chinatimes.com,
 domain:52sod.co,
+domain:52ssr.cn,
 domain:52ull.com,
 domain:52xr.net,
 domain:52xtv.net,
@@ -1002,7 +1004,6 @@ domain:566.biz,
 domain:567.etowns.org,
 domain:56869.com,
 domain:56cun04.jigsy.com,
-domain:57138.com,
 domain:576.slyip.net,
 domain:576166i.com,
 domain:579.flnet.org,
@@ -5733,7 +5734,6 @@ domain:chroniclesec.com,
 domain:chrs.me.uk,
 domain:chuang-yen.org,
 domain:chuangcn.org,
-domain:chubbysextgp.com,
 domain:chubold.com,
 domain:chubun.com,
 domain:chuizi.net,
