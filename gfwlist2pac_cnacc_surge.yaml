@@ -1,7 +1,7 @@
-# Checksum: MTYwNzkyNjkzNQo=
+# Checksum: MTYwNzkzNzU4NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201214-2
-# TimeUpdated: 2020-12-14T06:22:15+00:00
+# Version: 1.2.5-20201214-3
+# TimeUpdated: 2020-12-14T09:19:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -10097,6 +10097,7 @@ DOMAIN-SUFFIX,bjidit.com
 DOMAIN-SUFFIX,bjiebtc.com
 DOMAIN-SUFFIX,bjilife.com
 DOMAIN-SUFFIX,bjipwqzx.com
+DOMAIN-SUFFIX,bjiwex.com
 DOMAIN-SUFFIX,bjjabc.com
 DOMAIN-SUFFIX,bjjap.com
 DOMAIN-SUFFIX,bjjchf.com
@@ -10355,6 +10356,7 @@ DOMAIN-SUFFIX,bluelettercn.org
 DOMAIN-SUFFIX,bluelightfuse.com
 DOMAIN-SUFFIX,bluelive.me
 DOMAIN-SUFFIX,blueplus.cc
+DOMAIN-SUFFIX,blueriiver-eu.com
 DOMAIN-SUFFIX,bluesdream.com
 DOMAIN-SUFFIX,blueshow.net
 DOMAIN-SUFFIX,blueskykong.com
@@ -13345,7 +13347,6 @@ DOMAIN-SUFFIX,cityy.com
 DOMAIN-SUFFIX,ciurcetcity.com
 DOMAIN-SUFFIX,ciux.org
 DOMAIN-SUFFIX,civclub.net
-DOMAIN-SUFFIX,civilaviation.cc
 DOMAIN-SUFFIX,civilcn.com
 DOMAIN-SUFFIX,civilness.com
 DOMAIN-SUFFIX,ciweek.com
@@ -31556,6 +31557,7 @@ DOMAIN-SUFFIX,lenovonetapp.com
 DOMAIN-SUFFIX,lenovonowgo.com
 DOMAIN-SUFFIX,lenovots.com
 DOMAIN-SUFFIX,lenovouat.com
+DOMAIN-SUFFIX,lenovowap.com
 DOMAIN-SUFFIX,lenzhao.com
 DOMAIN-SUFFIX,leo96.com
 DOMAIN-SUFFIX,leoao.com

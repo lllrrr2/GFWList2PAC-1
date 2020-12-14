@@ -1,7 +1,7 @@
-# Checksum: MTYwNzkyNjkzNQo=
+# Checksum: MTYwNzkzNzU4NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201214-2
-# TimeUpdated: 2020-12-14T06:22:15+00:00
+# Version: 1.2.5-20201214-3
+# TimeUpdated: 2020-12-14T09:19:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10097,6 +10097,7 @@ domain:bjidit.com,
 domain:bjiebtc.com,
 domain:bjilife.com,
 domain:bjipwqzx.com,
+domain:bjiwex.com,
 domain:bjjabc.com,
 domain:bjjap.com,
 domain:bjjchf.com,
@@ -10355,6 +10356,7 @@ domain:bluelettercn.org,
 domain:bluelightfuse.com,
 domain:bluelive.me,
 domain:blueplus.cc,
+domain:blueriiver-eu.com,
 domain:bluesdream.com,
 domain:blueshow.net,
 domain:blueskykong.com,
@@ -13345,7 +13347,6 @@ domain:cityy.com,
 domain:ciurcetcity.com,
 domain:ciux.org,
 domain:civclub.net,
-domain:civilaviation.cc,
 domain:civilcn.com,
 domain:civilness.com,
 domain:ciweek.com,
@@ -31556,6 +31557,7 @@ domain:lenovonetapp.com,
 domain:lenovonowgo.com,
 domain:lenovots.com,
 domain:lenovouat.com,
+domain:lenovowap.com,
 domain:lenzhao.com,
 domain:leo96.com,
 domain:leoao.com,
