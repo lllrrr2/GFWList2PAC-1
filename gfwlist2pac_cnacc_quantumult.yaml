@@ -1,7 +1,7 @@
-# Checksum: MTYwNzg5NDE3Mgo=
+# Checksum: MTYwNzkwNzA4Nwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201213-7
-# TimeUpdated: 2020-12-13T21:16:12+00:00
+# Version: 1.2.5-20201214-0
+# TimeUpdated: 2020-12-14T00:51:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -42985,6 +42985,7 @@ DOMAIN-SUFFIX,simici3.com,DIRECT
 DOMAIN-SUFFIX,simiki.org,DIRECT
 DOMAIN-SUFFIX,simingtang.com,DIRECT
 DOMAIN-SUFFIX,simon96.online,DIRECT
+DOMAIN-SUFFIX,simovs.com,DIRECT
 DOMAIN-SUFFIX,simp.red,DIRECT
 DOMAIN-SUFFIX,simperfect.com,DIRECT
 DOMAIN-SUFFIX,simple-is-better.com,DIRECT
@@ -48181,6 +48182,7 @@ DOMAIN-SUFFIX,visionvera.com,DIRECT
 DOMAIN-SUFFIX,viskem.com,DIRECT
 DOMAIN-SUFFIX,vispp.net,DIRECT
 DOMAIN-SUFFIX,vista123.com,DIRECT
+DOMAIN-SUFFIX,vistai.net,DIRECT
 DOMAIN-SUFFIX,vistastory.com,DIRECT
 DOMAIN-SUFFIX,visualchina.com,DIRECT
 DOMAIN-SUFFIX,visvachina.com,DIRECT
