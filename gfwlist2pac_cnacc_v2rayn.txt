@@ -1,7 +1,7 @@
-# Checksum: MTYwNzk1OTE0MQo=
+# Checksum: MTYwNzk2OTg1OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201214-5
-# TimeUpdated: 2020-12-14T15:19:01+00:00
+# Version: 1.2.5-20201214-6
+# TimeUpdated: 2020-12-14T18:17:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5365,6 +5365,7 @@ domain:7999.com,
 domain:7999.tv,
 domain:799job.com,
 domain:79tk.com,
+domain:79xs.cc,
 domain:79yx.com,
 domain:7a8k.com,
 domain:7ahr.com,
@@ -8055,6 +8056,7 @@ domain:apeiwan.com,
 domain:apelearn.com,
 domain:apesk.com,
 domain:apetdog.com,
+domain:apex100.com,
 domain:apexmic.com,
 domain:apfdc.net,
 domain:apgblogs.com,
@@ -23174,6 +23176,7 @@ domain:hbtaiyang.com,
 domain:hbtcw.com,
 domain:hbtengniu.com,
 domain:hbtobacco.com,
+domain:hbtouhuai.com,
 domain:hbtxbaidu.com,
 domain:hbtybio.com,
 domain:hbtycp.com,
@@ -30625,6 +30628,7 @@ domain:kuaihaodai.com,
 domain:kuaihou.com,
 domain:kuaiji.com,
 domain:kuaiji.so,
+domain:kuaiji66.com,
 domain:kuaijiren.com,
 domain:kuaijiruanjian.com,
 domain:kuaijishizi.com,
@@ -34856,6 +34860,7 @@ domain:mobanhao.com,
 domain:mobanjing.com,
 domain:mobanku.com,
 domain:mobanma.com,
+domain:mobanpai.com,
 domain:mobantiankong.com,
 domain:mobantianxia.com,
 domain:mobantianxia.net,

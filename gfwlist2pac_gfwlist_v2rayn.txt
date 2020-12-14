@@ -1,7 +1,7 @@
-# Checksum: MTYwNzk1OTE0OQo=
+# Checksum: MTYwNzk2OTg2OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201214-5
-# TimeUpdated: 2020-12-14T15:19:09+00:00
+# Version: 1.2.5-20201214-6
+# TimeUpdated: 2020-12-14T18:17:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -748,7 +748,6 @@ domain:38856688.com,
 domain:3885hd.com,
 domain:38kq.com,
 domain:39.suroot.com,
-domain:39077b.com,
 domain:39170055.com,
 domain:39171122.com,
 domain:39174455.com,
@@ -1502,7 +1501,6 @@ domain:91pic.net,
 domain:91porn.com,
 domain:91porn.w3p.la,
 domain:91sp.v3p.co,
-domain:91stw.net,
 domain:91taa.com,
 domain:91tvh5.tv,
 domain:91vnn.com,
@@ -1621,6 +1619,7 @@ domain:999.33dzcp.com,
 domain:999.488m5.com,
 domain:999.588m5.com,
 domain:999.988m5.com,
+domain:999.a88866.cc,
 domain:999.abccp44.com,
 domain:999.aoke33.com,
 domain:999.ba8880.com,

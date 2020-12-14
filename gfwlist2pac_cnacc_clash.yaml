@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwNzk1OTE0MQo=
+# Checksum: MTYwNzk2OTg1OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201214-5
-# TimeUpdated: 2020-12-14T15:19:01+00:00
+# Version: 1.2.5-20201214-6
+# TimeUpdated: 2020-12-14T18:17:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -5366,6 +5366,7 @@ payload:
   - DOMAIN-SUFFIX,7999.tv
   - DOMAIN-SUFFIX,799job.com
   - DOMAIN-SUFFIX,79tk.com
+  - DOMAIN-SUFFIX,79xs.cc
   - DOMAIN-SUFFIX,79yx.com
   - DOMAIN-SUFFIX,7a8k.com
   - DOMAIN-SUFFIX,7ahr.com
@@ -8056,6 +8057,7 @@ payload:
   - DOMAIN-SUFFIX,apelearn.com
   - DOMAIN-SUFFIX,apesk.com
   - DOMAIN-SUFFIX,apetdog.com
+  - DOMAIN-SUFFIX,apex100.com
   - DOMAIN-SUFFIX,apexmic.com
   - DOMAIN-SUFFIX,apfdc.net
   - DOMAIN-SUFFIX,apgblogs.com
@@ -23175,6 +23177,7 @@ payload:
   - DOMAIN-SUFFIX,hbtcw.com
   - DOMAIN-SUFFIX,hbtengniu.com
   - DOMAIN-SUFFIX,hbtobacco.com
+  - DOMAIN-SUFFIX,hbtouhuai.com
   - DOMAIN-SUFFIX,hbtxbaidu.com
   - DOMAIN-SUFFIX,hbtybio.com
   - DOMAIN-SUFFIX,hbtycp.com
@@ -30626,6 +30629,7 @@ payload:
   - DOMAIN-SUFFIX,kuaihou.com
   - DOMAIN-SUFFIX,kuaiji.com
   - DOMAIN-SUFFIX,kuaiji.so
+  - DOMAIN-SUFFIX,kuaiji66.com
   - DOMAIN-SUFFIX,kuaijiren.com
   - DOMAIN-SUFFIX,kuaijiruanjian.com
   - DOMAIN-SUFFIX,kuaijishizi.com
@@ -34857,6 +34861,7 @@ payload:
   - DOMAIN-SUFFIX,mobanjing.com
   - DOMAIN-SUFFIX,mobanku.com
   - DOMAIN-SUFFIX,mobanma.com
+  - DOMAIN-SUFFIX,mobanpai.com
   - DOMAIN-SUFFIX,mobantiankong.com
   - DOMAIN-SUFFIX,mobantianxia.com
   - DOMAIN-SUFFIX,mobantianxia.net
