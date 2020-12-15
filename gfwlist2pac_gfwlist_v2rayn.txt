@@ -1,7 +1,7 @@
-# Checksum: MTYwODA1NjM4Mwo=
+# Checksum: MTYwODA2NzAyNAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201215-6
-# TimeUpdated: 2020-12-15T18:19:43+00:00
+# Version: 1.2.5-20201215-7
+# TimeUpdated: 2020-12-15T21:17:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -382,6 +382,7 @@ domain:1dot1dot1dot1.cloudflare-dns.com,
 domain:1dpw.com,
 domain:1drv.com,
 domain:1drv.ms,
+domain:1dumb.com,
 domain:1eew.com,
 domain:1ittlecup.com,
 domain:1jjdg2.vip,
@@ -10845,6 +10846,7 @@ domain:headphonesbeatsaudio.com,
 domain:headphonesbeatsbydre.com,
 domain:headphoneses.com,
 domain:headphonesretailer.com,
+domain:headset987.com,
 domain:health.businessweekly.com.tw,
 domain:health2.fun,
 domain:health2.icu,

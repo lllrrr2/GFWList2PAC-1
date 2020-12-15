@@ -1,7 +1,7 @@
-# Checksum: MTYwODA1NjM4Mwo=
+# Checksum: MTYwODA2NzAyNAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201215-6
-# TimeUpdated: 2020-12-15T18:19:43+00:00
+# Version: 1.2.5-20201215-7
+# TimeUpdated: 2020-12-15T21:17:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -382,6 +382,7 @@ DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com,PROXY
 DOMAIN-SUFFIX,1dpw.com,PROXY
 DOMAIN-SUFFIX,1drv.com,PROXY
 DOMAIN-SUFFIX,1drv.ms,PROXY
+DOMAIN-SUFFIX,1dumb.com,PROXY
 DOMAIN-SUFFIX,1eew.com,PROXY
 DOMAIN-SUFFIX,1ittlecup.com,PROXY
 DOMAIN-SUFFIX,1jjdg2.vip,PROXY
@@ -10845,6 +10846,7 @@ DOMAIN-SUFFIX,headphonesbeatsaudio.com,PROXY
 DOMAIN-SUFFIX,headphonesbeatsbydre.com,PROXY
 DOMAIN-SUFFIX,headphoneses.com,PROXY
 DOMAIN-SUFFIX,headphonesretailer.com,PROXY
+DOMAIN-SUFFIX,headset987.com,PROXY
 DOMAIN-SUFFIX,health.businessweekly.com.tw,PROXY
 DOMAIN-SUFFIX,health2.fun,PROXY
 DOMAIN-SUFFIX,health2.icu,PROXY
