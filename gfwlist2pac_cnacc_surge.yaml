@@ -1,7 +1,7 @@
-# Checksum: MTYwODA0NTU1Nwo=
+# Checksum: MTYwODA1NjM3Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201215-5
-# TimeUpdated: 2020-12-15T15:19:17+00:00
+# Version: 1.2.5-20201215-6
+# TimeUpdated: 2020-12-15T18:19:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -329,7 +329,6 @@ DOMAIN-SUFFIX,0378zz.com
 DOMAIN-SUFFIX,0379city.com
 DOMAIN-SUFFIX,0379home.com
 DOMAIN-SUFFIX,03964.com
-DOMAIN-SUFFIX,0396e.com
 DOMAIN-SUFFIX,03dq.com
 DOMAIN-SUFFIX,03k.org
 DOMAIN-SUFFIX,03nq.com
@@ -2695,6 +2694,7 @@ DOMAIN-SUFFIX,360hapi.com
 DOMAIN-SUFFIX,360hitao.com
 DOMAIN-SUFFIX,360hqb.com
 DOMAIN-SUFFIX,360huzhubao.com
+DOMAIN-SUFFIX,360hyzj.com
 DOMAIN-SUFFIX,360ibm.com
 DOMAIN-SUFFIX,360ic.com
 DOMAIN-SUFFIX,360ito.com
@@ -3305,6 +3305,7 @@ DOMAIN-SUFFIX,49321.com
 DOMAIN-SUFFIX,49358.com
 DOMAIN-SUFFIX,49363.com
 DOMAIN-SUFFIX,4949567.com
+DOMAIN-SUFFIX,49644913.com
 DOMAIN-SUFFIX,497585.com
 DOMAIN-SUFFIX,498.net
 DOMAIN-SUFFIX,49914.com
@@ -12217,7 +12218,6 @@ DOMAIN-SUFFIX,chefans.com
 DOMAIN-SUFFIX,cheflie.com
 DOMAIN-SUFFIX,chefugao.com
 DOMAIN-SUFFIX,cheguanyi.com
-DOMAIN-SUFFIX,chegun.com
 DOMAIN-SUFFIX,cheguo.com
 DOMAIN-SUFFIX,chehang168.com
 DOMAIN-SUFFIX,chehejia.com
@@ -12579,7 +12579,6 @@ DOMAIN-SUFFIX,chinachemnet.com
 DOMAIN-SUFFIX,chinachugui.com
 DOMAIN-SUFFIX,chinacics.org
 DOMAIN-SUFFIX,chinacity.net
-DOMAIN-SUFFIX,chinackf.net
 DOMAIN-SUFFIX,chinacma.org
 DOMAIN-SUFFIX,chinacmo.com
 DOMAIN-SUFFIX,chinacourt.org
@@ -13446,6 +13445,7 @@ DOMAIN-SUFFIX,clchawaii.com
 DOMAIN-SUFFIX,clcindex.com
 DOMAIN-SUFFIX,clclibrary.com
 DOMAIN-SUFFIX,clcmw.com
+DOMAIN-SUFFIX,cld-mail.ru
 DOMAIN-SUFFIX,clean-cn.com
 DOMAIN-SUFFIX,clear888.com
 DOMAIN-SUFFIX,clearaki.com
