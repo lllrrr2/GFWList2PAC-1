@@ -1,7 +1,7 @@
-# Checksum: MTYwNzk5MzM1OQo=
+# Checksum: MTYwODAwMjQxNAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201215-0
-# TimeUpdated: 2020-12-15T00:49:19+00:00
+# Version: 1.2.5-20201215-1
+# TimeUpdated: 2020-12-15T03:20:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -303,7 +303,6 @@ domain:177wyt.com,
 domain:1785178.com,
 domain:17pps.com,
 domain:17t17p.com,
-domain:17xtv.com,
 domain:18123cpw.com,
 domain:1818.net,
 domain:1818luckluck.net,
@@ -3320,7 +3319,6 @@ domain:bbb111.com,
 domain:bbb112.net,
 domain:bbb26.net,
 domain:bbb678.com,
-domain:bbb858.com,
 domain:bbc.co,
 domain:bbc.co.uk,
 domain:bbc.com,
@@ -4024,7 +4022,6 @@ domain:blackbullmarkets.com,
 domain:blacked.com,
 domain:blackfridaydrebeatsnew.com,
 domain:blackfridaydrebeatsshop.com,
-domain:blackis.net,
 domain:blacklogic.com,
 domain:blacksonblondes.com,
 domain:blackstonespoliceservice.com,
@@ -5733,6 +5730,7 @@ domain:chroniclesec.com,
 domain:chrs.me.uk,
 domain:chuang-yen.org,
 domain:chuangcn.org,
+domain:chubbysextgp.com,
 domain:chubold.com,
 domain:chubun.com,
 domain:chuizi.net,
@@ -19553,6 +19551,7 @@ domain:spieletipps.de,
 domain:spike.com,
 domain:spin808.com,
 domain:spin868.com,
+domain:spiritclubs.com,
 domain:spiritofecstasy.com,
 domain:spisicbukovica.hr,
 domain:spizoo.com,

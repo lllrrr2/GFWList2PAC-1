@@ -1,7 +1,7 @@
-# Checksum: MTYwNzk5MzM1Mgo=
+# Checksum: MTYwODAwMjQwNwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201215-0
-# TimeUpdated: 2020-12-15T00:49:12+00:00
+# Version: 1.2.5-20201215-1
+# TimeUpdated: 2020-12-15T03:20:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -11529,7 +11529,6 @@ domain:ccpithz.org,
 domain:ccpitjinan.org,
 domain:ccpitlight.org,
 domain:ccpitnmg.org,
-domain:ccpitqd.org,
 domain:ccpitsd.com,
 domain:ccpittex.com,
 domain:ccpittj.org,
@@ -36464,6 +36463,7 @@ domain:nmimi.com,
 domain:nmkjxy.com,
 domain:nmmwz.com,
 domain:nmszjy.com,
+domain:nmtui.com,
 domain:nmtyxy.com,
 domain:nmvps.com,
 domain:nmyygs.com,
@@ -44607,6 +44607,7 @@ domain:sxhuansi.net,
 domain:sxhxbank.com,
 domain:sxiaoshuo.com,
 domain:sxjcylbx.com,
+domain:sxjinfang.com,
 domain:sxkzxt.com,
 domain:sxlcdn.com,
 domain:sxldns.com,
