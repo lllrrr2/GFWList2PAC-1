@@ -1,7 +1,7 @@
-# Checksum: MTYwODAzNTEzMAo=
+# Checksum: MTYwODA0NTU1Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201215-4
-# TimeUpdated: 2020-12-15T12:25:30+00:00
+# Version: 1.2.5-20201215-5
+# TimeUpdated: 2020-12-15T15:19:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1673,7 +1673,6 @@ domain:189cube.com,
 domain:189ebuy.com,
 domain:189key.com,
 domain:189m.com,
-domain:189rc.com,
 domain:189read.com,
 domain:189share.com,
 domain:189xc.com,
