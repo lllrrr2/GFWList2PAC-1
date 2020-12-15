@@ -1,7 +1,7 @@
-# Checksum: MTYwODAwMjQwNwo=
+# Checksum: MTYwODAxMzMzNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201215-1
-# TimeUpdated: 2020-12-15T03:20:07+00:00
+# Version: 1.2.5-20201215-2
+# TimeUpdated: 2020-12-15T06:22:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3849,6 +3849,7 @@ domain:51vba.com,
 domain:51vip.biz,
 domain:51vv.com,
 domain:51wangdai.com,
+domain:51wanquan.com,
 domain:51wcity.com,
 domain:51web.com,
 domain:51websec.com,
@@ -6234,6 +6235,7 @@ domain:949949.com,
 domain:94afx.com,
 domain:94cb.com,
 domain:94dreamer.com,
+domain:94dwc.com,
 domain:94he38.com,
 domain:94hnr.com,
 domain:94i5.com,
@@ -6543,7 +6545,6 @@ domain:9d19.com,
 domain:9d4d.com,
 domain:9damao.com,
 domain:9damao.net,
-domain:9day-game.com,
 domain:9ddm.com,
 domain:9deli.com,
 domain:9dfx.com,
@@ -8061,7 +8062,6 @@ domain:apfdc.net,
 domain:apgblogs.com,
 domain:apgoview.com,
 domain:aphidic.com,
-domain:api-zhuti.htc.com,
 domain:api.bz,
 domain:apiadmin.org,
 domain:apicloud.com,

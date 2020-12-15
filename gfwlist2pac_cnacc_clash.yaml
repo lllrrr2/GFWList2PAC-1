@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODAwMjQwNwo=
+# Checksum: MTYwODAxMzMzNgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201215-1
-# TimeUpdated: 2020-12-15T03:20:07+00:00
+# Version: 1.2.5-20201215-2
+# TimeUpdated: 2020-12-15T06:22:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -3850,6 +3850,7 @@ payload:
   - DOMAIN-SUFFIX,51vip.biz
   - DOMAIN-SUFFIX,51vv.com
   - DOMAIN-SUFFIX,51wangdai.com
+  - DOMAIN-SUFFIX,51wanquan.com
   - DOMAIN-SUFFIX,51wcity.com
   - DOMAIN-SUFFIX,51web.com
   - DOMAIN-SUFFIX,51websec.com
@@ -6235,6 +6236,7 @@ payload:
   - DOMAIN-SUFFIX,94afx.com
   - DOMAIN-SUFFIX,94cb.com
   - DOMAIN-SUFFIX,94dreamer.com
+  - DOMAIN-SUFFIX,94dwc.com
   - DOMAIN-SUFFIX,94he38.com
   - DOMAIN-SUFFIX,94hnr.com
   - DOMAIN-SUFFIX,94i5.com
@@ -6544,7 +6546,6 @@ payload:
   - DOMAIN-SUFFIX,9d4d.com
   - DOMAIN-SUFFIX,9damao.com
   - DOMAIN-SUFFIX,9damao.net
-  - DOMAIN-SUFFIX,9day-game.com
   - DOMAIN-SUFFIX,9ddm.com
   - DOMAIN-SUFFIX,9deli.com
   - DOMAIN-SUFFIX,9dfx.com
@@ -8062,7 +8063,6 @@ payload:
   - DOMAIN-SUFFIX,apgblogs.com
   - DOMAIN-SUFFIX,apgoview.com
   - DOMAIN-SUFFIX,aphidic.com
-  - DOMAIN-SUFFIX,api-zhuti.htc.com
   - DOMAIN-SUFFIX,api.bz
   - DOMAIN-SUFFIX,apiadmin.org
   - DOMAIN-SUFFIX,apicloud.com
