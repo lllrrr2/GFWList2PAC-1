@@ -1,7 +1,7 @@
-# Checksum: MTYwODEyMTU0Mgo=
+# Checksum: MTYwODEzMTk2Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201216-4
-# TimeUpdated: 2020-12-16T12:25:42+00:00
+# Version: 1.2.5-20201216-5
+# TimeUpdated: 2020-12-16T15:19:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10185,7 +10185,6 @@ domain:bjttsf.com,
 domain:bjtu-hedu.com,
 domain:bjtvnews.com,
 domain:bjtysd.net,
-domain:bjtzr.com,
 domain:bjunionstar.net,
 domain:bjwanjiabao.com,
 domain:bjweizhifu.com,
