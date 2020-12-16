@@ -1,7 +1,7 @@
-# Checksum: MTYwODEzMTk2Mgo=
+# Checksum: MTYwODE0MjczMwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201216-5
-# TimeUpdated: 2020-12-16T15:19:22+00:00
+# Version: 1.2.5-20201216-6
+# TimeUpdated: 2020-12-16T18:18:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6230,7 +6230,6 @@ domain:94he38.com,
 domain:94hnr.com,
 domain:94i5.com,
 domain:94ip.com,
-domain:94ixs.com,
 domain:94kssc8.icu,
 domain:94lm.com,
 domain:94mxd.com,
@@ -7307,6 +7306,7 @@ domain:ainirobot.com,
 domain:ainiseo.com,
 domain:ainiu.net,
 domain:ainiugu6.com,
+domain:ainiuwa.com,
 domain:ainyi.com,
 domain:aiops.com,
 domain:aiotvoice.com,
@@ -11152,6 +11152,7 @@ domain:caimoge.com,
 domain:caimomo.com,
 domain:cainachina.com,
 domain:caing.com,
+domain:cainiaodoc.com,
 domain:cainiaojiaocheng.com,
 domain:cainiaolc.com,
 domain:cainiaoqidian.com,
@@ -16887,6 +16888,7 @@ domain:donever.com,
 domain:donevii.com,
 domain:donews.com,
 domain:dong-shou.com,
+domain:dongannews.com,
 domain:dongao.com,
 domain:dongbao120.com,
 domain:dongbeiol.com,

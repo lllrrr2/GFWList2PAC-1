@@ -1,7 +1,7 @@
-# Checksum: MTYwODEzMTk3MQo=
+# Checksum: MTYwODE0Mjc0MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201216-5
-# TimeUpdated: 2020-12-16T15:19:31+00:00
+# Version: 1.2.5-20201216-6
+# TimeUpdated: 2020-12-16T18:19:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1411,6 +1411,7 @@ domain:885370.com,
 domain:886666.com,
 domain:8870.com,
 domain:887he.com,
+domain:887yp.com,
 domain:888.com,
 domain:888.etowns.org,
 domain:888.gl000.com,

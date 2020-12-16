@@ -1,7 +1,7 @@
-# Checksum: MTYwODEzMTk2Mgo=
+# Checksum: MTYwODE0MjczMwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201216-5
-# TimeUpdated: 2020-12-16T15:19:22+00:00
+# Version: 1.2.5-20201216-6
+# TimeUpdated: 2020-12-16T18:18:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6230,7 +6230,6 @@ DOMAIN-SUFFIX,94he38.com
 DOMAIN-SUFFIX,94hnr.com
 DOMAIN-SUFFIX,94i5.com
 DOMAIN-SUFFIX,94ip.com
-DOMAIN-SUFFIX,94ixs.com
 DOMAIN-SUFFIX,94kssc8.icu
 DOMAIN-SUFFIX,94lm.com
 DOMAIN-SUFFIX,94mxd.com
@@ -7307,6 +7306,7 @@ DOMAIN-SUFFIX,ainirobot.com
 DOMAIN-SUFFIX,ainiseo.com
 DOMAIN-SUFFIX,ainiu.net
 DOMAIN-SUFFIX,ainiugu6.com
+DOMAIN-SUFFIX,ainiuwa.com
 DOMAIN-SUFFIX,ainyi.com
 DOMAIN-SUFFIX,aiops.com
 DOMAIN-SUFFIX,aiotvoice.com
@@ -11152,6 +11152,7 @@ DOMAIN-SUFFIX,caimoge.com
 DOMAIN-SUFFIX,caimomo.com
 DOMAIN-SUFFIX,cainachina.com
 DOMAIN-SUFFIX,caing.com
+DOMAIN-SUFFIX,cainiaodoc.com
 DOMAIN-SUFFIX,cainiaojiaocheng.com
 DOMAIN-SUFFIX,cainiaolc.com
 DOMAIN-SUFFIX,cainiaoqidian.com
@@ -16887,6 +16888,7 @@ DOMAIN-SUFFIX,donever.com
 DOMAIN-SUFFIX,donevii.com
 DOMAIN-SUFFIX,donews.com
 DOMAIN-SUFFIX,dong-shou.com
+DOMAIN-SUFFIX,dongannews.com
 DOMAIN-SUFFIX,dongao.com
 DOMAIN-SUFFIX,dongbao120.com
 DOMAIN-SUFFIX,dongbeiol.com
