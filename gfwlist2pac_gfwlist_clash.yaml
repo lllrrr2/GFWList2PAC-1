@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODE0Mjc0MQo=
+# Checksum: MTYwODE1MzQ1Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201216-6
-# TimeUpdated: 2020-12-16T18:19:01+00:00
+# Version: 1.2.5-20201216-7
+# TimeUpdated: 2020-12-16T21:17:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,001lv.com
   - DOMAIN-SUFFIX,002.com
   - DOMAIN-SUFFIX,002blr.com
+  - DOMAIN-SUFFIX,002tcw.com
   - DOMAIN-SUFFIX,00365365.com
   - DOMAIN-SUFFIX,004904.com
   - DOMAIN-SUFFIX,0055msc.com
@@ -359,6 +360,7 @@ payload:
   - DOMAIN-SUFFIX,1911900.com
   - DOMAIN-SUFFIX,192.com
   - DOMAIN-SUFFIX,19463333.com
+  - DOMAIN-SUFFIX,1949er.org
   - DOMAIN-SUFFIX,1952222.com
   - DOMAIN-SUFFIX,195aaa195.com
   - DOMAIN-SUFFIX,195aaaa195.com
@@ -930,7 +932,6 @@ payload:
   - DOMAIN-SUFFIX,52news.chinatimes.com
   - DOMAIN-SUFFIX,52sod.co
   - DOMAIN-SUFFIX,52ssr.cn
-  - DOMAIN-SUFFIX,52ull.com
   - DOMAIN-SUFFIX,52xr.net
   - DOMAIN-SUFFIX,52xtv.net
   - DOMAIN-SUFFIX,53.etowns.net
@@ -3859,7 +3860,6 @@ payload:
   - DOMAIN-SUFFIX,bi-si2.xyz
   - DOMAIN-SUFFIX,bi-si777.xyz
   - DOMAIN-SUFFIX,bi.tvbeee.com
-  - DOMAIN-SUFFIX,bianlei.com
   - DOMAIN-SUFFIX,biblesforamerica.org
   - DOMAIN-SUFFIX,bibox.com
   - DOMAIN-SUFFIX,bichosout.cl

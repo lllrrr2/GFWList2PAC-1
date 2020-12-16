@@ -1,7 +1,7 @@
-# Checksum: MTYwODE0Mjc0MQo=
+# Checksum: MTYwODE1MzQ1Mwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201216-6
-# TimeUpdated: 2020-12-16T18:19:01+00:00
+# Version: 1.2.5-20201216-7
+# TimeUpdated: 2020-12-16T21:17:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -16,6 +16,7 @@ domain:001717.com,
 domain:001lv.com,
 domain:002.com,
 domain:002blr.com,
+domain:002tcw.com,
 domain:00365365.com,
 domain:004904.com,
 domain:0055msc.com,
@@ -358,6 +359,7 @@ domain:1906999.com,
 domain:1911900.com,
 domain:192.com,
 domain:19463333.com,
+domain:1949er.org,
 domain:1952222.com,
 domain:195aaa195.com,
 domain:195aaaa195.com,
@@ -929,7 +931,6 @@ domain:52kjwang.com,
 domain:52news.chinatimes.com,
 domain:52sod.co,
 domain:52ssr.cn,
-domain:52ull.com,
 domain:52xr.net,
 domain:52xtv.net,
 domain:53.etowns.net,
@@ -3858,7 +3859,6 @@ domain:bi-si1.xyz,
 domain:bi-si2.xyz,
 domain:bi-si777.xyz,
 domain:bi.tvbeee.com,
-domain:bianlei.com,
 domain:biblesforamerica.org,
 domain:bibox.com,
 domain:bichosout.cl,

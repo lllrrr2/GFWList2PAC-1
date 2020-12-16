@@ -1,7 +1,7 @@
-# Checksum: MTYwODE0MjczMwo=
+# Checksum: MTYwODE1MzQ0NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201216-6
-# TimeUpdated: 2020-12-16T18:18:53+00:00
+# Version: 1.2.5-20201216-7
+# TimeUpdated: 2020-12-16T21:17:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -334,7 +334,6 @@ domain:03k.org,
 domain:03nq.com,
 domain:0411.com,
 domain:041188888.com,
-domain:0411e.com,
 domain:0411hd.com,
 domain:041234b.com,
 domain:0415gift.com,
@@ -3223,6 +3222,7 @@ domain:4399swf.com,
 domain:4399sy.com,
 domain:4399youpai.com,
 domain:43img.com,
+domain:43ml.com,
 domain:43zhubao.com,
 domain:442zb.com,
 domain:4443.com,
@@ -10613,6 +10613,7 @@ domain:brandtown.net,
 domain:brandvista.com,
 domain:breakingnewsireland.com,
 domain:breakyizhan.com,
+domain:brfaka.com,
 domain:brhthg.com,
 domain:bricktou.com,
 domain:bridgetiger.com,
