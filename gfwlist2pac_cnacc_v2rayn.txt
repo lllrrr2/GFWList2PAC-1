@@ -1,7 +1,7 @@
-# Checksum: MTYwODA4ODc5Mgo=
+# Checksum: MTYwODA5OTc2MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201216-1
-# TimeUpdated: 2020-12-16T03:19:52+00:00
+# Version: 1.2.5-20201216-2
+# TimeUpdated: 2020-12-16T06:22:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -954,7 +954,6 @@ domain:114my.net,
 domain:114oc.com,
 domain:114photo.com,
 domain:114piaowu.com,
-domain:114pifaa.com,
 domain:114pinpai.com,
 domain:114px.com,
 domain:114sf.com,
@@ -1310,7 +1309,6 @@ domain:160yx.com,
 domain:161580.com,
 domain:1616.net,
 domain:16163.com,
-domain:1616dh.com,
 domain:1616n.com,
 domain:161856.com,
 domain:161gg.com,
@@ -7470,7 +7468,6 @@ domain:ajzq.com,
 domain:ak0.tw,
 domain:ak1ak1.com,
 domain:akaedu.org,
-domain:akaxin.com,
 domain:akbe.com,
 domain:akbkgame.com,
 domain:akdanji.com,
@@ -8380,7 +8377,6 @@ domain:aso114.com,
 domain:aso120.com,
 domain:asoasm.com,
 domain:asofdate.com,
-domain:asp01.com,
 domain:asp300.com,
 domain:aspbc.com,
 domain:aspirer.wang,
@@ -15263,6 +15259,7 @@ domain:czyxba.com,
 domain:czzcm.com,
 domain:czzsw.com,
 domain:czzy-edu.com,
+domain:d-ctrip.com,
 domain:d-j.me,
 domain:d-meng.com,
 domain:d-prototype.com,

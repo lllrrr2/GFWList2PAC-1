@@ -1,7 +1,7 @@
-# Checksum: MTYwODA4ODc5Mgo=
+# Checksum: MTYwODA5OTc2MQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201216-1
-# TimeUpdated: 2020-12-16T03:19:52+00:00
+# Version: 1.2.5-20201216-2
+# TimeUpdated: 2020-12-16T06:22:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -954,7 +954,6 @@ DOMAIN-SUFFIX,114my.net
 DOMAIN-SUFFIX,114oc.com
 DOMAIN-SUFFIX,114photo.com
 DOMAIN-SUFFIX,114piaowu.com
-DOMAIN-SUFFIX,114pifaa.com
 DOMAIN-SUFFIX,114pinpai.com
 DOMAIN-SUFFIX,114px.com
 DOMAIN-SUFFIX,114sf.com
@@ -1310,7 +1309,6 @@ DOMAIN-SUFFIX,160yx.com
 DOMAIN-SUFFIX,161580.com
 DOMAIN-SUFFIX,1616.net
 DOMAIN-SUFFIX,16163.com
-DOMAIN-SUFFIX,1616dh.com
 DOMAIN-SUFFIX,1616n.com
 DOMAIN-SUFFIX,161856.com
 DOMAIN-SUFFIX,161gg.com
@@ -7470,7 +7468,6 @@ DOMAIN-SUFFIX,ajzq.com
 DOMAIN-SUFFIX,ak0.tw
 DOMAIN-SUFFIX,ak1ak1.com
 DOMAIN-SUFFIX,akaedu.org
-DOMAIN-SUFFIX,akaxin.com
 DOMAIN-SUFFIX,akbe.com
 DOMAIN-SUFFIX,akbkgame.com
 DOMAIN-SUFFIX,akdanji.com
@@ -8380,7 +8377,6 @@ DOMAIN-SUFFIX,aso114.com
 DOMAIN-SUFFIX,aso120.com
 DOMAIN-SUFFIX,asoasm.com
 DOMAIN-SUFFIX,asofdate.com
-DOMAIN-SUFFIX,asp01.com
 DOMAIN-SUFFIX,asp300.com
 DOMAIN-SUFFIX,aspbc.com
 DOMAIN-SUFFIX,aspirer.wang
@@ -15263,6 +15259,7 @@ DOMAIN-SUFFIX,czyxba.com
 DOMAIN-SUFFIX,czzcm.com
 DOMAIN-SUFFIX,czzsw.com
 DOMAIN-SUFFIX,czzy-edu.com
+DOMAIN-SUFFIX,d-ctrip.com
 DOMAIN-SUFFIX,d-j.me
 DOMAIN-SUFFIX,d-meng.com
 DOMAIN-SUFFIX,d-prototype.com
