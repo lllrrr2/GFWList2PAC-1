@@ -1,7 +1,7 @@
-# Checksum: MTYwODA3OTkyMgo=
+# Checksum: MTYwODA4ODc5Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201216-0
-# TimeUpdated: 2020-12-16T00:52:02+00:00
+# Version: 1.2.5-20201216-1
+# TimeUpdated: 2020-12-16T03:19:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5307,7 +5307,6 @@ domain:77power.com,
 domain:77sbsun.com,
 domain:77tianqi.com,
 domain:77tng.com,
-domain:77vcd.com,
 domain:77xmd.com,
 domain:77xsw.la,
 domain:77y4.com,
@@ -10815,7 +10814,6 @@ domain:burstgift.com,
 domain:buruizi.com,
 domain:bus365.com,
 domain:busbaoche.com,
-domain:busdh.com,
 domain:bushangban.com,
 domain:bushen365.com,
 domain:bushome.net,
@@ -42414,6 +42412,7 @@ domain:shisanlou.com,
 domain:shishagame.com,
 domain:shishike.com,
 domain:shisongya.com,
+domain:shisrd.com,
 domain:shisuint.org,
 domain:shit.name,
 domain:shitianxia.vip,

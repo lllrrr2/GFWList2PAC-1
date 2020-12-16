@@ -1,7 +1,7 @@
-# Checksum: MTYwODA3OTkyMgo=
+# Checksum: MTYwODA4ODc5Mgo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201216-0
-# TimeUpdated: 2020-12-16T00:52:02+00:00
+# Version: 1.2.5-20201216-1
+# TimeUpdated: 2020-12-16T03:19:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -5307,7 +5307,6 @@ DOMAIN-SUFFIX,77power.com,DIRECT
 DOMAIN-SUFFIX,77sbsun.com,DIRECT
 DOMAIN-SUFFIX,77tianqi.com,DIRECT
 DOMAIN-SUFFIX,77tng.com,DIRECT
-DOMAIN-SUFFIX,77vcd.com,DIRECT
 DOMAIN-SUFFIX,77xmd.com,DIRECT
 DOMAIN-SUFFIX,77xsw.la,DIRECT
 DOMAIN-SUFFIX,77y4.com,DIRECT
@@ -10815,7 +10814,6 @@ DOMAIN-SUFFIX,burstgift.com,DIRECT
 DOMAIN-SUFFIX,buruizi.com,DIRECT
 DOMAIN-SUFFIX,bus365.com,DIRECT
 DOMAIN-SUFFIX,busbaoche.com,DIRECT
-DOMAIN-SUFFIX,busdh.com,DIRECT
 DOMAIN-SUFFIX,bushangban.com,DIRECT
 DOMAIN-SUFFIX,bushen365.com,DIRECT
 DOMAIN-SUFFIX,bushome.net,DIRECT
@@ -42414,6 +42412,7 @@ DOMAIN-SUFFIX,shisanlou.com,DIRECT
 DOMAIN-SUFFIX,shishagame.com,DIRECT
 DOMAIN-SUFFIX,shishike.com,DIRECT
 DOMAIN-SUFFIX,shisongya.com,DIRECT
+DOMAIN-SUFFIX,shisrd.com,DIRECT
 DOMAIN-SUFFIX,shisuint.org,DIRECT
 DOMAIN-SUFFIX,shit.name,DIRECT
 DOMAIN-SUFFIX,shitianxia.vip,DIRECT

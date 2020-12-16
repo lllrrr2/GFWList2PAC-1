@@ -1,7 +1,7 @@
-# Checksum: MTYwODA3OTkzMQo=
+# Checksum: MTYwODA4ODgwMQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201216-0
-# TimeUpdated: 2020-12-16T00:52:11+00:00
+# Version: 1.2.5-20201216-1
+# TimeUpdated: 2020-12-16T03:20:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -3419,7 +3419,6 @@ domain:bcvpn.net,
 domain:bd275.com,
 domain:bd302.com,
 domain:bd537.com,
-domain:bd625.com,
 domain:bd739.com,
 domain:bd790.com,
 domain:bd835.com,
