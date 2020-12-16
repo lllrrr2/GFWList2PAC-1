@@ -1,7 +1,7 @@
-# Checksum: MTYwODA5OTc2MQo=
+# Checksum: MTYwODExMDM3NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201216-2
-# TimeUpdated: 2020-12-16T06:22:41+00:00
+# Version: 1.2.5-20201216-3
+# TimeUpdated: 2020-12-16T09:19:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -700,7 +700,6 @@ domain:0xue.com,
 domain:1-111-1.com,
 domain:1-123.com,
 domain:1-cs.net,
-domain:1-dt.com,
 domain:1-du.net,
 domain:1.cms.s81c.com,
 domain:1.www.s81c.com,
@@ -7541,7 +7540,6 @@ domain:alicdn.com,
 domain:alicloudapi.com,
 domain:alidayu.com,
 domain:alidns.com,
-domain:aliegame.com,
 domain:alienfans.net,
 domain:aliexpress.com,
 domain:aliexpress.ru,
@@ -10866,7 +10864,6 @@ domain:bwsoft.net,
 domain:bwzybf.com,
 domain:bx24k.com,
 domain:bx58.com,
-domain:bx9q3.icu,
 domain:bxb2b.com,
 domain:bxd365.com,
 domain:bxdaka.com,
