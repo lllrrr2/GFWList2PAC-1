@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODExMDM3NQo=
+# Checksum: MTYwODEyMTU0Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201216-3
-# TimeUpdated: 2020-12-16T09:19:35+00:00
+# Version: 1.2.5-20201216-4
+# TimeUpdated: 2020-12-16T12:25:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -5506,7 +5506,6 @@ payload:
   - DOMAIN-SUFFIX,8090app.com
   - DOMAIN-SUFFIX,8090cdn.com
   - DOMAIN-SUFFIX,8090mt.com
-  - DOMAIN-SUFFIX,8090st.com
   - DOMAIN-SUFFIX,8090vision.com
   - DOMAIN-SUFFIX,8090xx.com
   - DOMAIN-SUFFIX,8090yx.com
@@ -7127,7 +7126,6 @@ payload:
   - DOMAIN-SUFFIX,ahtlbyby.com
   - DOMAIN-SUFFIX,ahtlgc.com
   - DOMAIN-SUFFIX,ahtrain.com
-  - DOMAIN-SUFFIX,ahu.cc
   - DOMAIN-SUFFIX,ahuyi.com
   - DOMAIN-SUFFIX,ahwwfn.com
   - DOMAIN-SUFFIX,ahxczxmm.com
@@ -8066,7 +8064,6 @@ payload:
   - DOMAIN-SUFFIX,apizza.cc
   - DOMAIN-SUFFIX,apizza.net
   - DOMAIN-SUFFIX,apk3.com
-  - DOMAIN-SUFFIX,apk8.com
   - DOMAIN-SUFFIX,apkdo.com
   - DOMAIN-SUFFIX,apkevery.com
   - DOMAIN-SUFFIX,apkgu.com
@@ -8621,6 +8618,7 @@ payload:
   - DOMAIN-SUFFIX,azfashao.com
   - DOMAIN-SUFFIX,azg168.com
   - DOMAIN-SUFFIX,azhituo.com
+  - DOMAIN-SUFFIX,azme-contractors.com
   - DOMAIN-SUFFIX,azonvo.com
   - DOMAIN-SUFFIX,azooo.com
   - DOMAIN-SUFFIX,azoyacdn.com
@@ -32278,6 +32276,7 @@ payload:
   - DOMAIN-SUFFIX,liuliangjie.com
   - DOMAIN-SUFFIX,liulianglf.com
   - DOMAIN-SUFFIX,liuliangzu.com
+  - DOMAIN-SUFFIX,liulianqc.com
   - DOMAIN-SUFFIX,liulianyu.com
   - DOMAIN-SUFFIX,liuliguo.com
   - DOMAIN-SUFFIX,liulin.cc
@@ -42228,6 +42227,7 @@ payload:
   - DOMAIN-SUFFIX,shenliyang.com
   - DOMAIN-SUFFIX,shenma.com
   - DOMAIN-SUFFIX,shenmadsp.com
+  - DOMAIN-SUFFIX,shenmaj.com
   - DOMAIN-SUFFIX,shenmamov.cc
   - DOMAIN-SUFFIX,shenmaxs.com
   - DOMAIN-SUFFIX,shenmayouxi.com
