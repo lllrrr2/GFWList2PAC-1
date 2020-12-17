@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODE2NjMzMQo=
+# Checksum: MTYwODE3NTE3NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201217-0
-# TimeUpdated: 2020-12-17T00:52:11+00:00
+# Version: 1.2.5-20201217-1
+# TimeUpdated: 2020-12-17T03:19:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -3303,6 +3303,7 @@ payload:
   - DOMAIN-SUFFIX,49914.com
   - DOMAIN-SUFFIX,49app.com
   - DOMAIN-SUFFIX,49ivb.org
+  - DOMAIN-SUFFIX,49jie.com
   - DOMAIN-SUFFIX,49pic.com
   - DOMAIN-SUFFIX,49syw.com
   - DOMAIN-SUFFIX,49you.com
@@ -5271,7 +5272,6 @@ payload:
   - DOMAIN-SUFFIX,777684a.com
   - DOMAIN-SUFFIX,77773657.com
   - DOMAIN-SUFFIX,777edu.com
-  - DOMAIN-SUFFIX,777fc15.icu
   - DOMAIN-SUFFIX,777kuu.com
   - DOMAIN-SUFFIX,777moban.com
   - DOMAIN-SUFFIX,777zp.com
@@ -9116,6 +9116,7 @@ payload:
   - DOMAIN-SUFFIX,baozy.com
   - DOMAIN-SUFFIX,baping.com
   - DOMAIN-SUFFIX,baqiu.com
+  - DOMAIN-SUFFIX,baquge.cc
   - DOMAIN-SUFFIX,baquge.com
   - DOMAIN-SUFFIX,barlowarl.com
   - DOMAIN-SUFFIX,barmap.com
@@ -9496,7 +9497,6 @@ payload:
   - DOMAIN-SUFFIX,bestfangchan.com
   - DOMAIN-SUFFIX,bestfuturevip.com
   - DOMAIN-SUFFIX,bestgo.com
-  - DOMAIN-SUFFIX,besthotelonline.com.hk
   - DOMAIN-SUFFIX,besthuaxia.com
   - DOMAIN-SUFFIX,besticity.com
   - DOMAIN-SUFFIX,bestinwo.com
@@ -13152,7 +13152,6 @@ payload:
   - DOMAIN-SUFFIX,chujuan.net
   - DOMAIN-SUFFIX,chukong-inc.com
   - DOMAIN-SUFFIX,chukou1.com
-  - DOMAIN-SUFFIX,chukuangren.com
   - DOMAIN-SUFFIX,chulouwang.com
   - DOMAIN-SUFFIX,chumanapp.com
   - DOMAIN-SUFFIX,chumengxiang.com
@@ -15768,6 +15767,7 @@ payload:
   - DOMAIN-SUFFIX,dbankcloud.com
   - DOMAIN-SUFFIX,dbbqb.com
   - DOMAIN-SUFFIX,dbccv.com
+  - DOMAIN-SUFFIX,dbcxz1.com
   - DOMAIN-SUFFIX,dbdna.com
   - DOMAIN-SUFFIX,dbfansub.com
   - DOMAIN-SUFFIX,dbfen.com
@@ -23264,6 +23264,7 @@ payload:
   - DOMAIN-SUFFIX,hdhospital.com
   - DOMAIN-SUFFIX,hdhui.com
   - DOMAIN-SUFFIX,hdingsheng.com
+  - DOMAIN-SUFFIX,hdiphonewallpaper.com
   - DOMAIN-SUFFIX,hdj.me
   - DOMAIN-SUFFIX,hdjay.com
   - DOMAIN-SUFFIX,hdjr.org
