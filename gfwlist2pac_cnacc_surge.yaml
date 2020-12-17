@@ -1,7 +1,7 @@
-# Checksum: MTYwODIxODQwNwo=
+# Checksum: MTYwODIyOTIxNwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201217-5
-# TimeUpdated: 2020-12-17T15:20:07+00:00
+# Version: 1.2.5-20201217-6
+# TimeUpdated: 2020-12-17T18:20:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1915,6 +1915,7 @@ DOMAIN-SUFFIX,2016y.com
 DOMAIN-SUFFIX,20174555.com
 DOMAIN-SUFFIX,20176699.com
 DOMAIN-SUFFIX,20180719.com
+DOMAIN-SUFFIX,2018jsybh.com
 DOMAIN-SUFFIX,2018lu.com
 DOMAIN-SUFFIX,2018rp.com
 DOMAIN-SUFFIX,2018sshcg.com
@@ -8631,6 +8632,7 @@ DOMAIN-SUFFIX,azureyun.com
 DOMAIN-SUFFIX,azycjd.com
 DOMAIN-SUFFIX,azyx.com
 DOMAIN-SUFFIX,azz.net
+DOMAIN-SUFFIX,azzmtool.com
 DOMAIN-SUFFIX,b-chem.com
 DOMAIN-SUFFIX,b-eurochina.com
 DOMAIN-SUFFIX,b-fairy.com
@@ -12956,7 +12958,6 @@ DOMAIN-SUFFIX,chineselaw.com
 DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,chineserose.com
 DOMAIN-SUFFIX,chinesetown.net
-DOMAIN-SUFFIX,chineseusatours.com
 DOMAIN-SUFFIX,chingkun.com
 DOMAIN-SUFFIX,chingli.com
 DOMAIN-SUFFIX,chingmi.com
@@ -14626,7 +14627,6 @@ DOMAIN-SUFFIX,cqnu0001.com
 DOMAIN-SUFFIX,cqpbx.com
 DOMAIN-SUFFIX,cqpix.com
 DOMAIN-SUFFIX,cqpost.com
-DOMAIN-SUFFIX,cqqc3.com
 DOMAIN-SUFFIX,cqqiyi.com
 DOMAIN-SUFFIX,cqqnb.net
 DOMAIN-SUFFIX,cqqsl.com
@@ -26836,7 +26836,6 @@ DOMAIN-SUFFIX,ipsir.net
 DOMAIN-SUFFIX,iptalent.com
 DOMAIN-SUFFIX,ipuu.net
 DOMAIN-SUFFIX,ipuyuan.com
-DOMAIN-SUFFIX,ipv4.host
 DOMAIN-SUFFIX,ipv6.la
 DOMAIN-SUFFIX,iq123.com
 DOMAIN-SUFFIX,iqalliance.org
@@ -27304,6 +27303,7 @@ DOMAIN-SUFFIX,iwncomm.com
 DOMAIN-SUFFIX,iwordnet.com
 DOMAIN-SUFFIX,iworm.net
 DOMAIN-SUFFIX,iwoshang.com
+DOMAIN-SUFFIX,iwshang.com
 DOMAIN-SUFFIX,iwshlg.cloud
 DOMAIN-SUFFIX,iwucha.com
 DOMAIN-SUFFIX,iwulai.com
@@ -33522,7 +33522,6 @@ DOMAIN-SUFFIX,maiscrm.com
 DOMAIN-SUFFIX,maishashop.com
 DOMAIN-SUFFIX,maishebei.com
 DOMAIN-SUFFIX,maishidai.com
-DOMAIN-SUFFIX,maishou88.com
 DOMAIN-SUFFIX,maishoudang.com
 DOMAIN-SUFFIX,maishoumm.com
 DOMAIN-SUFFIX,maisu.vip
@@ -35409,7 +35408,6 @@ DOMAIN-SUFFIX,muzhibus.com
 DOMAIN-SUFFIX,muzhiwan.com
 DOMAIN-SUFFIX,muzi999.com
 DOMAIN-SUFFIX,muzili.xyz
-DOMAIN-SUFFIX,mv00.com
 DOMAIN-SUFFIX,mvacc.com
 DOMAIN-SUFFIX,mvcat.com
 DOMAIN-SUFFIX,mvduo.com
@@ -45288,7 +45286,6 @@ DOMAIN-SUFFIX,taodiantong.com
 DOMAIN-SUFFIX,taodiqupu.com
 DOMAIN-SUFFIX,taodocs.com
 DOMAIN-SUFFIX,taodu.com
-DOMAIN-SUFFIX,taodudu.cc
 DOMAIN-SUFFIX,taofang.com
 DOMAIN-SUFFIX,taofen8.com
 DOMAIN-SUFFIX,taofont.com
@@ -49857,7 +49854,6 @@ DOMAIN-SUFFIX,whzlgm.com
 DOMAIN-SUFFIX,whzph.com
 DOMAIN-SUFFIX,whzsrc.com
 DOMAIN-SUFFIX,whzwzk.com
-DOMAIN-SUFFIX,whzwzs.com
 DOMAIN-SUFFIX,whzxht.com
 DOMAIN-SUFFIX,whzxzls.com
 DOMAIN-SUFFIX,whzydz.com
@@ -55451,7 +55447,6 @@ DOMAIN-SUFFIX,yuntask.com
 DOMAIN-SUFFIX,yunteng1688.com
 DOMAIN-SUFFIX,yuntianti.com
 DOMAIN-SUFFIX,yuntongbu.com
-DOMAIN-SUFFIX,yuntongcloud.com
 DOMAIN-SUFFIX,yuntongtech.com
 DOMAIN-SUFFIX,yuntongxun.com
 DOMAIN-SUFFIX,yuntu.io
