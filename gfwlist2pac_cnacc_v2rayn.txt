@@ -1,7 +1,7 @@
-# Checksum: MTYwODE1MzQ0NQo=
+# Checksum: MTYwODE2NjMzMQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201216-7
-# TimeUpdated: 2020-12-16T21:17:25+00:00
+# Version: 1.2.5-20201217-0
+# TimeUpdated: 2020-12-17T00:52:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6744,7 +6744,6 @@ domain:abiz.com,
 domain:ablanxue.com,
 domain:able-consultant.com,
 domain:able-elec.com,
-domain:ableaders.com,
 domain:ablesci.com,
 domain:ablesky.com,
 domain:abletive.com,
@@ -23897,6 +23896,7 @@ domain:hjclass.com,
 domain:hjd123.com,
 domain:hjdns.com,
 domain:hjdns.net,
+domain:hjdzn.com,
 domain:hjenglish.com,
 domain:hjgcd.com,
 domain:hjhanjy.com,

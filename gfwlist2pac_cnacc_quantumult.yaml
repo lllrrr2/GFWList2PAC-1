@@ -1,7 +1,7 @@
-# Checksum: MTYwODE1MzQ0NQo=
+# Checksum: MTYwODE2NjMzMQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201216-7
-# TimeUpdated: 2020-12-16T21:17:25+00:00
+# Version: 1.2.5-20201217-0
+# TimeUpdated: 2020-12-17T00:52:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -6744,7 +6744,6 @@ DOMAIN-SUFFIX,abiz.com,DIRECT
 DOMAIN-SUFFIX,ablanxue.com,DIRECT
 DOMAIN-SUFFIX,able-consultant.com,DIRECT
 DOMAIN-SUFFIX,able-elec.com,DIRECT
-DOMAIN-SUFFIX,ableaders.com,DIRECT
 DOMAIN-SUFFIX,ablesci.com,DIRECT
 DOMAIN-SUFFIX,ablesky.com,DIRECT
 DOMAIN-SUFFIX,abletive.com,DIRECT
@@ -23897,6 +23896,7 @@ DOMAIN-SUFFIX,hjclass.com,DIRECT
 DOMAIN-SUFFIX,hjd123.com,DIRECT
 DOMAIN-SUFFIX,hjdns.com,DIRECT
 DOMAIN-SUFFIX,hjdns.net,DIRECT
+DOMAIN-SUFFIX,hjdzn.com,DIRECT
 DOMAIN-SUFFIX,hjenglish.com,DIRECT
 DOMAIN-SUFFIX,hjgcd.com,DIRECT
 DOMAIN-SUFFIX,hjhanjy.com,DIRECT
