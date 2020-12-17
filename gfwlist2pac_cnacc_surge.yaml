@@ -1,7 +1,7 @@
-# Checksum: MTYwODIyOTIxNwo=
+# Checksum: MTYwODIzOTkwMgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201217-6
-# TimeUpdated: 2020-12-17T18:20:17+00:00
+# Version: 1.2.5-20201217-7
+# TimeUpdated: 2020-12-17T21:18:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -3387,6 +3387,7 @@ DOMAIN-SUFFIX,506fhq.com
 DOMAIN-SUFFIX,508843.com
 DOMAIN-SUFFIX,50970.com
 DOMAIN-SUFFIX,50bang.org
+DOMAIN-SUFFIX,50cnnet.com
 DOMAIN-SUFFIX,50fff.net
 DOMAIN-SUFFIX,50mh.com
 DOMAIN-SUFFIX,50pk.com
@@ -19944,7 +19945,6 @@ DOMAIN-SUFFIX,forbetty.com
 DOMAIN-SUFFIX,forbugs.net
 DOMAIN-SUFFIX,forbuyers.com
 DOMAIN-SUFFIX,forcemz.net
-DOMAIN-SUFFIX,ford.com
 DOMAIN-SUFFIX,forenose.com
 DOMAIN-SUFFIX,forerunnercollege.com
 DOMAIN-SUFFIX,foresl.com
@@ -25241,6 +25241,7 @@ DOMAIN-SUFFIX,hustnews.com
 DOMAIN-SUFFIX,hustoj.com
 DOMAIN-SUFFIX,hustport.com
 DOMAIN-SUFFIX,hustunique.com
+DOMAIN-SUFFIX,hutaojie.com
 DOMAIN-SUFFIX,hutaolinight.com
 DOMAIN-SUFFIX,hutaow.com
 DOMAIN-SUFFIX,hutone.net
@@ -26135,6 +26136,7 @@ DOMAIN-SUFFIX,ihanshi.com
 DOMAIN-SUFFIX,ihaozhuo.com
 DOMAIN-SUFFIX,ihappy.vip
 DOMAIN-SUFFIX,ihaveu.com
+DOMAIN-SUFFIX,ihaveu.net
 DOMAIN-SUFFIX,ihdt.tv
 DOMAIN-SUFFIX,ihei5.com
 DOMAIN-SUFFIX,iheima.com
@@ -28046,7 +28048,6 @@ DOMAIN-SUFFIX,jideos.com
 DOMAIN-SUFFIX,jidi.com
 DOMAIN-SUFFIX,jidubook.com
 DOMAIN-SUFFIX,jidujiao.com
-DOMAIN-SUFFIX,jiduu.com
 DOMAIN-SUFFIX,jie0.com
 DOMAIN-SUFFIX,jie518.com
 DOMAIN-SUFFIX,jiebaodz.com

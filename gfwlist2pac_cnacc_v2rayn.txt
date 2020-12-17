@@ -1,7 +1,7 @@
-# Checksum: MTYwODIyOTIxNwo=
+# Checksum: MTYwODIzOTkwMgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201217-6
-# TimeUpdated: 2020-12-17T18:20:17+00:00
+# Version: 1.2.5-20201217-7
+# TimeUpdated: 2020-12-17T21:18:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3387,6 +3387,7 @@ domain:506fhq.com,
 domain:508843.com,
 domain:50970.com,
 domain:50bang.org,
+domain:50cnnet.com,
 domain:50fff.net,
 domain:50mh.com,
 domain:50pk.com,
@@ -19944,7 +19945,6 @@ domain:forbetty.com,
 domain:forbugs.net,
 domain:forbuyers.com,
 domain:forcemz.net,
-domain:ford.com,
 domain:forenose.com,
 domain:forerunnercollege.com,
 domain:foresl.com,
@@ -25241,6 +25241,7 @@ domain:hustnews.com,
 domain:hustoj.com,
 domain:hustport.com,
 domain:hustunique.com,
+domain:hutaojie.com,
 domain:hutaolinight.com,
 domain:hutaow.com,
 domain:hutone.net,
@@ -26135,6 +26136,7 @@ domain:ihanshi.com,
 domain:ihaozhuo.com,
 domain:ihappy.vip,
 domain:ihaveu.com,
+domain:ihaveu.net,
 domain:ihdt.tv,
 domain:ihei5.com,
 domain:iheima.com,
@@ -28046,7 +28048,6 @@ domain:jideos.com,
 domain:jidi.com,
 domain:jidubook.com,
 domain:jidujiao.com,
-domain:jiduu.com,
 domain:jie0.com,
 domain:jie518.com,
 domain:jiebaodz.com,
