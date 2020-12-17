@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODE5Njc5Ngo=
+# Checksum: MTYwODIwODAwNwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201217-3
-# TimeUpdated: 2020-12-17T09:19:56+00:00
+# Version: 1.2.5-20201217-4
+# TimeUpdated: 2020-12-17T12:26:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -3362,6 +3362,7 @@ payload:
   - DOMAIN-SUFFIX,500cache.com
   - DOMAIN-SUFFIX,500d.me
   - DOMAIN-SUFFIX,500doc.com
+  - DOMAIN-SUFFIX,500efuma.com
   - DOMAIN-SUFFIX,500gm.com
   - DOMAIN-SUFFIX,500px.me
   - DOMAIN-SUFFIX,500px.pro
@@ -7060,7 +7061,6 @@ payload:
   - DOMAIN-SUFFIX,agyw.com
   - DOMAIN-SUFFIX,ah-px.com
   - DOMAIN-SUFFIX,ah12333.com
-  - DOMAIN-SUFFIX,ah163.com
   - DOMAIN-SUFFIX,ah3c.com
   - DOMAIN-SUFFIX,ah8.cc
   - DOMAIN-SUFFIX,ahacpp.com
@@ -7177,6 +7177,7 @@ payload:
   - DOMAIN-SUFFIX,aicili.pw
   - DOMAIN-SUFFIX,aicloud.com
   - DOMAIN-SUFFIX,aicode.cc
+  - DOMAIN-SUFFIX,aicukg.com
   - DOMAIN-SUFFIX,aicunfu.com
   - DOMAIN-SUFFIX,aidafen.com
   - DOMAIN-SUFFIX,aidai.com
@@ -7187,6 +7188,7 @@ payload:
   - DOMAIN-SUFFIX,aidaxing.com
   - DOMAIN-SUFFIX,aidaxue.com
   - DOMAIN-SUFFIX,aideep.com
+  - DOMAIN-SUFFIX,aidefence.org
   - DOMAIN-SUFFIX,aidianji.net
   - DOMAIN-SUFFIX,aidiao.com
   - DOMAIN-SUFFIX,aidigger.com
@@ -8062,6 +8064,7 @@ payload:
   - DOMAIN-SUFFIX,apizza.cc
   - DOMAIN-SUFFIX,apizza.net
   - DOMAIN-SUFFIX,apk3.com
+  - DOMAIN-SUFFIX,apk8.com
   - DOMAIN-SUFFIX,apkdo.com
   - DOMAIN-SUFFIX,apkevery.com
   - DOMAIN-SUFFIX,apkgu.com
@@ -13808,6 +13811,7 @@ payload:
   - DOMAIN-SUFFIX,cngreenfield.com
   - DOMAIN-SUFFIX,cngrok.com
   - DOMAIN-SUFFIX,cngui.com
+  - DOMAIN-SUFFIX,cngulu.com
   - DOMAIN-SUFFIX,cnh5.net
   - DOMAIN-SUFFIX,cnhacker.com
   - DOMAIN-SUFFIX,cnhaio.com
