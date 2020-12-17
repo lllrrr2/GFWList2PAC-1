@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODE4NjE3OQo=
+# Checksum: MTYwODE5Njc5Ngo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201217-2
-# TimeUpdated: 2020-12-17T06:22:59+00:00
+# Version: 1.2.5-20201217-3
+# TimeUpdated: 2020-12-17T09:19:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2369,6 +2369,7 @@ payload:
   - DOMAIN-SUFFIX,2or3m.com
   - DOMAIN-SUFFIX,2p.com
   - DOMAIN-SUFFIX,2pcdn.com
+  - DOMAIN-SUFFIX,2pjob.com
   - DOMAIN-SUFFIX,2qbb.com
   - DOMAIN-SUFFIX,2r3r.com
   - DOMAIN-SUFFIX,2r9qgy.com
@@ -7367,7 +7368,6 @@ payload:
   - DOMAIN-SUFFIX,aisky.cc
   - DOMAIN-SUFFIX,aiskycn.com
   - DOMAIN-SUFFIX,aisojie.com
-  - DOMAIN-SUFFIX,aisonny.com
   - DOMAIN-SUFFIX,aispeech.com
   - DOMAIN-SUFFIX,aispreadtech.com
   - DOMAIN-SUFFIX,aitaojin.com
@@ -11442,6 +11442,7 @@ payload:
   - DOMAIN-SUFFIX,cciddata.com
   - DOMAIN-SUFFIX,ccidedu.com
   - DOMAIN-SUFFIX,ccidexpo.com
+  - DOMAIN-SUFFIX,ccidgroup.com
   - DOMAIN-SUFFIX,ccidnet.com
   - DOMAIN-SUFFIX,ccidreport.com
   - DOMAIN-SUFFIX,ccidsmart.com
@@ -13520,6 +13521,7 @@ payload:
   - DOMAIN-SUFFIX,cmbchinaucs.com
   - DOMAIN-SUFFIX,cmbfl.com
   - DOMAIN-SUFFIX,cmbi.com.hk
+  - DOMAIN-SUFFIX,cmbimg.com
   - DOMAIN-SUFFIX,cmbwinglungbank.com
   - DOMAIN-SUFFIX,cmcc.in
   - DOMAIN-SUFFIX,cmcm.com
@@ -13952,6 +13954,7 @@ payload:
   - DOMAIN-SUFFIX,cnntt.com
   - DOMAIN-SUFFIX,cnnuo.com
   - DOMAIN-SUFFIX,cnobol.com
+  - DOMAIN-SUFFIX,cnodejs.org
   - DOMAIN-SUFFIX,cnoee.com
   - DOMAIN-SUFFIX,cnoenet.com
   - DOMAIN-SUFFIX,cnohd.com
@@ -43819,6 +43822,7 @@ payload:
   - DOMAIN-SUFFIX,sp588.net
   - DOMAIN-SUFFIX,sp84.com
   - DOMAIN-SUFFIX,sp910.com
+  - DOMAIN-SUFFIX,space1688.com
   - DOMAIN-SUFFIX,space21cn.com
   - DOMAIN-SUFFIX,spacechina.com
   - DOMAIN-SUFFIX,spacesystech.com
