@@ -1,7 +1,7 @@
-# Checksum: MTYwODI2MTcyNgo=
+# Checksum: MTYwODI3MjYzMAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201218-1
-# TimeUpdated: 2020-12-18T03:22:06+00:00
+# Version: 1.2.5-20201218-2
+# TimeUpdated: 2020-12-18T06:23:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2183,7 +2183,6 @@ domain:2566u8.com,
 domain:25752.com,
 domain:257ai.com,
 domain:258.com,
-domain:258.tv,
 domain:258288.com,
 domain:25847.com,
 domain:2588.tv,
@@ -27514,7 +27513,6 @@ domain:jdair.net,
 domain:jdbbs.com,
 domain:jdbbx.com,
 domain:jdbpcb.com,
-domain:jdcache.com,
 domain:jdcapital.com,
 domain:jdccie.com,
 domain:jdcf88.com,
@@ -29626,6 +29624,7 @@ domain:kamenwang.com,
 domain:kamidm.com,
 domain:kamidox.com,
 domain:kamopos.com,
+domain:kan0512.com,
 domain:kan300.com,
 domain:kan302.com,
 domain:kan7.me,
