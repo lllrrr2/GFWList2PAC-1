@@ -1,7 +1,7 @@
-# Checksum: MTYwODI3MjYzMAo=
+# Checksum: MTYwODI4MzM0Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201218-2
-# TimeUpdated: 2020-12-18T06:23:50+00:00
+# Version: 1.2.5-20201218-3
+# TimeUpdated: 2020-12-18T09:22:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1523,7 +1523,6 @@ domain:17haibao.com,
 domain:17haoyun.com,
 domain:17hds.com,
 domain:17house.com,
-domain:17hpl.com,
 domain:17huang.com,
 domain:17ie.com,
 domain:17itou.com,
@@ -2701,6 +2700,7 @@ domain:360os.com,
 domain:360powder.com,
 domain:360pw.com,
 domain:360qc.com,
+domain:360qhcdn.com,
 domain:360qikan.com,
 domain:360qikan.net,
 domain:360qws.com,
@@ -4741,7 +4741,6 @@ domain:5yun.org,
 domain:5zai.com,
 domain:5zg.com,
 domain:5zhufu.com,
-domain:5zzu.com,
 domain:6-china.com,
 domain:600525.net,
 domain:600zi.com,
@@ -6701,7 +6700,6 @@ domain:aazao.com,
 domain:ab126.com,
 domain:ab173.com,
 domain:ab59.com,
-domain:ab95569.com,
 domain:abab.com,
 domain:abacaipu.com,
 domain:abang.com,
@@ -7593,6 +7591,7 @@ domain:aliyundrive.com,
 domain:aliyunedu.net,
 domain:aliyunfuwuqi.com,
 domain:aliyunhn.com,
+domain:aliyunlive.com,
 domain:aliyunmeng.com,
 domain:aliyunqifu.com,
 domain:aliyunyh.com,

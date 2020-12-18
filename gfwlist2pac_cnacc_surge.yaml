@@ -1,7 +1,7 @@
-# Checksum: MTYwODI3MjYzMAo=
+# Checksum: MTYwODI4MzM0Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201218-2
-# TimeUpdated: 2020-12-18T06:23:50+00:00
+# Version: 1.2.5-20201218-3
+# TimeUpdated: 2020-12-18T09:22:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1523,7 +1523,6 @@ DOMAIN-SUFFIX,17haibao.com
 DOMAIN-SUFFIX,17haoyun.com
 DOMAIN-SUFFIX,17hds.com
 DOMAIN-SUFFIX,17house.com
-DOMAIN-SUFFIX,17hpl.com
 DOMAIN-SUFFIX,17huang.com
 DOMAIN-SUFFIX,17ie.com
 DOMAIN-SUFFIX,17itou.com
@@ -2701,6 +2700,7 @@ DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,360powder.com
 DOMAIN-SUFFIX,360pw.com
 DOMAIN-SUFFIX,360qc.com
+DOMAIN-SUFFIX,360qhcdn.com
 DOMAIN-SUFFIX,360qikan.com
 DOMAIN-SUFFIX,360qikan.net
 DOMAIN-SUFFIX,360qws.com
@@ -4741,7 +4741,6 @@ DOMAIN-SUFFIX,5yun.org
 DOMAIN-SUFFIX,5zai.com
 DOMAIN-SUFFIX,5zg.com
 DOMAIN-SUFFIX,5zhufu.com
-DOMAIN-SUFFIX,5zzu.com
 DOMAIN-SUFFIX,6-china.com
 DOMAIN-SUFFIX,600525.net
 DOMAIN-SUFFIX,600zi.com
@@ -6701,7 +6700,6 @@ DOMAIN-SUFFIX,aazao.com
 DOMAIN-SUFFIX,ab126.com
 DOMAIN-SUFFIX,ab173.com
 DOMAIN-SUFFIX,ab59.com
-DOMAIN-SUFFIX,ab95569.com
 DOMAIN-SUFFIX,abab.com
 DOMAIN-SUFFIX,abacaipu.com
 DOMAIN-SUFFIX,abang.com
@@ -7593,6 +7591,7 @@ DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyunedu.net
 DOMAIN-SUFFIX,aliyunfuwuqi.com
 DOMAIN-SUFFIX,aliyunhn.com
+DOMAIN-SUFFIX,aliyunlive.com
 DOMAIN-SUFFIX,aliyunmeng.com
 DOMAIN-SUFFIX,aliyunqifu.com
 DOMAIN-SUFFIX,aliyunyh.com
