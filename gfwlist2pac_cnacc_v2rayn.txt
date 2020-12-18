@@ -1,7 +1,7 @@
-# Checksum: MTYwODI4MzM0Nwo=
+# Checksum: MTYwODI5NDQ0NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201218-3
-# TimeUpdated: 2020-12-18T09:22:27+00:00
+# Version: 1.2.5-20201218-4
+# TimeUpdated: 2020-12-18T12:27:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2700,7 +2700,6 @@ domain:360os.com,
 domain:360powder.com,
 domain:360pw.com,
 domain:360qc.com,
-domain:360qhcdn.com,
 domain:360qikan.com,
 domain:360qikan.net,
 domain:360qws.com,
@@ -2923,6 +2922,7 @@ domain:39655.com,
 domain:3970yy.com,
 domain:3975.com,
 domain:3987.com,
+domain:398990.com,
 domain:39ask.net,
 domain:39box.com,
 domain:39clean.com,
@@ -4577,6 +4577,7 @@ domain:5dmail.net,
 domain:5down.net,
 domain:5dplay.net,
 domain:5ds.com,
+domain:5ebo.com,
 domain:5eplay.com,
 domain:5esc.com,
 domain:5etv.com,
@@ -23344,6 +23345,7 @@ domain:heisener.com,
 domain:heisha.net,
 domain:heishao.net,
 domain:heishenhua.com,
+domain:heisldg.com,
 domain:heitao.com,
 domain:heitao.me,
 domain:heitao2014.com,

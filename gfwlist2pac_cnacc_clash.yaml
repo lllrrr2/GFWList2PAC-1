@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODI4MzM0Nwo=
+# Checksum: MTYwODI5NDQ0NAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201218-3
-# TimeUpdated: 2020-12-18T09:22:27+00:00
+# Version: 1.2.5-20201218-4
+# TimeUpdated: 2020-12-18T12:27:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2701,7 +2701,6 @@ payload:
   - DOMAIN-SUFFIX,360powder.com
   - DOMAIN-SUFFIX,360pw.com
   - DOMAIN-SUFFIX,360qc.com
-  - DOMAIN-SUFFIX,360qhcdn.com
   - DOMAIN-SUFFIX,360qikan.com
   - DOMAIN-SUFFIX,360qikan.net
   - DOMAIN-SUFFIX,360qws.com
@@ -2924,6 +2923,7 @@ payload:
   - DOMAIN-SUFFIX,3970yy.com
   - DOMAIN-SUFFIX,3975.com
   - DOMAIN-SUFFIX,3987.com
+  - DOMAIN-SUFFIX,398990.com
   - DOMAIN-SUFFIX,39ask.net
   - DOMAIN-SUFFIX,39box.com
   - DOMAIN-SUFFIX,39clean.com
@@ -4578,6 +4578,7 @@ payload:
   - DOMAIN-SUFFIX,5down.net
   - DOMAIN-SUFFIX,5dplay.net
   - DOMAIN-SUFFIX,5ds.com
+  - DOMAIN-SUFFIX,5ebo.com
   - DOMAIN-SUFFIX,5eplay.com
   - DOMAIN-SUFFIX,5esc.com
   - DOMAIN-SUFFIX,5etv.com
@@ -23345,6 +23346,7 @@ payload:
   - DOMAIN-SUFFIX,heisha.net
   - DOMAIN-SUFFIX,heishao.net
   - DOMAIN-SUFFIX,heishenhua.com
+  - DOMAIN-SUFFIX,heisldg.com
   - DOMAIN-SUFFIX,heitao.com
   - DOMAIN-SUFFIX,heitao.me
   - DOMAIN-SUFFIX,heitao2014.com
