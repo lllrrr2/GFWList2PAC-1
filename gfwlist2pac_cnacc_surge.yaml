@@ -1,7 +1,7 @@
-# Checksum: MTYwODI1Mjc0MAo=
+# Checksum: MTYwODI2MTcyNgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201218-0
-# TimeUpdated: 2020-12-18T00:52:20+00:00
+# Version: 1.2.5-20201218-1
+# TimeUpdated: 2020-12-18T03:22:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2289,6 +2289,7 @@ DOMAIN-SUFFIX,2918.com
 DOMAIN-SUFFIX,29293.com
 DOMAIN-SUFFIX,2929gou.com
 DOMAIN-SUFFIX,293.net
+DOMAIN-SUFFIX,29365.bet
 DOMAIN-SUFFIX,29663.com
 DOMAIN-SUFFIX,296u.com
 DOMAIN-SUFFIX,29797.com
@@ -2430,6 +2431,7 @@ DOMAIN-SUFFIX,313.com
 DOMAIN-SUFFIX,3131tyc.com
 DOMAIN-SUFFIX,3136525.com
 DOMAIN-SUFFIX,31365y.com
+DOMAIN-SUFFIX,313ab.com
 DOMAIN-SUFFIX,3145.com
 DOMAIN-SUFFIX,315003.com
 DOMAIN-SUFFIX,3150315.com
@@ -4535,6 +4537,7 @@ DOMAIN-SUFFIX,59dun.com
 DOMAIN-SUFFIX,59edu.com
 DOMAIN-SUFFIX,59hs.com
 DOMAIN-SUFFIX,59iedu.com
+DOMAIN-SUFFIX,59kankan.com
 DOMAIN-SUFFIX,59pk.net
 DOMAIN-SUFFIX,59store.com
 DOMAIN-SUFFIX,59w.net
@@ -9424,7 +9427,6 @@ DOMAIN-SUFFIX,bejson.com
 DOMAIN-SUFFIX,belfone.com
 DOMAIN-SUFFIX,belle8.com
 DOMAIN-SUFFIX,belmeng.com
-DOMAIN-SUFFIX,belost.xyz
 DOMAIN-SUFFIX,beltandroadforum.org
 DOMAIN-SUFFIX,beltxman.com
 DOMAIN-SUFFIX,bemfa.com
@@ -10546,6 +10548,7 @@ DOMAIN-SUFFIX,bosideng.net
 DOMAIN-SUFFIX,bosigame.com
 DOMAIN-SUFFIX,bosonnlp.com
 DOMAIN-SUFFIX,boss-young.com
+DOMAIN-SUFFIX,bosscdn.com
 DOMAIN-SUFFIX,bossgoo.com
 DOMAIN-SUFFIX,bosshr.com
 DOMAIN-SUFFIX,bosszhipin.com
@@ -27511,6 +27514,7 @@ DOMAIN-SUFFIX,jdair.net
 DOMAIN-SUFFIX,jdbbs.com
 DOMAIN-SUFFIX,jdbbx.com
 DOMAIN-SUFFIX,jdbpcb.com
+DOMAIN-SUFFIX,jdcache.com
 DOMAIN-SUFFIX,jdcapital.com
 DOMAIN-SUFFIX,jdccie.com
 DOMAIN-SUFFIX,jdcf88.com
