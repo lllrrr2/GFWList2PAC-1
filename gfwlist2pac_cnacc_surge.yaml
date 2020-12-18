@@ -1,7 +1,7 @@
-# Checksum: MTYwODI5NDQ0NAo=
+# Checksum: MTYwODMwNDg4Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201218-4
-# TimeUpdated: 2020-12-18T12:27:24+00:00
+# Version: 1.2.5-20201218-5
+# TimeUpdated: 2020-12-18T15:21:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6121,7 +6121,6 @@ DOMAIN-SUFFIX,91yunying.com
 DOMAIN-SUFFIX,91zhiwang.com
 DOMAIN-SUFFIX,91zhuti.com
 DOMAIN-SUFFIX,91zwk.com
-DOMAIN-SUFFIX,920cn.com
 DOMAIN-SUFFIX,921.com
 DOMAIN-SUFFIX,9211.com
 DOMAIN-SUFFIX,921118.wang
@@ -15832,6 +15831,7 @@ DOMAIN-SUFFIX,ddnsto.com
 DOMAIN-SUFFIX,ddooo.com
 DOMAIN-SUFFIX,ddos-defend.com
 DOMAIN-SUFFIX,ddos.com
+DOMAIN-SUFFIX,ddos2naive.com
 DOMAIN-SUFFIX,ddosc.com
 DOMAIN-SUFFIX,ddosendns.com
 DOMAIN-SUFFIX,ddove.com
@@ -26553,6 +26553,7 @@ DOMAIN-SUFFIX,inkankan.com
 DOMAIN-SUFFIX,inkcn.com
 DOMAIN-SUFFIX,inke.com
 DOMAIN-SUFFIX,inkeygo.com
+DOMAIN-SUFFIX,inktok.com
 DOMAIN-SUFFIX,inlaylink.com
 DOMAIN-SUFFIX,inlishui.com
 DOMAIN-SUFFIX,inmeng.net
@@ -27937,6 +27938,7 @@ DOMAIN-SUFFIX,jiazhuang6.com
 DOMAIN-SUFFIX,jiazile.com
 DOMAIN-SUFFIX,jiazuo.cc
 DOMAIN-SUFFIX,jibai.com
+DOMAIN-SUFFIX,jibencaozuo.com
 DOMAIN-SUFFIX,jibite.fun
 DOMAIN-SUFFIX,jicaifund.com
 DOMAIN-SUFFIX,jice.io
@@ -37507,6 +37509,7 @@ DOMAIN-SUFFIX,paper211.com
 DOMAIN-SUFFIX,paperbus.com
 DOMAIN-SUFFIX,paperbye.com
 DOMAIN-SUFFIX,paperccb.com
+DOMAIN-SUFFIX,paperclipclub.net
 DOMAIN-SUFFIX,papercool.com
 DOMAIN-SUFFIX,papereasy.com
 DOMAIN-SUFFIX,papergod.com
@@ -41793,6 +41796,7 @@ DOMAIN-SUFFIX,shachong8.com
 DOMAIN-SUFFIX,shacumox.com
 DOMAIN-SUFFIX,shaddockfishing.com
 DOMAIN-SUFFIX,shadow-forum.com
+DOMAIN-SUFFIX,shadowq.com
 DOMAIN-SUFFIX,shadowwood.me
 DOMAIN-SUFFIX,shafa.com
 DOMAIN-SUFFIX,shafaguanjia.com
@@ -42883,6 +42887,7 @@ DOMAIN-SUFFIX,sindsun.com
 DOMAIN-SUFFIX,sinesafe.com
 DOMAIN-SUFFIX,sinforcon.com
 DOMAIN-SUFFIX,singbon.com
+DOMAIN-SUFFIX,singdown.com
 DOMAIN-SUFFIX,singee77.com
 DOMAIN-SUFFIX,singhead.com
 DOMAIN-SUFFIX,singhot.com
@@ -46710,6 +46715,7 @@ DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,tudou1238.com
 DOMAIN-SUFFIX,tudouh5.com
 DOMAIN-SUFFIX,tudoupe.com
+DOMAIN-SUFFIX,tudouxy01.com
 DOMAIN-SUFFIX,tudouyx.com
 DOMAIN-SUFFIX,tudu.com
 DOMAIN-SUFFIX,tudu.im
@@ -47792,6 +47798,7 @@ DOMAIN-SUFFIX,vcomic.com
 DOMAIN-SUFFIX,vcomputes.com
 DOMAIN-SUFFIX,vcooline.com
 DOMAIN-SUFFIX,vcore.hk
+DOMAIN-SUFFIX,vcorp.tech
 DOMAIN-SUFFIX,vcpic.com
 DOMAIN-SUFFIX,vcredit.com
 DOMAIN-SUFFIX,vcsint.com
@@ -53292,6 +53299,7 @@ DOMAIN-SUFFIX,yb983.com
 DOMAIN-SUFFIX,ybaby.com
 DOMAIN-SUFFIX,ybao.org
 DOMAIN-SUFFIX,ybaoli.com
+DOMAIN-SUFFIX,ybbgd.com
 DOMAIN-SUFFIX,ybccode.com
 DOMAIN-SUFFIX,ybhdmob.com
 DOMAIN-SUFFIX,ybi.net
@@ -55868,6 +55876,7 @@ DOMAIN-SUFFIX,zeruns.tech
 DOMAIN-SUFFIX,zerustech.com
 DOMAIN-SUFFIX,zesmob.com
 DOMAIN-SUFFIX,zeststore.com
+DOMAIN-SUFFIX,zetast.com
 DOMAIN-SUFFIX,zeus.dl.playstation.net
 DOMAIN-SUFFIX,zeuux.com
 DOMAIN-SUFFIX,zeuux.org
