@@ -1,7 +1,7 @@
-# Checksum: MTYwODMxNTk2NQo=
+# Checksum: MTYwODMyNjYxMwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201218-6
-# TimeUpdated: 2020-12-18T18:26:05+00:00
+# Version: 1.2.5-20201218-7
+# TimeUpdated: 2020-12-18T21:23:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -14051,6 +14051,7 @@ DOMAIN-SUFFIX,cntopgear.com,DIRECT
 DOMAIN-SUFFIX,cntoplead.com,DIRECT
 DOMAIN-SUFFIX,cntour2.com,DIRECT
 DOMAIN-SUFFIX,cntour365.com,DIRECT
+DOMAIN-SUFFIX,cntourwh.com,DIRECT
 DOMAIN-SUFFIX,cntrades.com,DIRECT
 DOMAIN-SUFFIX,cntronics.com,DIRECT
 DOMAIN-SUFFIX,cntuku.com,DIRECT
