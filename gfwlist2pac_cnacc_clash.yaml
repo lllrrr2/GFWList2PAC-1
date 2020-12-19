@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODM1OTAzMwo=
+# Checksum: MTYwODM2OTY5Mwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201219-2
-# TimeUpdated: 2020-12-19T06:23:53+00:00
+# Version: 1.2.5-20201219-3
+# TimeUpdated: 2020-12-19T09:21:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -12076,6 +12076,7 @@ payload:
   - DOMAIN-SUFFIX,chaoliutai.com
   - DOMAIN-SUFFIX,chaolongbus.com
   - DOMAIN-SUFFIX,chaomengdata.com
+  - DOMAIN-SUFFIX,chaomi.cc
   - DOMAIN-SUFFIX,chaomo25.com
   - DOMAIN-SUFFIX,chaonanrc.com
   - DOMAIN-SUFFIX,chaonei.com
