@@ -1,7 +1,7 @@
-# Checksum: MTYwODM2OTY5Mwo=
+# Checksum: MTYwODM4MDgxMwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201219-3
-# TimeUpdated: 2020-12-19T09:21:33+00:00
+# Version: 1.2.5-20201219-4
+# TimeUpdated: 2020-12-19T12:26:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -65,7 +65,6 @@ domain:00cf.com,
 domain:00cha.com,
 domain:00cha.net,
 domain:00ic.com,
-domain:00ksw.net,
 domain:00lewen.com,
 domain:00sy.com,
 domain:00sy.net,
@@ -1095,6 +1094,7 @@ domain:123hala.com,
 domain:123hao.com,
 domain:123huodong.com,
 domain:123hw.com,
+domain:123juzi.com,
 domain:123juzi.net,
 domain:123ku.com,
 domain:123leyuan.com,
@@ -11845,7 +11845,6 @@ domain:cffw.net,
 domain:cfhpc.org,
 domain:cfido.com,
 domain:cfiec.net,
-domain:cfjs.cc,
 domain:cfjsol.com,
 domain:cfkq.net,
 domain:cflm.com,
