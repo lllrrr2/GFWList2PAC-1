@@ -1,7 +1,7 @@
-# Checksum: MTYwODM5MTE4NAo=
+# Checksum: MTYwODQwMjEzNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201219-5
-# TimeUpdated: 2020-12-19T15:19:44+00:00
+# Version: 1.2.5-20201219-6
+# TimeUpdated: 2020-12-19T18:22:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1248,7 +1248,6 @@ domain:148-law.com,
 domain:14866.com,
 domain:148com.com,
 domain:148la.com,
-domain:14f3.com,
 domain:14hj.com,
 domain:14xd.com,
 domain:14zhu.com,
@@ -12997,7 +12996,6 @@ domain:chngc.net,
 domain:chnjet.com,
 domain:chnlib.com,
 domain:chnmodel.com,
-domain:chnmovie.com,
 domain:chnmusic.org,
 domain:chnp2p.com,
 domain:chnpac.com,
