@@ -1,7 +1,7 @@
-# Checksum: MTYwODMyNjYyMAo=
+# Checksum: MTYwODMzOTEzNwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201218-7
-# TimeUpdated: 2020-12-18T21:23:40+00:00
+# Version: 1.2.5-20201219-0
+# TimeUpdated: 2020-12-19T00:52:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -411,7 +411,6 @@ DOMAIN-SUFFIX,2-hand.info,PROXY
 DOMAIN-SUFFIX,2-ps.googleusercontent.com,PROXY
 DOMAIN-SUFFIX,2.4.je,PROXY
 DOMAIN-SUFFIX,2.cr.rs,PROXY
-DOMAIN-SUFFIX,2000717.com,PROXY
 DOMAIN-SUFFIX,2000fun.com,PROXY
 DOMAIN-SUFFIX,2000yl.com,PROXY
 DOMAIN-SUFFIX,2008xianzhang.info,PROXY
@@ -20882,6 +20881,7 @@ DOMAIN-SUFFIX,twipple.jp,PROXY
 DOMAIN-SUFFIX,twishort.com,PROXY
 DOMAIN-SUFFIX,twistar.cc,PROXY
 DOMAIN-SUFFIX,twister.net.co,PROXY
+DOMAIN-SUFFIX,twisterio.com,PROXY
 DOMAIN-SUFFIX,twisternow.com,PROXY
 DOMAIN-SUFFIX,twistory.net,PROXY
 DOMAIN-SUFFIX,twistys.com,PROXY
