@@ -1,7 +1,7 @@
-# Checksum: MTYwODMzOTEyOQo=
+# Checksum: MTYwODM0ODEyNQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201219-0
-# TimeUpdated: 2020-12-19T00:52:09+00:00
+# Version: 1.2.5-20201219-1
+# TimeUpdated: 2020-12-19T03:22:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -6759,6 +6759,7 @@ DOMAIN-SUFFIX,abuve.com,DIRECT
 DOMAIN-SUFFIX,abuyun.com,DIRECT
 DOMAIN-SUFFIX,ac268.com,DIRECT
 DOMAIN-SUFFIX,ac57.com,DIRECT
+DOMAIN-SUFFIX,acaob.com,DIRECT
 DOMAIN-SUFFIX,acbnews.com.au,DIRECT
 DOMAIN-SUFFIX,acc-ask.com,DIRECT
 DOMAIN-SUFFIX,acc5.com,DIRECT
@@ -34919,6 +34920,7 @@ DOMAIN-SUFFIX,mongochina.com,DIRECT
 DOMAIN-SUFFIX,mongrace.com,DIRECT
 DOMAIN-SUFFIX,monizl.com,DIRECT
 DOMAIN-SUFFIX,monph.com,DIRECT
+DOMAIN-SUFFIX,monseng.com,DIRECT
 DOMAIN-SUFFIX,monsterlin.com,DIRECT
 DOMAIN-SUFFIX,monteamor.com,DIRECT
 DOMAIN-SUFFIX,montnets.com,DIRECT
@@ -45188,7 +45190,6 @@ DOMAIN-SUFFIX,tapenjoy.com,DIRECT
 DOMAIN-SUFFIX,tapimg.com,DIRECT
 DOMAIN-SUFFIX,tapotiexie.com,DIRECT
 DOMAIN-SUFFIX,tapque.com,DIRECT
-DOMAIN-SUFFIX,taptap-api.com,DIRECT
 DOMAIN-SUFFIX,taptap.com,DIRECT
 DOMAIN-SUFFIX,taptapdada.com,DIRECT
 DOMAIN-SUFFIX,tarczp.com,DIRECT
@@ -46179,7 +46180,6 @@ DOMAIN-SUFFIX,tongxinghui.com,DIRECT
 DOMAIN-SUFFIX,tongxinky.com,DIRECT
 DOMAIN-SUFFIX,tongxinmao.com,DIRECT
 DOMAIN-SUFFIX,tongxinteng.com,DIRECT
-DOMAIN-SUFFIX,tongxiong.com,DIRECT
 DOMAIN-SUFFIX,tongxue.com,DIRECT
 DOMAIN-SUFFIX,tongyavisa.com,DIRECT
 DOMAIN-SUFFIX,tongye.biz,DIRECT

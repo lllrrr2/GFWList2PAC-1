@@ -1,7 +1,7 @@
-# Checksum: MTYwODMzOTEyOQo=
+# Checksum: MTYwODM0ODEyNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201219-0
-# TimeUpdated: 2020-12-19T00:52:09+00:00
+# Version: 1.2.5-20201219-1
+# TimeUpdated: 2020-12-19T03:22:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6759,6 +6759,7 @@ domain:abuve.com,
 domain:abuyun.com,
 domain:ac268.com,
 domain:ac57.com,
+domain:acaob.com,
 domain:acbnews.com.au,
 domain:acc-ask.com,
 domain:acc5.com,
@@ -34919,6 +34920,7 @@ domain:mongochina.com,
 domain:mongrace.com,
 domain:monizl.com,
 domain:monph.com,
+domain:monseng.com,
 domain:monsterlin.com,
 domain:monteamor.com,
 domain:montnets.com,
@@ -45188,7 +45190,6 @@ domain:tapenjoy.com,
 domain:tapimg.com,
 domain:tapotiexie.com,
 domain:tapque.com,
-domain:taptap-api.com,
 domain:taptap.com,
 domain:taptapdada.com,
 domain:tarczp.com,
@@ -46179,7 +46180,6 @@ domain:tongxinghui.com,
 domain:tongxinky.com,
 domain:tongxinmao.com,
 domain:tongxinteng.com,
-domain:tongxiong.com,
 domain:tongxue.com,
 domain:tongyavisa.com,
 domain:tongye.biz,

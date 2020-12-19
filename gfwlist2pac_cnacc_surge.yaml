@@ -1,7 +1,7 @@
-# Checksum: MTYwODMzOTEyOQo=
+# Checksum: MTYwODM0ODEyNQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201219-0
-# TimeUpdated: 2020-12-19T00:52:09+00:00
+# Version: 1.2.5-20201219-1
+# TimeUpdated: 2020-12-19T03:22:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6759,6 +6759,7 @@ DOMAIN-SUFFIX,abuve.com
 DOMAIN-SUFFIX,abuyun.com
 DOMAIN-SUFFIX,ac268.com
 DOMAIN-SUFFIX,ac57.com
+DOMAIN-SUFFIX,acaob.com
 DOMAIN-SUFFIX,acbnews.com.au
 DOMAIN-SUFFIX,acc-ask.com
 DOMAIN-SUFFIX,acc5.com
@@ -34919,6 +34920,7 @@ DOMAIN-SUFFIX,mongochina.com
 DOMAIN-SUFFIX,mongrace.com
 DOMAIN-SUFFIX,monizl.com
 DOMAIN-SUFFIX,monph.com
+DOMAIN-SUFFIX,monseng.com
 DOMAIN-SUFFIX,monsterlin.com
 DOMAIN-SUFFIX,monteamor.com
 DOMAIN-SUFFIX,montnets.com
@@ -45188,7 +45190,6 @@ DOMAIN-SUFFIX,tapenjoy.com
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tapotiexie.com
 DOMAIN-SUFFIX,tapque.com
-DOMAIN-SUFFIX,taptap-api.com
 DOMAIN-SUFFIX,taptap.com
 DOMAIN-SUFFIX,taptapdada.com
 DOMAIN-SUFFIX,tarczp.com
@@ -46179,7 +46180,6 @@ DOMAIN-SUFFIX,tongxinghui.com
 DOMAIN-SUFFIX,tongxinky.com
 DOMAIN-SUFFIX,tongxinmao.com
 DOMAIN-SUFFIX,tongxinteng.com
-DOMAIN-SUFFIX,tongxiong.com
 DOMAIN-SUFFIX,tongxue.com
 DOMAIN-SUFFIX,tongyavisa.com
 DOMAIN-SUFFIX,tongye.biz
