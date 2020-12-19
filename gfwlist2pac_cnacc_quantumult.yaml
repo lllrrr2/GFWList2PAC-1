@@ -1,7 +1,7 @@
-# Checksum: MTYwODM0ODEyNQo=
+# Checksum: MTYwODM1OTAzMwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201219-1
-# TimeUpdated: 2020-12-19T03:22:05+00:00
+# Version: 1.2.5-20201219-2
+# TimeUpdated: 2020-12-19T06:23:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -8874,6 +8874,7 @@ DOMAIN-SUFFIX,baixiangnews.com,DIRECT
 DOMAIN-SUFFIX,baixiaosheng.net,DIRECT
 DOMAIN-SUFFIX,baixing.com,DIRECT
 DOMAIN-SUFFIX,baixing.net,DIRECT
+DOMAIN-SUFFIX,baixinger.com,DIRECT
 DOMAIN-SUFFIX,baixingfanli.com,DIRECT
 DOMAIN-SUFFIX,baixingjd.com,DIRECT
 DOMAIN-SUFFIX,baixingmall.com,DIRECT
@@ -10411,7 +10412,6 @@ DOMAIN-SUFFIX,bocichina.com,DIRECT
 DOMAIN-SUFFIX,bocim.com,DIRECT
 DOMAIN-SUFFIX,bocrkh.com,DIRECT
 DOMAIN-SUFFIX,bocsolution.com,DIRECT
-DOMAIN-SUFFIX,bodedu.com,DIRECT
 DOMAIN-SUFFIX,bodekang.com,DIRECT
 DOMAIN-SUFFIX,bodimedia.net,DIRECT
 DOMAIN-SUFFIX,bodoai.com,DIRECT
@@ -12313,6 +12313,7 @@ DOMAIN-SUFFIX,chexiu.com,DIRECT
 DOMAIN-SUFFIX,chexiw.com,DIRECT
 DOMAIN-SUFFIX,chexun.com,DIRECT
 DOMAIN-SUFFIX,chexun.net,DIRECT
+DOMAIN-SUFFIX,cheyima.com,DIRECT
 DOMAIN-SUFFIX,cheyipai.com,DIRECT
 DOMAIN-SUFFIX,cheyishang.com,DIRECT
 DOMAIN-SUFFIX,cheyisou.com,DIRECT
@@ -12645,7 +12646,6 @@ DOMAIN-SUFFIX,chinahyyj.com,DIRECT
 DOMAIN-SUFFIX,chinaidaa.org,DIRECT
 DOMAIN-SUFFIX,chinaido.com,DIRECT
 DOMAIN-SUFFIX,chinaielts.org,DIRECT
-DOMAIN-SUFFIX,chinaiia.com,DIRECT
 DOMAIN-SUFFIX,chinainfoseek.com,DIRECT
 DOMAIN-SUFFIX,chinainout.com,DIRECT
 DOMAIN-SUFFIX,chinaiol.com,DIRECT
@@ -16536,6 +16536,7 @@ DOMAIN-SUFFIX,dj88.com,DIRECT
 DOMAIN-SUFFIX,dj89.com,DIRECT
 DOMAIN-SUFFIX,dj97.com,DIRECT
 DOMAIN-SUFFIX,dj99.com,DIRECT
+DOMAIN-SUFFIX,djbh.net,DIRECT
 DOMAIN-SUFFIX,djbstatic.com,DIRECT
 DOMAIN-SUFFIX,djbx.com,DIRECT
 DOMAIN-SUFFIX,djcb71.com,DIRECT
@@ -33895,6 +33896,7 @@ DOMAIN-SUFFIX,meidaojia.com,DIRECT
 DOMAIN-SUFFIX,meidebi.com,DIRECT
 DOMAIN-SUFFIX,meideng.net,DIRECT
 DOMAIN-SUFFIX,meidoumall.com,DIRECT
+DOMAIN-SUFFIX,meiduan.net,DIRECT
 DOMAIN-SUFFIX,meierbei.com,DIRECT
 DOMAIN-SUFFIX,meifajie.com,DIRECT
 DOMAIN-SUFFIX,meifang.com,DIRECT

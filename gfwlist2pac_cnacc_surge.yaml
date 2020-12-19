@@ -1,7 +1,7 @@
-# Checksum: MTYwODM0ODEyNQo=
+# Checksum: MTYwODM1OTAzMwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201219-1
-# TimeUpdated: 2020-12-19T03:22:05+00:00
+# Version: 1.2.5-20201219-2
+# TimeUpdated: 2020-12-19T06:23:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -8874,6 +8874,7 @@ DOMAIN-SUFFIX,baixiangnews.com
 DOMAIN-SUFFIX,baixiaosheng.net
 DOMAIN-SUFFIX,baixing.com
 DOMAIN-SUFFIX,baixing.net
+DOMAIN-SUFFIX,baixinger.com
 DOMAIN-SUFFIX,baixingfanli.com
 DOMAIN-SUFFIX,baixingjd.com
 DOMAIN-SUFFIX,baixingmall.com
@@ -10411,7 +10412,6 @@ DOMAIN-SUFFIX,bocichina.com
 DOMAIN-SUFFIX,bocim.com
 DOMAIN-SUFFIX,bocrkh.com
 DOMAIN-SUFFIX,bocsolution.com
-DOMAIN-SUFFIX,bodedu.com
 DOMAIN-SUFFIX,bodekang.com
 DOMAIN-SUFFIX,bodimedia.net
 DOMAIN-SUFFIX,bodoai.com
@@ -12313,6 +12313,7 @@ DOMAIN-SUFFIX,chexiu.com
 DOMAIN-SUFFIX,chexiw.com
 DOMAIN-SUFFIX,chexun.com
 DOMAIN-SUFFIX,chexun.net
+DOMAIN-SUFFIX,cheyima.com
 DOMAIN-SUFFIX,cheyipai.com
 DOMAIN-SUFFIX,cheyishang.com
 DOMAIN-SUFFIX,cheyisou.com
@@ -12645,7 +12646,6 @@ DOMAIN-SUFFIX,chinahyyj.com
 DOMAIN-SUFFIX,chinaidaa.org
 DOMAIN-SUFFIX,chinaido.com
 DOMAIN-SUFFIX,chinaielts.org
-DOMAIN-SUFFIX,chinaiia.com
 DOMAIN-SUFFIX,chinainfoseek.com
 DOMAIN-SUFFIX,chinainout.com
 DOMAIN-SUFFIX,chinaiol.com
@@ -16536,6 +16536,7 @@ DOMAIN-SUFFIX,dj88.com
 DOMAIN-SUFFIX,dj89.com
 DOMAIN-SUFFIX,dj97.com
 DOMAIN-SUFFIX,dj99.com
+DOMAIN-SUFFIX,djbh.net
 DOMAIN-SUFFIX,djbstatic.com
 DOMAIN-SUFFIX,djbx.com
 DOMAIN-SUFFIX,djcb71.com
@@ -33895,6 +33896,7 @@ DOMAIN-SUFFIX,meidaojia.com
 DOMAIN-SUFFIX,meidebi.com
 DOMAIN-SUFFIX,meideng.net
 DOMAIN-SUFFIX,meidoumall.com
+DOMAIN-SUFFIX,meiduan.net
 DOMAIN-SUFFIX,meierbei.com
 DOMAIN-SUFFIX,meifajie.com
 DOMAIN-SUFFIX,meifang.com
