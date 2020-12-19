@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODM4MDgxMwo=
+# Checksum: MTYwODM5MTE4NAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201219-4
-# TimeUpdated: 2020-12-19T12:26:53+00:00
+# Version: 1.2.5-20201219-5
+# TimeUpdated: 2020-12-19T15:19:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -5769,7 +5769,6 @@ payload:
   - DOMAIN-SUFFIX,888ppt.com
   - DOMAIN-SUFFIX,888rj.com
   - DOMAIN-SUFFIX,888y17.com
-  - DOMAIN-SUFFIX,8898wz.com
   - DOMAIN-SUFFIX,88995799.com
   - DOMAIN-SUFFIX,889su.com
   - DOMAIN-SUFFIX,889xp.com
@@ -10171,6 +10170,7 @@ payload:
   - DOMAIN-SUFFIX,bjtjzx.com
   - DOMAIN-SUFFIX,bjtonghui.com
   - DOMAIN-SUFFIX,bjtopli.com
+  - DOMAIN-SUFFIX,bjtpyq.com
   - DOMAIN-SUFFIX,bjtth.org
   - DOMAIN-SUFFIX,bjttsf.com
   - DOMAIN-SUFFIX,bjtu-hedu.com
@@ -30475,6 +30475,7 @@ payload:
   - DOMAIN-SUFFIX,ktp8.com
   - DOMAIN-SUFFIX,ktpf.cc
   - DOMAIN-SUFFIX,ktplay.com
+  - DOMAIN-SUFFIX,ktsdad.com
   - DOMAIN-SUFFIX,ktsee.com
   - DOMAIN-SUFFIX,kttbtc.com
   - DOMAIN-SUFFIX,ktunions.com
@@ -37613,6 +37614,7 @@ payload:
   - DOMAIN-SUFFIX,pccppc.com
   - DOMAIN-SUFFIX,pcdrv.com
   - DOMAIN-SUFFIX,pceggs.com
+  - DOMAIN-SUFFIX,pcejr.com
   - DOMAIN-SUFFIX,pcfcw.net
   - DOMAIN-SUFFIX,pcfreetime.com
   - DOMAIN-SUFFIX,pcfuns.com

@@ -1,7 +1,7 @@
-# Checksum: MTYwODM4MDgxMwo=
+# Checksum: MTYwODM5MTE4NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201219-4
-# TimeUpdated: 2020-12-19T12:26:53+00:00
+# Version: 1.2.5-20201219-5
+# TimeUpdated: 2020-12-19T15:19:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5768,7 +5768,6 @@ domain:888pic.com,
 domain:888ppt.com,
 domain:888rj.com,
 domain:888y17.com,
-domain:8898wz.com,
 domain:88995799.com,
 domain:889su.com,
 domain:889xp.com,
@@ -10170,6 +10169,7 @@ domain:bjtjw.net,
 domain:bjtjzx.com,
 domain:bjtonghui.com,
 domain:bjtopli.com,
+domain:bjtpyq.com,
 domain:bjtth.org,
 domain:bjttsf.com,
 domain:bjtu-hedu.com,
@@ -30474,6 +30474,7 @@ domain:ktlstbg.com,
 domain:ktp8.com,
 domain:ktpf.cc,
 domain:ktplay.com,
+domain:ktsdad.com,
 domain:ktsee.com,
 domain:kttbtc.com,
 domain:ktunions.com,
@@ -37612,6 +37613,7 @@ domain:pccpa.hk,
 domain:pccppc.com,
 domain:pcdrv.com,
 domain:pceggs.com,
+domain:pcejr.com,
 domain:pcfcw.net,
 domain:pcfreetime.com,
 domain:pcfuns.com,
