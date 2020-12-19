@@ -1,7 +1,7 @@
-# Checksum: MTYwODQwMjEzNgo=
+# Checksum: MTYwODQxMjYxMgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201219-6
-# TimeUpdated: 2020-12-19T18:22:16+00:00
+# Version: 1.2.5-20201219-7
+# TimeUpdated: 2020-12-19T21:16:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -7024,7 +7024,6 @@ domain:agenge.com,
 domain:agenow.com,
 domain:agentzh.org,
 domain:agesec.com,
-domain:agh54.com,
 domain:agile-china.com,
 domain:agileex.com,
 domain:agoodme.com,
@@ -34901,6 +34900,7 @@ domain:molixiangce.com,
 domain:molizm.com,
 domain:moljz.com,
 domain:molloc.com,
+domain:moloong.com,
 domain:moltentec.com,
 domain:momhui.com,
 domain:momishi.com,
