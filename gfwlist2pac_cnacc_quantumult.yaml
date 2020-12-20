@@ -1,7 +1,7 @@
-# Checksum: MTYwODQxMjYxMgo=
+# Checksum: MTYwODQyNTY1Mgo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201219-7
-# TimeUpdated: 2020-12-19T21:16:52+00:00
+# Version: 1.2.5-20201220-0
+# TimeUpdated: 2020-12-20T00:54:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -8167,7 +8167,6 @@ DOMAIN-SUFFIX,appweiyuan.com,DIRECT
 DOMAIN-SUFFIX,appwill.com,DIRECT
 DOMAIN-SUFFIX,appxcode.com,DIRECT
 DOMAIN-SUFFIX,appyao.com,DIRECT
-DOMAIN-SUFFIX,appyxxy.com,DIRECT
 DOMAIN-SUFFIX,appzhu.com,DIRECT
 DOMAIN-SUFFIX,apsgo.com,DIRECT
 DOMAIN-SUFFIX,aptchina.com,DIRECT
@@ -9777,7 +9776,6 @@ DOMAIN-SUFFIX,bingsns.com,DIRECT
 DOMAIN-SUFFIX,bingtuannet.com,DIRECT
 DOMAIN-SUFFIX,bingwang.cc,DIRECT
 DOMAIN-SUFFIX,bingyan.net,DIRECT
-DOMAIN-SUFFIX,bingyoulm.com,DIRECT
 DOMAIN-SUFFIX,bingyublog.com,DIRECT
 DOMAIN-SUFFIX,bingzhilv.com,DIRECT
 DOMAIN-SUFFIX,binkery.com,DIRECT
@@ -9785,7 +9783,6 @@ DOMAIN-SUFFIX,binmt.cc,DIRECT
 DOMAIN-SUFFIX,binospace.com,DIRECT
 DOMAIN-SUFFIX,binpang.me,DIRECT
 DOMAIN-SUFFIX,binqsoft.com,DIRECT
-DOMAIN-SUFFIX,binxini.com,DIRECT
 DOMAIN-SUFFIX,binyin.com,DIRECT
 DOMAIN-SUFFIX,binzhi.com,DIRECT
 DOMAIN-SUFFIX,binzhuang.com,DIRECT
@@ -10414,7 +10411,6 @@ DOMAIN-SUFFIX,bodekang.com,DIRECT
 DOMAIN-SUFFIX,bodimedia.net,DIRECT
 DOMAIN-SUFFIX,bodoai.com,DIRECT
 DOMAIN-SUFFIX,bodogqm.com,DIRECT
-DOMAIN-SUFFIX,bodoplastics.com,DIRECT
 DOMAIN-SUFFIX,boduhappiness.com,DIRECT
 DOMAIN-SUFFIX,boe.com,DIRECT
 DOMAIN-SUFFIX,bofangw.com,DIRECT
@@ -27425,6 +27421,7 @@ DOMAIN-SUFFIX,jb51.net,DIRECT
 DOMAIN-SUFFIX,jbaier023.com,DIRECT
 DOMAIN-SUFFIX,jbaobao.com,DIRECT
 DOMAIN-SUFFIX,jbb.one,DIRECT
+DOMAIN-SUFFIX,jbcz.tv,DIRECT
 DOMAIN-SUFFIX,jbczzcj.com,DIRECT
 DOMAIN-SUFFIX,jbdown.com,DIRECT
 DOMAIN-SUFFIX,jbelf.com,DIRECT

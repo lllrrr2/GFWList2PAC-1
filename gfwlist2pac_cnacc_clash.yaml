@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODQxMjYxMgo=
+# Checksum: MTYwODQyNTY1Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201219-7
-# TimeUpdated: 2020-12-19T21:16:52+00:00
+# Version: 1.2.5-20201220-0
+# TimeUpdated: 2020-12-20T00:54:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -8168,7 +8168,6 @@ payload:
   - DOMAIN-SUFFIX,appwill.com
   - DOMAIN-SUFFIX,appxcode.com
   - DOMAIN-SUFFIX,appyao.com
-  - DOMAIN-SUFFIX,appyxxy.com
   - DOMAIN-SUFFIX,appzhu.com
   - DOMAIN-SUFFIX,apsgo.com
   - DOMAIN-SUFFIX,aptchina.com
@@ -9778,7 +9777,6 @@ payload:
   - DOMAIN-SUFFIX,bingtuannet.com
   - DOMAIN-SUFFIX,bingwang.cc
   - DOMAIN-SUFFIX,bingyan.net
-  - DOMAIN-SUFFIX,bingyoulm.com
   - DOMAIN-SUFFIX,bingyublog.com
   - DOMAIN-SUFFIX,bingzhilv.com
   - DOMAIN-SUFFIX,binkery.com
@@ -9786,7 +9784,6 @@ payload:
   - DOMAIN-SUFFIX,binospace.com
   - DOMAIN-SUFFIX,binpang.me
   - DOMAIN-SUFFIX,binqsoft.com
-  - DOMAIN-SUFFIX,binxini.com
   - DOMAIN-SUFFIX,binyin.com
   - DOMAIN-SUFFIX,binzhi.com
   - DOMAIN-SUFFIX,binzhuang.com
@@ -10415,7 +10412,6 @@ payload:
   - DOMAIN-SUFFIX,bodimedia.net
   - DOMAIN-SUFFIX,bodoai.com
   - DOMAIN-SUFFIX,bodogqm.com
-  - DOMAIN-SUFFIX,bodoplastics.com
   - DOMAIN-SUFFIX,boduhappiness.com
   - DOMAIN-SUFFIX,boe.com
   - DOMAIN-SUFFIX,bofangw.com
@@ -27426,6 +27422,7 @@ payload:
   - DOMAIN-SUFFIX,jbaier023.com
   - DOMAIN-SUFFIX,jbaobao.com
   - DOMAIN-SUFFIX,jbb.one
+  - DOMAIN-SUFFIX,jbcz.tv
   - DOMAIN-SUFFIX,jbczzcj.com
   - DOMAIN-SUFFIX,jbdown.com
   - DOMAIN-SUFFIX,jbelf.com

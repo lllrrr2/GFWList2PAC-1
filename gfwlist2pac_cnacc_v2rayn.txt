@@ -1,7 +1,7 @@
-# Checksum: MTYwODQxMjYxMgo=
+# Checksum: MTYwODQyNTY1Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201219-7
-# TimeUpdated: 2020-12-19T21:16:52+00:00
+# Version: 1.2.5-20201220-0
+# TimeUpdated: 2020-12-20T00:54:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -8167,7 +8167,6 @@ domain:appweiyuan.com,
 domain:appwill.com,
 domain:appxcode.com,
 domain:appyao.com,
-domain:appyxxy.com,
 domain:appzhu.com,
 domain:apsgo.com,
 domain:aptchina.com,
@@ -9777,7 +9776,6 @@ domain:bingsns.com,
 domain:bingtuannet.com,
 domain:bingwang.cc,
 domain:bingyan.net,
-domain:bingyoulm.com,
 domain:bingyublog.com,
 domain:bingzhilv.com,
 domain:binkery.com,
@@ -9785,7 +9783,6 @@ domain:binmt.cc,
 domain:binospace.com,
 domain:binpang.me,
 domain:binqsoft.com,
-domain:binxini.com,
 domain:binyin.com,
 domain:binzhi.com,
 domain:binzhuang.com,
@@ -10414,7 +10411,6 @@ domain:bodekang.com,
 domain:bodimedia.net,
 domain:bodoai.com,
 domain:bodogqm.com,
-domain:bodoplastics.com,
 domain:boduhappiness.com,
 domain:boe.com,
 domain:bofangw.com,
@@ -27425,6 +27421,7 @@ domain:jb51.net,
 domain:jbaier023.com,
 domain:jbaobao.com,
 domain:jbb.one,
+domain:jbcz.tv,
 domain:jbczzcj.com,
 domain:jbdown.com,
 domain:jbelf.com,
