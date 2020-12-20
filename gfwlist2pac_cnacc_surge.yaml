@@ -1,7 +1,7 @@
-# Checksum: MTYwODQzNDQ0Ngo=
+# Checksum: MTYwODQ0NTM3NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201220-1
-# TimeUpdated: 2020-12-20T03:20:46+00:00
+# Version: 1.2.5-20201220-2
+# TimeUpdated: 2020-12-20T06:22:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -655,7 +655,6 @@ DOMAIN-SUFFIX,0951lz.com
 DOMAIN-SUFFIX,09635.com
 DOMAIN-SUFFIX,09685.com
 DOMAIN-SUFFIX,096hg.com
-DOMAIN-SUFFIX,09787.com
 DOMAIN-SUFFIX,097rcw.com
 DOMAIN-SUFFIX,0982b.com
 DOMAIN-SUFFIX,0991dj.com
@@ -7289,7 +7288,6 @@ DOMAIN-SUFFIX,aimks.com
 DOMAIN-SUFFIX,aimoge.com
 DOMAIN-SUFFIX,aimsen.com
 DOMAIN-SUFFIX,aimuju.com
-DOMAIN-SUFFIX,ain68.com
 DOMAIN-SUFFIX,ainirobot.com
 DOMAIN-SUFFIX,ainiseo.com
 DOMAIN-SUFFIX,ainiu.net
@@ -8548,7 +8546,6 @@ DOMAIN-SUFFIX,awehunt.com
 DOMAIN-SUFFIX,awesome-bruce.me
 DOMAIN-SUFFIX,awinic.com
 DOMAIN-SUFFIX,awjiaju.com
-DOMAIN-SUFFIX,awo14.com
 DOMAIN-SUFFIX,aword.net
 DOMAIN-SUFFIX,awoyun.com
 DOMAIN-SUFFIX,awsok.com
@@ -15749,6 +15746,7 @@ DOMAIN-SUFFIX,dbliu.com
 DOMAIN-SUFFIX,dbmailserver.com
 DOMAIN-SUFFIX,dbmall.com
 DOMAIN-SUFFIX,dbmeinv.com
+DOMAIN-SUFFIX,dbqf.xyz
 DOMAIN-SUFFIX,dbshop.net
 DOMAIN-SUFFIX,dbt-coin.com
 DOMAIN-SUFFIX,dbx-vip.com

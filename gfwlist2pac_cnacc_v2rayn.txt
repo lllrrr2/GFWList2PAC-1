@@ -1,7 +1,7 @@
-# Checksum: MTYwODQzNDQ0Ngo=
+# Checksum: MTYwODQ0NTM3NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201220-1
-# TimeUpdated: 2020-12-20T03:20:46+00:00
+# Version: 1.2.5-20201220-2
+# TimeUpdated: 2020-12-20T06:22:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -655,7 +655,6 @@ domain:0951lz.com,
 domain:09635.com,
 domain:09685.com,
 domain:096hg.com,
-domain:09787.com,
 domain:097rcw.com,
 domain:0982b.com,
 domain:0991dj.com,
@@ -7289,7 +7288,6 @@ domain:aimks.com,
 domain:aimoge.com,
 domain:aimsen.com,
 domain:aimuju.com,
-domain:ain68.com,
 domain:ainirobot.com,
 domain:ainiseo.com,
 domain:ainiu.net,
@@ -8548,7 +8546,6 @@ domain:awehunt.com,
 domain:awesome-bruce.me,
 domain:awinic.com,
 domain:awjiaju.com,
-domain:awo14.com,
 domain:aword.net,
 domain:awoyun.com,
 domain:awsok.com,
@@ -15749,6 +15746,7 @@ domain:dbliu.com,
 domain:dbmailserver.com,
 domain:dbmall.com,
 domain:dbmeinv.com,
+domain:dbqf.xyz,
 domain:dbshop.net,
 domain:dbt-coin.com,
 domain:dbx-vip.com,
