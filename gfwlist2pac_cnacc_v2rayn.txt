@@ -1,7 +1,7 @@
-# Checksum: MTYwODQ2NzIxMQo=
+# Checksum: MTYwODQ3NzU5Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201220-4
-# TimeUpdated: 2020-12-20T12:26:51+00:00
+# Version: 1.2.5-20201220-5
+# TimeUpdated: 2020-12-20T15:19:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1029,7 +1029,6 @@ domain:120x.net,
 domain:121121.net,
 domain:12114job.com,
 domain:12114rc.com,
-domain:1212.com,
 domain:1213.me,
 domain:121314.com,
 domain:121ask.com,

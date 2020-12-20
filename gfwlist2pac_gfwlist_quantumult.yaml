@@ -1,7 +1,7 @@
-# Checksum: MTYwODQ2NzIxOQo=
+# Checksum: MTYwODQ3NzYwMQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201220-4
-# TimeUpdated: 2020-12-20T12:26:59+00:00
+# Version: 1.2.5-20201220-5
+# TimeUpdated: 2020-12-20T15:20:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -4780,7 +4780,6 @@ DOMAIN-SUFFIX,bypasscensorship.org,PROXY
 DOMAIN-SUFFIX,bypasskey.com,PROXY
 DOMAIN-SUFFIX,bypassthe.net,PROXY
 DOMAIN-SUFFIX,bypassy.com,PROXY
-DOMAIN-SUFFIX,byt0011.com,PROXY
 DOMAIN-SUFFIX,byt0022.com,PROXY
 DOMAIN-SUFFIX,byt010.com,PROXY
 DOMAIN-SUFFIX,byt020.com,PROXY
