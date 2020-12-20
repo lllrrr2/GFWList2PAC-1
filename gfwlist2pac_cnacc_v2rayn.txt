@@ -1,7 +1,7 @@
-# Checksum: MTYwODQ0NTM3NQo=
+# Checksum: MTYwODQ1NjAwNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201220-2
-# TimeUpdated: 2020-12-20T06:22:55+00:00
+# Version: 1.2.5-20201220-3
+# TimeUpdated: 2020-12-20T09:20:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5498,6 +5498,7 @@ domain:8090.so,
 domain:8090app.com,
 domain:8090cdn.com,
 domain:8090mt.com,
+domain:8090st.com,
 domain:8090vision.com,
 domain:8090xx.com,
 domain:8090yx.com,
@@ -6527,6 +6528,7 @@ domain:9ddm.com,
 domain:9deli.com,
 domain:9dfx.com,
 domain:9dm.net,
+domain:9douyu.com,
 domain:9duw.com,
 domain:9dwork.com,
 domain:9dyjbj.com,
@@ -26012,6 +26014,7 @@ domain:igetget.com,
 domain:igetui.com,
 domain:igevin.info,
 domain:igexin.com,
+domain:igigo.net,
 domain:igo180.com,
 domain:igo998.com,
 domain:igome.com,
