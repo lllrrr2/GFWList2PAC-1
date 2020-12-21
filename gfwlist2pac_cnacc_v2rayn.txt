@@ -1,7 +1,7 @@
-# Checksum: MTYwODU2NDA5Ngo=
+# Checksum: MTYwODU3NTE5Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201221-5
-# TimeUpdated: 2020-12-21T15:21:36+00:00
+# Version: 1.2.5-20201221-6
+# TimeUpdated: 2020-12-21T18:26:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -15731,6 +15731,7 @@ domain:dbankcloud.com,
 domain:dbbqb.com,
 domain:dbccv.com,
 domain:dbcxz1.com,
+domain:dbcxz1.net,
 domain:dbdna.com,
 domain:dbfansub.com,
 domain:dbfen.com,
@@ -33331,6 +33332,7 @@ domain:magicyourlife101.com,
 domain:maguang.net,
 domain:magvision.com,
 domain:mahetao.org,
+domain:mahetao3.com,
 domain:mahoupao.com,
 domain:mahoupao.net,
 domain:mahuatalk.com,
@@ -47729,6 +47731,7 @@ domain:vancl.com,
 domain:vandream.com,
 domain:vanfo.net,
 domain:vanfun.com,
+domain:vanggame.com,
 domain:vanimg.com,
 domain:vankang.com,
 domain:vanke.com,

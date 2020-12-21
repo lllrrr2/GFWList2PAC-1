@@ -1,7 +1,7 @@
-# Checksum: MTYwODU2NDA5Ngo=
+# Checksum: MTYwODU3NTE5Mwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201221-5
-# TimeUpdated: 2020-12-21T15:21:36+00:00
+# Version: 1.2.5-20201221-6
+# TimeUpdated: 2020-12-21T18:26:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -15731,6 +15731,7 @@ DOMAIN-SUFFIX,dbankcloud.com,DIRECT
 DOMAIN-SUFFIX,dbbqb.com,DIRECT
 DOMAIN-SUFFIX,dbccv.com,DIRECT
 DOMAIN-SUFFIX,dbcxz1.com,DIRECT
+DOMAIN-SUFFIX,dbcxz1.net,DIRECT
 DOMAIN-SUFFIX,dbdna.com,DIRECT
 DOMAIN-SUFFIX,dbfansub.com,DIRECT
 DOMAIN-SUFFIX,dbfen.com,DIRECT
@@ -33331,6 +33332,7 @@ DOMAIN-SUFFIX,magicyourlife101.com,DIRECT
 DOMAIN-SUFFIX,maguang.net,DIRECT
 DOMAIN-SUFFIX,magvision.com,DIRECT
 DOMAIN-SUFFIX,mahetao.org,DIRECT
+DOMAIN-SUFFIX,mahetao3.com,DIRECT
 DOMAIN-SUFFIX,mahoupao.com,DIRECT
 DOMAIN-SUFFIX,mahoupao.net,DIRECT
 DOMAIN-SUFFIX,mahuatalk.com,DIRECT
@@ -47729,6 +47731,7 @@ DOMAIN-SUFFIX,vancl.com,DIRECT
 DOMAIN-SUFFIX,vandream.com,DIRECT
 DOMAIN-SUFFIX,vanfo.net,DIRECT
 DOMAIN-SUFFIX,vanfun.com,DIRECT
+DOMAIN-SUFFIX,vanggame.com,DIRECT
 DOMAIN-SUFFIX,vanimg.com,DIRECT
 DOMAIN-SUFFIX,vankang.com,DIRECT
 DOMAIN-SUFFIX,vanke.com,DIRECT
