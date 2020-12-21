@@ -1,7 +1,7 @@
-# Checksum: MTYwODU0MjYyNgo=
+# Checksum: MTYwODU1MzY4OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201221-3
-# TimeUpdated: 2020-12-21T09:23:46+00:00
+# Version: 1.2.5-20201221-4
+# TimeUpdated: 2020-12-21T12:28:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -747,7 +747,6 @@ DOMAIN-SUFFIX,39879.com
 DOMAIN-SUFFIX,39898.com
 DOMAIN-SUFFIX,399699.com
 DOMAIN-SUFFIX,3a5a.com
-DOMAIN-SUFFIX,3ambusiness.com.au
 DOMAIN-SUFFIX,3amgj.com
 DOMAIN-SUFFIX,3animalsextube.com
 DOMAIN-SUFFIX,3arabtv.com
@@ -1289,7 +1288,6 @@ DOMAIN-SUFFIX,829.flnet.org
 DOMAIN-SUFFIX,829882.com
 DOMAIN-SUFFIX,829886.com
 DOMAIN-SUFFIX,83.b0ne.com
-DOMAIN-SUFFIX,83374.com
 DOMAIN-SUFFIX,835dd.net
 DOMAIN-SUFFIX,835hhh.net
 DOMAIN-SUFFIX,835iii.net
@@ -4966,7 +4964,6 @@ DOMAIN-SUFFIX,calgonit.com
 DOMAIN-SUFFIX,calibre-ebook.com
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,callhulu.com
-DOMAIN-SUFFIX,calvappd.me
 DOMAIN-SUFFIX,cam4.be
 DOMAIN-SUFFIX,cam4.com
 DOMAIN-SUFFIX,cam4.jp

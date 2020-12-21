@@ -1,7 +1,7 @@
-# Checksum: MTYwODU0MjYyNgo=
+# Checksum: MTYwODU1MzY4OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201221-3
-# TimeUpdated: 2020-12-21T09:23:46+00:00
+# Version: 1.2.5-20201221-4
+# TimeUpdated: 2020-12-21T12:28:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -747,7 +747,6 @@ domain:39879.com,
 domain:39898.com,
 domain:399699.com,
 domain:3a5a.com,
-domain:3ambusiness.com.au,
 domain:3amgj.com,
 domain:3animalsextube.com,
 domain:3arabtv.com,
@@ -1289,7 +1288,6 @@ domain:829.flnet.org,
 domain:829882.com,
 domain:829886.com,
 domain:83.b0ne.com,
-domain:83374.com,
 domain:835dd.net,
 domain:835hhh.net,
 domain:835iii.net,
@@ -4966,7 +4964,6 @@ domain:calgonit.com,
 domain:calibre-ebook.com,
 domain:callersbane.com,
 domain:callhulu.com,
-domain:calvappd.me,
 domain:cam4.be,
 domain:cam4.com,
 domain:cam4.jp,

@@ -1,7 +1,7 @@
-# Checksum: MTYwODU0MjYxNgo=
+# Checksum: MTYwODU1MzY4MAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201221-3
-# TimeUpdated: 2020-12-21T09:23:36+00:00
+# Version: 1.2.5-20201221-4
+# TimeUpdated: 2020-12-21T12:28:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5934,7 +5934,6 @@ domain:911sblive.com,
 domain:911sl.com,
 domain:911wow.com,
 domain:911yao.com,
-domain:912414.com,
 domain:912688.com,
 domain:912k.com,
 domain:912yx.com,
@@ -6783,7 +6782,6 @@ domain:acg17.com,
 domain:acg18.com,
 domain:acg183.com,
 domain:acg18s.com,
-domain:acg2.com,
 domain:acg4.com,
 domain:acg456.com,
 domain:acg6.com,
@@ -7982,7 +7980,6 @@ domain:aolylcd.com,
 domain:aomenyule.net,
 domain:aomoxo.com,
 domain:aomygod.com,
-domain:aomygodstatic.com,
 domain:aonaotu.com,
 domain:aoofu.com,
 domain:aoomoo.com,
