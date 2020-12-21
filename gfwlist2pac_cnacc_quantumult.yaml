@@ -1,7 +1,7 @@
-# Checksum: MTYwODUyMTExNAo=
+# Checksum: MTYwODUzMTg0NAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201221-1
-# TimeUpdated: 2020-12-21T03:25:14+00:00
+# Version: 1.2.5-20201221-2
+# TimeUpdated: 2020-12-21T06:24:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -902,6 +902,7 @@ DOMAIN-SUFFIX,1111biao.com,DIRECT
 DOMAIN-SUFFIX,1113.cc,DIRECT
 DOMAIN-SUFFIX,11160066.com,DIRECT
 DOMAIN-SUFFIX,1116yl.com,DIRECT
+DOMAIN-SUFFIX,1117797.com,DIRECT
 DOMAIN-SUFFIX,111cn.net,DIRECT
 DOMAIN-SUFFIX,111hyk.com,DIRECT
 DOMAIN-SUFFIX,111jz.com,DIRECT
@@ -11690,7 +11691,6 @@ DOMAIN-SUFFIX,cdslsxh.com,DIRECT
 DOMAIN-SUFFIX,cdsme.com,DIRECT
 DOMAIN-SUFFIX,cdsns.com,DIRECT
 DOMAIN-SUFFIX,cdsoso.me,DIRECT
-DOMAIN-SUFFIX,cdswz.com,DIRECT
 DOMAIN-SUFFIX,cdsydc.com,DIRECT
 DOMAIN-SUFFIX,cdtianda.com,DIRECT
 DOMAIN-SUFFIX,cdtjc.com,DIRECT
@@ -12810,7 +12810,6 @@ DOMAIN-SUFFIX,chinaticket.com,DIRECT
 DOMAIN-SUFFIX,chinatietong.com,DIRECT
 DOMAIN-SUFFIX,chinatikfans.com,DIRECT
 DOMAIN-SUFFIX,chinatimber.org,DIRECT
-DOMAIN-SUFFIX,chinatimes.cc,DIRECT
 DOMAIN-SUFFIX,chinatiner.com,DIRECT
 DOMAIN-SUFFIX,chinatiredealer.com,DIRECT
 DOMAIN-SUFFIX,chinatopbrands.net,DIRECT
@@ -44128,6 +44127,7 @@ DOMAIN-SUFFIX,suiniyi.com,DIRECT
 DOMAIN-SUFFIX,suiqiao.com,DIRECT
 DOMAIN-SUFFIX,suirui.com,DIRECT
 DOMAIN-SUFFIX,suishenyun.net,DIRECT
+DOMAIN-SUFFIX,suishoubian.com,DIRECT
 DOMAIN-SUFFIX,suishouji.com,DIRECT
 DOMAIN-SUFFIX,suisuijiang.com,DIRECT
 DOMAIN-SUFFIX,suixingjia.com,DIRECT

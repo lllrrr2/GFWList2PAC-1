@@ -1,7 +1,7 @@
-# Checksum: MTYwODUyMTExNAo=
+# Checksum: MTYwODUzMTg0NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201221-1
-# TimeUpdated: 2020-12-21T03:25:14+00:00
+# Version: 1.2.5-20201221-2
+# TimeUpdated: 2020-12-21T06:24:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -902,6 +902,7 @@ DOMAIN-SUFFIX,1111biao.com
 DOMAIN-SUFFIX,1113.cc
 DOMAIN-SUFFIX,11160066.com
 DOMAIN-SUFFIX,1116yl.com
+DOMAIN-SUFFIX,1117797.com
 DOMAIN-SUFFIX,111cn.net
 DOMAIN-SUFFIX,111hyk.com
 DOMAIN-SUFFIX,111jz.com
@@ -11690,7 +11691,6 @@ DOMAIN-SUFFIX,cdslsxh.com
 DOMAIN-SUFFIX,cdsme.com
 DOMAIN-SUFFIX,cdsns.com
 DOMAIN-SUFFIX,cdsoso.me
-DOMAIN-SUFFIX,cdswz.com
 DOMAIN-SUFFIX,cdsydc.com
 DOMAIN-SUFFIX,cdtianda.com
 DOMAIN-SUFFIX,cdtjc.com
@@ -12810,7 +12810,6 @@ DOMAIN-SUFFIX,chinaticket.com
 DOMAIN-SUFFIX,chinatietong.com
 DOMAIN-SUFFIX,chinatikfans.com
 DOMAIN-SUFFIX,chinatimber.org
-DOMAIN-SUFFIX,chinatimes.cc
 DOMAIN-SUFFIX,chinatiner.com
 DOMAIN-SUFFIX,chinatiredealer.com
 DOMAIN-SUFFIX,chinatopbrands.net
@@ -44128,6 +44127,7 @@ DOMAIN-SUFFIX,suiniyi.com
 DOMAIN-SUFFIX,suiqiao.com
 DOMAIN-SUFFIX,suirui.com
 DOMAIN-SUFFIX,suishenyun.net
+DOMAIN-SUFFIX,suishoubian.com
 DOMAIN-SUFFIX,suishouji.com
 DOMAIN-SUFFIX,suisuijiang.com
 DOMAIN-SUFFIX,suixingjia.com

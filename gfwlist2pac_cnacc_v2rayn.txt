@@ -1,7 +1,7 @@
-# Checksum: MTYwODUyMTExNAo=
+# Checksum: MTYwODUzMTg0NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201221-1
-# TimeUpdated: 2020-12-21T03:25:14+00:00
+# Version: 1.2.5-20201221-2
+# TimeUpdated: 2020-12-21T06:24:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -902,6 +902,7 @@ domain:1111biao.com,
 domain:1113.cc,
 domain:11160066.com,
 domain:1116yl.com,
+domain:1117797.com,
 domain:111cn.net,
 domain:111hyk.com,
 domain:111jz.com,
@@ -11690,7 +11691,6 @@ domain:cdslsxh.com,
 domain:cdsme.com,
 domain:cdsns.com,
 domain:cdsoso.me,
-domain:cdswz.com,
 domain:cdsydc.com,
 domain:cdtianda.com,
 domain:cdtjc.com,
@@ -12810,7 +12810,6 @@ domain:chinaticket.com,
 domain:chinatietong.com,
 domain:chinatikfans.com,
 domain:chinatimber.org,
-domain:chinatimes.cc,
 domain:chinatiner.com,
 domain:chinatiredealer.com,
 domain:chinatopbrands.net,
@@ -44128,6 +44127,7 @@ domain:suiniyi.com,
 domain:suiqiao.com,
 domain:suirui.com,
 domain:suishenyun.net,
+domain:suishoubian.com,
 domain:suishouji.com,
 domain:suisuijiang.com,
 domain:suixingjia.com,

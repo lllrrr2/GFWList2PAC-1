@@ -1,7 +1,7 @@
-# Checksum: MTYwODUyMTEyMwo=
+# Checksum: MTYwODUzMTg1Mgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201221-1
-# TimeUpdated: 2020-12-21T03:25:23+00:00
+# Version: 1.2.5-20201221-2
+# TimeUpdated: 2020-12-21T06:24:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1360,7 +1360,6 @@ domain:88838333.com,
 domain:88857.org,
 domain:888888xh.com,
 domain:8888boma365.com,
-domain:888bifa.com,
 domain:888diao.com,
 domain:888funcity.net,
 domain:888poker.com,
@@ -5078,7 +5077,6 @@ domain:casacommoda.com,
 domain:casadeltibetbcn.org,
 domain:casatibet.org.mx,
 domain:cash-168.com,
-domain:cash-168.net,
 domain:cash.tbet88.com,
 domain:cash2.com,
 domain:cashier.cff888.com,
