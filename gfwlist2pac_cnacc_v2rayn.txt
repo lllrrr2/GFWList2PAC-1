@@ -1,7 +1,7 @@
-# Checksum: MTYwODUzMTg0NAo=
+# Checksum: MTYwODU0MjYxNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201221-2
-# TimeUpdated: 2020-12-21T06:24:04+00:00
+# Version: 1.2.5-20201221-3
+# TimeUpdated: 2020-12-21T09:23:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -948,6 +948,7 @@ domain:114my.net,
 domain:114oc.com,
 domain:114photo.com,
 domain:114piaowu.com,
+domain:114pifaa.com,
 domain:114pinpai.com,
 domain:114px.com,
 domain:114sf.com,
@@ -2426,7 +2427,6 @@ domain:313.com,
 domain:3131tyc.com,
 domain:3136525.com,
 domain:31365y.com,
-domain:313ab.com,
 domain:3145.com,
 domain:315003.com,
 domain:3150315.com,
@@ -6039,7 +6039,6 @@ domain:91kanju.com,
 domain:91kuzhan.com,
 domain:91ld.com,
 domain:91lda.com,
-domain:91lewei.com,
 domain:91liangcai.com,
 domain:91linux.com,
 domain:91listen.com,
@@ -27368,6 +27367,7 @@ domain:jakting.com,
 domain:jamidol.com,
 domain:jammyfm.com,
 domain:jamoxi.com,
+domain:jampotgames.com,
 domain:janbao.net,
 domain:jandan.com,
 domain:jandan.net,

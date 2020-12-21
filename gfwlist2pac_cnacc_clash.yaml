@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODUzMTg0NAo=
+# Checksum: MTYwODU0MjYxNgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201221-2
-# TimeUpdated: 2020-12-21T06:24:04+00:00
+# Version: 1.2.5-20201221-3
+# TimeUpdated: 2020-12-21T09:23:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -949,6 +949,7 @@ payload:
   - DOMAIN-SUFFIX,114oc.com
   - DOMAIN-SUFFIX,114photo.com
   - DOMAIN-SUFFIX,114piaowu.com
+  - DOMAIN-SUFFIX,114pifaa.com
   - DOMAIN-SUFFIX,114pinpai.com
   - DOMAIN-SUFFIX,114px.com
   - DOMAIN-SUFFIX,114sf.com
@@ -2427,7 +2428,6 @@ payload:
   - DOMAIN-SUFFIX,3131tyc.com
   - DOMAIN-SUFFIX,3136525.com
   - DOMAIN-SUFFIX,31365y.com
-  - DOMAIN-SUFFIX,313ab.com
   - DOMAIN-SUFFIX,3145.com
   - DOMAIN-SUFFIX,315003.com
   - DOMAIN-SUFFIX,3150315.com
@@ -6040,7 +6040,6 @@ payload:
   - DOMAIN-SUFFIX,91kuzhan.com
   - DOMAIN-SUFFIX,91ld.com
   - DOMAIN-SUFFIX,91lda.com
-  - DOMAIN-SUFFIX,91lewei.com
   - DOMAIN-SUFFIX,91liangcai.com
   - DOMAIN-SUFFIX,91linux.com
   - DOMAIN-SUFFIX,91listen.com
@@ -27369,6 +27368,7 @@ payload:
   - DOMAIN-SUFFIX,jamidol.com
   - DOMAIN-SUFFIX,jammyfm.com
   - DOMAIN-SUFFIX,jamoxi.com
+  - DOMAIN-SUFFIX,jampotgames.com
   - DOMAIN-SUFFIX,janbao.net
   - DOMAIN-SUFFIX,jandan.com
   - DOMAIN-SUFFIX,jandan.net
