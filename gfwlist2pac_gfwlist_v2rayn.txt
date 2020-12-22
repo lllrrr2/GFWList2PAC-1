@@ -1,7 +1,7 @@
-# Checksum: MTYwODYxODM4NQo=
+# Checksum: MTYwODYyOTI0NQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201222-2
-# TimeUpdated: 2020-12-22T06:26:25+00:00
+# Version: 1.2.5-20201222-3
+# TimeUpdated: 2020-12-22T09:27:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -13800,6 +13800,7 @@ domain:maison.kose.co.jp,
 domain:maiya3.com,
 domain:makebettercode.com,
 domain:makecode.org,
+domain:makeeu.com,
 domain:makeitopen.com,
 domain:makemymood.com,
 domain:makesenseofdata.com,
