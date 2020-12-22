@@ -1,7 +1,7 @@
-# Checksum: MTYwODYwNzc1Mgo=
+# Checksum: MTYwODYxODM3Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201222-1
-# TimeUpdated: 2020-12-22T03:29:12+00:00
+# Version: 1.2.5-20201222-2
+# TimeUpdated: 2020-12-22T06:26:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5371,7 +5371,6 @@ domain:7do.net,
 domain:7drc.com,
 domain:7dsp.com,
 domain:7dtime.com,
-domain:7dugo.com,
 domain:7e.hk,
 domain:7fgame.com,
 domain:7flowers.com,
@@ -7121,7 +7120,6 @@ domain:ai-sheji.com,
 domain:ai-start.com,
 domain:ai-thinker.com,
 domain:ai.cc,
-domain:ai200808.com,
 domain:ai2hao.com,
 domain:ai7.com,
 domain:ai7.org,
@@ -13117,7 +13115,6 @@ domain:chumenwenwen.com,
 domain:chumo028.com,
 domain:chunbo.com,
 domain:chuncui.net,
-domain:chuncuinet.com,
 domain:chundakj99.com,
 domain:chundi.com,
 domain:chundi.org,
@@ -25274,6 +25271,7 @@ domain:hxytea.com,
 domain:hxytw.com,
 domain:hxyxsj.com,
 domain:hxzdhn.com,
+domain:hxzxg.com,
 domain:hy-cgp.com,
 domain:hy-zr.com,
 domain:hy2046.com,
@@ -30302,6 +30300,7 @@ domain:kongnar.com,
 domain:kongqingquan.com,
 domain:kongquecheng.com,
 domain:kongqueyuzd.cc,
+domain:kongsun-hldgs.com,
 domain:kongtiao365.com,
 domain:kongyixueyuan.com,
 domain:kongzhong.com,

@@ -1,7 +1,7 @@
-# Checksum: MTYwODYwNzc1Mgo=
+# Checksum: MTYwODYxODM3Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.5-20201222-1
-# TimeUpdated: 2020-12-22T03:29:12+00:00
+# Version: 1.2.5-20201222-2
+# TimeUpdated: 2020-12-22T06:26:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -5371,7 +5371,6 @@ DOMAIN-SUFFIX,7do.net
 DOMAIN-SUFFIX,7drc.com
 DOMAIN-SUFFIX,7dsp.com
 DOMAIN-SUFFIX,7dtime.com
-DOMAIN-SUFFIX,7dugo.com
 DOMAIN-SUFFIX,7e.hk
 DOMAIN-SUFFIX,7fgame.com
 DOMAIN-SUFFIX,7flowers.com
@@ -7121,7 +7120,6 @@ DOMAIN-SUFFIX,ai-sheji.com
 DOMAIN-SUFFIX,ai-start.com
 DOMAIN-SUFFIX,ai-thinker.com
 DOMAIN-SUFFIX,ai.cc
-DOMAIN-SUFFIX,ai200808.com
 DOMAIN-SUFFIX,ai2hao.com
 DOMAIN-SUFFIX,ai7.com
 DOMAIN-SUFFIX,ai7.org
@@ -13117,7 +13115,6 @@ DOMAIN-SUFFIX,chumenwenwen.com
 DOMAIN-SUFFIX,chumo028.com
 DOMAIN-SUFFIX,chunbo.com
 DOMAIN-SUFFIX,chuncui.net
-DOMAIN-SUFFIX,chuncuinet.com
 DOMAIN-SUFFIX,chundakj99.com
 DOMAIN-SUFFIX,chundi.com
 DOMAIN-SUFFIX,chundi.org
@@ -25274,6 +25271,7 @@ DOMAIN-SUFFIX,hxytea.com
 DOMAIN-SUFFIX,hxytw.com
 DOMAIN-SUFFIX,hxyxsj.com
 DOMAIN-SUFFIX,hxzdhn.com
+DOMAIN-SUFFIX,hxzxg.com
 DOMAIN-SUFFIX,hy-cgp.com
 DOMAIN-SUFFIX,hy-zr.com
 DOMAIN-SUFFIX,hy2046.com
@@ -30302,6 +30300,7 @@ DOMAIN-SUFFIX,kongnar.com
 DOMAIN-SUFFIX,kongqingquan.com
 DOMAIN-SUFFIX,kongquecheng.com
 DOMAIN-SUFFIX,kongqueyuzd.cc
+DOMAIN-SUFFIX,kongsun-hldgs.com
 DOMAIN-SUFFIX,kongtiao365.com
 DOMAIN-SUFFIX,kongyixueyuan.com
 DOMAIN-SUFFIX,kongzhong.com
