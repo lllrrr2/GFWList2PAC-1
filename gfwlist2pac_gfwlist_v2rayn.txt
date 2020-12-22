@@ -1,7 +1,7 @@
-# Checksum: MTYwODY1MDYyMAo=
+# Checksum: MTYwODY2MTg0Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201222-5
-# TimeUpdated: 2020-12-22T15:23:40+00:00
+# Version: 1.2.5-20201222-6
+# TimeUpdated: 2020-12-22T18:30:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1414,6 +1414,7 @@ domain:911asians.com,
 domain:9130.com,
 domain:91av.us,
 domain:91avv.cc,
+domain:91cqmm.com,
 domain:91dizhi.com,
 domain:91pic.net,
 domain:91porn.com,
@@ -1539,6 +1540,7 @@ domain:999.abccp44.com,
 domain:999.aoke33.com,
 domain:999.ba8880.com,
 domain:999.cai87.com,
+domain:999.ch3088.com,
 domain:999.cyl7777.com,
 domain:999.dlg567.com,
 domain:999.dlg678.com,
@@ -3664,7 +3666,6 @@ domain:bet8e.com,
 domain:bet98.com,
 domain:bet999.com,
 domain:betak.net,
-domain:betboy.cc,
 domain:betfair.com,
 domain:betflag.it,
 domain:beth.games,

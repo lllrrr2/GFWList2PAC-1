@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODY1MDYyMAo=
+# Checksum: MTYwODY2MTg0Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.5-20201222-5
-# TimeUpdated: 2020-12-22T15:23:40+00:00
+# Version: 1.2.5-20201222-6
+# TimeUpdated: 2020-12-22T18:30:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1415,6 +1415,7 @@ payload:
   - DOMAIN-SUFFIX,9130.com
   - DOMAIN-SUFFIX,91av.us
   - DOMAIN-SUFFIX,91avv.cc
+  - DOMAIN-SUFFIX,91cqmm.com
   - DOMAIN-SUFFIX,91dizhi.com
   - DOMAIN-SUFFIX,91pic.net
   - DOMAIN-SUFFIX,91porn.com
@@ -1540,6 +1541,7 @@ payload:
   - DOMAIN-SUFFIX,999.aoke33.com
   - DOMAIN-SUFFIX,999.ba8880.com
   - DOMAIN-SUFFIX,999.cai87.com
+  - DOMAIN-SUFFIX,999.ch3088.com
   - DOMAIN-SUFFIX,999.cyl7777.com
   - DOMAIN-SUFFIX,999.dlg567.com
   - DOMAIN-SUFFIX,999.dlg678.com
@@ -3665,7 +3667,6 @@ payload:
   - DOMAIN-SUFFIX,bet98.com
   - DOMAIN-SUFFIX,bet999.com
   - DOMAIN-SUFFIX,betak.net
-  - DOMAIN-SUFFIX,betboy.cc
   - DOMAIN-SUFFIX,betfair.com
   - DOMAIN-SUFFIX,betflag.it
   - DOMAIN-SUFFIX,beth.games

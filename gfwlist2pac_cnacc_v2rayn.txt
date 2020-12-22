@@ -1,7 +1,7 @@
-# Checksum: MTYwODY1MDYxNAo=
+# Checksum: MTYwODY2MTgzOQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201222-5
-# TimeUpdated: 2020-12-22T15:23:34+00:00
+# Version: 1.2.5-20201222-6
+# TimeUpdated: 2020-12-22T18:30:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1573,7 +1573,6 @@ domain:17tigan.com,
 domain:17tourer.com,
 domain:17track.net,
 domain:17tui.cc,
-domain:17tx.com,
 domain:17u.com,
 domain:17u.net,
 domain:17u1u.com,
@@ -2695,6 +2694,7 @@ domain:360os.com,
 domain:360powder.com,
 domain:360pw.com,
 domain:360qc.com,
+domain:360qhcdn.com,
 domain:360qikan.com,
 domain:360qikan.net,
 domain:360qws.com,
@@ -14123,6 +14123,7 @@ domain:cocos2d-x.org,
 domain:cocos2dx.net,
 domain:cocoseditor.com,
 domain:cocounion.com,
+domain:cocss.com,
 domain:cocty.com,
 domain:codante.org,
 domain:code-by.org,
