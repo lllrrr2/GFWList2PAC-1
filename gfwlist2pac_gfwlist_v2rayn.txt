@@ -1,7 +1,7 @@
-# Checksum: MTYwODU4NTU3Ngo=
+# Checksum: MTYwODU5ODU3Mgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201221-7
-# TimeUpdated: 2020-12-21T21:19:36+00:00
+# Version: 1.2.5-20201222-0
+# TimeUpdated: 2020-12-22T00:56:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1409,7 +1409,6 @@ domain:90022.com,
 domain:900days.cyaontheroad.com,
 domain:907.suendigen.ml,
 domain:908taiwan.org,
-domain:9090cc.com,
 domain:90x40.cl,
 domain:91.51rmc.com,
 domain:911919.com,
