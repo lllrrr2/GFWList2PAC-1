@@ -1,7 +1,7 @@
-# Checksum: MTYwODYyOTIzNwo=
+# Checksum: MTYwODY0MDIzMgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201222-3
-# TimeUpdated: 2020-12-22T09:27:17+00:00
+# Version: 1.2.5-20201222-4
+# TimeUpdated: 2020-12-22T12:30:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -13179,6 +13179,7 @@ domain:cibresearch.com,
 domain:cicc.com,
 domain:ciccorporate.com,
 domain:ciccphoto.com,
+domain:ciccwm.com,
 domain:ciceme.com,
 domain:ciciec.com,
 domain:cicmag.com,
@@ -30354,6 +30355,7 @@ domain:koukousky.com,
 domain:koukuko.com,
 domain:koulezu.com,
 domain:koumakan.cc,
+domain:kouqing.com,
 domain:koushare.com,
 domain:kouss.com,
 domain:kouyu100.com,
@@ -33484,6 +33486,7 @@ domain:mangake.com,
 domain:mangege.com,
 domain:mangg.com,
 domain:mangg.net,
+domain:mangguo.com,
 domain:mangguo.org,
 domain:mangguo168.com,
 domain:mangocity.com,

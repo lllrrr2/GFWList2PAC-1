@@ -1,7 +1,7 @@
-# Checksum: MTYwODYyOTI0NQo=
+# Checksum: MTYwODY0MDI0MQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201222-3
-# TimeUpdated: 2020-12-22T09:27:25+00:00
+# Version: 1.2.5-20201222-4
+# TimeUpdated: 2020-12-22T12:30:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1266,7 +1266,6 @@ DOMAIN-SUFFIX,82.cr.rs
 DOMAIN-SUFFIX,82.effers.com
 DOMAIN-SUFFIX,82.otzo.com
 DOMAIN-SUFFIX,822.cc
-DOMAIN-SUFFIX,82204.com
 DOMAIN-SUFFIX,82553.com
 DOMAIN-SUFFIX,8260077.com
 DOMAIN-SUFFIX,8261101.com
@@ -19915,6 +19914,7 @@ DOMAIN-SUFFIX,telegramdownload.com
 DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,telekom.com
 DOMAIN-SUFFIX,telephony.goog
+DOMAIN-SUFFIX,teleplus.in
 DOMAIN-SUFFIX,telesco.pe
 DOMAIN-SUFFIX,telesell.com
 DOMAIN-SUFFIX,teletrade-asia.com

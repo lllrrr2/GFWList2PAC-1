@@ -1,7 +1,7 @@
-# Checksum: MTYwODYyOTIzNwo=
+# Checksum: MTYwODY0MDIzMgo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.5-20201222-3
-# TimeUpdated: 2020-12-22T09:27:17+00:00
+# Version: 1.2.5-20201222-4
+# TimeUpdated: 2020-12-22T12:30:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -13179,6 +13179,7 @@ DOMAIN-SUFFIX,cibresearch.com,DIRECT
 DOMAIN-SUFFIX,cicc.com,DIRECT
 DOMAIN-SUFFIX,ciccorporate.com,DIRECT
 DOMAIN-SUFFIX,ciccphoto.com,DIRECT
+DOMAIN-SUFFIX,ciccwm.com,DIRECT
 DOMAIN-SUFFIX,ciceme.com,DIRECT
 DOMAIN-SUFFIX,ciciec.com,DIRECT
 DOMAIN-SUFFIX,cicmag.com,DIRECT
@@ -30354,6 +30355,7 @@ DOMAIN-SUFFIX,koukousky.com,DIRECT
 DOMAIN-SUFFIX,koukuko.com,DIRECT
 DOMAIN-SUFFIX,koulezu.com,DIRECT
 DOMAIN-SUFFIX,koumakan.cc,DIRECT
+DOMAIN-SUFFIX,kouqing.com,DIRECT
 DOMAIN-SUFFIX,koushare.com,DIRECT
 DOMAIN-SUFFIX,kouss.com,DIRECT
 DOMAIN-SUFFIX,kouyu100.com,DIRECT
@@ -33484,6 +33486,7 @@ DOMAIN-SUFFIX,mangake.com,DIRECT
 DOMAIN-SUFFIX,mangege.com,DIRECT
 DOMAIN-SUFFIX,mangg.com,DIRECT
 DOMAIN-SUFFIX,mangg.net,DIRECT
+DOMAIN-SUFFIX,mangguo.com,DIRECT
 DOMAIN-SUFFIX,mangguo.org,DIRECT
 DOMAIN-SUFFIX,mangguo168.com,DIRECT
 DOMAIN-SUFFIX,mangocity.com,DIRECT
