@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODY2MTgzOQo=
+# Checksum: MTYwODY3MjAyNQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201222-6
-# TimeUpdated: 2020-12-22T18:30:39+00:00
+# Version: 1.2.5-20201222-7
+# TimeUpdated: 2020-12-22T21:20:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -518,7 +518,6 @@ payload:
   - DOMAIN-SUFFIX,07358.com
   - DOMAIN-SUFFIX,0735ba.com
   - DOMAIN-SUFFIX,0735jz.com
-  - DOMAIN-SUFFIX,0735zx.com
   - DOMAIN-SUFFIX,0735zz.com
   - DOMAIN-SUFFIX,0736fdc.com
   - DOMAIN-SUFFIX,0736zz.com
@@ -4349,7 +4348,6 @@ payload:
   - DOMAIN-SUFFIX,56dagong.com
   - DOMAIN-SUFFIX,56dichan.com
   - DOMAIN-SUFFIX,56dr.com
-  - DOMAIN-SUFFIX,56dxmn.com
   - DOMAIN-SUFFIX,56en.com
   - DOMAIN-SUFFIX,56ggb.com
   - DOMAIN-SUFFIX,56golf.com
@@ -14124,7 +14122,6 @@ payload:
   - DOMAIN-SUFFIX,cocos2dx.net
   - DOMAIN-SUFFIX,cocoseditor.com
   - DOMAIN-SUFFIX,cocounion.com
-  - DOMAIN-SUFFIX,cocss.com
   - DOMAIN-SUFFIX,cocty.com
   - DOMAIN-SUFFIX,codante.org
   - DOMAIN-SUFFIX,code-by.org

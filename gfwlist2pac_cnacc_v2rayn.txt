@@ -1,7 +1,7 @@
-# Checksum: MTYwODY2MTgzOQo=
+# Checksum: MTYwODY3MjAyNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201222-6
-# TimeUpdated: 2020-12-22T18:30:39+00:00
+# Version: 1.2.5-20201222-7
+# TimeUpdated: 2020-12-22T21:20:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -517,7 +517,6 @@ domain:0735.com,
 domain:07358.com,
 domain:0735ba.com,
 domain:0735jz.com,
-domain:0735zx.com,
 domain:0735zz.com,
 domain:0736fdc.com,
 domain:0736zz.com,
@@ -4348,7 +4347,6 @@ domain:56da.com,
 domain:56dagong.com,
 domain:56dichan.com,
 domain:56dr.com,
-domain:56dxmn.com,
 domain:56en.com,
 domain:56ggb.com,
 domain:56golf.com,
@@ -14123,7 +14121,6 @@ domain:cocos2d-x.org,
 domain:cocos2dx.net,
 domain:cocoseditor.com,
 domain:cocounion.com,
-domain:cocss.com,
 domain:cocty.com,
 domain:codante.org,
 domain:code-by.org,
