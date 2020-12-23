@@ -1,7 +1,7 @@
-# Checksum: MTYwODc0ODU4NAo=
+# Checksum: MTYwODc1ODQ5NQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.7-20201223-6
-# TimeUpdated: 2020-12-23T18:36:24+00:00
+# Version: 1.2.7-20201223-7
+# TimeUpdated: 2020-12-23T21:21:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -21026,6 +21026,7 @@ DOMAIN-SUFFIX,uighur.nl,PROXY
 DOMAIN-SUFFIX,uighurbiz.net,PROXY
 DOMAIN-SUFFIX,uinvest.com.ua,PROXY
 DOMAIN-SUFFIX,uk-proxy.co.uk,PROXY
+DOMAIN-SUFFIX,uk.32bit.top,PROXY
 DOMAIN-SUFFIX,uk.w3.freewww.biz,PROXY
 DOMAIN-SUFFIX,ukcdp.co.uk,PROXY
 DOMAIN-SUFFIX,ukipad.com,PROXY

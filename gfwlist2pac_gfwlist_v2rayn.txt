@@ -1,7 +1,7 @@
-# Checksum: MTYwODc0ODU4NAo=
+# Checksum: MTYwODc1ODQ5NQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.7-20201223-6
-# TimeUpdated: 2020-12-23T18:36:24+00:00
+# Version: 1.2.7-20201223-7
+# TimeUpdated: 2020-12-23T21:21:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -21026,6 +21026,7 @@ domain:uighur.nl,
 domain:uighurbiz.net,
 domain:uinvest.com.ua,
 domain:uk-proxy.co.uk,
+domain:uk.32bit.top,
 domain:uk.w3.freewww.biz,
 domain:ukcdp.co.uk,
 domain:ukipad.com,

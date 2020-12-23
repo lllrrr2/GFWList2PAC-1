@@ -1,7 +1,7 @@
-# Checksum: MTYwODc0ODU3Ngo=
+# Checksum: MTYwODc1ODQ4Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.7-20201223-6
-# TimeUpdated: 2020-12-23T18:36:16+00:00
+# Version: 1.2.7-20201223-7
+# TimeUpdated: 2020-12-23T21:21:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -257,6 +257,7 @@ DOMAIN-SUFFIX,027wei.com
 DOMAIN-SUFFIX,027xf.com
 DOMAIN-SUFFIX,027yunwei.com
 DOMAIN-SUFFIX,027yx.com
+DOMAIN-SUFFIX,027zhan.com
 DOMAIN-SUFFIX,027zpw.com
 DOMAIN-SUFFIX,0283home.com
 DOMAIN-SUFFIX,028brother.com
@@ -6467,6 +6468,7 @@ DOMAIN-SUFFIX,99milk.com
 DOMAIN-SUFFIX,99mingxing.com
 DOMAIN-SUFFIX,99mst.com
 DOMAIN-SUFFIX,99music.net
+DOMAIN-SUFFIX,99n3.com
 DOMAIN-SUFFIX,99nahuo.com
 DOMAIN-SUFFIX,99niu.com
 DOMAIN-SUFFIX,99pdf.com
@@ -11470,6 +11472,7 @@ DOMAIN-SUFFIX,ccpithz.org
 DOMAIN-SUFFIX,ccpitjinan.org
 DOMAIN-SUFFIX,ccpitlight.org
 DOMAIN-SUFFIX,ccpitnmg.org
+DOMAIN-SUFFIX,ccpitqd.org
 DOMAIN-SUFFIX,ccpitsd.com
 DOMAIN-SUFFIX,ccpittex.com
 DOMAIN-SUFFIX,ccpittj.org
@@ -44417,6 +44420,7 @@ DOMAIN-SUFFIX,sxfu.org
 DOMAIN-SUFFIX,sxgdtv.com
 DOMAIN-SUFFIX,sxglpx.com
 DOMAIN-SUFFIX,sxgoo.com
+DOMAIN-SUFFIX,sxgs.com
 DOMAIN-SUFFIX,sxhctv.com
 DOMAIN-SUFFIX,sxhjylqx.com
 DOMAIN-SUFFIX,sxhlxy.com

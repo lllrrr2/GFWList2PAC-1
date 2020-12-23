@@ -1,7 +1,7 @@
-# Checksum: MTYwODc0ODU3Ngo=
+# Checksum: MTYwODc1ODQ4Ngo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.7-20201223-6
-# TimeUpdated: 2020-12-23T18:36:16+00:00
+# Version: 1.2.7-20201223-7
+# TimeUpdated: 2020-12-23T21:21:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -257,6 +257,7 @@ domain:027wei.com,
 domain:027xf.com,
 domain:027yunwei.com,
 domain:027yx.com,
+domain:027zhan.com,
 domain:027zpw.com,
 domain:0283home.com,
 domain:028brother.com,
@@ -6467,6 +6468,7 @@ domain:99milk.com,
 domain:99mingxing.com,
 domain:99mst.com,
 domain:99music.net,
+domain:99n3.com,
 domain:99nahuo.com,
 domain:99niu.com,
 domain:99pdf.com,
@@ -11470,6 +11472,7 @@ domain:ccpithz.org,
 domain:ccpitjinan.org,
 domain:ccpitlight.org,
 domain:ccpitnmg.org,
+domain:ccpitqd.org,
 domain:ccpitsd.com,
 domain:ccpittex.com,
 domain:ccpittj.org,
@@ -44417,6 +44420,7 @@ domain:sxfu.org,
 domain:sxgdtv.com,
 domain:sxglpx.com,
 domain:sxgoo.com,
+domain:sxgs.com,
 domain:sxhctv.com,
 domain:sxhjylqx.com,
 domain:sxhlxy.com,
