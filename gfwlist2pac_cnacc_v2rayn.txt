@@ -1,7 +1,7 @@
-# Checksum: MTYwODcwNDgwNwo=
+# Checksum: MTYwODcxMjg3NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.6-20201223-2
-# TimeUpdated: 2020-12-23T06:26:47+00:00
+# Version: 1.2.7-20201223-2
+# TimeUpdated: 2020-12-23T08:41:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -4962,6 +4962,7 @@ domain:67danji.com,
 domain:67gu.com,
 domain:67joy.com,
 domain:67mb.com,
+domain:67nb.com,
 domain:67tuan.com,
 domain:680.com,
 domain:680qk.com,
