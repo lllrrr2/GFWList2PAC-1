@@ -1,7 +1,7 @@
-# Checksum: MTYwODY3MjAzNAo=
+# Checksum: MTYwODY4NTA5OQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201222-7
-# TimeUpdated: 2020-12-22T21:20:34+00:00
+# Version: 1.2.5-20201223-0
+# TimeUpdated: 2020-12-23T00:58:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2140,7 +2140,6 @@ DOMAIN-SUFFIX,am2655.com
 DOMAIN-SUFFIX,am357.com
 DOMAIN-SUFFIX,am730.com.hk
 DOMAIN-SUFFIX,am738.com
-DOMAIN-SUFFIX,am777.com
 DOMAIN-SUFFIX,amaaozn.com
 DOMAIN-SUFFIX,amakings.com
 DOMAIN-SUFFIX,amamanualofstyle.com
@@ -2184,7 +2183,6 @@ DOMAIN-SUFFIX,amazonvideodirect.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,ambit.chat
 DOMAIN-SUFFIX,ambitvpn.com
-DOMAIN-SUFFIX,ambjl01.com
 DOMAIN-SUFFIX,ambjl02.com
 DOMAIN-SUFFIX,ambjl04.com
 DOMAIN-SUFFIX,amcas.org
@@ -4937,7 +4935,6 @@ DOMAIN-SUFFIX,cagop.org
 DOMAIN-SUFFIX,cahi.com
 DOMAIN-SUFFIX,cai-cai.me
 DOMAIN-SUFFIX,cai8wan.com
-DOMAIN-SUFFIX,cai950.com
 DOMAIN-SUFFIX,caijinglengyan.com
 DOMAIN-SUFFIX,caise888.com
 DOMAIN-SUFFIX,calameo.com
@@ -12847,6 +12844,7 @@ DOMAIN-SUFFIX,kkkxv.com
 DOMAIN-SUFFIX,kknews.cc
 DOMAIN-SUFFIX,kkp.org.hk
 DOMAIN-SUFFIX,kkswami.com
+DOMAIN-SUFFIX,kktix.com
 DOMAIN-SUFFIX,kktv-theater.kk.stream
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,kl8888.com

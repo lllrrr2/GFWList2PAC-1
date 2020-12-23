@@ -1,7 +1,7 @@
-# Checksum: MTYwODY3MjAzNAo=
+# Checksum: MTYwODY4NTA5OQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201222-7
-# TimeUpdated: 2020-12-22T21:20:34+00:00
+# Version: 1.2.5-20201223-0
+# TimeUpdated: 2020-12-23T00:58:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -2140,7 +2140,6 @@ domain:am2655.com,
 domain:am357.com,
 domain:am730.com.hk,
 domain:am738.com,
-domain:am777.com,
 domain:amaaozn.com,
 domain:amakings.com,
 domain:amamanualofstyle.com,
@@ -2184,7 +2183,6 @@ domain:amazonvideodirect.com,
 domain:amazonworkdocs.com,
 domain:ambit.chat,
 domain:ambitvpn.com,
-domain:ambjl01.com,
 domain:ambjl02.com,
 domain:ambjl04.com,
 domain:amcas.org,
@@ -4937,7 +4935,6 @@ domain:cagop.org,
 domain:cahi.com,
 domain:cai-cai.me,
 domain:cai8wan.com,
-domain:cai950.com,
 domain:caijinglengyan.com,
 domain:caise888.com,
 domain:calameo.com,
@@ -12847,6 +12844,7 @@ domain:kkkxv.com,
 domain:kknews.cc,
 domain:kkp.org.hk,
 domain:kkswami.com,
+domain:kktix.com,
 domain:kktv-theater.kk.stream,
 domain:kktv.me,
 domain:kl8888.com,

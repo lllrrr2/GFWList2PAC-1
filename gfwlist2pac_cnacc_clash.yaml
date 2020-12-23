@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODY3MjAyNQo=
+# Checksum: MTYwODY4NTA5MAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.5-20201222-7
-# TimeUpdated: 2020-12-22T21:20:25+00:00
+# Version: 1.2.5-20201223-0
+# TimeUpdated: 2020-12-23T00:58:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2059,7 +2059,6 @@ payload:
   - DOMAIN-SUFFIX,22hyk.com
   - DOMAIN-SUFFIX,22ja.com
   - DOMAIN-SUFFIX,22k9.com
-  - DOMAIN-SUFFIX,22kbw.com
   - DOMAIN-SUFFIX,22lrc.com
   - DOMAIN-SUFFIX,22m6.com
   - DOMAIN-SUFFIX,22mjhf.wang
@@ -4177,7 +4176,6 @@ payload:
   - DOMAIN-SUFFIX,52zixue.com
   - DOMAIN-SUFFIX,52zuji.net
   - DOMAIN-SUFFIX,52zwxs.com
-  - DOMAIN-SUFFIX,52zx.net
   - DOMAIN-SUFFIX,52zxw.com
   - DOMAIN-SUFFIX,52zzl.com
   - DOMAIN-SUFFIX,530p.com
@@ -4978,7 +4976,6 @@ payload:
   - DOMAIN-SUFFIX,6868shop.com
   - DOMAIN-SUFFIX,686fw.com
   - DOMAIN-SUFFIX,686ib.com
-  - DOMAIN-SUFFIX,686wan.com
   - DOMAIN-SUFFIX,6873.com
   - DOMAIN-SUFFIX,6899wan.com
   - DOMAIN-SUFFIX,68design.net
@@ -5161,7 +5158,6 @@ payload:
   - DOMAIN-SUFFIX,72e.net
   - DOMAIN-SUFFIX,72en.com
   - DOMAIN-SUFFIX,72g.com
-  - DOMAIN-SUFFIX,72h.io
   - DOMAIN-SUFFIX,72k.us
   - DOMAIN-SUFFIX,72la.com
   - DOMAIN-SUFFIX,72laodian.com
@@ -6471,7 +6467,6 @@ payload:
   - DOMAIN-SUFFIX,99mingxing.com
   - DOMAIN-SUFFIX,99mst.com
   - DOMAIN-SUFFIX,99music.net
-  - DOMAIN-SUFFIX,99n3.com
   - DOMAIN-SUFFIX,99nahuo.com
   - DOMAIN-SUFFIX,99niu.com
   - DOMAIN-SUFFIX,99pdf.com
@@ -6542,6 +6537,7 @@ payload:
   - DOMAIN-SUFFIX,9ie7.com
   - DOMAIN-SUFFIX,9igcw.com
   - DOMAIN-SUFFIX,9ihb.com
+  - DOMAIN-SUFFIX,9ihere.com
   - DOMAIN-SUFFIX,9ihome.com
   - DOMAIN-SUFFIX,9inx.com
   - DOMAIN-SUFFIX,9iphp.com
@@ -7102,6 +7098,7 @@ payload:
   - DOMAIN-SUFFIX,ahtlbyby.com
   - DOMAIN-SUFFIX,ahtlgc.com
   - DOMAIN-SUFFIX,ahtrain.com
+  - DOMAIN-SUFFIX,ahu.cc
   - DOMAIN-SUFFIX,ahuyi.com
   - DOMAIN-SUFFIX,ahwwfn.com
   - DOMAIN-SUFFIX,ahxczxmm.com
@@ -11819,6 +11816,7 @@ payload:
   - DOMAIN-SUFFIX,cfej.net
   - DOMAIN-SUFFIX,cfeks.com
   - DOMAIN-SUFFIX,cffw.net
+  - DOMAIN-SUFFIX,cfhot.com
   - DOMAIN-SUFFIX,cfhpc.org
   - DOMAIN-SUFFIX,cfido.com
   - DOMAIN-SUFFIX,cfiec.net
@@ -39673,6 +39671,7 @@ payload:
   - DOMAIN-SUFFIX,qqwenda.com
   - DOMAIN-SUFFIX,qqwmly.com
   - DOMAIN-SUFFIX,qqwmx.com
+  - DOMAIN-SUFFIX,qqwtb.com
   - DOMAIN-SUFFIX,qqwwr.com
   - DOMAIN-SUFFIX,qqwxmail.com
   - DOMAIN-SUFFIX,qqxbt.com
