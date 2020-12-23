@@ -1,7 +1,7 @@
-# Checksum: MTYwODczNzA3MQo=
+# Checksum: MTYwODc0ODU3Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.7-20201223-5
-# TimeUpdated: 2020-12-23T15:24:31+00:00
+# Version: 1.2.7-20201223-6
+# TimeUpdated: 2020-12-23T18:36:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -7668,7 +7668,6 @@ DOMAIN-SUFFIX,amblrgg.live
 DOMAIN-SUFFIX,amchamchina.org
 DOMAIN-SUFFIX,amdotibet.com
 DOMAIN-SUFFIX,amdt.net
-DOMAIN-SUFFIX,amec-inc.com
 DOMAIN-SUFFIX,americanobgyn.com
 DOMAIN-SUFFIX,amethystum.com
 DOMAIN-SUFFIX,amexpressnetwork.com

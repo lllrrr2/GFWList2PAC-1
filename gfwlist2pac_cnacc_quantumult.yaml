@@ -1,7 +1,7 @@
-# Checksum: MTYwODczNzA3MQo=
+# Checksum: MTYwODc0ODU3Ngo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.7-20201223-5
-# TimeUpdated: 2020-12-23T15:24:31+00:00
+# Version: 1.2.7-20201223-6
+# TimeUpdated: 2020-12-23T18:36:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -7668,7 +7668,6 @@ DOMAIN-SUFFIX,amblrgg.live,DIRECT
 DOMAIN-SUFFIX,amchamchina.org,DIRECT
 DOMAIN-SUFFIX,amdotibet.com,DIRECT
 DOMAIN-SUFFIX,amdt.net,DIRECT
-DOMAIN-SUFFIX,amec-inc.com,DIRECT
 DOMAIN-SUFFIX,americanobgyn.com,DIRECT
 DOMAIN-SUFFIX,amethystum.com,DIRECT
 DOMAIN-SUFFIX,amexpressnetwork.com,DIRECT
