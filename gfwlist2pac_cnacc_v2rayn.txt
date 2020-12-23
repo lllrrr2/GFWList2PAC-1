@@ -1,7 +1,7 @@
-# Checksum: MTYwODcyNjYzNAo=
+# Checksum: MTYwODczNzA3MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.7-20201223-4
-# TimeUpdated: 2020-12-23T12:30:34+00:00
+# Version: 1.2.7-20201223-5
+# TimeUpdated: 2020-12-23T15:24:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2817,6 +2817,7 @@ domain:367783.net,
 domain:368mall.com,
 domain:368tea.com,
 domain:368yh.com,
+domain:369110.xyz,
 domain:369785.com,
 domain:3699.cc,
 domain:36990.com,
@@ -21636,6 +21637,7 @@ domain:gsgs10086.com,
 domain:gsi24.com,
 domain:gsjindu.com,
 domain:gsjtky.com,
+domain:gsk168.xyz,
 domain:gsktraining.com,
 domain:gskyty.com,
 domain:gslxrc.com,
@@ -40241,6 +40243,7 @@ domain:rdplat.com,
 domain:rdsdk.com,
 domain:rdtoc.com,
 domain:rdwork.com,
+domain:rdxw8.com,
 domain:rdyhly.net,
 domain:rdzhijia.com,
 domain:rdzjw.com,
