@@ -1,7 +1,7 @@
-# Checksum: MTYwODY5NDIzMQo=
+# Checksum: MTYwODcwMzAwOQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.5-20201223-1
-# TimeUpdated: 2020-12-23T03:30:31+00:00
+# Version: 1.2.6-20201223-1
+# TimeUpdated: 2020-12-23T05:56:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -16804,7 +16804,6 @@ domain:dogfight360.com,
 domain:dogmr.com,
 domain:dogwhere.com,
 domain:doh.pub,
-domain:doh.pub:853,
 domain:dohuo.com,
 domain:doido.com,
 domain:doit.am,
@@ -57941,4 +57940,3 @@ domain:zzzyk.com,
 domain:zzzzaaaa.com,
 domain:zzzzhong.com,
 domain:zzzzmall.com,
-domain:zzzzmall.comtls:,

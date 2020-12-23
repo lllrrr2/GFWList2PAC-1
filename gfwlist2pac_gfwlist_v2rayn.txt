@@ -1,7 +1,7 @@
-# Checksum: MTYwODY5NDIzOQo=
+# Checksum: MTYwODcwMzAxOAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201223-1
-# TimeUpdated: 2020-12-23T03:30:39+00:00
+# Version: 1.2.6-20201223-1
+# TimeUpdated: 2020-12-23T05:56:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -4936,6 +4936,7 @@ domain:cagop.org,
 domain:cahi.com,
 domain:cai-cai.me,
 domain:cai8wan.com,
+domain:cai950.com,
 domain:caijinglengyan.com,
 domain:caise888.com,
 domain:calameo.com,

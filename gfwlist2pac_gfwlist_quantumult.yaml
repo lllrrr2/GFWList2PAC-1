@@ -1,7 +1,7 @@
-# Checksum: MTYwODY5NDIzOQo=
+# Checksum: MTYwODcwMzAxOAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.5-20201223-1
-# TimeUpdated: 2020-12-23T03:30:39+00:00
+# Version: 1.2.6-20201223-1
+# TimeUpdated: 2020-12-23T05:56:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -4936,6 +4936,7 @@ DOMAIN-SUFFIX,cagop.org,PROXY
 DOMAIN-SUFFIX,cahi.com,PROXY
 DOMAIN-SUFFIX,cai-cai.me,PROXY
 DOMAIN-SUFFIX,cai8wan.com,PROXY
+DOMAIN-SUFFIX,cai950.com,PROXY
 DOMAIN-SUFFIX,caijinglengyan.com,PROXY
 DOMAIN-SUFFIX,caise888.com,PROXY
 DOMAIN-SUFFIX,calameo.com,PROXY
