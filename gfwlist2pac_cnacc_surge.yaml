@@ -1,7 +1,7 @@
-# Checksum: MTYwODcxNTY3NQo=
+# Checksum: MTYwODcyNjYzNAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.7-20201223-3
-# TimeUpdated: 2020-12-23T09:27:55+00:00
+# Version: 1.2.7-20201223-4
+# TimeUpdated: 2020-12-23T12:30:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1277,7 +1277,6 @@ DOMAIN-SUFFIX,15gift.com
 DOMAIN-SUFFIX,15h8.net
 DOMAIN-SUFFIX,15hn.com
 DOMAIN-SUFFIX,15hr.com
-DOMAIN-SUFFIX,15in.com
 DOMAIN-SUFFIX,15lu.com
 DOMAIN-SUFFIX,15ms.com
 DOMAIN-SUFFIX,15shu.net
@@ -6633,7 +6632,6 @@ DOMAIN-SUFFIX,a21yishion.com
 DOMAIN-SUFFIX,a2dongman.com
 DOMAIN-SUFFIX,a2kindle.com
 DOMAIN-SUFFIX,a3.mzstatic.com
-DOMAIN-SUFFIX,a34.site
 DOMAIN-SUFFIX,a3p4.com
 DOMAIN-SUFFIX,a4.mzstatic.com
 DOMAIN-SUFFIX,a5.mzstatic.com
@@ -10979,7 +10977,6 @@ DOMAIN-SUFFIX,c4yx.com
 DOMAIN-SUFFIX,c53911.com
 DOMAIN-SUFFIX,c5game.com
 DOMAIN-SUFFIX,c6.nz
-DOMAIN-SUFFIX,c668sz.com
 DOMAIN-SUFFIX,c68.com
 DOMAIN-SUFFIX,c6c.com
 DOMAIN-SUFFIX,c6n708.ren
@@ -13576,6 +13573,7 @@ DOMAIN-SUFFIX,cn365d.com
 DOMAIN-SUFFIX,cn3k5.com
 DOMAIN-SUFFIX,cn3wm.com
 DOMAIN-SUFFIX,cn486.com
+DOMAIN-SUFFIX,cn50hz.com
 DOMAIN-SUFFIX,cn51.com
 DOMAIN-SUFFIX,cn5135.com
 DOMAIN-SUFFIX,cn539.com
@@ -38662,6 +38660,7 @@ DOMAIN-SUFFIX,pylhotel.com
 DOMAIN-SUFFIX,pylist.com
 DOMAIN-SUFFIX,pyneo.com
 DOMAIN-SUFFIX,pynote.net
+DOMAIN-SUFFIX,pysmqc.com
 DOMAIN-SUFFIX,pystarter.com
 DOMAIN-SUFFIX,pytgo.com
 DOMAIN-SUFFIX,python88.com

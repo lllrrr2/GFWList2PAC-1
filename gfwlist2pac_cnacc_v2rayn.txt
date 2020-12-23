@@ -1,7 +1,7 @@
-# Checksum: MTYwODcxNTY3NQo=
+# Checksum: MTYwODcyNjYzNAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.7-20201223-3
-# TimeUpdated: 2020-12-23T09:27:55+00:00
+# Version: 1.2.7-20201223-4
+# TimeUpdated: 2020-12-23T12:30:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1277,7 +1277,6 @@ domain:15gift.com,
 domain:15h8.net,
 domain:15hn.com,
 domain:15hr.com,
-domain:15in.com,
 domain:15lu.com,
 domain:15ms.com,
 domain:15shu.net,
@@ -6633,7 +6632,6 @@ domain:a21yishion.com,
 domain:a2dongman.com,
 domain:a2kindle.com,
 domain:a3.mzstatic.com,
-domain:a34.site,
 domain:a3p4.com,
 domain:a4.mzstatic.com,
 domain:a5.mzstatic.com,
@@ -10979,7 +10977,6 @@ domain:c4yx.com,
 domain:c53911.com,
 domain:c5game.com,
 domain:c6.nz,
-domain:c668sz.com,
 domain:c68.com,
 domain:c6c.com,
 domain:c6n708.ren,
@@ -13576,6 +13573,7 @@ domain:cn365d.com,
 domain:cn3k5.com,
 domain:cn3wm.com,
 domain:cn486.com,
+domain:cn50hz.com,
 domain:cn51.com,
 domain:cn5135.com,
 domain:cn539.com,
@@ -38662,6 +38660,7 @@ domain:pylhotel.com,
 domain:pylist.com,
 domain:pyneo.com,
 domain:pynote.net,
+domain:pysmqc.com,
 domain:pystarter.com,
 domain:pytgo.com,
 domain:python88.com,
