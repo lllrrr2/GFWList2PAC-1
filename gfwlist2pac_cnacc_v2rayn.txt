@@ -1,7 +1,7 @@
-# Checksum: MTYwODcxMjg3NQo=
+# Checksum: MTYwODcxNTY3NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.7-20201223-2
-# TimeUpdated: 2020-12-23T08:41:15+00:00
+# Version: 1.2.7-20201223-3
+# TimeUpdated: 2020-12-23T09:27:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -18633,6 +18633,7 @@ domain:etzuqiu.com,
 domain:eua.design,
 domain:eub-inc.com,
 domain:euci-software.com,
+domain:eucjic.org,
 domain:eudic.net,
 domain:eueueu.com,
 domain:eui.cc,
