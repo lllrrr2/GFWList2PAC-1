@@ -1,7 +1,7 @@
-# Checksum: MTYwODY4NTA5OQo=
+# Checksum: MTYwODY5NDIzOQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.5-20201223-0
-# TimeUpdated: 2020-12-23T00:58:19+00:00
+# Version: 1.2.5-20201223-1
+# TimeUpdated: 2020-12-23T03:30:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -3194,6 +3194,7 @@ domain:bbb111.com,
 domain:bbb112.net,
 domain:bbb26.net,
 domain:bbb678.com,
+domain:bbb858.com,
 domain:bbc.co,
 domain:bbc.co.uk,
 domain:bbc.com,

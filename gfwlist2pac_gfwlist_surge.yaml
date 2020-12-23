@@ -1,7 +1,7 @@
-# Checksum: MTYwODY4NTA5OQo=
+# Checksum: MTYwODY5NDIzOQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.5-20201223-0
-# TimeUpdated: 2020-12-23T00:58:19+00:00
+# Version: 1.2.5-20201223-1
+# TimeUpdated: 2020-12-23T03:30:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3194,6 +3194,7 @@ DOMAIN-SUFFIX,bbb111.com
 DOMAIN-SUFFIX,bbb112.net
 DOMAIN-SUFFIX,bbb26.net
 DOMAIN-SUFFIX,bbb678.com
+DOMAIN-SUFFIX,bbb858.com
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
