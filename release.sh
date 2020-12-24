@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.7
+# Current Version: 1.2.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -9,10 +9,10 @@
 # Get Data
 function GetData() {
     cnacc_domain=(
-        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_whitelist.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_whitelist_full.txt"
     )
     gfwlist_domain=(
-        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_blacklist.txt"
+        "https://raw.githubusercontent.com/hezhijie0327/GFWList2AGH/main/gfwlist2agh_blacklist_full.txt"
     )
     rm -rf ./gfwlist2pac_* ./Temp && mkdir ./Temp && cd ./Temp
     for cnacc_domain_task in "${!cnacc_domain[@]}"; do
