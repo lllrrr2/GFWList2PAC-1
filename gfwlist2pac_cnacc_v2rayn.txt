@@ -1,7 +1,7 @@
-# Checksum: MTYwODgzNTA3MQo=
+# Checksum: MTYwODg0NDg1Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201224-6
-# TimeUpdated: 2020-12-24T18:37:51+00:00
+# Version: 1.2.8-20201224-7
+# TimeUpdated: 2020-12-24T21:20:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1572,6 +1572,7 @@ domain:17tigan.com,
 domain:17tourer.com,
 domain:17track.net,
 domain:17tui.cc,
+domain:17tx.com,
 domain:17u.com,
 domain:17u.net,
 domain:17u1u.com,
@@ -2054,7 +2055,6 @@ domain:22dm.com,
 domain:22edu.com,
 domain:22ff.com,
 domain:22ff.org,
-domain:22hd.com,
 domain:22hyk.com,
 domain:22ja.com,
 domain:22k9.com,
