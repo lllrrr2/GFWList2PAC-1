@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODgyMzQ3Nwo=
+# Checksum: MTYwODgzNTA3MQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.8-20201224-5
-# TimeUpdated: 2020-12-24T15:24:37+00:00
+# Version: 1.2.8-20201224-6
+# TimeUpdated: 2020-12-24T18:37:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2877,6 +2877,7 @@ payload:
   - DOMAIN-SUFFIX,37job.net
   - DOMAIN-SUFFIX,37k.com
   - DOMAIN-SUFFIX,37med.com
+  - DOMAIN-SUFFIX,37play.cc
   - DOMAIN-SUFFIX,37rj.com
   - DOMAIN-SUFFIX,37tang.com
   - DOMAIN-SUFFIX,37team.com
@@ -3328,6 +3329,7 @@ payload:
   - DOMAIN-SUFFIX,4mpdy.com
   - DOMAIN-SUFFIX,4ngel.net
   - DOMAIN-SUFFIX,4px.com
+  - DOMAIN-SUFFIX,4reatkn.wang
   - DOMAIN-SUFFIX,4sjob.com
   - DOMAIN-SUFFIX,4sscrm.com
   - DOMAIN-SUFFIX,4ting43.site
@@ -9152,6 +9154,7 @@ payload:
   - DOMAIN-SUFFIX,bbbaaa.com
   - DOMAIN-SUFFIX,bbbao.com
   - DOMAIN-SUFFIX,bbbb.com
+  - DOMAIN-SUFFIX,bbbcdns.com
   - DOMAIN-SUFFIX,bbbtgo.com
   - DOMAIN-SUFFIX,bbbvip.com
   - DOMAIN-SUFFIX,bbcmart.com
@@ -20512,6 +20515,7 @@ payload:
   - DOMAIN-SUFFIX,gansdai.com
   - DOMAIN-SUFFIX,gansuci.com
   - DOMAIN-SUFFIX,gansunet.com
+  - DOMAIN-SUFFIX,gansupost.com
   - DOMAIN-SUFFIX,ganxi666.com
   - DOMAIN-SUFFIX,ganxianw.com
   - DOMAIN-SUFFIX,ganzhe.com
@@ -21296,6 +21300,7 @@ payload:
   - DOMAIN-SUFFIX,gohomesafe.org
   - DOMAIN-SUFFIX,gohong.com
   - DOMAIN-SUFFIX,gohugo.org
+  - DOMAIN-SUFFIX,goingamer.com
   - DOMAIN-SUFFIX,gojiaju.com
   - DOMAIN-SUFFIX,goke.com
   - DOMAIN-SUFFIX,gokuai.com
@@ -46872,6 +46877,7 @@ payload:
   - DOMAIN-SUFFIX,tvb1.cc
   - DOMAIN-SUFFIX,tvbbj.com
   - DOMAIN-SUFFIX,tvcbook.com
+  - DOMAIN-SUFFIX,tvflnet.com
   - DOMAIN-SUFFIX,tvhome.com
   - DOMAIN-SUFFIX,tvhuan.com
   - DOMAIN-SUFFIX,tvjianshen.com
