@@ -1,7 +1,7 @@
-# Checksum: MTYwODgxNTAxOQo=
+# Checksum: MTYwODgyMzQ4Ngo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201224-4
-# TimeUpdated: 2020-12-24T13:03:39+00:00
+# Version: 1.2.8-20201224-5
+# TimeUpdated: 2020-12-24T15:24:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -3870,7 +3870,6 @@ DOMAIN-SUFFIX,bk8188.com,PROXY
 DOMAIN-SUFFIX,bkk029.com,PROXY
 DOMAIN-SUFFIX,bkk166.com,PROXY
 DOMAIN-SUFFIX,bkk589.com,PROXY
-DOMAIN-SUFFIX,bkk789.com,PROXY
 DOMAIN-SUFFIX,bkpi666.com,PROXY
 DOMAIN-SUFFIX,bl-doujinsouko.com,PROXY
 DOMAIN-SUFFIX,blackberean.com,PROXY
@@ -4465,6 +4464,7 @@ DOMAIN-SUFFIX,braintreepaymentsolutions.com,PROXY
 DOMAIN-SUFFIX,brainyquote.com,PROXY
 DOMAIN-SUFFIX,branchportal.com,PROXY
 DOMAIN-SUFFIX,brand-protection-team.com,PROXY
+DOMAIN-SUFFIX,brandeasygo.com,PROXY
 DOMAIN-SUFFIX,brandelectronic.com,PROXY
 DOMAIN-SUFFIX,brandnewproxy.net,PROXY
 DOMAIN-SUFFIX,brat.gq,PROXY
@@ -5418,7 +5418,6 @@ DOMAIN-SUFFIX,china-mmm.sa.com,PROXY
 DOMAIN-SUFFIX,china-review.com.ua,PROXY
 DOMAIN-SUFFIX,china-week.com,PROXY
 DOMAIN-SUFFIX,china.akamai.com.edgesuite.net,PROXY
-DOMAIN-SUFFIX,china.ca,PROXY
 DOMAIN-SUFFIX,china.googleblog.com,PROXY
 DOMAIN-SUFFIX,china.hket.com,PROXY
 DOMAIN-SUFFIX,china.petaasiapacific.com,PROXY

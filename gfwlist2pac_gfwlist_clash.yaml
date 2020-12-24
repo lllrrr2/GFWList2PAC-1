@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODgxNTAxOQo=
+# Checksum: MTYwODgyMzQ4Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201224-4
-# TimeUpdated: 2020-12-24T13:03:39+00:00
+# Version: 1.2.8-20201224-5
+# TimeUpdated: 2020-12-24T15:24:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3871,7 +3871,6 @@ payload:
   - DOMAIN-SUFFIX,bkk029.com
   - DOMAIN-SUFFIX,bkk166.com
   - DOMAIN-SUFFIX,bkk589.com
-  - DOMAIN-SUFFIX,bkk789.com
   - DOMAIN-SUFFIX,bkpi666.com
   - DOMAIN-SUFFIX,bl-doujinsouko.com
   - DOMAIN-SUFFIX,blackberean.com
@@ -4466,6 +4465,7 @@ payload:
   - DOMAIN-SUFFIX,brainyquote.com
   - DOMAIN-SUFFIX,branchportal.com
   - DOMAIN-SUFFIX,brand-protection-team.com
+  - DOMAIN-SUFFIX,brandeasygo.com
   - DOMAIN-SUFFIX,brandelectronic.com
   - DOMAIN-SUFFIX,brandnewproxy.net
   - DOMAIN-SUFFIX,brat.gq
@@ -5419,7 +5419,6 @@ payload:
   - DOMAIN-SUFFIX,china-review.com.ua
   - DOMAIN-SUFFIX,china-week.com
   - DOMAIN-SUFFIX,china.akamai.com.edgesuite.net
-  - DOMAIN-SUFFIX,china.ca
   - DOMAIN-SUFFIX,china.googleblog.com
   - DOMAIN-SUFFIX,china.hket.com
   - DOMAIN-SUFFIX,china.petaasiapacific.com
