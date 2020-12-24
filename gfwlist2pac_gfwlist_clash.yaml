@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODc3MTcwNwo=
+# Checksum: MTYwODc4MDcyNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.7-20201224-0
-# TimeUpdated: 2020-12-24T01:01:47+00:00
+# Version: 1.2.7-20201224-1
+# TimeUpdated: 2020-12-24T03:32:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1792,7 +1792,6 @@ payload:
   - DOMAIN-SUFFIX,admeld.com
   - DOMAIN-SUFFIX,admin.recaptcha.net
   - DOMAIN-SUFFIX,admob.com
-  - DOMAIN-SUFFIX,adnmb3.com
   - DOMAIN-SUFFIX,adobe-aemassets-value.com
   - DOMAIN-SUFFIX,adobe-audience-finder.com
   - DOMAIN-SUFFIX,adobe-video-partner-finder.com
@@ -3860,7 +3859,6 @@ payload:
   - DOMAIN-SUFFIX,bjl4999.com
   - DOMAIN-SUFFIX,bjl666.com
   - DOMAIN-SUFFIX,bjl6777.com
-  - DOMAIN-SUFFIX,bjl8988.com
   - DOMAIN-SUFFIX,bjldh.com
   - DOMAIN-SUFFIX,bjnewlife.org
   - DOMAIN-SUFFIX,bjs.org
@@ -5326,7 +5324,6 @@ payload:
   - DOMAIN-SUFFIX,chaterbate.com
   - DOMAIN-SUFFIX,chatnook.com
   - DOMAIN-SUFFIX,chatroom.456777.com
-  - DOMAIN-SUFFIX,chatroom.dsn02.co
   - DOMAIN-SUFFIX,chatroom.dsn201.co
   - DOMAIN-SUFFIX,chatroom1.1680170.com
   - DOMAIN-SUFFIX,chatter.com

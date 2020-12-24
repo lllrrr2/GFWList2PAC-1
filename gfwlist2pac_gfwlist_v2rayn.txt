@@ -1,7 +1,7 @@
-# Checksum: MTYwODc3MTcwNwo=
+# Checksum: MTYwODc4MDcyNAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.7-20201224-0
-# TimeUpdated: 2020-12-24T01:01:47+00:00
+# Version: 1.2.7-20201224-1
+# TimeUpdated: 2020-12-24T03:32:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1791,7 +1791,6 @@ domain:adityabhushan.com,
 domain:admeld.com,
 domain:admin.recaptcha.net,
 domain:admob.com,
-domain:adnmb3.com,
 domain:adobe-aemassets-value.com,
 domain:adobe-audience-finder.com,
 domain:adobe-video-partner-finder.com,
@@ -3859,7 +3858,6 @@ domain:bjl4777.com,
 domain:bjl4999.com,
 domain:bjl666.com,
 domain:bjl6777.com,
-domain:bjl8988.com,
 domain:bjldh.com,
 domain:bjnewlife.org,
 domain:bjs.org,
@@ -5325,7 +5323,6 @@ domain:chat-test-app.firebaseio.com,
 domain:chaterbate.com,
 domain:chatnook.com,
 domain:chatroom.456777.com,
-domain:chatroom.dsn02.co,
 domain:chatroom.dsn201.co,
 domain:chatroom1.1680170.com,
 domain:chatter.com,
