@@ -1,7 +1,7 @@
-# Checksum: MTYwODc1ODQ4Ngo=
+# Checksum: MTYwODc3MTY5OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.7-20201223-7
-# TimeUpdated: 2020-12-23T21:21:26+00:00
+# Version: 1.2.7-20201224-0
+# TimeUpdated: 2020-12-24T01:01:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -7839,7 +7839,6 @@ domain:anrayer.com,
 domain:anrenmind.com,
 domain:anrip.com,
 domain:anruili.com,
-domain:ansgo.com,
 domain:anshi7.com,
 domain:ansky.com,
 domain:ansteelgroup.com,
@@ -11472,7 +11471,6 @@ domain:ccpithz.org,
 domain:ccpitjinan.org,
 domain:ccpitlight.org,
 domain:ccpitnmg.org,
-domain:ccpitqd.org,
 domain:ccpitsd.com,
 domain:ccpittex.com,
 domain:ccpittj.org,
@@ -15676,6 +15674,7 @@ domain:dayinhu.com,
 domain:dayinjiqudong.com,
 domain:dayinpai.com,
 domain:dayinpiano.com,
+domain:dayitong.net,
 domain:dayiyu.com,
 domain:dayong.name,
 domain:dayoo.com,

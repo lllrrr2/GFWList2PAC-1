@@ -1,7 +1,7 @@
-# Checksum: MTYwODc1ODQ4Ngo=
+# Checksum: MTYwODc3MTY5OQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.7-20201223-7
-# TimeUpdated: 2020-12-23T21:21:26+00:00
+# Version: 1.2.7-20201224-0
+# TimeUpdated: 2020-12-24T01:01:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -7839,7 +7839,6 @@ DOMAIN-SUFFIX,anrayer.com,DIRECT
 DOMAIN-SUFFIX,anrenmind.com,DIRECT
 DOMAIN-SUFFIX,anrip.com,DIRECT
 DOMAIN-SUFFIX,anruili.com,DIRECT
-DOMAIN-SUFFIX,ansgo.com,DIRECT
 DOMAIN-SUFFIX,anshi7.com,DIRECT
 DOMAIN-SUFFIX,ansky.com,DIRECT
 DOMAIN-SUFFIX,ansteelgroup.com,DIRECT
@@ -11472,7 +11471,6 @@ DOMAIN-SUFFIX,ccpithz.org,DIRECT
 DOMAIN-SUFFIX,ccpitjinan.org,DIRECT
 DOMAIN-SUFFIX,ccpitlight.org,DIRECT
 DOMAIN-SUFFIX,ccpitnmg.org,DIRECT
-DOMAIN-SUFFIX,ccpitqd.org,DIRECT
 DOMAIN-SUFFIX,ccpitsd.com,DIRECT
 DOMAIN-SUFFIX,ccpittex.com,DIRECT
 DOMAIN-SUFFIX,ccpittj.org,DIRECT
@@ -15676,6 +15674,7 @@ DOMAIN-SUFFIX,dayinhu.com,DIRECT
 DOMAIN-SUFFIX,dayinjiqudong.com,DIRECT
 DOMAIN-SUFFIX,dayinpai.com,DIRECT
 DOMAIN-SUFFIX,dayinpiano.com,DIRECT
+DOMAIN-SUFFIX,dayitong.net,DIRECT
 DOMAIN-SUFFIX,dayiyu.com,DIRECT
 DOMAIN-SUFFIX,dayong.name,DIRECT
 DOMAIN-SUFFIX,dayoo.com,DIRECT
