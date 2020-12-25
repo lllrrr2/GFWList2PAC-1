@@ -1,7 +1,7 @@
-# Checksum: MTYwODg2NjkyOQo=
+# Checksum: MTYwODg3NzQ5Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.8-20201225-1
-# TimeUpdated: 2020-12-25T03:28:49+00:00
+# Version: 1.2.8-20201225-2
+# TimeUpdated: 2020-12-25T06:24:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -3040,7 +3040,6 @@ DOMAIN-SUFFIX,3poo.com
 DOMAIN-SUFFIX,3q2008.com
 DOMAIN-SUFFIX,3qec.com
 DOMAIN-SUFFIX,3qhouse.com
-DOMAIN-SUFFIX,3qiurl.com
 DOMAIN-SUFFIX,3qwe.com
 DOMAIN-SUFFIX,3qzj.com
 DOMAIN-SUFFIX,3qzone.com
@@ -5776,6 +5775,7 @@ DOMAIN-SUFFIX,88pets.com
 DOMAIN-SUFFIX,88popo.com
 DOMAIN-SUFFIX,88tang.com
 DOMAIN-SUFFIX,88tph.com
+DOMAIN-SUFFIX,88ty96.com
 DOMAIN-SUFFIX,88u.com
 DOMAIN-SUFFIX,88wakuang.com
 DOMAIN-SUFFIX,88xiaoshuo.com
@@ -7568,6 +7568,7 @@ DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyunedu.net
 DOMAIN-SUFFIX,aliyunfuwuqi.com
 DOMAIN-SUFFIX,aliyunhn.com
+DOMAIN-SUFFIX,aliyunlive.com
 DOMAIN-SUFFIX,aliyunmeng.com
 DOMAIN-SUFFIX,aliyunqifu.com
 DOMAIN-SUFFIX,aliyunyh.com
@@ -7961,6 +7962,7 @@ DOMAIN-SUFFIX,aolylcd.com
 DOMAIN-SUFFIX,aomenyule.net
 DOMAIN-SUFFIX,aomoxo.com
 DOMAIN-SUFFIX,aomygod.com
+DOMAIN-SUFFIX,aomygodstatic.com
 DOMAIN-SUFFIX,aonaotu.com
 DOMAIN-SUFFIX,aoofu.com
 DOMAIN-SUFFIX,aoomoo.com
@@ -28794,6 +28796,7 @@ DOMAIN-SUFFIX,jrszw.com
 DOMAIN-SUFFIX,jrszxww.com
 DOMAIN-SUFFIX,jrtj120.com
 DOMAIN-SUFFIX,jrwenku.com
+DOMAIN-SUFFIX,jrxdmedia.com
 DOMAIN-SUFFIX,jryghq.com
 DOMAIN-SUFFIX,jrysdq.com
 DOMAIN-SUFFIX,jrzj.com
@@ -32590,6 +32593,7 @@ DOMAIN-SUFFIX,loushiwo.com
 DOMAIN-SUFFIX,lousj.com
 DOMAIN-SUFFIX,louyue.com
 DOMAIN-SUFFIX,love.tv
+DOMAIN-SUFFIX,love1992.com
 DOMAIN-SUFFIX,love21cn.com
 DOMAIN-SUFFIX,love3721.com
 DOMAIN-SUFFIX,love616.com
@@ -34028,6 +34032,7 @@ DOMAIN-SUFFIX,mengkang.net
 DOMAIN-SUFFIX,menglan.com
 DOMAIN-SUFFIX,menglegame.com
 DOMAIN-SUFFIX,menglei.info
+DOMAIN-SUFFIX,mengma.com
 DOMAIN-SUFFIX,mengqiuju.com
 DOMAIN-SUFFIX,mengshanzhongxue.com
 DOMAIN-SUFFIX,mengshihm.com
@@ -40448,6 +40453,7 @@ DOMAIN-SUFFIX,rgyun.com
 DOMAIN-SUFFIX,rh98.com
 DOMAIN-SUFFIX,rhebank.com
 DOMAIN-SUFFIX,rhhz.net
+DOMAIN-SUFFIX,rhjyw.com
 DOMAIN-SUFFIX,rhkj.com
 DOMAIN-SUFFIX,rhy.com
 DOMAIN-SUFFIX,rhyjcy.com
