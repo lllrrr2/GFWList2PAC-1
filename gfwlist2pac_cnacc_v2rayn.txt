@@ -1,7 +1,7 @@
-# Checksum: MTYwODg3NzQ5Mgo=
+# Checksum: MTYwODg4ODM3MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201225-2
-# TimeUpdated: 2020-12-25T06:24:52+00:00
+# Version: 1.2.8-20201225-3
+# TimeUpdated: 2020-12-25T09:26:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -240,6 +240,7 @@ domain:027hcss.com,
 domain:027hhl.com,
 domain:027hpedu.com,
 domain:027hpit.com,
+domain:027htxt.com,
 domain:027hxj.com,
 domain:027hxzy.com,
 domain:027hy.com,
@@ -5749,6 +5750,7 @@ domain:888pic.com,
 domain:888ppt.com,
 domain:888rj.com,
 domain:888y17.com,
+domain:8898wz.com,
 domain:88995799.com,
 domain:889su.com,
 domain:889xp.com,
@@ -11223,7 +11225,6 @@ domain:capjoy.com,
 domain:cappchem.com,
 domain:cappeg.com,
 domain:capvision.com,
-domain:car-sort.com,
 domain:car0575.com,
 domain:car136.com,
 domain:car2100.com,
@@ -11573,7 +11574,6 @@ domain:cdfinger.com,
 domain:cdfytx.com,
 domain:cdgdad.com,
 domain:cdgjbus.com,
-domain:cdgjlxs.com,
 domain:cdgtw.net,
 domain:cdgyjs.com,
 domain:cdh3c.com,
@@ -36636,6 +36636,7 @@ domain:o2osd.com,
 domain:o2yhq.com,
 domain:o31re.buzz,
 domain:o3brown.com,
+domain:o43c.com,
 domain:o6222.com,
 domain:o7h.net,
 domain:oa025.com,

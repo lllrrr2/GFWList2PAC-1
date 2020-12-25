@@ -1,7 +1,7 @@
-# Checksum: MTYwODg3NzQ5Mgo=
+# Checksum: MTYwODg4ODM3MQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.8-20201225-2
-# TimeUpdated: 2020-12-25T06:24:52+00:00
+# Version: 1.2.8-20201225-3
+# TimeUpdated: 2020-12-25T09:26:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -240,6 +240,7 @@ DOMAIN-SUFFIX,027hcss.com
 DOMAIN-SUFFIX,027hhl.com
 DOMAIN-SUFFIX,027hpedu.com
 DOMAIN-SUFFIX,027hpit.com
+DOMAIN-SUFFIX,027htxt.com
 DOMAIN-SUFFIX,027hxj.com
 DOMAIN-SUFFIX,027hxzy.com
 DOMAIN-SUFFIX,027hy.com
@@ -5749,6 +5750,7 @@ DOMAIN-SUFFIX,888pic.com
 DOMAIN-SUFFIX,888ppt.com
 DOMAIN-SUFFIX,888rj.com
 DOMAIN-SUFFIX,888y17.com
+DOMAIN-SUFFIX,8898wz.com
 DOMAIN-SUFFIX,88995799.com
 DOMAIN-SUFFIX,889su.com
 DOMAIN-SUFFIX,889xp.com
@@ -11223,7 +11225,6 @@ DOMAIN-SUFFIX,capjoy.com
 DOMAIN-SUFFIX,cappchem.com
 DOMAIN-SUFFIX,cappeg.com
 DOMAIN-SUFFIX,capvision.com
-DOMAIN-SUFFIX,car-sort.com
 DOMAIN-SUFFIX,car0575.com
 DOMAIN-SUFFIX,car136.com
 DOMAIN-SUFFIX,car2100.com
@@ -11573,7 +11574,6 @@ DOMAIN-SUFFIX,cdfinger.com
 DOMAIN-SUFFIX,cdfytx.com
 DOMAIN-SUFFIX,cdgdad.com
 DOMAIN-SUFFIX,cdgjbus.com
-DOMAIN-SUFFIX,cdgjlxs.com
 DOMAIN-SUFFIX,cdgtw.net
 DOMAIN-SUFFIX,cdgyjs.com
 DOMAIN-SUFFIX,cdh3c.com
@@ -36636,6 +36636,7 @@ DOMAIN-SUFFIX,o2osd.com
 DOMAIN-SUFFIX,o2yhq.com
 DOMAIN-SUFFIX,o31re.buzz
 DOMAIN-SUFFIX,o3brown.com
+DOMAIN-SUFFIX,o43c.com
 DOMAIN-SUFFIX,o6222.com
 DOMAIN-SUFFIX,o7h.net
 DOMAIN-SUFFIX,oa025.com
