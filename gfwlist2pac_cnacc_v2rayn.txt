@@ -1,7 +1,7 @@
-# Checksum: MTYwODg5OTMyOQo=
+# Checksum: MTYwODkwOTcxMwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201225-4
-# TimeUpdated: 2020-12-25T12:28:49+00:00
+# Version: 1.2.8-20201225-5
+# TimeUpdated: 2020-12-25T15:21:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3862,7 +3862,6 @@ domain:51xuetang.com,
 domain:51xueyingyu.com,
 domain:51xumei.com,
 domain:51xw.net,
-domain:51xxs.com,
 domain:51xxyy.com,
 domain:51yabei.com,
 domain:51yala.com,
@@ -4168,6 +4167,7 @@ domain:52zhushan.com,
 domain:52zixue.com,
 domain:52zuji.net,
 domain:52zwxs.com,
+domain:52zx.net,
 domain:52zxw.com,
 domain:52zzl.com,
 domain:530p.com,
@@ -39023,6 +39023,7 @@ domain:qianzhan.com,
 domain:qianzhan123.com,
 domain:qiao024.com,
 domain:qiaobo.net,
+domain:qiaobutang.com,
 domain:qiaodan.com,
 domain:qiaofangyun.com,
 domain:qiaofanxin.com,

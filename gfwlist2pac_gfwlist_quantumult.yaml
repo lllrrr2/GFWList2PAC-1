@@ -1,7 +1,7 @@
-# Checksum: MTYwODg5OTMzOAo=
+# Checksum: MTYwODkwOTcyMgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201225-4
-# TimeUpdated: 2020-12-25T12:28:58+00:00
+# Version: 1.2.8-20201225-5
+# TimeUpdated: 2020-12-25T15:22:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -350,6 +350,7 @@ DOMAIN-SUFFIX,18onlygirls.com,PROXY
 DOMAIN-SUFFIX,18p2p.com,PROXY
 DOMAIN-SUFFIX,18pps.com,PROXY
 DOMAIN-SUFFIX,18qiu.com,PROXY
+DOMAIN-SUFFIX,18soo.com,PROXY
 DOMAIN-SUFFIX,18virginsex.com,PROXY
 DOMAIN-SUFFIX,18xgroup.com,PROXY
 DOMAIN-SUFFIX,1901999.com,PROXY
@@ -1730,6 +1731,7 @@ DOMAIN-SUFFIX,acgft.us,PROXY
 DOMAIN-SUFFIX,acgheaven.org,PROXY
 DOMAIN-SUFFIX,acgkj.com,PROXY
 DOMAIN-SUFFIX,acglover.me,PROXY
+DOMAIN-SUFFIX,acgnx.se,PROXY
 DOMAIN-SUFFIX,acgpy.com,PROXY
 DOMAIN-SUFFIX,acgpy.net,PROXY
 DOMAIN-SUFFIX,achat-followers-instagram.com,PROXY
@@ -11388,6 +11390,7 @@ DOMAIN-SUFFIX,ibeatsbydre.cc,PROXY
 DOMAIN-SUFFIX,ibeatsbydre.com,PROXY
 DOMAIN-SUFFIX,ibiblio.org,PROXY
 DOMAIN-SUFFIX,ibid1.com,PROXY
+DOMAIN-SUFFIX,ibit.am,PROXY
 DOMAIN-SUFFIX,iblogserv-f.net,PROXY
 DOMAIN-SUFFIX,ibm.com,PROXY
 DOMAIN-SUFFIX,ibm.en.box.com,PROXY
@@ -12978,6 +12981,7 @@ DOMAIN-SUFFIX,kvbr.com,PROXY
 DOMAIN-SUFFIX,kvikshaug.no,PROXY
 DOMAIN-SUFFIX,kwcg.ca,PROXY
 DOMAIN-SUFFIX,kwikj.com,PROXY
+DOMAIN-SUFFIX,kwok7.com,PROXY
 DOMAIN-SUFFIX,kwongwah.com.my,PROXY
 DOMAIN-SUFFIX,kwp52.com,PROXY
 DOMAIN-SUFFIX,kycloud.asia,PROXY
@@ -13532,6 +13536,7 @@ DOMAIN-SUFFIX,lubetube.com,PROXY
 DOMAIN-SUFFIX,lubeyourtube.com,PROXY
 DOMAIN-SUFFIX,lubinscy.pl,PROXY
 DOMAIN-SUFFIX,lubl.xyz,PROXY
+DOMAIN-SUFFIX,luckydesigner.space,PROXY
 DOMAIN-SUFFIX,luckyissue.com,PROXY
 DOMAIN-SUFFIX,lucyintheskywithdi.com,PROXY
 DOMAIN-SUFFIX,ludwigvonkoopa.com,PROXY
@@ -15932,6 +15937,7 @@ DOMAIN-SUFFIX,ogp.me,PROXY
 DOMAIN-SUFFIX,ohara.cl,PROXY
 DOMAIN-SUFFIX,ohayoutube.com,PROXY
 DOMAIN-SUFFIX,ohiofreenet.org,PROXY
+DOMAIN-SUFFIX,ohmyrss.com,PROXY
 DOMAIN-SUFFIX,oho.slyip.net,PROXY
 DOMAIN-SUFFIX,ohyeah1080.com,PROXY
 DOMAIN-SUFFIX,oikos.com.tw,PROXY
@@ -27264,6 +27270,7 @@ DOMAIN-SUFFIX,yousendit.com,PROXY
 DOMAIN-SUFFIX,youshun12.com,PROXY
 DOMAIN-SUFFIX,yout.com,PROXY
 DOMAIN-SUFFIX,youtanhua.ml,PROXY
+DOMAIN-SUFFIX,youthforfreechina.org,PROXY
 DOMAIN-SUFFIX,youthnetradio.org,PROXY
 DOMAIN-SUFFIX,youthtaiwan.net,PROXY
 DOMAIN-SUFFIX,youthwant.com.tw,PROXY

@@ -1,7 +1,7 @@
-# Checksum: MTYwODg5OTMzOAo=
+# Checksum: MTYwODkwOTcyMgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.8-20201225-4
-# TimeUpdated: 2020-12-25T12:28:58+00:00
+# Version: 1.2.8-20201225-5
+# TimeUpdated: 2020-12-25T15:22:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -350,6 +350,7 @@ DOMAIN-SUFFIX,18onlygirls.com
 DOMAIN-SUFFIX,18p2p.com
 DOMAIN-SUFFIX,18pps.com
 DOMAIN-SUFFIX,18qiu.com
+DOMAIN-SUFFIX,18soo.com
 DOMAIN-SUFFIX,18virginsex.com
 DOMAIN-SUFFIX,18xgroup.com
 DOMAIN-SUFFIX,1901999.com
@@ -1730,6 +1731,7 @@ DOMAIN-SUFFIX,acgft.us
 DOMAIN-SUFFIX,acgheaven.org
 DOMAIN-SUFFIX,acgkj.com
 DOMAIN-SUFFIX,acglover.me
+DOMAIN-SUFFIX,acgnx.se
 DOMAIN-SUFFIX,acgpy.com
 DOMAIN-SUFFIX,acgpy.net
 DOMAIN-SUFFIX,achat-followers-instagram.com
@@ -11388,6 +11390,7 @@ DOMAIN-SUFFIX,ibeatsbydre.cc
 DOMAIN-SUFFIX,ibeatsbydre.com
 DOMAIN-SUFFIX,ibiblio.org
 DOMAIN-SUFFIX,ibid1.com
+DOMAIN-SUFFIX,ibit.am
 DOMAIN-SUFFIX,iblogserv-f.net
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibm.en.box.com
@@ -12978,6 +12981,7 @@ DOMAIN-SUFFIX,kvbr.com
 DOMAIN-SUFFIX,kvikshaug.no
 DOMAIN-SUFFIX,kwcg.ca
 DOMAIN-SUFFIX,kwikj.com
+DOMAIN-SUFFIX,kwok7.com
 DOMAIN-SUFFIX,kwongwah.com.my
 DOMAIN-SUFFIX,kwp52.com
 DOMAIN-SUFFIX,kycloud.asia
@@ -13532,6 +13536,7 @@ DOMAIN-SUFFIX,lubetube.com
 DOMAIN-SUFFIX,lubeyourtube.com
 DOMAIN-SUFFIX,lubinscy.pl
 DOMAIN-SUFFIX,lubl.xyz
+DOMAIN-SUFFIX,luckydesigner.space
 DOMAIN-SUFFIX,luckyissue.com
 DOMAIN-SUFFIX,lucyintheskywithdi.com
 DOMAIN-SUFFIX,ludwigvonkoopa.com
@@ -15932,6 +15937,7 @@ DOMAIN-SUFFIX,ogp.me
 DOMAIN-SUFFIX,ohara.cl
 DOMAIN-SUFFIX,ohayoutube.com
 DOMAIN-SUFFIX,ohiofreenet.org
+DOMAIN-SUFFIX,ohmyrss.com
 DOMAIN-SUFFIX,oho.slyip.net
 DOMAIN-SUFFIX,ohyeah1080.com
 DOMAIN-SUFFIX,oikos.com.tw
@@ -27264,6 +27270,7 @@ DOMAIN-SUFFIX,yousendit.com
 DOMAIN-SUFFIX,youshun12.com
 DOMAIN-SUFFIX,yout.com
 DOMAIN-SUFFIX,youtanhua.ml
+DOMAIN-SUFFIX,youthforfreechina.org
 DOMAIN-SUFFIX,youthnetradio.org
 DOMAIN-SUFFIX,youthtaiwan.net
 DOMAIN-SUFFIX,youthwant.com.tw
