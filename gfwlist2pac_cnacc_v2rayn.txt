@@ -1,7 +1,7 @@
-# Checksum: MTYwODkyMTEzNQo=
+# Checksum: MTYwODkzMTEzMAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201225-6
-# TimeUpdated: 2020-12-25T18:32:15+00:00
+# Version: 1.2.8-20201225-7
+# TimeUpdated: 2020-12-25T21:18:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -89,6 +89,7 @@ domain:0123366.com,
 domain:0123401234.com,
 domain:0123456789.biz,
 domain:0123456789.com,
+domain:012logo.com,
 domain:01365.com,
 domain:01368u.com,
 domain:013767.com,
@@ -526,7 +527,6 @@ domain:0737rencai.com,
 domain:0738rc.com,
 domain:0738www.com,
 domain:0739tc.com,
-domain:073img.com,
 domain:07430743.com,
 domain:0744tv.com,
 domain:0746news.com,
@@ -4718,6 +4718,7 @@ domain:5y6s.com,
 domain:5y89.com,
 domain:5ydj.com,
 domain:5yedu.com,
+domain:5yhua.org,
 domain:5yi.com,
 domain:5ykj.com,
 domain:5yun.org,
@@ -8035,7 +8036,6 @@ domain:apk8.com,
 domain:apkdo.com,
 domain:apkevery.com,
 domain:apkgu.com,
-domain:apkhooker.com,
 domain:apkjam.com,
 domain:apkplug.com,
 domain:apkrj.com,
@@ -8288,7 +8288,6 @@ domain:as-hitech.com,
 domain:as2sc.com,
 domain:as3f.com,
 domain:as56888.com,
-domain:asadwsdapp.com,
 domain:asaki.me,
 domain:asbeijing.com,
 domain:asc-wines.com,

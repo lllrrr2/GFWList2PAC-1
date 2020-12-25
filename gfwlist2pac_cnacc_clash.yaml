@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODkyMTEzNQo=
+# Checksum: MTYwODkzMTEzMAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.8-20201225-6
-# TimeUpdated: 2020-12-25T18:32:15+00:00
+# Version: 1.2.8-20201225-7
+# TimeUpdated: 2020-12-25T21:18:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -90,6 +90,7 @@ payload:
   - DOMAIN-SUFFIX,0123401234.com
   - DOMAIN-SUFFIX,0123456789.biz
   - DOMAIN-SUFFIX,0123456789.com
+  - DOMAIN-SUFFIX,012logo.com
   - DOMAIN-SUFFIX,01365.com
   - DOMAIN-SUFFIX,01368u.com
   - DOMAIN-SUFFIX,013767.com
@@ -527,7 +528,6 @@ payload:
   - DOMAIN-SUFFIX,0738rc.com
   - DOMAIN-SUFFIX,0738www.com
   - DOMAIN-SUFFIX,0739tc.com
-  - DOMAIN-SUFFIX,073img.com
   - DOMAIN-SUFFIX,07430743.com
   - DOMAIN-SUFFIX,0744tv.com
   - DOMAIN-SUFFIX,0746news.com
@@ -4719,6 +4719,7 @@ payload:
   - DOMAIN-SUFFIX,5y89.com
   - DOMAIN-SUFFIX,5ydj.com
   - DOMAIN-SUFFIX,5yedu.com
+  - DOMAIN-SUFFIX,5yhua.org
   - DOMAIN-SUFFIX,5yi.com
   - DOMAIN-SUFFIX,5ykj.com
   - DOMAIN-SUFFIX,5yun.org
@@ -8036,7 +8037,6 @@ payload:
   - DOMAIN-SUFFIX,apkdo.com
   - DOMAIN-SUFFIX,apkevery.com
   - DOMAIN-SUFFIX,apkgu.com
-  - DOMAIN-SUFFIX,apkhooker.com
   - DOMAIN-SUFFIX,apkjam.com
   - DOMAIN-SUFFIX,apkplug.com
   - DOMAIN-SUFFIX,apkrj.com
@@ -8289,7 +8289,6 @@ payload:
   - DOMAIN-SUFFIX,as2sc.com
   - DOMAIN-SUFFIX,as3f.com
   - DOMAIN-SUFFIX,as56888.com
-  - DOMAIN-SUFFIX,asadwsdapp.com
   - DOMAIN-SUFFIX,asaki.me
   - DOMAIN-SUFFIX,asbeijing.com
   - DOMAIN-SUFFIX,asc-wines.com
