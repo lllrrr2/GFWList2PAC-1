@@ -1,7 +1,7 @@
-# Checksum: MTYwODkwOTcyMgo=
+# Checksum: MTYwODkyMTE0NAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.8-20201225-5
-# TimeUpdated: 2020-12-25T15:22:02+00:00
+# Version: 1.2.8-20201225-6
+# TimeUpdated: 2020-12-25T18:32:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -9952,6 +9952,7 @@ domain:golang.net,
 domain:golang.org,
 domain:gold888world.com,
 domain:goldbet.com,
+domain:golden-ages.org,
 domain:golden-beauty-web.firebaseio.com,
 domain:goldeneyevault.com,
 domain:goldenfrog.biz,
@@ -11010,6 +11011,7 @@ domain:hongkongfp.com,
 domain:hongmeimei.com,
 domain:hongzhi.li,
 domain:honto.jp,
+domain:honven.xyz,
 domain:hooloo.tv,
 domain:hoolu.com,
 domain:hoolu.tv,
@@ -20751,6 +20753,7 @@ domain:tuxedochamber.org,
 domain:tuzaijidi.com,
 domain:tv.com,
 domain:tv.itver.cc,
+domain:tv.jtbc.joins.com,
 domain:tv.kakao.com,
 domain:tv100.ga,
 domain:tv101.tk,

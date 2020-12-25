@@ -1,7 +1,7 @@
-# Checksum: MTYwODkwOTcyMgo=
+# Checksum: MTYwODkyMTE0NAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201225-5
-# TimeUpdated: 2020-12-25T15:22:02+00:00
+# Version: 1.2.8-20201225-6
+# TimeUpdated: 2020-12-25T18:32:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -9952,6 +9952,7 @@ DOMAIN-SUFFIX,golang.net,PROXY
 DOMAIN-SUFFIX,golang.org,PROXY
 DOMAIN-SUFFIX,gold888world.com,PROXY
 DOMAIN-SUFFIX,goldbet.com,PROXY
+DOMAIN-SUFFIX,golden-ages.org,PROXY
 DOMAIN-SUFFIX,golden-beauty-web.firebaseio.com,PROXY
 DOMAIN-SUFFIX,goldeneyevault.com,PROXY
 DOMAIN-SUFFIX,goldenfrog.biz,PROXY
@@ -11010,6 +11011,7 @@ DOMAIN-SUFFIX,hongkongfp.com,PROXY
 DOMAIN-SUFFIX,hongmeimei.com,PROXY
 DOMAIN-SUFFIX,hongzhi.li,PROXY
 DOMAIN-SUFFIX,honto.jp,PROXY
+DOMAIN-SUFFIX,honven.xyz,PROXY
 DOMAIN-SUFFIX,hooloo.tv,PROXY
 DOMAIN-SUFFIX,hoolu.com,PROXY
 DOMAIN-SUFFIX,hoolu.tv,PROXY
@@ -20751,6 +20753,7 @@ DOMAIN-SUFFIX,tuxedochamber.org,PROXY
 DOMAIN-SUFFIX,tuzaijidi.com,PROXY
 DOMAIN-SUFFIX,tv.com,PROXY
 DOMAIN-SUFFIX,tv.itver.cc,PROXY
+DOMAIN-SUFFIX,tv.jtbc.joins.com,PROXY
 DOMAIN-SUFFIX,tv.kakao.com,PROXY
 DOMAIN-SUFFIX,tv100.ga,PROXY
 DOMAIN-SUFFIX,tv101.tk,PROXY

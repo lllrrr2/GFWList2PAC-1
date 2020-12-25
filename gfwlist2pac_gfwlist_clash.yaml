@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODkwOTcyMgo=
+# Checksum: MTYwODkyMTE0NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201225-5
-# TimeUpdated: 2020-12-25T15:22:02+00:00
+# Version: 1.2.8-20201225-6
+# TimeUpdated: 2020-12-25T18:32:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -9953,6 +9953,7 @@ payload:
   - DOMAIN-SUFFIX,golang.org
   - DOMAIN-SUFFIX,gold888world.com
   - DOMAIN-SUFFIX,goldbet.com
+  - DOMAIN-SUFFIX,golden-ages.org
   - DOMAIN-SUFFIX,golden-beauty-web.firebaseio.com
   - DOMAIN-SUFFIX,goldeneyevault.com
   - DOMAIN-SUFFIX,goldenfrog.biz
@@ -11011,6 +11012,7 @@ payload:
   - DOMAIN-SUFFIX,hongmeimei.com
   - DOMAIN-SUFFIX,hongzhi.li
   - DOMAIN-SUFFIX,honto.jp
+  - DOMAIN-SUFFIX,honven.xyz
   - DOMAIN-SUFFIX,hooloo.tv
   - DOMAIN-SUFFIX,hoolu.com
   - DOMAIN-SUFFIX,hoolu.tv
@@ -20752,6 +20754,7 @@ payload:
   - DOMAIN-SUFFIX,tuzaijidi.com
   - DOMAIN-SUFFIX,tv.com
   - DOMAIN-SUFFIX,tv.itver.cc
+  - DOMAIN-SUFFIX,tv.jtbc.joins.com
   - DOMAIN-SUFFIX,tv.kakao.com
   - DOMAIN-SUFFIX,tv100.ga
   - DOMAIN-SUFFIX,tv101.tk
