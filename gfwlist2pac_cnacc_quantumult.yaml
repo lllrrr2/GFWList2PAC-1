@@ -1,7 +1,7 @@
-# Checksum: MTYwODg4ODM3MQo=
+# Checksum: MTYwODg5OTMyOQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.8-20201225-3
-# TimeUpdated: 2020-12-25T09:26:11+00:00
+# Version: 1.2.8-20201225-4
+# TimeUpdated: 2020-12-25T12:28:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -6138,6 +6138,7 @@ DOMAIN-SUFFIX,92kor.com,DIRECT
 DOMAIN-SUFFIX,92le.com,DIRECT
 DOMAIN-SUFFIX,92lucky.com,DIRECT
 DOMAIN-SUFFIX,92mp.com,DIRECT
+DOMAIN-SUFFIX,92sales.com,DIRECT
 DOMAIN-SUFFIX,92sucai.com,DIRECT
 DOMAIN-SUFFIX,92tianjin.com,DIRECT
 DOMAIN-SUFFIX,92wan.com,DIRECT
@@ -21136,6 +21137,7 @@ DOMAIN-SUFFIX,globalmil.com,DIRECT
 DOMAIN-SUFFIX,globalpingbao.com,DIRECT
 DOMAIN-SUFFIX,globalscanner.com,DIRECT
 DOMAIN-SUFFIX,globalsources.com,DIRECT
+DOMAIN-SUFFIX,globalstech.com,DIRECT
 DOMAIN-SUFFIX,globeauto.org,DIRECT
 DOMAIN-SUFFIX,globeedu.com,DIRECT
 DOMAIN-SUFFIX,globeexhibit.com,DIRECT
