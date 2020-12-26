@@ -1,7 +1,7 @@
-# Checksum: MTYwODk4NTcxMQo=
+# Checksum: MTYwODk5NjAzNAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201226-4
-# TimeUpdated: 2020-12-26T12:28:31+00:00
+# Version: 1.2.8-20201226-5
+# TimeUpdated: 2020-12-26T15:20:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2320,7 +2320,6 @@ DOMAIN-SUFFIX,anisearch.de,PROXY
 DOMAIN-SUFFIX,aniseedballs.co.uk,PROXY
 DOMAIN-SUFFIX,ankarazirvesi2018.com,PROXY
 DOMAIN-SUFFIX,annatam.com,PROXY
-DOMAIN-SUFFIX,anne66.com,PROXY
 DOMAIN-SUFFIX,annieandmike.us,PROXY
 DOMAIN-SUFFIX,annoor.co,PROXY
 DOMAIN-SUFFIX,anntw.com,PROXY

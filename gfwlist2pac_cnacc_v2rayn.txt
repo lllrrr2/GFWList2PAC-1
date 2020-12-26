@@ -1,7 +1,7 @@
-# Checksum: MTYwODk4NTcwMgo=
+# Checksum: MTYwODk5NjAyNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201226-4
-# TimeUpdated: 2020-12-26T12:28:22+00:00
+# Version: 1.2.8-20201226-5
+# TimeUpdated: 2020-12-26T15:20:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1896,7 +1896,6 @@ domain:2012ccfa.com,
 domain:2013xp.com,
 domain:2014w7.com,
 domain:201551.com,
-domain:2015huo.com,
 domain:2016ruanwen.com,
 domain:2016win10.com,
 domain:2016y.com,
@@ -11273,6 +11272,7 @@ domain:casece.org,
 domain:casemeet.com,
 domain:cashtoutiao.com,
 domain:cashzhan.com,
+domain:casic-addsino.com,
 domain:casic-amc.com,
 domain:casic-t.com,
 domain:casic3s.com,
@@ -20297,6 +20297,7 @@ domain:fyigou.com,
 domain:fyjsz.net,
 domain:fyktaqm.com,
 domain:fynas.com,
+domain:fynews.net,
 domain:fyrcbk.com,
 domain:fyrexian.com,
 domain:fyrwzz.com,
@@ -42558,6 +42559,7 @@ domain:shuijingwanwq.com,
 domain:shuijingwuyu.com,
 domain:shuiku.net,
 domain:shuiliaosheji.com,
+domain:shuilv2014.com,
 domain:shuimiao.net,
 domain:shuimoyuan.com,
 domain:shuimushequ.com,

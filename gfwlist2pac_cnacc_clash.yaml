@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODk4NTcwMgo=
+# Checksum: MTYwODk5NjAyNQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.8-20201226-4
-# TimeUpdated: 2020-12-26T12:28:22+00:00
+# Version: 1.2.8-20201226-5
+# TimeUpdated: 2020-12-26T15:20:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1897,7 +1897,6 @@ payload:
   - DOMAIN-SUFFIX,2013xp.com
   - DOMAIN-SUFFIX,2014w7.com
   - DOMAIN-SUFFIX,201551.com
-  - DOMAIN-SUFFIX,2015huo.com
   - DOMAIN-SUFFIX,2016ruanwen.com
   - DOMAIN-SUFFIX,2016win10.com
   - DOMAIN-SUFFIX,2016y.com
@@ -11274,6 +11273,7 @@ payload:
   - DOMAIN-SUFFIX,casemeet.com
   - DOMAIN-SUFFIX,cashtoutiao.com
   - DOMAIN-SUFFIX,cashzhan.com
+  - DOMAIN-SUFFIX,casic-addsino.com
   - DOMAIN-SUFFIX,casic-amc.com
   - DOMAIN-SUFFIX,casic-t.com
   - DOMAIN-SUFFIX,casic3s.com
@@ -20298,6 +20298,7 @@ payload:
   - DOMAIN-SUFFIX,fyjsz.net
   - DOMAIN-SUFFIX,fyktaqm.com
   - DOMAIN-SUFFIX,fynas.com
+  - DOMAIN-SUFFIX,fynews.net
   - DOMAIN-SUFFIX,fyrcbk.com
   - DOMAIN-SUFFIX,fyrexian.com
   - DOMAIN-SUFFIX,fyrwzz.com
@@ -42559,6 +42560,7 @@ payload:
   - DOMAIN-SUFFIX,shuijingwuyu.com
   - DOMAIN-SUFFIX,shuiku.net
   - DOMAIN-SUFFIX,shuiliaosheji.com
+  - DOMAIN-SUFFIX,shuilv2014.com
   - DOMAIN-SUFFIX,shuimiao.net
   - DOMAIN-SUFFIX,shuimoyuan.com
   - DOMAIN-SUFFIX,shuimushequ.com
