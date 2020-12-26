@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODk2Mzg3NQo=
+# Checksum: MTYwODk3NDc2NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201226-2
-# TimeUpdated: 2020-12-26T06:24:35+00:00
+# Version: 1.2.8-20201226-3
+# TimeUpdated: 2020-12-26T09:26:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -852,6 +852,7 @@ payload:
   - DOMAIN-SUFFIX,4tube.com
   - DOMAIN-SUFFIX,5.bb5522.ws
   - DOMAIN-SUFFIX,50-video.com
+  - DOMAIN-SUFFIX,50045.skxtv.com
   - DOMAIN-SUFFIX,50045.totoxtv.com
   - DOMAIN-SUFFIX,500ish.com
   - DOMAIN-SUFFIX,5011668.com
@@ -3302,7 +3303,6 @@ payload:
   - DOMAIN-SUFFIX,bdg693.com
   - DOMAIN-SUFFIX,bdg88.com
   - DOMAIN-SUFFIX,bdg909.com
-  - DOMAIN-SUFFIX,bdg99.com
   - DOMAIN-SUFFIX,bdsmforall.com
   - DOMAIN-SUFFIX,bdsmstreak.com
   - DOMAIN-SUFFIX,bdsmtv.cc
@@ -10234,6 +10234,7 @@ payload:
   - DOMAIN-SUFFIX,google.vn
   - DOMAIN-SUFFIX,google.vu
   - DOMAIN-SUFFIX,google.ws
+  - DOMAIN-SUFFIX,google2.azurewebsites.net
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,googleapps.com
   - DOMAIN-SUFFIX,googleapps.rug.nl

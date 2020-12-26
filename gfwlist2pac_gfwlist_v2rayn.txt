@@ -1,7 +1,7 @@
-# Checksum: MTYwODk2Mzg3NQo=
+# Checksum: MTYwODk3NDc2NQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.8-20201226-2
-# TimeUpdated: 2020-12-26T06:24:35+00:00
+# Version: 1.2.8-20201226-3
+# TimeUpdated: 2020-12-26T09:26:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -851,6 +851,7 @@ domain:4shared.com,
 domain:4tube.com,
 domain:5.bb5522.ws,
 domain:50-video.com,
+domain:50045.skxtv.com,
 domain:50045.totoxtv.com,
 domain:500ish.com,
 domain:5011668.com,
@@ -3301,7 +3302,6 @@ domain:bdg663.com,
 domain:bdg693.com,
 domain:bdg88.com,
 domain:bdg909.com,
-domain:bdg99.com,
 domain:bdsmforall.com,
 domain:bdsmstreak.com,
 domain:bdsmtv.cc,
@@ -10233,6 +10233,7 @@ domain:google.vg,
 domain:google.vn,
 domain:google.vu,
 domain:google.ws,
+domain:google2.azurewebsites.net,
 domain:googleapis.com,
 domain:googleapps.com,
 domain:googleapps.rug.nl,
