@@ -1,7 +1,7 @@
-# Checksum: MTYwODk3NDc2NQo=
+# Checksum: MTYwODk4NTcxMQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201226-3
-# TimeUpdated: 2020-12-26T09:26:05+00:00
+# Version: 1.2.8-20201226-4
+# TimeUpdated: 2020-12-26T12:28:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2996,7 +2996,6 @@ DOMAIN-SUFFIX,azerimix.com,PROXY
 DOMAIN-SUFFIX,azirevpn.com,PROXY
 DOMAIN-SUFFIX,aznmovies.com,PROXY
 DOMAIN-SUFFIX,azofreeware.com,PROXY
-DOMAIN-SUFFIX,azoo123.sytes.net,PROXY
 DOMAIN-SUFFIX,azproxies.com,PROXY
 DOMAIN-SUFFIX,azri.my,PROXY
 DOMAIN-SUFFIX,aztecleisure.biz,PROXY
@@ -4392,7 +4391,6 @@ DOMAIN-SUFFIX,boobsmoviesex.com,PROXY
 DOMAIN-SUFFIX,boobstagram.com,PROXY
 DOMAIN-SUFFIX,boodigo.com,PROXY
 DOMAIN-SUFFIX,book.com.tw,PROXY
-DOMAIN-SUFFIX,book.zi5.me,PROXY
 DOMAIN-SUFFIX,bookartscentral.com,PROXY
 DOMAIN-SUFFIX,bookclubcorner.com,PROXY
 DOMAIN-SUFFIX,bookdepository.com,PROXY

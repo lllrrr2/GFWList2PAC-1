@@ -1,7 +1,7 @@
-# Checksum: MTYwODk3NDc1Nwo=
+# Checksum: MTYwODk4NTcwMgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201226-3
-# TimeUpdated: 2020-12-26T09:25:57+00:00
+# Version: 1.2.8-20201226-4
+# TimeUpdated: 2020-12-26T12:28:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10973,6 +10973,7 @@ domain:c4yx.com,
 domain:c53911.com,
 domain:c5game.com,
 domain:c6.nz,
+domain:c668sz.com,
 domain:c68.com,
 domain:c6c.com,
 domain:c6n708.ren,
@@ -16549,6 +16550,7 @@ domain:dkjiaoyang.com,
 domain:dklogs.net,
 domain:dkmol.net,
 domain:dksgo.com,
+domain:dktime.org,
 domain:dkys.org,
 domain:dl-mec.com,
 domain:dl-origin.ubnt.com,
@@ -38614,6 +38616,7 @@ domain:pxb7.com,
 domain:pxbuy.com,
 domain:pxcn168.com,
 domain:pxdsm.com,
+domain:pxecn.com,
 domain:pxfeed.com,
 domain:pxjljy.com,
 domain:pxsky.net,
