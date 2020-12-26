@@ -1,7 +1,7 @@
-# Checksum: MTYwODk5NjAzNAo=
+# Checksum: MTYwOTAwNzUzMgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201226-5
-# TimeUpdated: 2020-12-26T15:20:34+00:00
+# Version: 1.2.8-20201226-6
+# TimeUpdated: 2020-12-26T18:32:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -18224,6 +18224,7 @@ DOMAIN-SUFFIX,sakya.org,PROXY
 DOMAIN-SUFFIX,sale-nikeshoes.com,PROXY
 DOMAIN-SUFFIX,salebeatslasteststyle4you.com,PROXY
 DOMAIN-SUFFIX,saleblackfridaydrebeats.com,PROXY
+DOMAIN-SUFFIX,salecheaphandbags.com,PROXY
 DOMAIN-SUFFIX,salesforce.com,PROXY
 DOMAIN-SUFFIX,salesforce.org,PROXY
 DOMAIN-SUFFIX,salesforceiq.com,PROXY

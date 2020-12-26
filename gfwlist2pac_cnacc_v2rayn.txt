@@ -1,7 +1,7 @@
-# Checksum: MTYwODk5NjAyNQo=
+# Checksum: MTYwOTAwNzUyNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201226-5
-# TimeUpdated: 2020-12-26T15:20:25+00:00
+# Version: 1.2.8-20201226-6
+# TimeUpdated: 2020-12-26T18:32:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -9243,7 +9243,6 @@ domain:bdpan.com,
 domain:bdqlz.com,
 domain:bdqn027.com,
 domain:bdqn666.com,
-domain:bdqnsz.com,
 domain:bdqnwh.com,
 domain:bdr88.com,
 domain:bds-cn.com,
@@ -32706,6 +32705,7 @@ domain:lsg3.com,
 domain:lsgjart.com,
 domain:lsgrandtheatre.com,
 domain:lsgw.com,
+domain:lsgwq.icu,
 domain:lsgzn.com,
 domain:lshmt.com,
 domain:lshou.com,
