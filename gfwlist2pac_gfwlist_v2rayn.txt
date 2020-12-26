@@ -1,7 +1,7 @@
-# Checksum: MTYwODk0NDI3OQo=
+# Checksum: MTYwODk1MzMyNAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.8-20201226-0
-# TimeUpdated: 2020-12-26T00:57:59+00:00
+# Version: 1.2.8-20201226-1
+# TimeUpdated: 2020-12-26T03:28:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -6775,6 +6775,7 @@ domain:dirpy.com,
 domain:dirtymilfclub.com,
 domain:dirtynoun.net,
 domain:dirtyrhino.com,
+domain:discfan.net,
 domain:discoins.com,
 domain:disconnect.me,
 domain:discord.co,
@@ -8581,6 +8582,10 @@ domain:fetis.kir.jp,
 domain:fetishshrine.com,
 domain:fetlife.com,
 domain:fevernet.com,
+domain:ff-01.com,
+domain:ff-02.com,
+domain:ff-03.com,
+domain:ff-04.com,
 domain:ff.4pu.com,
 domain:ff.im,
 domain:ff167.net,
@@ -12504,6 +12509,7 @@ domain:joinbbs.net,
 domain:joinbl.xyz,
 domain:joinmaidez.com,
 domain:joinmastodon.org,
+domain:joins.com,
 domain:jojofx.com,
 domain:jojos.tw,
 domain:jokerlu.com,
@@ -24301,7 +24307,6 @@ domain:www.gee-kingdom.com,
 domain:www.geekonsite.ca,
 domain:www.genmirror.com,
 domain:www.geocities.co.jp,
-domain:www.geph.io,
 domain:www.getdropbox.com,
 domain:www.getgreenjsq.co,
 domain:www.getgreenjsq.com,

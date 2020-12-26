@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODk0NDI3OQo=
+# Checksum: MTYwODk1MzMyNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201226-0
-# TimeUpdated: 2020-12-26T00:57:59+00:00
+# Version: 1.2.8-20201226-1
+# TimeUpdated: 2020-12-26T03:28:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -6776,6 +6776,7 @@ payload:
   - DOMAIN-SUFFIX,dirtymilfclub.com
   - DOMAIN-SUFFIX,dirtynoun.net
   - DOMAIN-SUFFIX,dirtyrhino.com
+  - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,discoins.com
   - DOMAIN-SUFFIX,disconnect.me
   - DOMAIN-SUFFIX,discord.co
@@ -8582,6 +8583,10 @@ payload:
   - DOMAIN-SUFFIX,fetishshrine.com
   - DOMAIN-SUFFIX,fetlife.com
   - DOMAIN-SUFFIX,fevernet.com
+  - DOMAIN-SUFFIX,ff-01.com
+  - DOMAIN-SUFFIX,ff-02.com
+  - DOMAIN-SUFFIX,ff-03.com
+  - DOMAIN-SUFFIX,ff-04.com
   - DOMAIN-SUFFIX,ff.4pu.com
   - DOMAIN-SUFFIX,ff.im
   - DOMAIN-SUFFIX,ff167.net
@@ -12505,6 +12510,7 @@ payload:
   - DOMAIN-SUFFIX,joinbl.xyz
   - DOMAIN-SUFFIX,joinmaidez.com
   - DOMAIN-SUFFIX,joinmastodon.org
+  - DOMAIN-SUFFIX,joins.com
   - DOMAIN-SUFFIX,jojofx.com
   - DOMAIN-SUFFIX,jojos.tw
   - DOMAIN-SUFFIX,jokerlu.com
@@ -24302,7 +24308,6 @@ payload:
   - DOMAIN-SUFFIX,www.geekonsite.ca
   - DOMAIN-SUFFIX,www.genmirror.com
   - DOMAIN-SUFFIX,www.geocities.co.jp
-  - DOMAIN-SUFFIX,www.geph.io
   - DOMAIN-SUFFIX,www.getdropbox.com
   - DOMAIN-SUFFIX,www.getgreenjsq.co
   - DOMAIN-SUFFIX,www.getgreenjsq.com

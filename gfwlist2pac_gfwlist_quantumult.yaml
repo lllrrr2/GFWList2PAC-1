@@ -1,7 +1,7 @@
-# Checksum: MTYwODk0NDI3OQo=
+# Checksum: MTYwODk1MzMyNAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201226-0
-# TimeUpdated: 2020-12-26T00:57:59+00:00
+# Version: 1.2.8-20201226-1
+# TimeUpdated: 2020-12-26T03:28:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -6775,6 +6775,7 @@ DOMAIN-SUFFIX,dirpy.com,PROXY
 DOMAIN-SUFFIX,dirtymilfclub.com,PROXY
 DOMAIN-SUFFIX,dirtynoun.net,PROXY
 DOMAIN-SUFFIX,dirtyrhino.com,PROXY
+DOMAIN-SUFFIX,discfan.net,PROXY
 DOMAIN-SUFFIX,discoins.com,PROXY
 DOMAIN-SUFFIX,disconnect.me,PROXY
 DOMAIN-SUFFIX,discord.co,PROXY
@@ -8581,6 +8582,10 @@ DOMAIN-SUFFIX,fetis.kir.jp,PROXY
 DOMAIN-SUFFIX,fetishshrine.com,PROXY
 DOMAIN-SUFFIX,fetlife.com,PROXY
 DOMAIN-SUFFIX,fevernet.com,PROXY
+DOMAIN-SUFFIX,ff-01.com,PROXY
+DOMAIN-SUFFIX,ff-02.com,PROXY
+DOMAIN-SUFFIX,ff-03.com,PROXY
+DOMAIN-SUFFIX,ff-04.com,PROXY
 DOMAIN-SUFFIX,ff.4pu.com,PROXY
 DOMAIN-SUFFIX,ff.im,PROXY
 DOMAIN-SUFFIX,ff167.net,PROXY
@@ -12504,6 +12509,7 @@ DOMAIN-SUFFIX,joinbbs.net,PROXY
 DOMAIN-SUFFIX,joinbl.xyz,PROXY
 DOMAIN-SUFFIX,joinmaidez.com,PROXY
 DOMAIN-SUFFIX,joinmastodon.org,PROXY
+DOMAIN-SUFFIX,joins.com,PROXY
 DOMAIN-SUFFIX,jojofx.com,PROXY
 DOMAIN-SUFFIX,jojos.tw,PROXY
 DOMAIN-SUFFIX,jokerlu.com,PROXY
@@ -24301,7 +24307,6 @@ DOMAIN-SUFFIX,www.gee-kingdom.com,PROXY
 DOMAIN-SUFFIX,www.geekonsite.ca,PROXY
 DOMAIN-SUFFIX,www.genmirror.com,PROXY
 DOMAIN-SUFFIX,www.geocities.co.jp,PROXY
-DOMAIN-SUFFIX,www.geph.io,PROXY
 DOMAIN-SUFFIX,www.getdropbox.com,PROXY
 DOMAIN-SUFFIX,www.getgreenjsq.co,PROXY
 DOMAIN-SUFFIX,www.getgreenjsq.com,PROXY
