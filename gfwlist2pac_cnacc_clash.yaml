@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwODkzMTEzMAo=
+# Checksum: MTYwODk0NDI3Mwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.8-20201225-7
-# TimeUpdated: 2020-12-25T21:18:50+00:00
+# Version: 1.2.8-20201226-0
+# TimeUpdated: 2020-12-26T00:57:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1857,6 +1857,7 @@ payload:
   - DOMAIN-SUFFIX,1y0g.com
   - DOMAIN-SUFFIX,1y2y.com
   - DOMAIN-SUFFIX,1yabc.com
+  - DOMAIN-SUFFIX,1yb.co
   - DOMAIN-SUFFIX,1yee.com
   - DOMAIN-SUFFIX,1ykh.com
   - DOMAIN-SUFFIX,1yuanzheng.com
@@ -7256,6 +7257,7 @@ payload:
   - DOMAIN-SUFFIX,ailinux.net
   - DOMAIN-SUFFIX,ailinzhou.com
   - DOMAIN-SUFFIX,ailiyun.com
+  - DOMAIN-SUFFIX,ailo1.com
   - DOMAIN-SUFFIX,ailom.com
   - DOMAIN-SUFFIX,ailongmiao.com
   - DOMAIN-SUFFIX,ailvxing.com
@@ -8848,7 +8850,6 @@ payload:
   - DOMAIN-SUFFIX,baixiaosheng.net
   - DOMAIN-SUFFIX,baixing.com
   - DOMAIN-SUFFIX,baixing.net
-  - DOMAIN-SUFFIX,baixinger.com
   - DOMAIN-SUFFIX,baixingfanli.com
   - DOMAIN-SUFFIX,baixingjd.com
   - DOMAIN-SUFFIX,baixingmall.com
@@ -9313,6 +9314,7 @@ payload:
   - DOMAIN-SUFFIX,behance.ltd
   - DOMAIN-SUFFIX,bei1688.com
   - DOMAIN-SUFFIX,beian88.com
+  - DOMAIN-SUFFIX,beianapi29.com
   - DOMAIN-SUFFIX,beianbaba.com
   - DOMAIN-SUFFIX,beianidc.com
   - DOMAIN-SUFFIX,beianok.com
@@ -12823,6 +12825,7 @@ payload:
   - DOMAIN-SUFFIX,chinaupa.com
   - DOMAIN-SUFFIX,chinaups.com
   - DOMAIN-SUFFIX,chinaus.com
+  - DOMAIN-SUFFIX,chinavalin.com
   - DOMAIN-SUFFIX,chinavalue.net
   - DOMAIN-SUFFIX,chinavcpe.com
   - DOMAIN-SUFFIX,chinavid.com
@@ -29578,6 +29581,7 @@ payload:
   - DOMAIN-SUFFIX,kan98.com
   - DOMAIN-SUFFIX,kanam.me
   - DOMAIN-SUFFIX,kanba.cc
+  - DOMAIN-SUFFIX,kanbaobei.com
   - DOMAIN-SUFFIX,kanbilibili.com
   - DOMAIN-SUFFIX,kanbox.com
   - DOMAIN-SUFFIX,kanchao.com
