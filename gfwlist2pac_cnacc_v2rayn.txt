@@ -1,7 +1,7 @@
-# Checksum: MTYwOTA4MjQ0NAo=
+# Checksum: MTYwOTA5NDAyMAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201227-5
-# TimeUpdated: 2020-12-27T15:20:44+00:00
+# Version: 1.2.8-20201227-6
+# TimeUpdated: 2020-12-27T18:33:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6298,7 +6298,6 @@ domain:9685777.app,
 domain:9688333.com,
 domain:968pk.com,
 domain:969009.com,
-domain:9696e.com,
 domain:96app.com,
 domain:96bbs.com,
 domain:96dp.com,
@@ -12042,7 +12041,6 @@ domain:chaoliutai.com,
 domain:chaolongbus.com,
 domain:chaomengdata.com,
 domain:chaomi.cc,
-domain:chaomo25.com,
 domain:chaonanrc.com,
 domain:chaonei.com,
 domain:chaonengjie.com,
