@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTA5NDAyOQo=
+# Checksum: MTYwOTEwMzk0MQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201227-6
-# TimeUpdated: 2020-12-27T18:33:49+00:00
+# Version: 1.2.8-20201227-7
+# TimeUpdated: 2020-12-27T21:19:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3834,7 +3834,6 @@ payload:
   - DOMAIN-SUFFIX,bitstream.com
   - DOMAIN-SUFFIX,bitterwinter.org
   - DOMAIN-SUFFIX,bittrex.com
-  - DOMAIN-SUFFIX,bituzi.com
   - DOMAIN-SUFFIX,bitvise.com
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,bityun.org

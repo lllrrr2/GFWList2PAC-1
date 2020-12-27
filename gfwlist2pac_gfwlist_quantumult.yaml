@@ -1,7 +1,7 @@
-# Checksum: MTYwOTA5NDAyOQo=
+# Checksum: MTYwOTEwMzk0MQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201227-6
-# TimeUpdated: 2020-12-27T18:33:49+00:00
+# Version: 1.2.8-20201227-7
+# TimeUpdated: 2020-12-27T21:19:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -3833,7 +3833,6 @@ DOMAIN-SUFFIX,bitstamp.net,PROXY
 DOMAIN-SUFFIX,bitstream.com,PROXY
 DOMAIN-SUFFIX,bitterwinter.org,PROXY
 DOMAIN-SUFFIX,bittrex.com,PROXY
-DOMAIN-SUFFIX,bituzi.com,PROXY
 DOMAIN-SUFFIX,bitvise.com,PROXY
 DOMAIN-SUFFIX,bitwarden.com,PROXY
 DOMAIN-SUFFIX,bityun.org,PROXY
