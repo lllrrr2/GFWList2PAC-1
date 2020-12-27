@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTAzOTczNQo=
+# Checksum: MTYwOTA1MDI2NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.8-20201227-1
-# TimeUpdated: 2020-12-27T03:28:55+00:00
+# Version: 1.2.8-20201227-2
+# TimeUpdated: 2020-12-27T06:24:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -909,7 +909,6 @@ payload:
   - DOMAIN-SUFFIX,111hyk.com
   - DOMAIN-SUFFIX,111jz.com
   - DOMAIN-SUFFIX,111qqz.com
-  - DOMAIN-SUFFIX,111ttt.com
   - DOMAIN-SUFFIX,111yao.com
   - DOMAIN-SUFFIX,112112.com
   - DOMAIN-SUFFIX,11222.com
@@ -5438,7 +5437,6 @@ payload:
   - DOMAIN-SUFFIX,7yue.pro
   - DOMAIN-SUFFIX,7yun.com
   - DOMAIN-SUFFIX,7yzone.com
-  - DOMAIN-SUFFIX,7z.cx
   - DOMAIN-SUFFIX,7zgame.com
   - DOMAIN-SUFFIX,7zhou.com
   - DOMAIN-SUFFIX,7zm.com
@@ -5572,7 +5570,6 @@ payload:
   - DOMAIN-SUFFIX,8339.org
   - DOMAIN-SUFFIX,83480900.com
   - DOMAIN-SUFFIX,837711.com
-  - DOMAIN-SUFFIX,838.cc
   - DOMAIN-SUFFIX,83823.net
   - DOMAIN-SUFFIX,83830.com
   - DOMAIN-SUFFIX,8384cs.com
@@ -6604,6 +6601,7 @@ payload:
   - DOMAIN-SUFFIX,9yc.com
   - DOMAIN-SUFFIX,9ye.com
   - DOMAIN-SUFFIX,9yjobtm.com
+  - DOMAIN-SUFFIX,9yoho.com
   - DOMAIN-SUFFIX,9you.com
   - DOMAIN-SUFFIX,9you.net
   - DOMAIN-SUFFIX,9yread.com
@@ -12262,6 +12260,7 @@ payload:
   - DOMAIN-SUFFIX,cheshi-img.com
   - DOMAIN-SUFFIX,cheshi.com
   - DOMAIN-SUFFIX,cheshirex.com
+  - DOMAIN-SUFFIX,cheshouye.com
   - DOMAIN-SUFFIX,chess-nyl.com
   - DOMAIN-SUFFIX,chestar.net
   - DOMAIN-SUFFIX,chesthospital.com
@@ -13105,6 +13104,7 @@ payload:
   - DOMAIN-SUFFIX,chumo028.com
   - DOMAIN-SUFFIX,chunbo.com
   - DOMAIN-SUFFIX,chuncui.net
+  - DOMAIN-SUFFIX,chuncuinet.com
   - DOMAIN-SUFFIX,chundakj99.com
   - DOMAIN-SUFFIX,chundi.com
   - DOMAIN-SUFFIX,chundi.org
@@ -34109,6 +34109,7 @@ payload:
   - DOMAIN-SUFFIX,metstr.com
   - DOMAIN-SUFFIX,metui.net
   - DOMAIN-SUFFIX,metvb.com
+  - DOMAIN-SUFFIX,mevshare.com
   - DOMAIN-SUFFIX,mewhoo.com
   - DOMAIN-SUFFIX,mexue.com
   - DOMAIN-SUFFIX,mexxum.com
