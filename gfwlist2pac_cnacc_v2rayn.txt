@@ -1,7 +1,7 @@
-# Checksum: MTYwOTA2MTE2OQo=
+# Checksum: MTYwOTA3MjEwMQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201227-3
-# TimeUpdated: 2020-12-27T09:26:09+00:00
+# Version: 1.2.8-20201227-4
+# TimeUpdated: 2020-12-27T12:28:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -482,7 +482,6 @@ domain:06game.com,
 domain:06mz.com,
 domain:06peng.com,
 domain:070210.com,
-domain:07073.com,
 domain:07073h5.com,
 domain:07073sy.com,
 domain:07073vr.com,
@@ -2632,7 +2631,6 @@ domain:360500.com,
 domain:36099.com,
 domain:360abc.com,
 domain:360aiyi.com,
-domain:360anquan.com,
 domain:360bifen.net,
 domain:360bike.net,
 domain:360bzl.com,
