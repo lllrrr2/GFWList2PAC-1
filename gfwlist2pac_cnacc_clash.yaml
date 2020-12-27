@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTA1MDI2NQo=
+# Checksum: MTYwOTA2MTE2OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.8-20201227-2
-# TimeUpdated: 2020-12-27T06:24:25+00:00
+# Version: 1.2.8-20201227-3
+# TimeUpdated: 2020-12-27T09:26:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -766,7 +766,6 @@ payload:
   - DOMAIN-SUFFIX,100gyx.com
   - DOMAIN-SUFFIX,100hcrc.com
   - DOMAIN-SUFFIX,100hdy.com
-  - DOMAIN-SUFFIX,100how.com
   - DOMAIN-SUFFIX,100ip.net
   - DOMAIN-SUFFIX,100jiapu.com
   - DOMAIN-SUFFIX,100kk.com
@@ -3409,6 +3408,7 @@ payload:
   - DOMAIN-SUFFIX,514193.com
   - DOMAIN-SUFFIX,514200.com
   - DOMAIN-SUFFIX,51508.com
+  - DOMAIN-SUFFIX,5151.com
   - DOMAIN-SUFFIX,51511.com
   - DOMAIN-SUFFIX,515158.com
   - DOMAIN-SUFFIX,5151doc.com
@@ -3909,6 +3909,7 @@ payload:
   - DOMAIN-SUFFIX,51zhujia.com
   - DOMAIN-SUFFIX,51zixuewang.com
   - DOMAIN-SUFFIX,51zjxm.com
+  - DOMAIN-SUFFIX,51zpyc.com
   - DOMAIN-SUFFIX,51zr.com
   - DOMAIN-SUFFIX,51zsjc.com
   - DOMAIN-SUFFIX,51ztzj.com
@@ -7520,7 +7521,6 @@ payload:
   - DOMAIN-SUFFIX,alihealth.hk
   - DOMAIN-SUFFIX,alihuahua.com
   - DOMAIN-SUFFIX,aliimg.com
-  - DOMAIN-SUFFIX,aliiyuncs.com
   - DOMAIN-SUFFIX,alijianfei.com
   - DOMAIN-SUFFIX,alijijinhui.org
   - DOMAIN-SUFFIX,alijk.com
@@ -10148,6 +10148,7 @@ payload:
   - DOMAIN-SUFFIX,bjtu-hedu.com
   - DOMAIN-SUFFIX,bjtvnews.com
   - DOMAIN-SUFFIX,bjtysd.net
+  - DOMAIN-SUFFIX,bjtzr.com
   - DOMAIN-SUFFIX,bjunionstar.net
   - DOMAIN-SUFFIX,bjwanjiabao.com
   - DOMAIN-SUFFIX,bjweizhifu.com
@@ -13341,6 +13342,7 @@ payload:
   - DOMAIN-SUFFIX,cl-acg.com
   - DOMAIN-SUFFIX,cl-hs.com
   - DOMAIN-SUFFIX,cl-kongtiao.com
+  - DOMAIN-SUFFIX,cl-mail.ru
   - DOMAIN-SUFFIX,cl0438.com
   - DOMAIN-SUFFIX,cl1.apple.com
   - DOMAIN-SUFFIX,cl2-cn.apple.com
@@ -14117,6 +14119,7 @@ payload:
   - DOMAIN-SUFFIX,cocos2dx.net
   - DOMAIN-SUFFIX,cocoseditor.com
   - DOMAIN-SUFFIX,cocounion.com
+  - DOMAIN-SUFFIX,cocss.com
   - DOMAIN-SUFFIX,cocty.com
   - DOMAIN-SUFFIX,codante.org
   - DOMAIN-SUFFIX,code-by.org

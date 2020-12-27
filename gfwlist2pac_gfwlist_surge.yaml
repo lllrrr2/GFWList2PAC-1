@@ -1,7 +1,7 @@
-# Checksum: MTYwOTA1MDI3NAo=
+# Checksum: MTYwOTA2MTE3OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.8-20201227-2
-# TimeUpdated: 2020-12-27T06:24:34+00:00
+# Version: 1.2.8-20201227-3
+# TimeUpdated: 2020-12-27T09:26:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -14182,6 +14182,7 @@ DOMAIN-SUFFIX,mgo.com
 DOMAIN-SUFFIX,mgoon.com
 DOMAIN-SUFFIX,mgstage.com
 DOMAIN-SUFFIX,mh23.cf
+DOMAIN-SUFFIX,mh23.tk
 DOMAIN-SUFFIX,mhradio.org
 DOMAIN-SUFFIX,mhub.dafapoker.com
 DOMAIN-SUFFIX,mi513.com
