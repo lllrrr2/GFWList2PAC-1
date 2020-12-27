@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTAxNzU0NAo=
+# Checksum: MTYwOTAzMDkwNQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201226-7
-# TimeUpdated: 2020-12-26T21:19:04+00:00
+# Version: 1.2.8-20201227-0
+# TimeUpdated: 2020-12-27T01:01:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4391,6 +4391,7 @@ payload:
   - DOMAIN-SUFFIX,boobstagram.com
   - DOMAIN-SUFFIX,boodigo.com
   - DOMAIN-SUFFIX,book.com.tw
+  - DOMAIN-SUFFIX,book.zi5.me
   - DOMAIN-SUFFIX,bookartscentral.com
   - DOMAIN-SUFFIX,bookclubcorner.com
   - DOMAIN-SUFFIX,bookdepository.com
