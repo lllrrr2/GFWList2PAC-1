@@ -1,7 +1,7 @@
-# Checksum: MTYwOTA3MjEwMQo=
+# Checksum: MTYwOTA4MjQ0NAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.8-20201227-4
-# TimeUpdated: 2020-12-27T12:28:21+00:00
+# Version: 1.2.8-20201227-5
+# TimeUpdated: 2020-12-27T15:20:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -6892,6 +6892,7 @@ DOMAIN-SUFFIX,admin60.com,DIRECT
 DOMAIN-SUFFIX,admin88.com,DIRECT
 DOMAIN-SUFFIX,adminso.com,DIRECT
 DOMAIN-SUFFIX,admintony.com,DIRECT
+DOMAIN-SUFFIX,adminxue.com,DIRECT
 DOMAIN-SUFFIX,adminxy.com,DIRECT
 DOMAIN-SUFFIX,admpub.com,DIRECT
 DOMAIN-SUFFIX,adnmb.com,DIRECT
@@ -11392,6 +11393,7 @@ DOMAIN-SUFFIX,cciddata.com,DIRECT
 DOMAIN-SUFFIX,ccidedu.com,DIRECT
 DOMAIN-SUFFIX,ccidexpo.com,DIRECT
 DOMAIN-SUFFIX,ccidgroup.com,DIRECT
+DOMAIN-SUFFIX,ccidnet.com,DIRECT
 DOMAIN-SUFFIX,ccidreport.com,DIRECT
 DOMAIN-SUFFIX,ccidsmart.com,DIRECT
 DOMAIN-SUFFIX,ccie.lol,DIRECT
@@ -34847,6 +34849,7 @@ DOMAIN-SUFFIX,mojidong.com,DIRECT
 DOMAIN-SUFFIX,mojieai.com,DIRECT
 DOMAIN-SUFFIX,mojiegou5.com,DIRECT
 DOMAIN-SUFFIX,mojifen.com,DIRECT
+DOMAIN-SUFFIX,mojuedu.com,DIRECT
 DOMAIN-SUFFIX,mokahr.com,DIRECT
 DOMAIN-SUFFIX,mokayuedu.com,DIRECT
 DOMAIN-SUFFIX,mokee.me,DIRECT

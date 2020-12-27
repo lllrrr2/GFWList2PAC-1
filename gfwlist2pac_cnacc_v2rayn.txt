@@ -1,7 +1,7 @@
-# Checksum: MTYwOTA3MjEwMQo=
+# Checksum: MTYwOTA4MjQ0NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201227-4
-# TimeUpdated: 2020-12-27T12:28:21+00:00
+# Version: 1.2.8-20201227-5
+# TimeUpdated: 2020-12-27T15:20:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6892,6 +6892,7 @@ domain:admin60.com,
 domain:admin88.com,
 domain:adminso.com,
 domain:admintony.com,
+domain:adminxue.com,
 domain:adminxy.com,
 domain:admpub.com,
 domain:adnmb.com,
@@ -11392,6 +11393,7 @@ domain:cciddata.com,
 domain:ccidedu.com,
 domain:ccidexpo.com,
 domain:ccidgroup.com,
+domain:ccidnet.com,
 domain:ccidreport.com,
 domain:ccidsmart.com,
 domain:ccie.lol,
@@ -34847,6 +34849,7 @@ domain:mojidong.com,
 domain:mojieai.com,
 domain:mojiegou5.com,
 domain:mojifen.com,
+domain:mojuedu.com,
 domain:mokahr.com,
 domain:mokayuedu.com,
 domain:mokee.me,
