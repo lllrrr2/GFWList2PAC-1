@@ -1,7 +1,7 @@
-# Checksum: MTYwOTEyNjE4OAo=
+# Checksum: MTYwOTEzNjcyNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201228-1
-# TimeUpdated: 2020-12-28T03:29:48+00:00
+# Version: 1.2.8-20201228-2
+# TimeUpdated: 2020-12-28T06:25:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5482,7 +5482,6 @@ domain:8090vision.com,
 domain:8090xx.com,
 domain:8090yx.com,
 domain:8090yxs.com,
-domain:809635.com,
 domain:809803.com,
 domain:80anmo.net,
 domain:80baicai.biz,
@@ -12420,6 +12419,7 @@ domain:china1f.com,
 domain:china2000.org,
 domain:china35.com,
 domain:china356.com,
+domain:china360.net,
 domain:china3gpp.com,
 domain:china4a.org,
 domain:china50plus.com,
@@ -33056,6 +33056,7 @@ domain:lx598.com,
 domain:lxall.net,
 domain:lxbbt.com,
 domain:lxckj.com,
+domain:lxcvc.com,
 domain:lxf.me,
 domain:lxg2016.com,
 domain:lxin007.com,
@@ -38883,6 +38884,7 @@ domain:qgw123.com,
 domain:qgwsp.com,
 domain:qgxl.org,
 domain:qgzzz.com,
+domain:qh-cdn.com,
 domain:qh-lb.com,
 domain:qh.dlservice.microsoft.com,
 domain:qh24.com,

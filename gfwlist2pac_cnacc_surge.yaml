@@ -1,7 +1,7 @@
-# Checksum: MTYwOTEyNjE4OAo=
+# Checksum: MTYwOTEzNjcyNgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.8-20201228-1
-# TimeUpdated: 2020-12-28T03:29:48+00:00
+# Version: 1.2.8-20201228-2
+# TimeUpdated: 2020-12-28T06:25:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -5482,7 +5482,6 @@ DOMAIN-SUFFIX,8090vision.com
 DOMAIN-SUFFIX,8090xx.com
 DOMAIN-SUFFIX,8090yx.com
 DOMAIN-SUFFIX,8090yxs.com
-DOMAIN-SUFFIX,809635.com
 DOMAIN-SUFFIX,809803.com
 DOMAIN-SUFFIX,80anmo.net
 DOMAIN-SUFFIX,80baicai.biz
@@ -12420,6 +12419,7 @@ DOMAIN-SUFFIX,china1f.com
 DOMAIN-SUFFIX,china2000.org
 DOMAIN-SUFFIX,china35.com
 DOMAIN-SUFFIX,china356.com
+DOMAIN-SUFFIX,china360.net
 DOMAIN-SUFFIX,china3gpp.com
 DOMAIN-SUFFIX,china4a.org
 DOMAIN-SUFFIX,china50plus.com
@@ -33056,6 +33056,7 @@ DOMAIN-SUFFIX,lx598.com
 DOMAIN-SUFFIX,lxall.net
 DOMAIN-SUFFIX,lxbbt.com
 DOMAIN-SUFFIX,lxckj.com
+DOMAIN-SUFFIX,lxcvc.com
 DOMAIN-SUFFIX,lxf.me
 DOMAIN-SUFFIX,lxg2016.com
 DOMAIN-SUFFIX,lxin007.com
@@ -38883,6 +38884,7 @@ DOMAIN-SUFFIX,qgw123.com
 DOMAIN-SUFFIX,qgwsp.com
 DOMAIN-SUFFIX,qgxl.org
 DOMAIN-SUFFIX,qgzzz.com
+DOMAIN-SUFFIX,qh-cdn.com
 DOMAIN-SUFFIX,qh-lb.com
 DOMAIN-SUFFIX,qh.dlservice.microsoft.com
 DOMAIN-SUFFIX,qh24.com
