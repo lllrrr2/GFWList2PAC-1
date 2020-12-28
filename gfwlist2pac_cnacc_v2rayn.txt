@@ -1,7 +1,7 @@
-# Checksum: MTYwOTE0NzYzNgo=
+# Checksum: MTYwOTE1ODU2OAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201228-3
-# TimeUpdated: 2020-12-28T09:27:16+00:00
+# Version: 1.2.8-20201228-4
+# TimeUpdated: 2020-12-28T12:29:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1034,7 +1034,6 @@ domain:121down.com,
 domain:121mu.com,
 domain:121xia.com,
 domain:121xz.com,
-domain:1222220.com,
 domain:12225.com,
 domain:12226.com,
 domain:12227.com,
@@ -1732,7 +1731,6 @@ domain:1cno.com,
 domain:1cnw.com,
 domain:1d1d100.com,
 domain:1dao99.com,
-domain:1dfa.com,
 domain:1dian0.com,
 domain:1diaocha.com,
 domain:1diary.me,
@@ -9565,7 +9563,6 @@ domain:bhxww.com,
 domain:bhzhu203.com,
 domain:bhzhuji.com,
 domain:bhzpw.com,
-domain:bi11.com,
 domain:biacgn.com,
 domain:bian-min.com,
 domain:biancui.com,
@@ -11990,7 +11987,6 @@ domain:changtu.com,
 domain:changtu8.com,
 domain:changweibo.com,
 domain:changweibo.net,
-domain:changxie.com,
 domain:changxingyun.com,
 domain:changyan.com,
 domain:changyifan.com,

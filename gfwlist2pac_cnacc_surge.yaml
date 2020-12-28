@@ -1,7 +1,7 @@
-# Checksum: MTYwOTE0NzYzNgo=
+# Checksum: MTYwOTE1ODU2OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.8-20201228-3
-# TimeUpdated: 2020-12-28T09:27:16+00:00
+# Version: 1.2.8-20201228-4
+# TimeUpdated: 2020-12-28T12:29:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1034,7 +1034,6 @@ DOMAIN-SUFFIX,121down.com
 DOMAIN-SUFFIX,121mu.com
 DOMAIN-SUFFIX,121xia.com
 DOMAIN-SUFFIX,121xz.com
-DOMAIN-SUFFIX,1222220.com
 DOMAIN-SUFFIX,12225.com
 DOMAIN-SUFFIX,12226.com
 DOMAIN-SUFFIX,12227.com
@@ -1732,7 +1731,6 @@ DOMAIN-SUFFIX,1cno.com
 DOMAIN-SUFFIX,1cnw.com
 DOMAIN-SUFFIX,1d1d100.com
 DOMAIN-SUFFIX,1dao99.com
-DOMAIN-SUFFIX,1dfa.com
 DOMAIN-SUFFIX,1dian0.com
 DOMAIN-SUFFIX,1diaocha.com
 DOMAIN-SUFFIX,1diary.me
@@ -9565,7 +9563,6 @@ DOMAIN-SUFFIX,bhxww.com
 DOMAIN-SUFFIX,bhzhu203.com
 DOMAIN-SUFFIX,bhzhuji.com
 DOMAIN-SUFFIX,bhzpw.com
-DOMAIN-SUFFIX,bi11.com
 DOMAIN-SUFFIX,biacgn.com
 DOMAIN-SUFFIX,bian-min.com
 DOMAIN-SUFFIX,biancui.com
@@ -11990,7 +11987,6 @@ DOMAIN-SUFFIX,changtu.com
 DOMAIN-SUFFIX,changtu8.com
 DOMAIN-SUFFIX,changweibo.com
 DOMAIN-SUFFIX,changweibo.net
-DOMAIN-SUFFIX,changxie.com
 DOMAIN-SUFFIX,changxingyun.com
 DOMAIN-SUFFIX,changyan.com
 DOMAIN-SUFFIX,changyifan.com
