@@ -1,7 +1,7 @@
-# Checksum: MTYwOTEwMzkzMgo=
+# Checksum: MTYwOTExNzI3NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.8-20201227-7
-# TimeUpdated: 2020-12-27T21:18:52+00:00
+# Version: 1.2.8-20201228-0
+# TimeUpdated: 2020-12-28T01:01:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -10231,7 +10231,6 @@ DOMAIN-SUFFIX,blangel-tool.com
 DOMAIN-SUFFIX,blazefire.com
 DOMAIN-SUFFIX,blazefire.net
 DOMAIN-SUFFIX,blbx.com
-DOMAIN-SUFFIX,blc-cn.com
 DOMAIN-SUFFIX,blchen.com
 DOMAIN-SUFFIX,blctwed.com
 DOMAIN-SUFFIX,bld-hotel.com
@@ -11723,7 +11722,6 @@ DOMAIN-SUFFIX,ceeji.net
 DOMAIN-SUFFIX,ceepsp.com
 DOMAIN-SUFFIX,cef114.com
 DOMAIN-SUFFIX,cefc.co
-DOMAIN-SUFFIX,cehca.com
 DOMAIN-SUFFIX,cehome.com
 DOMAIN-SUFFIX,cehuashen.com
 DOMAIN-SUFFIX,cehui8.com

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTEwMzkzMgo=
+# Checksum: MTYwOTExNzI3NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201227-7
-# TimeUpdated: 2020-12-27T21:18:52+00:00
+# Version: 1.2.8-20201228-0
+# TimeUpdated: 2020-12-28T01:01:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10231,7 +10231,6 @@ domain:blangel-tool.com,
 domain:blazefire.com,
 domain:blazefire.net,
 domain:blbx.com,
-domain:blc-cn.com,
 domain:blchen.com,
 domain:blctwed.com,
 domain:bld-hotel.com,
@@ -11723,7 +11722,6 @@ domain:ceeji.net,
 domain:ceepsp.com,
 domain:cef114.com,
 domain:cefc.co,
-domain:cehca.com,
 domain:cehome.com,
 domain:cehuashen.com,
 domain:cehui8.com,
