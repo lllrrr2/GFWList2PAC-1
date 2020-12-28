@@ -1,7 +1,7 @@
-# Checksum: MTYwOTExNzI3NQo=
+# Checksum: MTYwOTEyNjE4OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.8-20201228-0
-# TimeUpdated: 2020-12-28T01:01:15+00:00
+# Version: 1.2.8-20201228-1
+# TimeUpdated: 2020-12-28T03:29:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -4978,7 +4978,6 @@ DOMAIN-SUFFIX,68ge.com
 DOMAIN-SUFFIX,68h5.com
 DOMAIN-SUFFIX,68hanchen.com
 DOMAIN-SUFFIX,68hr.com
-DOMAIN-SUFFIX,68jt.com
 DOMAIN-SUFFIX,68pk10.com
 DOMAIN-SUFFIX,68rong.com
 DOMAIN-SUFFIX,68t68.com
@@ -5046,7 +5045,6 @@ DOMAIN-SUFFIX,6miv.com
 DOMAIN-SUFFIX,6mshuwu.com
 DOMAIN-SUFFIX,6mxs.com
 DOMAIN-SUFFIX,6pifa.net
-DOMAIN-SUFFIX,6play.net
 DOMAIN-SUFFIX,6pmcn.com
 DOMAIN-SUFFIX,6renyou.com
 DOMAIN-SUFFIX,6rooms.com
@@ -15275,6 +15273,7 @@ DOMAIN-SUFFIX,dadabus.com
 DOMAIN-SUFFIX,dadagame.com
 DOMAIN-SUFFIX,dadagem.xyz
 DOMAIN-SUFFIX,dadaizi.com
+DOMAIN-SUFFIX,dadajiasu.com
 DOMAIN-SUFFIX,dadaojiayuan.com
 DOMAIN-SUFFIX,dadatu.co
 DOMAIN-SUFFIX,dadatu5.com

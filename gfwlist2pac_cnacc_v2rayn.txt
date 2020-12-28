@@ -1,7 +1,7 @@
-# Checksum: MTYwOTExNzI3NQo=
+# Checksum: MTYwOTEyNjE4OAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.8-20201228-0
-# TimeUpdated: 2020-12-28T01:01:15+00:00
+# Version: 1.2.8-20201228-1
+# TimeUpdated: 2020-12-28T03:29:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -4978,7 +4978,6 @@ domain:68ge.com,
 domain:68h5.com,
 domain:68hanchen.com,
 domain:68hr.com,
-domain:68jt.com,
 domain:68pk10.com,
 domain:68rong.com,
 domain:68t68.com,
@@ -5046,7 +5045,6 @@ domain:6miv.com,
 domain:6mshuwu.com,
 domain:6mxs.com,
 domain:6pifa.net,
-domain:6play.net,
 domain:6pmcn.com,
 domain:6renyou.com,
 domain:6rooms.com,
@@ -15275,6 +15273,7 @@ domain:dadabus.com,
 domain:dadagame.com,
 domain:dadagem.xyz,
 domain:dadaizi.com,
+domain:dadajiasu.com,
 domain:dadaojiayuan.com,
 domain:dadatu.co,
 domain:dadatu5.com,
