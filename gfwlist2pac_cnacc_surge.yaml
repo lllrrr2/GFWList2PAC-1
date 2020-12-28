@@ -1,7 +1,7 @@
-# Checksum: MTYwOTE1ODU2OAo=
+# Checksum: MTYwOTE2ODkyNgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.8-20201228-4
-# TimeUpdated: 2020-12-28T12:29:28+00:00
+# Version: 1.2.8-20201228-5
+# TimeUpdated: 2020-12-28T15:22:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1262,6 +1262,7 @@ DOMAIN-SUFFIX,155idc.com
 DOMAIN-SUFFIX,156580.com
 DOMAIN-SUFFIX,15666.com
 DOMAIN-SUFFIX,156zy.com
+DOMAIN-SUFFIX,158181.com
 DOMAIN-SUFFIX,1586f.com
 DOMAIN-SUFFIX,1588.tv
 DOMAIN-SUFFIX,15880.com
@@ -4151,7 +4152,6 @@ DOMAIN-SUFFIX,52xpp.com
 DOMAIN-SUFFIX,52xtxs.com
 DOMAIN-SUFFIX,52xyz.com
 DOMAIN-SUFFIX,52yawa.com
-DOMAIN-SUFFIX,52yh.com
 DOMAIN-SUFFIX,52yifei.com
 DOMAIN-SUFFIX,52ykjob.com
 DOMAIN-SUFFIX,52youju.com
@@ -5227,6 +5227,7 @@ DOMAIN-SUFFIX,7724.com
 DOMAIN-SUFFIX,77248a.com
 DOMAIN-SUFFIX,7724yx.com
 DOMAIN-SUFFIX,7725.com
+DOMAIN-SUFFIX,77263game.com
 DOMAIN-SUFFIX,77313.com
 DOMAIN-SUFFIX,77348k.com
 DOMAIN-SUFFIX,7735.net
@@ -7064,7 +7065,6 @@ DOMAIN-SUFFIX,ahkemi.com
 DOMAIN-SUFFIX,ahkende.com
 DOMAIN-SUFFIX,ahkjksw.com
 DOMAIN-SUFFIX,ahkjw.com
-DOMAIN-SUFFIX,ahkrd88.com
 DOMAIN-SUFFIX,ahkxsoft.com
 DOMAIN-SUFFIX,ahlib.com
 DOMAIN-SUFFIX,ahlife.com
@@ -27762,6 +27762,7 @@ DOMAIN-SUFFIX,jiankangchangshou.net
 DOMAIN-SUFFIX,jiankanghebei.com
 DOMAIN-SUFFIX,jiankangju.com
 DOMAIN-SUFFIX,jiankangzu.com
+DOMAIN-SUFFIX,jianke.cc
 DOMAIN-SUFFIX,jianke.com
 DOMAIN-SUFFIX,jiankeba.com
 DOMAIN-SUFFIX,jiankong.com
@@ -34510,6 +34511,7 @@ DOMAIN-SUFFIX,misclogic.com
 DOMAIN-SUFFIX,mishangkeji.com
 DOMAIN-SUFFIX,miskcoo.com
 DOMAIN-SUFFIX,mispos.cc
+DOMAIN-SUFFIX,miss-no1.com
 DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,missfresh.net
 DOMAIN-SUFFIX,missku.com
