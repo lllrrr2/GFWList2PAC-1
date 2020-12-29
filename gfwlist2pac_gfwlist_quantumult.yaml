@@ -1,7 +1,7 @@
-# Checksum: MTYwOTE5MDQwOAo=
+# Checksum: MTYwOTIwMzcxMgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201228-7
-# TimeUpdated: 2020-12-28T21:20:08+00:00
+# Version: 1.2.8-20201229-0
+# TimeUpdated: 2020-12-29T01:01:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -4083,8 +4083,10 @@ DOMAIN-SUFFIX,bloomberg.cn,PROXY
 DOMAIN-SUFFIX,bloomberg.co.jp,PROXY
 DOMAIN-SUFFIX,bloomberg.com,PROXY
 DOMAIN-SUFFIX,bloomberg.de,PROXY
+DOMAIN-SUFFIX,bloomberg.fm,PROXY
 DOMAIN-SUFFIX,bloomberg.it,PROXY
 DOMAIN-SUFFIX,bloomberg.net,PROXY
+DOMAIN-SUFFIX,bloomberg.tv,PROXY
 DOMAIN-SUFFIX,bloombergapps.com,PROXY
 DOMAIN-SUFFIX,bloombergarcade.com,PROXY
 DOMAIN-SUFFIX,bloombergbeta.com,PROXY
@@ -4388,6 +4390,7 @@ DOMAIN-SUFFIX,boodigo.com,PROXY
 DOMAIN-SUFFIX,book.com.tw,PROXY
 DOMAIN-SUFFIX,book.zi5.me,PROXY
 DOMAIN-SUFFIX,bookartscentral.com,PROXY
+DOMAIN-SUFFIX,bookbao8.com,PROXY
 DOMAIN-SUFFIX,bookclubcorner.com,PROXY
 DOMAIN-SUFFIX,bookdepository.com,PROXY
 DOMAIN-SUFFIX,bookepub.com,PROXY
@@ -4745,6 +4748,7 @@ DOMAIN-SUFFIX,bway885056.com,PROXY
 DOMAIN-SUFFIX,bway88725.com,PROXY
 DOMAIN-SUFFIX,bway889.com,PROXY
 DOMAIN-SUFFIX,bway995.com,PROXY
+DOMAIN-SUFFIX,bwbx.io,PROXY
 DOMAIN-SUFFIX,bwei88.com,PROXY
 DOMAIN-SUFFIX,bwgyhw.com,PROXY
 DOMAIN-SUFFIX,bwh1.net,PROXY
@@ -7867,7 +7871,9 @@ DOMAIN-SUFFIX,eslite.com,PROXY
 DOMAIN-SUFFIX,esmatube.com,PROXY
 DOMAIN-SUFFIX,esmtp.biz,PROXY
 DOMAIN-SUFFIX,espn.com,PROXY
+DOMAIN-SUFFIX,espn.net,PROXY
 DOMAIN-SUFFIX,espncdn.com,PROXY
+DOMAIN-SUFFIX,espnqa.com,PROXY
 DOMAIN-SUFFIX,esri.com,PROXY
 DOMAIN-SUFFIX,est-a-la-masion.com,PROXY
 DOMAIN-SUFFIX,est-le-patron.com,PROXY
@@ -8375,7 +8381,6 @@ DOMAIN-SUFFIX,fanatical.com,PROXY
 DOMAIN-SUFFIX,fandango.com,PROXY
 DOMAIN-SUFFIX,fandiingah.com,PROXY
 DOMAIN-SUFFIX,fandom.com,PROXY
-DOMAIN-SUFFIX,fandom.zendesk.com,PROXY
 DOMAIN-SUFFIX,fanfictio.net,PROXY
 DOMAIN-SUFFIX,fangeqiang.com,PROXY
 DOMAIN-SUFFIX,fanglizhi.info,PROXY
@@ -9735,8 +9740,12 @@ DOMAIN-SUFFIX,gets-it.net,PROXY
 DOMAIN-SUFFIX,getsocialscope.com,PROXY
 DOMAIN-SUFFIX,getsync.com,PROXY
 DOMAIN-SUFFIX,gettrials.com,PROXY
+DOMAIN-SUFFIX,gettyimages.be,PROXY
+DOMAIN-SUFFIX,gettyimages.ch,PROXY
 DOMAIN-SUFFIX,gettyimages.com,PROXY
 DOMAIN-SUFFIX,gettyimages.hk,PROXY
+DOMAIN-SUFFIX,gettyimages.it,PROXY
+DOMAIN-SUFFIX,gettyimages.pt,PROXY
 DOMAIN-SUFFIX,getukvpn.com,PROXY
 DOMAIN-SUFFIX,getuploader.com,PROXY
 DOMAIN-SUFFIX,getwiki.org,PROXY
@@ -9809,7 +9818,6 @@ DOMAIN-SUFFIX,git-scm.com,PROXY
 DOMAIN-SUFFIX,git.io,PROXY
 DOMAIN-SUFFIX,gitbook.com,PROXY
 DOMAIN-SUFFIX,gitbook.io,PROXY
-DOMAIN-SUFFIX,gitbook.zendesk.com,PROXY
 DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,PROXY
 DOMAIN-SUFFIX,github.blog,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
@@ -10287,6 +10295,7 @@ DOMAIN-SUFFIX,gotcosmos.com,PROXY
 DOMAIN-SUFFIX,gotdns.ch,PROXY
 DOMAIN-SUFFIX,gotgeeks.com,PROXY
 DOMAIN-SUFFIX,gotporn.com,PROXY
+DOMAIN-SUFFIX,gotraffic.net,PROXY
 DOMAIN-SUFFIX,gotrusted.com,PROXY
 DOMAIN-SUFFIX,gotv.ctitv.com.tw,PROXY
 DOMAIN-SUFFIX,gotw.ca,PROXY
@@ -16193,6 +16202,7 @@ DOMAIN-SUFFIX,oursweb.net,PROXY
 DOMAIN-SUFFIX,ourtv.hk,PROXY
 DOMAIN-SUFFIX,ourworldindata.org,PROXY
 DOMAIN-SUFFIX,ourxxtv.com,PROXY
+DOMAIN-SUFFIX,outbound.io,PROXY
 DOMAIN-SUFFIX,outingsapp.com,PROXY
 DOMAIN-SUFFIX,outletbeatsshop.com,PROXY
 DOMAIN-SUFFIX,outletnike.com,PROXY
@@ -17567,6 +17577,7 @@ DOMAIN-SUFFIX,quexv.com,PROXY
 DOMAIN-SUFFIX,quicinc.com,PROXY
 DOMAIN-SUFFIX,quicken.com,PROXY
 DOMAIN-SUFFIX,quickoffice.com,PROXY
+DOMAIN-SUFFIX,quicktake.video,PROXY
 DOMAIN-SUFFIX,quicktime.cc,PROXY
 DOMAIN-SUFFIX,quicktime.com,PROXY
 DOMAIN-SUFFIX,quicktime.net,PROXY
@@ -19765,6 +19776,7 @@ DOMAIN-SUFFIX,taiwanyes.com,PROXY
 DOMAIN-SUFFIX,taiwanyes.ning.com,PROXY
 DOMAIN-SUFFIX,take2games.com,PROXY
 DOMAIN-SUFFIX,takeafile.com,PROXY
+DOMAIN-SUFFIX,takegoto.com,PROXY
 DOMAIN-SUFFIX,talesofwisdom.com,PROXY
 DOMAIN-SUFFIX,talk853.com,PROXY
 DOMAIN-SUFFIX,talk910.com,PROXY
@@ -20319,6 +20331,7 @@ DOMAIN-SUFFIX,tiburon.com,PROXY
 DOMAIN-SUFFIX,ticket.com.tw,PROXY
 DOMAIN-SUFFIX,ticketmonster.co.kr,PROXY
 DOMAIN-SUFFIX,tickling-videos.com,PROXY
+DOMAIN-SUFFIX,tictoc.video,PROXY
 DOMAIN-SUFFIX,tidebit.com,PROXY
 DOMAIN-SUFFIX,tidelift.com,PROXY
 DOMAIN-SUFFIX,tidex.com,PROXY
@@ -23720,7 +23733,6 @@ DOMAIN-SUFFIX,www.cilifeng.me,PROXY
 DOMAIN-SUFFIX,www.cimp-paris.fr,PROXY
 DOMAIN-SUFFIX,www.cincainews.com,PROXY
 DOMAIN-SUFFIX,www.cite.com.tw,PROXY
-DOMAIN-SUFFIX,www.citizenlab.org,PROXY
 DOMAIN-SUFFIX,www.citizensradio.org,PROXY
 DOMAIN-SUFFIX,www.citizenvpn.com,PROXY
 DOMAIN-SUFFIX,www.citizenvpn.dk,PROXY
@@ -27462,6 +27474,7 @@ DOMAIN-SUFFIX,zcssr.com,PROXY
 DOMAIN-SUFFIX,zdbwoet.com,PROXY
 DOMAIN-SUFFIX,zdnet.com,PROXY
 DOMAIN-SUFFIX,zdnet.com.tw,PROXY
+DOMAIN-SUFFIX,zdusercontent.com,PROXY
 DOMAIN-SUFFIX,zdx.in,PROXY
 DOMAIN-SUFFIX,zebnet.coloraccounting.com,PROXY
 DOMAIN-SUFFIX,zedge.com,PROXY
@@ -27483,6 +27496,7 @@ DOMAIN-SUFFIX,zeitworld.com,PROXY
 DOMAIN-SUFFIX,zello.com,PROXY
 DOMAIN-SUFFIX,zen.nctu.me,PROXY
 DOMAIN-SUFFIX,zend2.com,PROXY
+DOMAIN-SUFFIX,zendesk.com,PROXY
 DOMAIN-SUFFIX,zendproxy.com,PROXY
 DOMAIN-SUFFIX,zengjinyan.org,PROXY
 DOMAIN-SUFFIX,zenguard.org,PROXY
@@ -27581,6 +27595,7 @@ DOMAIN-SUFFIX,zjeban.si,PROXY
 DOMAIN-SUFFIX,zkiz.com,PROXY
 DOMAIN-SUFFIX,zkoxv.com,PROXY
 DOMAIN-SUFFIX,zmw.cn,PROXY
+DOMAIN-SUFFIX,zndsk.com,PROXY
 DOMAIN-SUFFIX,zneth.com,PROXY
 DOMAIN-SUFFIX,znetlive.com,PROXY
 DOMAIN-SUFFIX,znzx12345.ga,PROXY
@@ -27612,6 +27627,7 @@ DOMAIN-SUFFIX,zooshock.com,PROXY
 DOMAIN-SUFFIX,zootool.com,PROXY
 DOMAIN-SUFFIX,zoozle.net,PROXY
 DOMAIN-SUFFIX,zophar.net,PROXY
+DOMAIN-SUFFIX,zopim.com,PROXY
 DOMAIN-SUFFIX,zorpia.com,PROXY
 DOMAIN-SUFFIX,zorrovpn.com,PROXY
 DOMAIN-SUFFIX,zp1024.cc,PROXY

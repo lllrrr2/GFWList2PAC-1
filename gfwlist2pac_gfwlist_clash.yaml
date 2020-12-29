@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTE5MDQwOAo=
+# Checksum: MTYwOTIwMzcxMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201228-7
-# TimeUpdated: 2020-12-28T21:20:08+00:00
+# Version: 1.2.8-20201229-0
+# TimeUpdated: 2020-12-29T01:01:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4084,8 +4084,10 @@ payload:
   - DOMAIN-SUFFIX,bloomberg.co.jp
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,bloomberg.de
+  - DOMAIN-SUFFIX,bloomberg.fm
   - DOMAIN-SUFFIX,bloomberg.it
   - DOMAIN-SUFFIX,bloomberg.net
+  - DOMAIN-SUFFIX,bloomberg.tv
   - DOMAIN-SUFFIX,bloombergapps.com
   - DOMAIN-SUFFIX,bloombergarcade.com
   - DOMAIN-SUFFIX,bloombergbeta.com
@@ -4389,6 +4391,7 @@ payload:
   - DOMAIN-SUFFIX,book.com.tw
   - DOMAIN-SUFFIX,book.zi5.me
   - DOMAIN-SUFFIX,bookartscentral.com
+  - DOMAIN-SUFFIX,bookbao8.com
   - DOMAIN-SUFFIX,bookclubcorner.com
   - DOMAIN-SUFFIX,bookdepository.com
   - DOMAIN-SUFFIX,bookepub.com
@@ -4746,6 +4749,7 @@ payload:
   - DOMAIN-SUFFIX,bway88725.com
   - DOMAIN-SUFFIX,bway889.com
   - DOMAIN-SUFFIX,bway995.com
+  - DOMAIN-SUFFIX,bwbx.io
   - DOMAIN-SUFFIX,bwei88.com
   - DOMAIN-SUFFIX,bwgyhw.com
   - DOMAIN-SUFFIX,bwh1.net
@@ -7868,7 +7872,9 @@ payload:
   - DOMAIN-SUFFIX,esmatube.com
   - DOMAIN-SUFFIX,esmtp.biz
   - DOMAIN-SUFFIX,espn.com
+  - DOMAIN-SUFFIX,espn.net
   - DOMAIN-SUFFIX,espncdn.com
+  - DOMAIN-SUFFIX,espnqa.com
   - DOMAIN-SUFFIX,esri.com
   - DOMAIN-SUFFIX,est-a-la-masion.com
   - DOMAIN-SUFFIX,est-le-patron.com
@@ -8376,7 +8382,6 @@ payload:
   - DOMAIN-SUFFIX,fandango.com
   - DOMAIN-SUFFIX,fandiingah.com
   - DOMAIN-SUFFIX,fandom.com
-  - DOMAIN-SUFFIX,fandom.zendesk.com
   - DOMAIN-SUFFIX,fanfictio.net
   - DOMAIN-SUFFIX,fangeqiang.com
   - DOMAIN-SUFFIX,fanglizhi.info
@@ -9736,8 +9741,12 @@ payload:
   - DOMAIN-SUFFIX,getsocialscope.com
   - DOMAIN-SUFFIX,getsync.com
   - DOMAIN-SUFFIX,gettrials.com
+  - DOMAIN-SUFFIX,gettyimages.be
+  - DOMAIN-SUFFIX,gettyimages.ch
   - DOMAIN-SUFFIX,gettyimages.com
   - DOMAIN-SUFFIX,gettyimages.hk
+  - DOMAIN-SUFFIX,gettyimages.it
+  - DOMAIN-SUFFIX,gettyimages.pt
   - DOMAIN-SUFFIX,getukvpn.com
   - DOMAIN-SUFFIX,getuploader.com
   - DOMAIN-SUFFIX,getwiki.org
@@ -9810,7 +9819,6 @@ payload:
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
-  - DOMAIN-SUFFIX,gitbook.zendesk.com
   - DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com
   - DOMAIN-SUFFIX,github.blog
   - DOMAIN-SUFFIX,github.com
@@ -10288,6 +10296,7 @@ payload:
   - DOMAIN-SUFFIX,gotdns.ch
   - DOMAIN-SUFFIX,gotgeeks.com
   - DOMAIN-SUFFIX,gotporn.com
+  - DOMAIN-SUFFIX,gotraffic.net
   - DOMAIN-SUFFIX,gotrusted.com
   - DOMAIN-SUFFIX,gotv.ctitv.com.tw
   - DOMAIN-SUFFIX,gotw.ca
@@ -16194,6 +16203,7 @@ payload:
   - DOMAIN-SUFFIX,ourtv.hk
   - DOMAIN-SUFFIX,ourworldindata.org
   - DOMAIN-SUFFIX,ourxxtv.com
+  - DOMAIN-SUFFIX,outbound.io
   - DOMAIN-SUFFIX,outingsapp.com
   - DOMAIN-SUFFIX,outletbeatsshop.com
   - DOMAIN-SUFFIX,outletnike.com
@@ -17568,6 +17578,7 @@ payload:
   - DOMAIN-SUFFIX,quicinc.com
   - DOMAIN-SUFFIX,quicken.com
   - DOMAIN-SUFFIX,quickoffice.com
+  - DOMAIN-SUFFIX,quicktake.video
   - DOMAIN-SUFFIX,quicktime.cc
   - DOMAIN-SUFFIX,quicktime.com
   - DOMAIN-SUFFIX,quicktime.net
@@ -19766,6 +19777,7 @@ payload:
   - DOMAIN-SUFFIX,taiwanyes.ning.com
   - DOMAIN-SUFFIX,take2games.com
   - DOMAIN-SUFFIX,takeafile.com
+  - DOMAIN-SUFFIX,takegoto.com
   - DOMAIN-SUFFIX,talesofwisdom.com
   - DOMAIN-SUFFIX,talk853.com
   - DOMAIN-SUFFIX,talk910.com
@@ -20320,6 +20332,7 @@ payload:
   - DOMAIN-SUFFIX,ticket.com.tw
   - DOMAIN-SUFFIX,ticketmonster.co.kr
   - DOMAIN-SUFFIX,tickling-videos.com
+  - DOMAIN-SUFFIX,tictoc.video
   - DOMAIN-SUFFIX,tidebit.com
   - DOMAIN-SUFFIX,tidelift.com
   - DOMAIN-SUFFIX,tidex.com
@@ -23721,7 +23734,6 @@ payload:
   - DOMAIN-SUFFIX,www.cimp-paris.fr
   - DOMAIN-SUFFIX,www.cincainews.com
   - DOMAIN-SUFFIX,www.cite.com.tw
-  - DOMAIN-SUFFIX,www.citizenlab.org
   - DOMAIN-SUFFIX,www.citizensradio.org
   - DOMAIN-SUFFIX,www.citizenvpn.com
   - DOMAIN-SUFFIX,www.citizenvpn.dk
@@ -27463,6 +27475,7 @@ payload:
   - DOMAIN-SUFFIX,zdbwoet.com
   - DOMAIN-SUFFIX,zdnet.com
   - DOMAIN-SUFFIX,zdnet.com.tw
+  - DOMAIN-SUFFIX,zdusercontent.com
   - DOMAIN-SUFFIX,zdx.in
   - DOMAIN-SUFFIX,zebnet.coloraccounting.com
   - DOMAIN-SUFFIX,zedge.com
@@ -27484,6 +27497,7 @@ payload:
   - DOMAIN-SUFFIX,zello.com
   - DOMAIN-SUFFIX,zen.nctu.me
   - DOMAIN-SUFFIX,zend2.com
+  - DOMAIN-SUFFIX,zendesk.com
   - DOMAIN-SUFFIX,zendproxy.com
   - DOMAIN-SUFFIX,zengjinyan.org
   - DOMAIN-SUFFIX,zenguard.org
@@ -27582,6 +27596,7 @@ payload:
   - DOMAIN-SUFFIX,zkiz.com
   - DOMAIN-SUFFIX,zkoxv.com
   - DOMAIN-SUFFIX,zmw.cn
+  - DOMAIN-SUFFIX,zndsk.com
   - DOMAIN-SUFFIX,zneth.com
   - DOMAIN-SUFFIX,znetlive.com
   - DOMAIN-SUFFIX,znzx12345.ga
@@ -27613,6 +27628,7 @@ payload:
   - DOMAIN-SUFFIX,zootool.com
   - DOMAIN-SUFFIX,zoozle.net
   - DOMAIN-SUFFIX,zophar.net
+  - DOMAIN-SUFFIX,zopim.com
   - DOMAIN-SUFFIX,zorpia.com
   - DOMAIN-SUFFIX,zorrovpn.com
   - DOMAIN-SUFFIX,zp1024.cc
