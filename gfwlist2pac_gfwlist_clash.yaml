@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTIwMzcxMgo=
+# Checksum: MTYwOTIxMjcyOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.8-20201229-0
-# TimeUpdated: 2020-12-29T01:01:52+00:00
+# Version: 1.2.8-20201229-1
+# TimeUpdated: 2020-12-29T03:32:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4084,7 +4084,6 @@ payload:
   - DOMAIN-SUFFIX,bloomberg.co.jp
   - DOMAIN-SUFFIX,bloomberg.com
   - DOMAIN-SUFFIX,bloomberg.de
-  - DOMAIN-SUFFIX,bloomberg.fm
   - DOMAIN-SUFFIX,bloomberg.it
   - DOMAIN-SUFFIX,bloomberg.net
   - DOMAIN-SUFFIX,bloomberg.tv
@@ -4391,7 +4390,6 @@ payload:
   - DOMAIN-SUFFIX,book.com.tw
   - DOMAIN-SUFFIX,book.zi5.me
   - DOMAIN-SUFFIX,bookartscentral.com
-  - DOMAIN-SUFFIX,bookbao8.com
   - DOMAIN-SUFFIX,bookclubcorner.com
   - DOMAIN-SUFFIX,bookdepository.com
   - DOMAIN-SUFFIX,bookepub.com
@@ -10296,7 +10294,6 @@ payload:
   - DOMAIN-SUFFIX,gotdns.ch
   - DOMAIN-SUFFIX,gotgeeks.com
   - DOMAIN-SUFFIX,gotporn.com
-  - DOMAIN-SUFFIX,gotraffic.net
   - DOMAIN-SUFFIX,gotrusted.com
   - DOMAIN-SUFFIX,gotv.ctitv.com.tw
   - DOMAIN-SUFFIX,gotw.ca
@@ -27596,7 +27593,6 @@ payload:
   - DOMAIN-SUFFIX,zkiz.com
   - DOMAIN-SUFFIX,zkoxv.com
   - DOMAIN-SUFFIX,zmw.cn
-  - DOMAIN-SUFFIX,zndsk.com
   - DOMAIN-SUFFIX,zneth.com
   - DOMAIN-SUFFIX,znetlive.com
   - DOMAIN-SUFFIX,znzx12345.ga

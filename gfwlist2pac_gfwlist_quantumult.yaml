@@ -1,7 +1,7 @@
-# Checksum: MTYwOTIwMzcxMgo=
+# Checksum: MTYwOTIxMjcyOQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.8-20201229-0
-# TimeUpdated: 2020-12-29T01:01:52+00:00
+# Version: 1.2.8-20201229-1
+# TimeUpdated: 2020-12-29T03:32:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -4083,7 +4083,6 @@ DOMAIN-SUFFIX,bloomberg.cn,PROXY
 DOMAIN-SUFFIX,bloomberg.co.jp,PROXY
 DOMAIN-SUFFIX,bloomberg.com,PROXY
 DOMAIN-SUFFIX,bloomberg.de,PROXY
-DOMAIN-SUFFIX,bloomberg.fm,PROXY
 DOMAIN-SUFFIX,bloomberg.it,PROXY
 DOMAIN-SUFFIX,bloomberg.net,PROXY
 DOMAIN-SUFFIX,bloomberg.tv,PROXY
@@ -4390,7 +4389,6 @@ DOMAIN-SUFFIX,boodigo.com,PROXY
 DOMAIN-SUFFIX,book.com.tw,PROXY
 DOMAIN-SUFFIX,book.zi5.me,PROXY
 DOMAIN-SUFFIX,bookartscentral.com,PROXY
-DOMAIN-SUFFIX,bookbao8.com,PROXY
 DOMAIN-SUFFIX,bookclubcorner.com,PROXY
 DOMAIN-SUFFIX,bookdepository.com,PROXY
 DOMAIN-SUFFIX,bookepub.com,PROXY
@@ -10295,7 +10293,6 @@ DOMAIN-SUFFIX,gotcosmos.com,PROXY
 DOMAIN-SUFFIX,gotdns.ch,PROXY
 DOMAIN-SUFFIX,gotgeeks.com,PROXY
 DOMAIN-SUFFIX,gotporn.com,PROXY
-DOMAIN-SUFFIX,gotraffic.net,PROXY
 DOMAIN-SUFFIX,gotrusted.com,PROXY
 DOMAIN-SUFFIX,gotv.ctitv.com.tw,PROXY
 DOMAIN-SUFFIX,gotw.ca,PROXY
@@ -27595,7 +27592,6 @@ DOMAIN-SUFFIX,zjeban.si,PROXY
 DOMAIN-SUFFIX,zkiz.com,PROXY
 DOMAIN-SUFFIX,zkoxv.com,PROXY
 DOMAIN-SUFFIX,zmw.cn,PROXY
-DOMAIN-SUFFIX,zndsk.com,PROXY
 DOMAIN-SUFFIX,zneth.com,PROXY
 DOMAIN-SUFFIX,znetlive.com,PROXY
 DOMAIN-SUFFIX,znzx12345.ga,PROXY
