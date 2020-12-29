@@ -1,7 +1,7 @@
-# Checksum: MTYwOTIzNDE0Mgo=
+# Checksum: MTYwOTI0NTA0Mgo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20201229-3
-# TimeUpdated: 2020-12-29T09:29:02+00:00
+# Version: 1.2.9-20201229-4
+# TimeUpdated: 2020-12-29T12:30:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -442,7 +442,6 @@ DOMAIN-SUFFIX,0577home.net,DIRECT
 DOMAIN-SUFFIX,0577hr.com,DIRECT
 DOMAIN-SUFFIX,0577qiche.com,DIRECT
 DOMAIN-SUFFIX,0578rencai.com,DIRECT
-DOMAIN-SUFFIX,0579dm.com,DIRECT
 DOMAIN-SUFFIX,0579fw.com,DIRECT
 DOMAIN-SUFFIX,0591job.com,DIRECT
 DOMAIN-SUFFIX,05927.com,DIRECT
@@ -7702,7 +7701,6 @@ DOMAIN-SUFFIX,analytics-china.com,DIRECT
 DOMAIN-SUFFIX,analyticskey.com,DIRECT
 DOMAIN-SUFFIX,anandoor.com,DIRECT
 DOMAIN-SUFFIX,ananzu.com,DIRECT
-DOMAIN-SUFFIX,anatuprak.com,DIRECT
 DOMAIN-SUFFIX,anav.com,DIRECT
 DOMAIN-SUFFIX,anbanggroup.com,DIRECT
 DOMAIN-SUFFIX,anchi-china.com,DIRECT
@@ -40173,6 +40171,7 @@ DOMAIN-SUFFIX,raythonsoft.com,DIRECT
 DOMAIN-SUFFIX,raytoon.net,DIRECT
 DOMAIN-SUFFIX,rayuu.com,DIRECT
 DOMAIN-SUFFIX,rayyo.com,DIRECT
+DOMAIN-SUFFIX,rayyzx.com,DIRECT
 DOMAIN-SUFFIX,razifredz.com,DIRECT
 DOMAIN-SUFFIX,razon.xyz,DIRECT
 DOMAIN-SUFFIX,razrlele.com,DIRECT

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTIzNDE0Mgo=
+# Checksum: MTYwOTI0NTA0Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201229-3
-# TimeUpdated: 2020-12-29T09:29:02+00:00
+# Version: 1.2.9-20201229-4
+# TimeUpdated: 2020-12-29T12:30:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -442,7 +442,6 @@ domain:0577home.net,
 domain:0577hr.com,
 domain:0577qiche.com,
 domain:0578rencai.com,
-domain:0579dm.com,
 domain:0579fw.com,
 domain:0591job.com,
 domain:05927.com,
@@ -7702,7 +7701,6 @@ domain:analytics-china.com,
 domain:analyticskey.com,
 domain:anandoor.com,
 domain:ananzu.com,
-domain:anatuprak.com,
 domain:anav.com,
 domain:anbanggroup.com,
 domain:anchi-china.com,
@@ -40173,6 +40171,7 @@ domain:raythonsoft.com,
 domain:raytoon.net,
 domain:rayuu.com,
 domain:rayyo.com,
+domain:rayyzx.com,
 domain:razifredz.com,
 domain:razon.xyz,
 domain:razrlele.com,
