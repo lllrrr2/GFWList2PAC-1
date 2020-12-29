@@ -1,7 +1,7 @@
-# Checksum: MTYwOTI2NzQ0MAo=
+# Checksum: MTYwOTI3Njg3MAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20201229-6
-# TimeUpdated: 2020-12-29T18:44:00+00:00
+# Version: 1.2.9-20201229-7
+# TimeUpdated: 2020-12-29T21:21:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -463,7 +463,6 @@ DOMAIN-SUFFIX,05bk.com
 DOMAIN-SUFFIX,05info.com
 DOMAIN-SUFFIX,05vm.com
 DOMAIN-SUFFIX,05wan.com
-DOMAIN-SUFFIX,062616.com
 DOMAIN-SUFFIX,063108.com
 DOMAIN-SUFFIX,0632idc.com
 DOMAIN-SUFFIX,0634.com
@@ -8582,7 +8581,6 @@ DOMAIN-SUFFIX,azcatl-tezozomoc.com
 DOMAIN-SUFFIX,azfashao.com
 DOMAIN-SUFFIX,azg168.com
 DOMAIN-SUFFIX,azhituo.com
-DOMAIN-SUFFIX,azme-contractors.com
 DOMAIN-SUFFIX,azonvo.com
 DOMAIN-SUFFIX,azooo.com
 DOMAIN-SUFFIX,azoyacdn.com
@@ -12594,7 +12592,6 @@ DOMAIN-SUFFIX,chinahbnet.com
 DOMAIN-SUFFIX,chinahhmm.com
 DOMAIN-SUFFIX,chinahightech.com
 DOMAIN-SUFFIX,chinahkidc.net
-DOMAIN-SUFFIX,chinahlwyy.com
 DOMAIN-SUFFIX,chinahnjs.com
 DOMAIN-SUFFIX,chinahosin.com
 DOMAIN-SUFFIX,chinahost.org
@@ -13057,7 +13054,6 @@ DOMAIN-SUFFIX,chuangyejia.vip
 DOMAIN-SUFFIX,chuangyejian.com
 DOMAIN-SUFFIX,chuangyejmw.com
 DOMAIN-SUFFIX,chuangyemeng.com
-DOMAIN-SUFFIX,chuangyepu.com
 DOMAIN-SUFFIX,chuangyijisu.com
 DOMAIN-SUFFIX,chuangyouqi.com
 DOMAIN-SUFFIX,chuangzaoshi.com
@@ -15717,6 +15713,7 @@ DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,dbankcloud.com
 DOMAIN-SUFFIX,dbbqb.com
 DOMAIN-SUFFIX,dbccv.com
+DOMAIN-SUFFIX,dbcsq.com
 DOMAIN-SUFFIX,dbcxz1.com
 DOMAIN-SUFFIX,dbcxz1.net
 DOMAIN-SUFFIX,dbdna.com
@@ -22176,6 +22173,7 @@ DOMAIN-SUFFIX,gzif.net
 DOMAIN-SUFFIX,gzittc.net
 DOMAIN-SUFFIX,gzitw.net
 DOMAIN-SUFFIX,gzjingsha.com
+DOMAIN-SUFFIX,gzjisikj.com
 DOMAIN-SUFFIX,gzjpad.com
 DOMAIN-SUFFIX,gzjtjx.com
 DOMAIN-SUFFIX,gzjtjy.com
@@ -32341,6 +32339,7 @@ DOMAIN-SUFFIX,lmwljz.com
 DOMAIN-SUFFIX,lmxy521.com
 DOMAIN-SUFFIX,ln2car.com
 DOMAIN-SUFFIX,lncldapi.com
+DOMAIN-SUFFIX,lndhdx.com
 DOMAIN-SUFFIX,lndzxy.com
 DOMAIN-SUFFIX,lnemci.com
 DOMAIN-SUFFIX,lnest.com
@@ -35469,6 +35468,7 @@ DOMAIN-SUFFIX,myptpt.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myqee.com
 DOMAIN-SUFFIX,myqiantu.com
+DOMAIN-SUFFIX,myqqjd.com
 DOMAIN-SUFFIX,myqzd.com
 DOMAIN-SUFFIX,myra2.com
 DOMAIN-SUFFIX,myrb.net
@@ -36940,7 +36940,6 @@ DOMAIN-SUFFIX,onev.cat
 DOMAIN-SUFFIX,onevcat.com
 DOMAIN-SUFFIX,oneway.mobi
 DOMAIN-SUFFIX,onewrt.com
-DOMAIN-SUFFIX,onewsvod.com
 DOMAIN-SUFFIX,onex.im
 DOMAIN-SUFFIX,onexinli.com
 DOMAIN-SUFFIX,onexmail.com
@@ -47619,6 +47618,7 @@ DOMAIN-SUFFIX,uzhongtou.com
 DOMAIN-SUFFIX,uzing.net
 DOMAIN-SUFFIX,uzise.com
 DOMAIN-SUFFIX,uzones.com
+DOMAIN-SUFFIX,uzshare.com
 DOMAIN-SUFFIX,uzuzuz.com
 DOMAIN-SUFFIX,uzzf.com
 DOMAIN-SUFFIX,v-56.com
