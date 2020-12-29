@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.2.8
+# Current Version: 1.2.9
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/GFWList2PAC.git" && bash ./GFWList2PAC/release.sh
@@ -63,7 +63,7 @@ function GenerateHeaderInformation() {
         echo "[General]" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "bypass-system = true" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "bypass-tun = 10.0.0.0/8, 127.0.0.0/8, 169.254.0.0/16, 172.16.0.0/12, 192.0.0.0/24, 192.0.2.0/24, 192.88.99.0/24, 192.168.0.0/16, 198.18.0.0/15, 198.51.100.0/24, 203.0.113.0/24, 224.0.0.0/4, 240.0.0.0/4, 255.255.255.255/32" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
-        echo "dns-server = https://dns.alidns.com/dns-query, https://dns.pub/dns-query" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
+        echo "dns-server = https://dns.alidns.com/dns-query, https://doh.pub/dns-query" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "ipv6 = true" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "skip-proxy = 10.0.0.0/8, 172.16.0.0/12, 192.168.0.0/16, localhost, *.local" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
         echo "[Rule]" >> ../gfwlist2pac_${cnacc_gfwlist}_shadowrocket.conf
