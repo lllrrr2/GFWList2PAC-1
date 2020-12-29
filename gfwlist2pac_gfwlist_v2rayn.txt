@@ -1,7 +1,7 @@
-# Checksum: MTYwOTIyNTA0MQo=
+# Checksum: MTYwOTIzNDE1MAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20201229-2
-# TimeUpdated: 2020-12-29T06:57:21+00:00
+# Version: 1.2.9-20201229-3
+# TimeUpdated: 2020-12-29T09:29:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -2183,6 +2183,7 @@ domain:amazonvideodirect.com,
 domain:amazonworkdocs.com,
 domain:ambit.chat,
 domain:ambitvpn.com,
+domain:ambjl01.com,
 domain:ambjl02.com,
 domain:ambjl04.com,
 domain:amcas.org,

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTIyNTAzMgo=
+# Checksum: MTYwOTIzNDE0Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201229-2
-# TimeUpdated: 2020-12-29T06:57:12+00:00
+# Version: 1.2.9-20201229-3
+# TimeUpdated: 2020-12-29T09:29:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -13,6 +13,7 @@ domain:0008887.com,
 domain:000wx.com,
 domain:001133.app,
 domain:001cndc.com,
+domain:001d.com,
 domain:001daima.com,
 domain:001en.com,
 domain:001job.com,
@@ -2348,7 +2349,6 @@ domain:2r3r.com,
 domain:2r9qgy.com,
 domain:2s.tv,
 domain:2seachbusiness.com,
-domain:2shequ.com,
 domain:2shoujie.com,
 domain:2shu8.cc,
 domain:2sitebbs.com,
@@ -39692,6 +39692,7 @@ domain:qssec.com,
 domain:qsstone.com,
 domain:qstbg.com,
 domain:qstsking.com,
+domain:qsuake.com,
 domain:qsw.la,
 domain:qsw520.com,
 domain:qsw521.com,

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTIyNTA0MQo=
+# Checksum: MTYwOTIzNDE1MAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20201229-2
-# TimeUpdated: 2020-12-29T06:57:21+00:00
+# Version: 1.2.9-20201229-3
+# TimeUpdated: 2020-12-29T09:29:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2183,6 +2183,7 @@ DOMAIN-SUFFIX,amazonvideodirect.com,PROXY
 DOMAIN-SUFFIX,amazonworkdocs.com,PROXY
 DOMAIN-SUFFIX,ambit.chat,PROXY
 DOMAIN-SUFFIX,ambitvpn.com,PROXY
+DOMAIN-SUFFIX,ambjl01.com,PROXY
 DOMAIN-SUFFIX,ambjl02.com,PROXY
 DOMAIN-SUFFIX,ambjl04.com,PROXY
 DOMAIN-SUFFIX,amcas.org,PROXY
