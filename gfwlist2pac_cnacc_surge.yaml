@@ -1,7 +1,7 @@
-# Checksum: MTYwOTI0NTA0Mgo=
+# Checksum: MTYwOTI1NTM5Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20201229-4
-# TimeUpdated: 2020-12-29T12:30:42+00:00
+# Version: 1.2.9-20201229-5
+# TimeUpdated: 2020-12-29T15:23:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1594,6 +1594,7 @@ DOMAIN-SUFFIX,17yc.com
 DOMAIN-SUFFIX,17ym.org
 DOMAIN-SUFFIX,17you.com
 DOMAIN-SUFFIX,17yucai.com
+DOMAIN-SUFFIX,17yue.me
 DOMAIN-SUFFIX,17yund.com
 DOMAIN-SUFFIX,17yy.com
 DOMAIN-SUFFIX,17yyba.com
@@ -1849,7 +1850,6 @@ DOMAIN-SUFFIX,1y.com
 DOMAIN-SUFFIX,1y0g.com
 DOMAIN-SUFFIX,1y2y.com
 DOMAIN-SUFFIX,1yabc.com
-DOMAIN-SUFFIX,1yb.co
 DOMAIN-SUFFIX,1yee.com
 DOMAIN-SUFFIX,1ykh.com
 DOMAIN-SUFFIX,1yuanzheng.com
@@ -1889,6 +1889,7 @@ DOMAIN-SUFFIX,2012ccfa.com
 DOMAIN-SUFFIX,2013xp.com
 DOMAIN-SUFFIX,2014w7.com
 DOMAIN-SUFFIX,201551.com
+DOMAIN-SUFFIX,2015huo.com
 DOMAIN-SUFFIX,2016ruanwen.com
 DOMAIN-SUFFIX,2016win10.com
 DOMAIN-SUFFIX,2016y.com
@@ -2604,7 +2605,6 @@ DOMAIN-SUFFIX,35tyc.com
 DOMAIN-SUFFIX,35vvv.com
 DOMAIN-SUFFIX,35zw.com
 DOMAIN-SUFFIX,35zww.com
-DOMAIN-SUFFIX,360-bo.cc
 DOMAIN-SUFFIX,360-bo.tv
 DOMAIN-SUFFIX,360-g.net
 DOMAIN-SUFFIX,360-game.net
@@ -2981,7 +2981,6 @@ DOMAIN-SUFFIX,3eyes.org
 DOMAIN-SUFFIX,3f-house.com
 DOMAIN-SUFFIX,3fang.com
 DOMAIN-SUFFIX,3fantizi.com
-DOMAIN-SUFFIX,3g210.com
 DOMAIN-SUFFIX,3g2win.com
 DOMAIN-SUFFIX,3g3h.org
 DOMAIN-SUFFIX,3g518.com
@@ -10294,7 +10293,6 @@ DOMAIN-SUFFIX,bluelettercn.org
 DOMAIN-SUFFIX,bluelightfuse.com
 DOMAIN-SUFFIX,bluelive.me
 DOMAIN-SUFFIX,blueplus.cc
-DOMAIN-SUFFIX,blueriiver-eu.com
 DOMAIN-SUFFIX,bluesdream.com
 DOMAIN-SUFFIX,blueshow.net
 DOMAIN-SUFFIX,blueskykong.com
@@ -25719,6 +25717,7 @@ DOMAIN-SUFFIX,ictest8.com
 DOMAIN-SUFFIX,ictk-china.com
 DOMAIN-SUFFIX,ictlce.com
 DOMAIN-SUFFIX,ictown.com
+DOMAIN-SUFFIX,ictpaas.com
 DOMAIN-SUFFIX,ictun.com
 DOMAIN-SUFFIX,ictuniv.com
 DOMAIN-SUFFIX,icuiya.com
@@ -30916,6 +30915,7 @@ DOMAIN-SUFFIX,languangdy.com
 DOMAIN-SUFFIX,langya.org
 DOMAIN-SUFFIX,langya3.com
 DOMAIN-SUFFIX,langyabang.com
+DOMAIN-SUFFIX,langyuekt.com
 DOMAIN-SUFFIX,langyuseo.com
 DOMAIN-SUFFIX,langzi.fun
 DOMAIN-SUFFIX,lanhaicaijing.com
