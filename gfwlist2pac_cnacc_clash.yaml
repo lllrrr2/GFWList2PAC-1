@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTMyMDUzNwo=
+# Checksum: MTYwOTMzMTQxOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20201230-3
-# TimeUpdated: 2020-12-30T09:28:57+00:00
+# Version: 1.2.9-20201230-4
+# TimeUpdated: 2020-12-30T12:30:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -357,7 +357,6 @@ payload:
   - DOMAIN-SUFFIX,0460.com
   - DOMAIN-SUFFIX,0470fcw.com
   - DOMAIN-SUFFIX,0472.com
-  - DOMAIN-SUFFIX,0479xx.com
   - DOMAIN-SUFFIX,049pk.com
   - DOMAIN-SUFFIX,051058.com
   - DOMAIN-SUFFIX,0510syedu.com
@@ -2627,6 +2626,7 @@ payload:
   - DOMAIN-SUFFIX,360aiyi.com
   - DOMAIN-SUFFIX,360bifen.net
   - DOMAIN-SUFFIX,360bike.net
+  - DOMAIN-SUFFIX,360byd.com
   - DOMAIN-SUFFIX,360bzl.com
   - DOMAIN-SUFFIX,360caifu.com
   - DOMAIN-SUFFIX,360che.com
@@ -8034,7 +8034,6 @@ payload:
   - DOMAIN-SUFFIX,apkrj.com
   - DOMAIN-SUFFIX,apksc.com
   - DOMAIN-SUFFIX,apkui.com
-  - DOMAIN-SUFFIX,apkway.com
   - DOMAIN-SUFFIX,apkyx.com
   - DOMAIN-SUFFIX,apkzu.com
   - DOMAIN-SUFFIX,aplan.tv
@@ -13564,6 +13563,7 @@ payload:
   - DOMAIN-SUFFIX,cn5135.com
   - DOMAIN-SUFFIX,cn539.com
   - DOMAIN-SUFFIX,cn68.com
+  - DOMAIN-SUFFIX,cn6szx.com
   - DOMAIN-SUFFIX,cn716.com
   - DOMAIN-SUFFIX,cn8118.com
   - DOMAIN-SUFFIX,cn8fre.com
@@ -25718,6 +25718,7 @@ payload:
   - DOMAIN-SUFFIX,ictuniv.com
   - DOMAIN-SUFFIX,icuiya.com
   - DOMAIN-SUFFIX,icver.com
+  - DOMAIN-SUFFIX,icvip.com
   - DOMAIN-SUFFIX,icxbk.com
   - DOMAIN-SUFFIX,icxinli.com
   - DOMAIN-SUFFIX,icy-capital.com
@@ -28186,6 +28187,7 @@ payload:
   - DOMAIN-SUFFIX,jinyindao.com
   - DOMAIN-SUFFIX,jinyinyouhui.com
   - DOMAIN-SUFFIX,jinyong999.com
+  - DOMAIN-SUFFIX,jinyoukai.com
   - DOMAIN-SUFFIX,jinyueya.com
   - DOMAIN-SUFFIX,jinyuzd.cc
   - DOMAIN-SUFFIX,jinzheled.com
@@ -29684,6 +29686,7 @@ payload:
   - DOMAIN-SUFFIX,kaoshishenqi.net
   - DOMAIN-SUFFIX,kaoshizixun.com
   - DOMAIN-SUFFIX,kaowana.com
+  - DOMAIN-SUFFIX,kaowang.com
   - DOMAIN-SUFFIX,kaoyan.com
   - DOMAIN-SUFFIX,kaoyan.org
   - DOMAIN-SUFFIX,kaoyan001.com
@@ -30473,6 +30476,7 @@ payload:
   - DOMAIN-SUFFIX,kuaijiren.com
   - DOMAIN-SUFFIX,kuaijiruanjian.com
   - DOMAIN-SUFFIX,kuaijishizi.com
+  - DOMAIN-SUFFIX,kuaijisishu.com
   - DOMAIN-SUFFIX,kuaijitong.com
   - DOMAIN-SUFFIX,kuaijizheng365.com
   - DOMAIN-SUFFIX,kuaikanmanhua.com
@@ -39253,6 +39257,7 @@ payload:
   - DOMAIN-SUFFIX,qinliancf.com
   - DOMAIN-SUFFIX,qinlina.com
   - DOMAIN-SUFFIX,qinms.com
+  - DOMAIN-SUFFIX,qinpaishu.com
   - DOMAIN-SUFFIX,qinqiang.org
   - DOMAIN-SUFFIX,qinqiaozixun.com
   - DOMAIN-SUFFIX,qinqin.com
@@ -41486,6 +41491,7 @@ payload:
   - DOMAIN-SUFFIX,seedsufe.com
   - DOMAIN-SUFFIX,seedvd.com
   - DOMAIN-SUFFIX,seekbetter.me
+  - DOMAIN-SUFFIX,seekchem.com
   - DOMAIN-SUFFIX,seekfunbook.com
   - DOMAIN-SUFFIX,seekoon.com
   - DOMAIN-SUFFIX,seekpetm.com
@@ -45729,6 +45735,7 @@ payload:
   - DOMAIN-SUFFIX,tiaotiaotang.net
   - DOMAIN-SUFFIX,tiaozhanbei.net
   - DOMAIN-SUFFIX,tiatiatoutiao.com
+  - DOMAIN-SUFFIX,tibaitong.com
   - DOMAIN-SUFFIX,tibet3.com
   - DOMAIN-SUFFIX,tibet4wd.com
   - DOMAIN-SUFFIX,tibet9.com
@@ -51327,6 +51334,7 @@ payload:
   - DOMAIN-SUFFIX,xiaojian.site
   - DOMAIN-SUFFIX,xiaojianjian.net
   - DOMAIN-SUFFIX,xiaojiaoyar.com
+  - DOMAIN-SUFFIX,xiaojiding.com
   - DOMAIN-SUFFIX,xiaojing360.com
   - DOMAIN-SUFFIX,xiaojiuwang.com
   - DOMAIN-SUFFIX,xiaojl.com
@@ -52763,6 +52771,7 @@ payload:
   - DOMAIN-SUFFIX,xwood.net
   - DOMAIN-SUFFIX,xwsj.org
   - DOMAIN-SUFFIX,xwtex.com
+  - DOMAIN-SUFFIX,xwuad.com
   - DOMAIN-SUFFIX,xwxguan.com
   - DOMAIN-SUFFIX,xwyun.net
   - DOMAIN-SUFFIX,xwzc.net
@@ -55261,6 +55270,7 @@ payload:
   - DOMAIN-SUFFIX,yuzhaiwuwang.com
   - DOMAIN-SUFFIX,yuzhaiwuww.com
   - DOMAIN-SUFFIX,yuzhenhai.com
+  - DOMAIN-SUFFIX,yuzhike.com
   - DOMAIN-SUFFIX,yuzhong.net
   - DOMAIN-SUFFIX,yuzhongxxw.com
   - DOMAIN-SUFFIX,yuzhoutuofu.com
