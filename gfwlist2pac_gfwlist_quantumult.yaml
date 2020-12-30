@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM1Mzg0NQo=
+# Checksum: MTYwOTM2MzMxNAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20201230-6
-# TimeUpdated: 2020-12-30T18:44:05+00:00
+# Version: 1.2.9-20201230-7
+# TimeUpdated: 2020-12-30T21:21:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -1850,7 +1850,6 @@ DOMAIN-SUFFIX,aebn.net,PROXY
 DOMAIN-SUFFIX,aemitrapulsa.id,PROXY
 DOMAIN-SUFFIX,aenhancers.com,PROXY
 DOMAIN-SUFFIX,aeriagames.com,PROXY
-DOMAIN-SUFFIX,aeriesnet.murrieta.k12.ca.us,PROXY
 DOMAIN-SUFFIX,aerisapi.com,PROXY
 DOMAIN-SUFFIX,aerogardcn.com,PROXY
 DOMAIN-SUFFIX,aesworkshops.com,PROXY
@@ -10988,6 +10987,7 @@ DOMAIN-SUFFIX,hola.org,PROXY
 DOMAIN-SUFFIX,holeyfuck.com,PROXY
 DOMAIN-SUFFIX,hollisterco.com,PROXY
 DOMAIN-SUFFIX,hololens.com,PROXY
+DOMAIN-SUFFIX,holymountaincn.com,PROXY
 DOMAIN-SUFFIX,holyspiritspeaks.org,PROXY
 DOMAIN-SUFFIX,home-network.net,PROXY
 DOMAIN-SUFFIX,home-val.com,PROXY

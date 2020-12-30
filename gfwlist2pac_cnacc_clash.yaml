@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTM1MzgzNwo=
+# Checksum: MTYwOTM2MzMwNgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20201230-6
-# TimeUpdated: 2020-12-30T18:43:57+00:00
+# Version: 1.2.9-20201230-7
+# TimeUpdated: 2020-12-30T21:21:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1434,6 +1434,7 @@ payload:
   - DOMAIN-SUFFIX,1732.net
   - DOMAIN-SUFFIX,17348.com
   - DOMAIN-SUFFIX,17350.com
+  - DOMAIN-SUFFIX,17369.com
   - DOMAIN-SUFFIX,173daxue.com
   - DOMAIN-SUFFIX,173iot.com
   - DOMAIN-SUFFIX,173sy.com
@@ -7596,7 +7597,6 @@ payload:
   - DOMAIN-SUFFIX,alllget.com
   - DOMAIN-SUFFIX,alllook.tv
   - DOMAIN-SUFFIX,allmei.com
-  - DOMAIN-SUFFIX,allok.wang
   - DOMAIN-SUFFIX,alloyteam.com
   - DOMAIN-SUFFIX,allpayx.com
   - DOMAIN-SUFFIX,allposs.com
@@ -17072,6 +17072,7 @@ payload:
   - DOMAIN-SUFFIX,dqshjt.com
   - DOMAIN-SUFFIX,dqzc.com
   - DOMAIN-SUFFIX,dqzdhw.com
+  - DOMAIN-SUFFIX,dr-zh.com
   - DOMAIN-SUFFIX,dr009.com
   - DOMAIN-SUFFIX,dr668.com
   - DOMAIN-SUFFIX,dragon-guide.net
@@ -19671,6 +19672,7 @@ payload:
   - DOMAIN-SUFFIX,fkw.com
   - DOMAIN-SUFFIX,fkw100.com
   - DOMAIN-SUFFIX,fkweber.com
+  - DOMAIN-SUFFIX,fkyuer.com
   - DOMAIN-SUFFIX,fkyun.com
   - DOMAIN-SUFFIX,fl-game.net
   - DOMAIN-SUFFIX,fl0632.com
@@ -37716,6 +37718,7 @@ payload:
   - DOMAIN-SUFFIX,petpcb.com
   - DOMAIN-SUFFIX,petrelteam.com
   - DOMAIN-SUFFIX,pets12345.com
+  - DOMAIN-SUFFIX,petshoming.com
   - DOMAIN-SUFFIX,pettwo.com
   - DOMAIN-SUFFIX,pewld.com
   - DOMAIN-SUFFIX,pewsc.com

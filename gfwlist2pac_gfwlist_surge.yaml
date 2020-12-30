@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM1Mzg0NQo=
+# Checksum: MTYwOTM2MzMxNAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20201230-6
-# TimeUpdated: 2020-12-30T18:44:05+00:00
+# Version: 1.2.9-20201230-7
+# TimeUpdated: 2020-12-30T21:21:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1850,7 +1850,6 @@ DOMAIN-SUFFIX,aebn.net
 DOMAIN-SUFFIX,aemitrapulsa.id
 DOMAIN-SUFFIX,aenhancers.com
 DOMAIN-SUFFIX,aeriagames.com
-DOMAIN-SUFFIX,aeriesnet.murrieta.k12.ca.us
 DOMAIN-SUFFIX,aerisapi.com
 DOMAIN-SUFFIX,aerogardcn.com
 DOMAIN-SUFFIX,aesworkshops.com
@@ -10988,6 +10987,7 @@ DOMAIN-SUFFIX,hola.org
 DOMAIN-SUFFIX,holeyfuck.com
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,hololens.com
+DOMAIN-SUFFIX,holymountaincn.com
 DOMAIN-SUFFIX,holyspiritspeaks.org
 DOMAIN-SUFFIX,home-network.net
 DOMAIN-SUFFIX,home-val.com

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM1MzgzNwo=
+# Checksum: MTYwOTM2MzMwNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201230-6
-# TimeUpdated: 2020-12-30T18:43:57+00:00
+# Version: 1.2.9-20201230-7
+# TimeUpdated: 2020-12-30T21:21:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1433,6 +1433,7 @@ domain:1732.com,
 domain:1732.net,
 domain:17348.com,
 domain:17350.com,
+domain:17369.com,
 domain:173daxue.com,
 domain:173iot.com,
 domain:173sy.com,
@@ -7595,7 +7596,6 @@ domain:alliread.com,
 domain:alllget.com,
 domain:alllook.tv,
 domain:allmei.com,
-domain:allok.wang,
 domain:alloyteam.com,
 domain:allpayx.com,
 domain:allposs.com,
@@ -17071,6 +17071,7 @@ domain:dqpi.net,
 domain:dqshjt.com,
 domain:dqzc.com,
 domain:dqzdhw.com,
+domain:dr-zh.com,
 domain:dr009.com,
 domain:dr668.com,
 domain:dragon-guide.net,
@@ -19670,6 +19671,7 @@ domain:fktong.com,
 domain:fkw.com,
 domain:fkw100.com,
 domain:fkweber.com,
+domain:fkyuer.com,
 domain:fkyun.com,
 domain:fl-game.net,
 domain:fl0632.com,
@@ -37715,6 +37717,7 @@ domain:petnakanojo.com,
 domain:petpcb.com,
 domain:petrelteam.com,
 domain:pets12345.com,
+domain:petshoming.com,
 domain:pettwo.com,
 domain:pewld.com,
 domain:pewsc.com,
