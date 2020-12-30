@@ -1,7 +1,7 @@
-# Checksum: MTYwOTMwOTU4MAo=
+# Checksum: MTYwOTMyMDUzNwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201230-2
-# TimeUpdated: 2020-12-30T06:26:20+00:00
+# Version: 1.2.9-20201230-3
+# TimeUpdated: 2020-12-30T09:28:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -317,6 +317,7 @@ domain:0352fang.com,
 domain:0352g.com,
 domain:0355fk.com,
 domain:0356f.com,
+domain:0357hz.com,
 domain:0368.com,
 domain:0370zc.com,
 domain:0371wang.com,
@@ -1276,7 +1277,6 @@ domain:15hr.com,
 domain:15lu.com,
 domain:15ms.com,
 domain:15shu.net,
-domain:15sjw.com,
 domain:15tianqi.com,
 domain:15wz.com,
 domain:15xdd.com,
@@ -2825,7 +2825,6 @@ domain:36jr.com,
 domain:36kr.com,
 domain:36mh.com,
 domain:36nu.com,
-domain:36oe.com,
 domain:36sfw.com,
 domain:36ve.net,
 domain:36xs.net,
@@ -5591,6 +5590,7 @@ domain:8558.org,
 domain:85679999.com,
 domain:856dy.com,
 domain:85814.com,
+domain:85878078.com,
 domain:858game.com,
 domain:85ju.com,
 domain:85kf.com,

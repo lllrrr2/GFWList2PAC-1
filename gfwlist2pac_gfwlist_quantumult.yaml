@@ -1,7 +1,7 @@
-# Checksum: MTYwOTMwOTU4OQo=
+# Checksum: MTYwOTMyMDU0Mwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20201230-2
-# TimeUpdated: 2020-12-30T06:26:29+00:00
+# Version: 1.2.9-20201230-3
+# TimeUpdated: 2020-12-30T09:29:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -4524,6 +4524,7 @@ DOMAIN-SUFFIX,bridgestonerewards.com,PROXY
 DOMAIN-SUFFIX,bridgestonetire.com,PROXY
 DOMAIN-SUFFIX,bridgestonevan.com,PROXY
 DOMAIN-SUFFIX,bridgestonewx.com,PROXY
+DOMAIN-SUFFIX,briefdream.com,PROXY
 DOMAIN-SUFFIX,brightcove.com,PROXY
 DOMAIN-SUFFIX,brightcove.net,PROXY
 DOMAIN-SUFFIX,brightcove01.brightcove.com,PROXY

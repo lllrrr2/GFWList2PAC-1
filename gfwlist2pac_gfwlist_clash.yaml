@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTMwOTU4OQo=
+# Checksum: MTYwOTMyMDU0Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20201230-2
-# TimeUpdated: 2020-12-30T06:26:29+00:00
+# Version: 1.2.9-20201230-3
+# TimeUpdated: 2020-12-30T09:29:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4525,6 +4525,7 @@ payload:
   - DOMAIN-SUFFIX,bridgestonetire.com
   - DOMAIN-SUFFIX,bridgestonevan.com
   - DOMAIN-SUFFIX,bridgestonewx.com
+  - DOMAIN-SUFFIX,briefdream.com
   - DOMAIN-SUFFIX,brightcove.com
   - DOMAIN-SUFFIX,brightcove.net
   - DOMAIN-SUFFIX,brightcove01.brightcove.com
