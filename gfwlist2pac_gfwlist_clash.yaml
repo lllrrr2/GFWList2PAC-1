@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTI5MDE4OAo=
+# Checksum: MTYwOTI5OTEwNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20201230-0
-# TimeUpdated: 2020-12-30T01:03:08+00:00
+# Version: 1.2.9-20201230-1
+# TimeUpdated: 2020-12-30T03:31:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1595,7 +1595,6 @@ payload:
   - DOMAIN-SUFFIX,a-ps.com
   - DOMAIN-SUFFIX,a.1u2u3u4u.com
   - DOMAIN-SUFFIX,a.91gay.me
-  - DOMAIN-SUFFIX,a.guge.ga
   - DOMAIN-SUFFIX,a.kslive.tv
   - DOMAIN-SUFFIX,a.pomf.se
   - DOMAIN-SUFFIX,a0263.com
@@ -20787,6 +20786,7 @@ payload:
   - DOMAIN-SUFFIX,tv3.usa.cc
   - DOMAIN-SUFFIX,tv365.cf
   - DOMAIN-SUFFIX,tv365.ga
+  - DOMAIN-SUFFIX,tv72.cf
   - DOMAIN-SUFFIX,tv72.ga
   - DOMAIN-SUFFIX,tvants.com
   - DOMAIN-SUFFIX,tvappstore.net
