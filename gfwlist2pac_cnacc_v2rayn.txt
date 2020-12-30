@@ -1,7 +1,7 @@
-# Checksum: MTYwOTMzMTQxOQo=
+# Checksum: MTYwOTM0MTc2OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201230-4
-# TimeUpdated: 2020-12-30T12:30:19+00:00
+# Version: 1.2.9-20201230-5
+# TimeUpdated: 2020-12-30T15:22:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -479,6 +479,7 @@ domain:06game.com,
 domain:06mz.com,
 domain:06peng.com,
 domain:070210.com,
+domain:07073.com,
 domain:07073h5.com,
 domain:07073sy.com,
 domain:07073vr.com,
@@ -2107,6 +2108,7 @@ domain:23ee.net,
 domain:23hh.net,
 domain:23job.net,
 domain:23juqing.com,
+domain:23ks.com,
 domain:23qb.com,
 domain:23qb.net,
 domain:23txt.com,
@@ -6325,6 +6327,7 @@ domain:978012.com,
 domain:9787.com,
 domain:978sy.com,
 domain:97936.com,
+domain:97971.com,
 domain:97973.com,
 domain:9797ly.com,
 domain:9799.com,
@@ -45734,7 +45737,6 @@ domain:tiaotiaolive.com,
 domain:tiaotiaotang.net,
 domain:tiaozhanbei.net,
 domain:tiatiatoutiao.com,
-domain:tibaitong.com,
 domain:tibet3.com,
 domain:tibet4wd.com,
 domain:tibet9.com,

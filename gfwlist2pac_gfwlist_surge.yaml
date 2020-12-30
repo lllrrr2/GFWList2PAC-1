@@ -1,7 +1,7 @@
-# Checksum: MTYwOTMzMTQyNwo=
+# Checksum: MTYwOTM0MTc3OQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20201230-4
-# TimeUpdated: 2020-12-30T12:30:27+00:00
+# Version: 1.2.9-20201230-5
+# TimeUpdated: 2020-12-30T15:22:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -723,6 +723,7 @@ DOMAIN-SUFFIX,36mmm.net
 DOMAIN-SUFFIX,36nnn.net
 DOMAIN-SUFFIX,36rain.com
 DOMAIN-SUFFIX,3709.com
+DOMAIN-SUFFIX,373699.com
 DOMAIN-SUFFIX,375.gruppuso.net
 DOMAIN-SUFFIX,3788js.com
 DOMAIN-SUFFIX,380033.com
@@ -12993,6 +12994,7 @@ DOMAIN-SUFFIX,kvbprime.net
 DOMAIN-SUFFIX,kvbr.com
 DOMAIN-SUFFIX,kvikshaug.no
 DOMAIN-SUFFIX,kwcg.ca
+DOMAIN-SUFFIX,kwfq.tk
 DOMAIN-SUFFIX,kwikj.com
 DOMAIN-SUFFIX,kwok7.com
 DOMAIN-SUFFIX,kwongwah.com.my

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTMzMTQxOQo=
+# Checksum: MTYwOTM0MTc2OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20201230-4
-# TimeUpdated: 2020-12-30T12:30:19+00:00
+# Version: 1.2.9-20201230-5
+# TimeUpdated: 2020-12-30T15:22:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -480,6 +480,7 @@ payload:
   - DOMAIN-SUFFIX,06mz.com
   - DOMAIN-SUFFIX,06peng.com
   - DOMAIN-SUFFIX,070210.com
+  - DOMAIN-SUFFIX,07073.com
   - DOMAIN-SUFFIX,07073h5.com
   - DOMAIN-SUFFIX,07073sy.com
   - DOMAIN-SUFFIX,07073vr.com
@@ -2108,6 +2109,7 @@ payload:
   - DOMAIN-SUFFIX,23hh.net
   - DOMAIN-SUFFIX,23job.net
   - DOMAIN-SUFFIX,23juqing.com
+  - DOMAIN-SUFFIX,23ks.com
   - DOMAIN-SUFFIX,23qb.com
   - DOMAIN-SUFFIX,23qb.net
   - DOMAIN-SUFFIX,23txt.com
@@ -6326,6 +6328,7 @@ payload:
   - DOMAIN-SUFFIX,9787.com
   - DOMAIN-SUFFIX,978sy.com
   - DOMAIN-SUFFIX,97936.com
+  - DOMAIN-SUFFIX,97971.com
   - DOMAIN-SUFFIX,97973.com
   - DOMAIN-SUFFIX,9797ly.com
   - DOMAIN-SUFFIX,9799.com
@@ -45735,7 +45738,6 @@ payload:
   - DOMAIN-SUFFIX,tiaotiaotang.net
   - DOMAIN-SUFFIX,tiaozhanbei.net
   - DOMAIN-SUFFIX,tiatiatoutiao.com
-  - DOMAIN-SUFFIX,tibaitong.com
   - DOMAIN-SUFFIX,tibet3.com
   - DOMAIN-SUFFIX,tibet4wd.com
   - DOMAIN-SUFFIX,tibet9.com

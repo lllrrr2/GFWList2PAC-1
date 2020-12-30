@@ -1,7 +1,7 @@
-# Checksum: MTYwOTMzMTQyNwo=
+# Checksum: MTYwOTM0MTc3OQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20201230-4
-# TimeUpdated: 2020-12-30T12:30:27+00:00
+# Version: 1.2.9-20201230-5
+# TimeUpdated: 2020-12-30T15:22:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -723,6 +723,7 @@ domain:36mmm.net,
 domain:36nnn.net,
 domain:36rain.com,
 domain:3709.com,
+domain:373699.com,
 domain:375.gruppuso.net,
 domain:3788js.com,
 domain:380033.com,
@@ -12993,6 +12994,7 @@ domain:kvbprime.net,
 domain:kvbr.com,
 domain:kvikshaug.no,
 domain:kwcg.ca,
+domain:kwfq.tk,
 domain:kwikj.com,
 domain:kwok7.com,
 domain:kwongwah.com.my,
