@@ -1,7 +1,7 @@
-# Checksum: MTYwOTI5OTA5Ngo=
+# Checksum: MTYwOTMwOTU4MAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201230-1
-# TimeUpdated: 2020-12-30T03:31:36+00:00
+# Version: 1.2.9-20201230-2
+# TimeUpdated: 2020-12-30T06:26:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -4148,6 +4148,7 @@ domain:52xpp.com,
 domain:52xtxs.com,
 domain:52xyz.com,
 domain:52yawa.com,
+domain:52yh.com,
 domain:52yifei.com,
 domain:52ykjob.com,
 domain:52youju.com,
@@ -7707,7 +7708,6 @@ domain:ancii.com,
 domain:ancun.com,
 domain:and568.com,
 domain:andan.me,
-domain:andefz.com,
 domain:andhj.com,
 domain:andouw.com,
 domain:andpay.me,
@@ -11216,7 +11216,6 @@ domain:capjoy.com,
 domain:cappchem.com,
 domain:cappeg.com,
 domain:capvision.com,
-domain:car0575.com,
 domain:car136.com,
 domain:car2100.com,
 domain:car365.org,
@@ -11402,7 +11401,6 @@ domain:ccjkwjjedu.com,
 domain:ccjoin.com,
 domain:ccjoyland.com,
 domain:ccjt.net,
-domain:ccjzzj.com,
 domain:cclcn.com,
 domain:cclexpo.com,
 domain:cclndx.com,
@@ -22716,6 +22714,7 @@ domain:haomagujia.com,
 domain:haomaishou.com,
 domain:haomaiyi.com,
 domain:haomaku.com,
+domain:haomaojin888.com,
 domain:haomaotao.com,
 domain:haomee.net,
 domain:haomeili.net,

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTI5OTA5Ngo=
+# Checksum: MTYwOTMwOTU4MAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20201230-1
-# TimeUpdated: 2020-12-30T03:31:36+00:00
+# Version: 1.2.9-20201230-2
+# TimeUpdated: 2020-12-30T06:26:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -4149,6 +4149,7 @@ payload:
   - DOMAIN-SUFFIX,52xtxs.com
   - DOMAIN-SUFFIX,52xyz.com
   - DOMAIN-SUFFIX,52yawa.com
+  - DOMAIN-SUFFIX,52yh.com
   - DOMAIN-SUFFIX,52yifei.com
   - DOMAIN-SUFFIX,52ykjob.com
   - DOMAIN-SUFFIX,52youju.com
@@ -7708,7 +7709,6 @@ payload:
   - DOMAIN-SUFFIX,ancun.com
   - DOMAIN-SUFFIX,and568.com
   - DOMAIN-SUFFIX,andan.me
-  - DOMAIN-SUFFIX,andefz.com
   - DOMAIN-SUFFIX,andhj.com
   - DOMAIN-SUFFIX,andouw.com
   - DOMAIN-SUFFIX,andpay.me
@@ -11217,7 +11217,6 @@ payload:
   - DOMAIN-SUFFIX,cappchem.com
   - DOMAIN-SUFFIX,cappeg.com
   - DOMAIN-SUFFIX,capvision.com
-  - DOMAIN-SUFFIX,car0575.com
   - DOMAIN-SUFFIX,car136.com
   - DOMAIN-SUFFIX,car2100.com
   - DOMAIN-SUFFIX,car365.org
@@ -11403,7 +11402,6 @@ payload:
   - DOMAIN-SUFFIX,ccjoin.com
   - DOMAIN-SUFFIX,ccjoyland.com
   - DOMAIN-SUFFIX,ccjt.net
-  - DOMAIN-SUFFIX,ccjzzj.com
   - DOMAIN-SUFFIX,cclcn.com
   - DOMAIN-SUFFIX,cclexpo.com
   - DOMAIN-SUFFIX,cclndx.com
@@ -22717,6 +22715,7 @@ payload:
   - DOMAIN-SUFFIX,haomaishou.com
   - DOMAIN-SUFFIX,haomaiyi.com
   - DOMAIN-SUFFIX,haomaku.com
+  - DOMAIN-SUFFIX,haomaojin888.com
   - DOMAIN-SUFFIX,haomaotao.com
   - DOMAIN-SUFFIX,haomee.net
   - DOMAIN-SUFFIX,haomeili.net

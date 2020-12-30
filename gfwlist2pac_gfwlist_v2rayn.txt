@@ -1,7 +1,7 @@
-# Checksum: MTYwOTI5OTEwNAo=
+# Checksum: MTYwOTMwOTU4OQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20201230-1
-# TimeUpdated: 2020-12-30T03:31:44+00:00
+# Version: 1.2.9-20201230-2
+# TimeUpdated: 2020-12-30T06:26:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1311,7 +1311,6 @@ domain:8419.com,
 domain:8466.com,
 domain:8468466.com,
 domain:85.flnet.org,
-domain:8505038.com,
 domain:8505040.com,
 domain:85299.com,
 domain:8545.com,
@@ -20785,7 +20784,6 @@ domain:tv3.tv322.yustu.net,
 domain:tv3.usa.cc,
 domain:tv365.cf,
 domain:tv365.ga,
-domain:tv72.cf,
 domain:tv72.ga,
 domain:tvants.com,
 domain:tvappstore.net,
