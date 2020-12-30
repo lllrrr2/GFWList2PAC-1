@@ -1,7 +1,7 @@
-# Checksum: MTYwOTI3Njg3OQo=
+# Checksum: MTYwOTI5MDE4OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20201229-7
-# TimeUpdated: 2020-12-29T21:21:19+00:00
+# Version: 1.2.9-20201230-0
+# TimeUpdated: 2020-12-30T01:03:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1594,6 +1594,7 @@ domain:a-normal-day.com,
 domain:a-ps.com,
 domain:a.1u2u3u4u.com,
 domain:a.91gay.me,
+domain:a.guge.ga,
 domain:a.kslive.tv,
 domain:a.pomf.se,
 domain:a0263.com,
