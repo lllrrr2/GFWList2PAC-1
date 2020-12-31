@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM4NTYxOQo=
+# Checksum: MTYwOTM5NjEzOAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20201231-1
-# TimeUpdated: 2020-12-31T03:33:39+00:00
+# Version: 1.2.9-20201231-2
+# TimeUpdated: 2020-12-31T06:28:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1850,6 +1850,7 @@ domain:aebn.net,
 domain:aemitrapulsa.id,
 domain:aenhancers.com,
 domain:aeriagames.com,
+domain:aeriesnet.murrieta.k12.ca.us,
 domain:aerisapi.com,
 domain:aerogardcn.com,
 domain:aesworkshops.com,
@@ -16642,6 +16643,7 @@ domain:percy.in,
 domain:perfect-privacy.com,
 domain:perfectgirls.net,
 domain:perfectinter.net,
+domain:perfectkickz.net,
 domain:perfectvpn.net,
 domain:periscope.tv,
 domain:perkd.me,
@@ -21222,6 +21224,7 @@ domain:us-central1-kirichilli-cart.cloudfunctions.net,
 domain:us-central1-ripple-3dc2d.cloudfunctions.net,
 domain:us-central1.cloudfunctions.net,
 domain:us.02.ns02.us,
+domain:us.32bit.top,
 domain:us.hk303.c8763.com,
 domain:us.ishadowx.net,
 domain:us.jetos.com,

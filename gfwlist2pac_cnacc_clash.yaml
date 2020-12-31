@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTM4NTYxMAo=
+# Checksum: MTYwOTM5NjEzMAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20201231-1
-# TimeUpdated: 2020-12-31T03:33:30+00:00
+# Version: 1.2.9-20201231-2
+# TimeUpdated: 2020-12-31T06:28:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -5477,7 +5477,6 @@ payload:
   - DOMAIN-SUFFIX,8090xx.com
   - DOMAIN-SUFFIX,8090yx.com
   - DOMAIN-SUFFIX,8090yxs.com
-  - DOMAIN-SUFFIX,809803.com
   - DOMAIN-SUFFIX,80anmo.net
   - DOMAIN-SUFFIX,80baicai.biz
   - DOMAIN-SUFFIX,80bi.com
@@ -7702,6 +7701,7 @@ payload:
   - DOMAIN-SUFFIX,analyticskey.com
   - DOMAIN-SUFFIX,anandoor.com
   - DOMAIN-SUFFIX,ananzu.com
+  - DOMAIN-SUFFIX,anatuprak.com
   - DOMAIN-SUFFIX,anav.com
   - DOMAIN-SUFFIX,anbanggroup.com
   - DOMAIN-SUFFIX,anchi-china.com
@@ -11576,7 +11576,6 @@ payload:
   - DOMAIN-SUFFIX,cdhulan.com
   - DOMAIN-SUFFIX,cdili.com
   - DOMAIN-SUFFIX,cdjingfeng.com
-  - DOMAIN-SUFFIX,cdjinpeng.com
   - DOMAIN-SUFFIX,cdjnrc.com
   - DOMAIN-SUFFIX,cdjsjx.com
   - DOMAIN-SUFFIX,cdjxjy.com
@@ -11769,7 +11768,6 @@ payload:
   - DOMAIN-SUFFIX,cernet.net
   - DOMAIN-SUFFIX,cers.me
   - DOMAIN-SUFFIX,cersp.com
-  - DOMAIN-SUFFIX,ces-way.com
   - DOMAIN-SUFFIX,cesafe.com
   - DOMAIN-SUFFIX,cescnb.com
   - DOMAIN-SUFFIX,ceshigo.com
@@ -12611,7 +12609,6 @@ payload:
   - DOMAIN-SUFFIX,chinairn.com
   - DOMAIN-SUFFIX,chinairr.org
   - DOMAIN-SUFFIX,chinaitlab.com
-  - DOMAIN-SUFFIX,chinaitpower.com
   - DOMAIN-SUFFIX,chinajcz.com
   - DOMAIN-SUFFIX,chinajjz.com
   - DOMAIN-SUFFIX,chinajnhb.com
@@ -40422,6 +40419,7 @@ payload:
   - DOMAIN-SUFFIX,rfcreader.com
   - DOMAIN-SUFFIX,rfctyy.com
   - DOMAIN-SUFFIX,rfd28.com
+  - DOMAIN-SUFFIX,rfdl88.com
   - DOMAIN-SUFFIX,rfdy.hk
   - DOMAIN-SUFFIX,rfeyao.com
   - DOMAIN-SUFFIX,rffan.info
@@ -41015,6 +41013,7 @@ payload:
   - DOMAIN-SUFFIX,san-sheng.net
   - DOMAIN-SUFFIX,sandaha.com
   - DOMAIN-SUFFIX,sandai.net
+  - DOMAIN-SUFFIX,sandaile.com
   - DOMAIN-SUFFIX,sandbean.com
   - DOMAIN-SUFFIX,sandcomp.com
   - DOMAIN-SUFFIX,sandingtv.com

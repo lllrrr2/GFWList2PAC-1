@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM4NTYxOQo=
+# Checksum: MTYwOTM5NjEzOAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20201231-1
-# TimeUpdated: 2020-12-31T03:33:39+00:00
+# Version: 1.2.9-20201231-2
+# TimeUpdated: 2020-12-31T06:28:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -1850,6 +1850,7 @@ DOMAIN-SUFFIX,aebn.net,PROXY
 DOMAIN-SUFFIX,aemitrapulsa.id,PROXY
 DOMAIN-SUFFIX,aenhancers.com,PROXY
 DOMAIN-SUFFIX,aeriagames.com,PROXY
+DOMAIN-SUFFIX,aeriesnet.murrieta.k12.ca.us,PROXY
 DOMAIN-SUFFIX,aerisapi.com,PROXY
 DOMAIN-SUFFIX,aerogardcn.com,PROXY
 DOMAIN-SUFFIX,aesworkshops.com,PROXY
@@ -16642,6 +16643,7 @@ DOMAIN-SUFFIX,percy.in,PROXY
 DOMAIN-SUFFIX,perfect-privacy.com,PROXY
 DOMAIN-SUFFIX,perfectgirls.net,PROXY
 DOMAIN-SUFFIX,perfectinter.net,PROXY
+DOMAIN-SUFFIX,perfectkickz.net,PROXY
 DOMAIN-SUFFIX,perfectvpn.net,PROXY
 DOMAIN-SUFFIX,periscope.tv,PROXY
 DOMAIN-SUFFIX,perkd.me,PROXY
@@ -21222,6 +21224,7 @@ DOMAIN-SUFFIX,us-central1-kirichilli-cart.cloudfunctions.net,PROXY
 DOMAIN-SUFFIX,us-central1-ripple-3dc2d.cloudfunctions.net,PROXY
 DOMAIN-SUFFIX,us-central1.cloudfunctions.net,PROXY
 DOMAIN-SUFFIX,us.02.ns02.us,PROXY
+DOMAIN-SUFFIX,us.32bit.top,PROXY
 DOMAIN-SUFFIX,us.hk303.c8763.com,PROXY
 DOMAIN-SUFFIX,us.ishadowx.net,PROXY
 DOMAIN-SUFFIX,us.jetos.com,PROXY

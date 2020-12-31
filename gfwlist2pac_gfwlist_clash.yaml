@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTM4NTYxOQo=
+# Checksum: MTYwOTM5NjEzOAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20201231-1
-# TimeUpdated: 2020-12-31T03:33:39+00:00
+# Version: 1.2.9-20201231-2
+# TimeUpdated: 2020-12-31T06:28:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1851,6 +1851,7 @@ payload:
   - DOMAIN-SUFFIX,aemitrapulsa.id
   - DOMAIN-SUFFIX,aenhancers.com
   - DOMAIN-SUFFIX,aeriagames.com
+  - DOMAIN-SUFFIX,aeriesnet.murrieta.k12.ca.us
   - DOMAIN-SUFFIX,aerisapi.com
   - DOMAIN-SUFFIX,aerogardcn.com
   - DOMAIN-SUFFIX,aesworkshops.com
@@ -16643,6 +16644,7 @@ payload:
   - DOMAIN-SUFFIX,perfect-privacy.com
   - DOMAIN-SUFFIX,perfectgirls.net
   - DOMAIN-SUFFIX,perfectinter.net
+  - DOMAIN-SUFFIX,perfectkickz.net
   - DOMAIN-SUFFIX,perfectvpn.net
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,perkd.me
@@ -21223,6 +21225,7 @@ payload:
   - DOMAIN-SUFFIX,us-central1-ripple-3dc2d.cloudfunctions.net
   - DOMAIN-SUFFIX,us-central1.cloudfunctions.net
   - DOMAIN-SUFFIX,us.02.ns02.us
+  - DOMAIN-SUFFIX,us.32bit.top
   - DOMAIN-SUFFIX,us.hk303.c8763.com
   - DOMAIN-SUFFIX,us.ishadowx.net
   - DOMAIN-SUFFIX,us.jetos.com
