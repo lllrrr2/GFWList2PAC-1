@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQxNzk4Mgo=
+# Checksum: MTYwOTQyODI5Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20201231-4
-# TimeUpdated: 2020-12-31T12:33:02+00:00
+# Version: 1.2.9-20201231-5
+# TimeUpdated: 2020-12-31T15:24:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -13519,6 +13519,7 @@ DOMAIN-SUFFIX,cn-c114.net
 DOMAIN-SUFFIX,cn-diaoyu.com
 DOMAIN-SUFFIX,cn-eb.com
 DOMAIN-SUFFIX,cn-em.com
+DOMAIN-SUFFIX,cn-fe.com
 DOMAIN-SUFFIX,cn-healthcare.com
 DOMAIN-SUFFIX,cn-java.com
 DOMAIN-SUFFIX,cn-jnrc.com
@@ -22928,7 +22929,6 @@ DOMAIN-SUFFIX,hbfire.com
 DOMAIN-SUFFIX,hbfnnyw.com
 DOMAIN-SUFFIX,hbfootball.com
 DOMAIN-SUFFIX,hbfyhb.com
-DOMAIN-SUFFIX,hbfzb.com
 DOMAIN-SUFFIX,hbgajg.com
 DOMAIN-SUFFIX,hbgdwl.com
 DOMAIN-SUFFIX,hbglky.com
@@ -38242,7 +38242,6 @@ DOMAIN-SUFFIX,popiano.org
 DOMAIN-SUFFIX,popjb.com
 DOMAIN-SUFFIX,popkart.tv
 DOMAIN-SUFFIX,popkx.com
-DOMAIN-SUFFIX,popmanga.com
 DOMAIN-SUFFIX,popmart.com
 DOMAIN-SUFFIX,popmsg.com
 DOMAIN-SUFFIX,popoho.com
@@ -39678,7 +39677,6 @@ DOMAIN-SUFFIX,qsfcw.com
 DOMAIN-SUFFIX,qshang.com
 DOMAIN-SUFFIX,qsk666.com
 DOMAIN-SUFFIX,qskimg.com
-DOMAIN-SUFFIX,qsmh.vip
 DOMAIN-SUFFIX,qspfw.com
 DOMAIN-SUFFIX,qsptv.com
 DOMAIN-SUFFIX,qsrating.com

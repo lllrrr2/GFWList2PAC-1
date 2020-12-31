@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQxNzk4Mgo=
+# Checksum: MTYwOTQyODI5Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201231-4
-# TimeUpdated: 2020-12-31T12:33:02+00:00
+# Version: 1.2.9-20201231-5
+# TimeUpdated: 2020-12-31T15:24:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -13519,6 +13519,7 @@ domain:cn-c114.net,
 domain:cn-diaoyu.com,
 domain:cn-eb.com,
 domain:cn-em.com,
+domain:cn-fe.com,
 domain:cn-healthcare.com,
 domain:cn-java.com,
 domain:cn-jnrc.com,
@@ -22928,7 +22929,6 @@ domain:hbfire.com,
 domain:hbfnnyw.com,
 domain:hbfootball.com,
 domain:hbfyhb.com,
-domain:hbfzb.com,
 domain:hbgajg.com,
 domain:hbgdwl.com,
 domain:hbglky.com,
@@ -38242,7 +38242,6 @@ domain:popiano.org,
 domain:popjb.com,
 domain:popkart.tv,
 domain:popkx.com,
-domain:popmanga.com,
 domain:popmart.com,
 domain:popmsg.com,
 domain:popoho.com,
@@ -39678,7 +39677,6 @@ domain:qsfcw.com,
 domain:qshang.com,
 domain:qsk666.com,
 domain:qskimg.com,
-domain:qsmh.vip,
 domain:qspfw.com,
 domain:qsptv.com,
 domain:qsrating.com,
