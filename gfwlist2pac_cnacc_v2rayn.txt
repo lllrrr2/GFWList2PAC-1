@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQ0MDI1MAo=
+# Checksum: MTYwOTQ0OTU5NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201231-6
-# TimeUpdated: 2020-12-31T18:44:10+00:00
+# Version: 1.2.9-20201231-7
+# TimeUpdated: 2020-12-31T21:19:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2053,7 +2053,6 @@ domain:22ja.com,
 domain:22k9.com,
 domain:22lrc.com,
 domain:22m6.com,
-domain:22mjhf.wang,
 domain:22mt.in,
 domain:22net.com,
 domain:22plc.com,
@@ -11216,6 +11215,7 @@ domain:capjoy.com,
 domain:cappchem.com,
 domain:cappeg.com,
 domain:capvision.com,
+domain:car-sort.com,
 domain:car136.com,
 domain:car2100.com,
 domain:car365.org,
@@ -15761,6 +15761,7 @@ domain:ddcode.net,
 domain:ddcsh.com,
 domain:ddd-china.com,
 domain:dddazhe.com,
+domain:dddd168.com,
 domain:dddso.com,
 domain:ddepin.com,
 domain:ddfchina.com,

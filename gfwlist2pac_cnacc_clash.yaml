@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTQ0MDI1MAo=
+# Checksum: MTYwOTQ0OTU5NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20201231-6
-# TimeUpdated: 2020-12-31T18:44:10+00:00
+# Version: 1.2.9-20201231-7
+# TimeUpdated: 2020-12-31T21:19:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2054,7 +2054,6 @@ payload:
   - DOMAIN-SUFFIX,22k9.com
   - DOMAIN-SUFFIX,22lrc.com
   - DOMAIN-SUFFIX,22m6.com
-  - DOMAIN-SUFFIX,22mjhf.wang
   - DOMAIN-SUFFIX,22mt.in
   - DOMAIN-SUFFIX,22net.com
   - DOMAIN-SUFFIX,22plc.com
@@ -11217,6 +11216,7 @@ payload:
   - DOMAIN-SUFFIX,cappchem.com
   - DOMAIN-SUFFIX,cappeg.com
   - DOMAIN-SUFFIX,capvision.com
+  - DOMAIN-SUFFIX,car-sort.com
   - DOMAIN-SUFFIX,car136.com
   - DOMAIN-SUFFIX,car2100.com
   - DOMAIN-SUFFIX,car365.org
@@ -15762,6 +15762,7 @@ payload:
   - DOMAIN-SUFFIX,ddcsh.com
   - DOMAIN-SUFFIX,ddd-china.com
   - DOMAIN-SUFFIX,dddazhe.com
+  - DOMAIN-SUFFIX,dddd168.com
   - DOMAIN-SUFFIX,dddso.com
   - DOMAIN-SUFFIX,ddepin.com
   - DOMAIN-SUFFIX,ddfchina.com
