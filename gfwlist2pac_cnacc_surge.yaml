@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQyODI5Nwo=
+# Checksum: MTYwOTQ0MDI1MAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20201231-5
-# TimeUpdated: 2020-12-31T15:24:57+00:00
+# Version: 1.2.9-20201231-6
+# TimeUpdated: 2020-12-31T18:44:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -3720,6 +3720,7 @@ DOMAIN-SUFFIX,51pptmoban.com
 DOMAIN-SUFFIX,51ps.com
 DOMAIN-SUFFIX,51psj.com
 DOMAIN-SUFFIX,51psw.com
+DOMAIN-SUFFIX,51pt.cc
 DOMAIN-SUFFIX,51puer.com
 DOMAIN-SUFFIX,51q15.com
 DOMAIN-SUFFIX,51qc.com
@@ -4034,6 +4035,7 @@ DOMAIN-SUFFIX,52gitlab.com
 DOMAIN-SUFFIX,52gmk.com
 DOMAIN-SUFFIX,52guixi.com
 DOMAIN-SUFFIX,52gvim.com
+DOMAIN-SUFFIX,52haozy.com
 DOMAIN-SUFFIX,52hardware.com
 DOMAIN-SUFFIX,52hibuy.com
 DOMAIN-SUFFIX,52hotel.net
@@ -4705,7 +4707,6 @@ DOMAIN-SUFFIX,5y6s.com
 DOMAIN-SUFFIX,5y89.com
 DOMAIN-SUFFIX,5ydj.com
 DOMAIN-SUFFIX,5yedu.com
-DOMAIN-SUFFIX,5yhua.org
 DOMAIN-SUFFIX,5yi.com
 DOMAIN-SUFFIX,5ykj.com
 DOMAIN-SUFFIX,5yun.org
@@ -8586,7 +8587,6 @@ DOMAIN-SUFFIX,azureyun.com
 DOMAIN-SUFFIX,azycjd.com
 DOMAIN-SUFFIX,azyx.com
 DOMAIN-SUFFIX,azz.net
-DOMAIN-SUFFIX,azzmtool.com
 DOMAIN-SUFFIX,b-chem.com
 DOMAIN-SUFFIX,b-eurochina.com
 DOMAIN-SUFFIX,b-fairy.com
@@ -21142,6 +21142,7 @@ DOMAIN-SUFFIX,gltjk.com
 DOMAIN-SUFFIX,gltop.com
 DOMAIN-SUFFIX,glxlawyer.com
 DOMAIN-SUFFIX,glyh.org
+DOMAIN-SUFFIX,glzhuang.com
 DOMAIN-SUFFIX,glzip.com
 DOMAIN-SUFFIX,glzj88.com
 DOMAIN-SUFFIX,glzy8.com
@@ -44841,6 +44842,7 @@ DOMAIN-SUFFIX,taduo.net
 DOMAIN-SUFFIX,taeapp.com
 DOMAIN-SUFFIX,tag.gg
 DOMAIN-SUFFIX,taglyst.com
+DOMAIN-SUFFIX,tagmmm.com
 DOMAIN-SUFFIX,tago.fun
 DOMAIN-SUFFIX,tagphi.net
 DOMAIN-SUFFIX,tagtxq.com

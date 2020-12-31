@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQyODMwNgo=
+# Checksum: MTYwOTQ0MDI1Nwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20201231-5
-# TimeUpdated: 2020-12-31T15:25:06+00:00
+# Version: 1.2.9-20201231-6
+# TimeUpdated: 2020-12-31T18:44:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -19156,6 +19156,7 @@ DOMAIN-SUFFIX,spb.com,PROXY
 DOMAIN-SUFFIX,spccaa-bc.org,PROXY
 DOMAIN-SUFFIX,speakerdeck.com,PROXY
 DOMAIN-SUFFIX,special.miffyliye.org,PROXY
+DOMAIN-SUFFIX,specialtyheadphones.com,PROXY
 DOMAIN-SUFFIX,specreport01.jigsy.com,PROXY
 DOMAIN-SUFFIX,spectrum.cl,PROXY
 DOMAIN-SUFFIX,specxinzl.jigsy.com,PROXY
