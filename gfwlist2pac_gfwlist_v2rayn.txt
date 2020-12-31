@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM2MzMxNAo=
+# Checksum: MTYwOTM3NjczNwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20201230-7
-# TimeUpdated: 2020-12-30T21:21:54+00:00
+# Version: 1.2.9-20201231-0
+# TimeUpdated: 2020-12-31T01:05:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5225,6 +5225,7 @@ domain:cdn77.scoreuniverse.com,
 domain:cdnews.com.tw,
 domain:cdnjs.cloudflare.com,
 domain:cdnjs.com,
+domain:cdnlab.live,
 domain:cdnpure.com,
 domain:cdns.com.tw,
 domain:cdp.org,
@@ -10621,6 +10622,7 @@ domain:hd.now-ip.net,
 domain:hd.sendsmtp.com,
 domain:hd.stheadline.com,
 domain:hd22088.com,
+domain:hd25.tk,
 domain:hd88668.com,
 domain:hd88998.com,
 domain:hddirectv.com,
@@ -12297,6 +12299,7 @@ domain:javbus.co,
 domain:javbus.com,
 domain:javbus2.com,
 domain:javbus2.pw,
+domain:javbus22.com,
 domain:javbz.com,
 domain:javcc.cc,
 domain:javcc.com,
