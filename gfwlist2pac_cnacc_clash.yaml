@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTQwNzE3Mwo=
+# Checksum: MTYwOTQxNzk4Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20201231-3
-# TimeUpdated: 2020-12-31T09:32:53+00:00
+# Version: 1.2.9-20201231-4
+# TimeUpdated: 2020-12-31T12:33:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -5350,6 +5350,7 @@ payload:
   - DOMAIN-SUFFIX,7dsp.com
   - DOMAIN-SUFFIX,7dtime.com
   - DOMAIN-SUFFIX,7e.hk
+  - DOMAIN-SUFFIX,7edown.com
   - DOMAIN-SUFFIX,7fgame.com
   - DOMAIN-SUFFIX,7flowers.com
   - DOMAIN-SUFFIX,7forz.com
@@ -8828,7 +8829,6 @@ payload:
   - DOMAIN-SUFFIX,baitiao.com
   - DOMAIN-SUFFIX,baiud.com
   - DOMAIN-SUFFIX,baiudu.com
-  - DOMAIN-SUFFIX,baiugo.com
   - DOMAIN-SUFFIX,baiwang.com
   - DOMAIN-SUFFIX,baiwantuan.com
   - DOMAIN-SUFFIX,baiwanzhan.com
@@ -10042,6 +10042,7 @@ payload:
   - DOMAIN-SUFFIX,bjjdwx.com
   - DOMAIN-SUFFIX,bjjf.cc
   - DOMAIN-SUFFIX,bjjfsd.com
+  - DOMAIN-SUFFIX,bjjhcczgs.com
   - DOMAIN-SUFFIX,bjjhwlgs.com
   - DOMAIN-SUFFIX,bjjiubo.com
   - DOMAIN-SUFFIX,bjjjqx.com
@@ -10771,7 +10772,6 @@ payload:
   - DOMAIN-SUFFIX,buyaor.cc
   - DOMAIN-SUFFIX,buybieshu.com
   - DOMAIN-SUFFIX,buyblogreviews.com
-  - DOMAIN-SUFFIX,buychuan.com
   - DOMAIN-SUFFIX,buycolle.com
   - DOMAIN-SUFFIX,buyerscellars.com
   - DOMAIN-SUFFIX,buyfine.net
@@ -22929,6 +22929,7 @@ payload:
   - DOMAIN-SUFFIX,hbfnnyw.com
   - DOMAIN-SUFFIX,hbfootball.com
   - DOMAIN-SUFFIX,hbfyhb.com
+  - DOMAIN-SUFFIX,hbfzb.com
   - DOMAIN-SUFFIX,hbgajg.com
   - DOMAIN-SUFFIX,hbgdwl.com
   - DOMAIN-SUFFIX,hbglky.com
@@ -38010,6 +38011,7 @@ payload:
   - DOMAIN-SUFFIX,pintuan.com
   - DOMAIN-SUFFIX,pintuer.com
   - DOMAIN-SUFFIX,pinweiwed.com
+  - DOMAIN-SUFFIX,pinwu123.com
   - DOMAIN-SUFFIX,pinyou8.com
   - DOMAIN-SUFFIX,pinyuan.cc
   - DOMAIN-SUFFIX,pinyuew.com
@@ -38241,6 +38243,7 @@ payload:
   - DOMAIN-SUFFIX,popjb.com
   - DOMAIN-SUFFIX,popkart.tv
   - DOMAIN-SUFFIX,popkx.com
+  - DOMAIN-SUFFIX,popmanga.com
   - DOMAIN-SUFFIX,popmart.com
   - DOMAIN-SUFFIX,popmsg.com
   - DOMAIN-SUFFIX,popoho.com
@@ -39676,6 +39679,7 @@ payload:
   - DOMAIN-SUFFIX,qshang.com
   - DOMAIN-SUFFIX,qsk666.com
   - DOMAIN-SUFFIX,qskimg.com
+  - DOMAIN-SUFFIX,qsmh.vip
   - DOMAIN-SUFFIX,qspfw.com
   - DOMAIN-SUFFIX,qsptv.com
   - DOMAIN-SUFFIX,qsrating.com
@@ -51916,6 +51920,7 @@ payload:
   - DOMAIN-SUFFIX,xinyu19.com
   - DOMAIN-SUFFIX,xinyuefei.com
   - DOMAIN-SUFFIX,xinyueseo.com
+  - DOMAIN-SUFFIX,xinyukj99.com
   - DOMAIN-SUFFIX,xinyunfuwu.com
   - DOMAIN-SUFFIX,xinyunji.com
   - DOMAIN-SUFFIX,xinyuwanju.com
@@ -52797,6 +52802,7 @@ payload:
   - DOMAIN-SUFFIX,xxmh223.com
   - DOMAIN-SUFFIX,xxmh225.com
   - DOMAIN-SUFFIX,xxmh226.com
+  - DOMAIN-SUFFIX,xxmh268.com
   - DOMAIN-SUFFIX,xxmh81.com
   - DOMAIN-SUFFIX,xxnets.net
   - DOMAIN-SUFFIX,xxnmcd.com
