@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM5NjEzMAo=
+# Checksum: MTYwOTQwNzE3Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20201231-2
-# TimeUpdated: 2020-12-31T06:28:50+00:00
+# Version: 1.2.9-20201231-3
+# TimeUpdated: 2020-12-31T09:32:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2635,7 +2635,6 @@ DOMAIN-SUFFIX,360che.com
 DOMAIN-SUFFIX,360chezhan.com
 DOMAIN-SUFFIX,360chou.com
 DOMAIN-SUFFIX,360daigou.com
-DOMAIN-SUFFIX,360daikuan.com
 DOMAIN-SUFFIX,360dao.com
 DOMAIN-SUFFIX,360doc.com
 DOMAIN-SUFFIX,360doc2.net
@@ -8019,7 +8018,6 @@ DOMAIN-SUFFIX,apiadmin.org
 DOMAIN-SUFFIX,apicloud.com
 DOMAIN-SUFFIX,apieye.com
 DOMAIN-SUFFIX,apigwtencent.com
-DOMAIN-SUFFIX,apihub.icu
 DOMAIN-SUFFIX,apiview.com
 DOMAIN-SUFFIX,apizl.com
 DOMAIN-SUFFIX,apizza.cc
@@ -10150,6 +10148,7 @@ DOMAIN-SUFFIX,bjwkzl.com
 DOMAIN-SUFFIX,bjwsyy.com
 DOMAIN-SUFFIX,bjwyseo.com
 DOMAIN-SUFFIX,bjxatq.com
+DOMAIN-SUFFIX,bjxdxx.org
 DOMAIN-SUFFIX,bjxf315.com
 DOMAIN-SUFFIX,bjximei.com
 DOMAIN-SUFFIX,bjxinku.com
@@ -43259,6 +43258,7 @@ DOMAIN-SUFFIX,snh0048.com
 DOMAIN-SUFFIX,snh48.com
 DOMAIN-SUFFIX,snh48club.com
 DOMAIN-SUFFIX,sniec.net
+DOMAIN-SUFFIX,sniffercoin.com
 DOMAIN-SUFFIX,snimay.com
 DOMAIN-SUFFIX,snipe-stock.com
 DOMAIN-SUFFIX,snjairport.com

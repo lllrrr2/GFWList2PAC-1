@@ -1,7 +1,7 @@
-# Checksum: MTYwOTM5NjEzMAo=
+# Checksum: MTYwOTQwNzE3Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20201231-2
-# TimeUpdated: 2020-12-31T06:28:50+00:00
+# Version: 1.2.9-20201231-3
+# TimeUpdated: 2020-12-31T09:32:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2635,7 +2635,6 @@ domain:360che.com,
 domain:360chezhan.com,
 domain:360chou.com,
 domain:360daigou.com,
-domain:360daikuan.com,
 domain:360dao.com,
 domain:360doc.com,
 domain:360doc2.net,
@@ -8019,7 +8018,6 @@ domain:apiadmin.org,
 domain:apicloud.com,
 domain:apieye.com,
 domain:apigwtencent.com,
-domain:apihub.icu,
 domain:apiview.com,
 domain:apizl.com,
 domain:apizza.cc,
@@ -10150,6 +10148,7 @@ domain:bjwkzl.com,
 domain:bjwsyy.com,
 domain:bjwyseo.com,
 domain:bjxatq.com,
+domain:bjxdxx.org,
 domain:bjxf315.com,
 domain:bjximei.com,
 domain:bjxinku.com,
@@ -43259,6 +43258,7 @@ domain:snh0048.com,
 domain:snh48.com,
 domain:snh48club.com,
 domain:sniec.net,
+domain:sniffercoin.com,
 domain:snimay.com,
 domain:snipe-stock.com,
 domain:snjairport.com,
