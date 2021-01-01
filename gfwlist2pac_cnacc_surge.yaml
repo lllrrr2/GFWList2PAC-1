@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQ4MjQwNwo=
+# Checksum: MTYwOTQ5MzQ0OQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210101-2
-# TimeUpdated: 2021-01-01T06:26:47+00:00
+# Version: 1.2.9-20210101-3
+# TimeUpdated: 2021-01-01T09:30:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -459,6 +459,7 @@ DOMAIN-SUFFIX,0597ok.com
 DOMAIN-SUFFIX,0597seo.com
 DOMAIN-SUFFIX,0597zp.com
 DOMAIN-SUFFIX,0598777.com
+DOMAIN-SUFFIX,0598rc.com
 DOMAIN-SUFFIX,05bk.com
 DOMAIN-SUFFIX,05info.com
 DOMAIN-SUFFIX,05vm.com
@@ -3708,6 +3709,7 @@ DOMAIN-SUFFIX,51pgzs.com
 DOMAIN-SUFFIX,51php.com
 DOMAIN-SUFFIX,51piaozi.com
 DOMAIN-SUFFIX,51pigai.com
+DOMAIN-SUFFIX,51pintan.com
 DOMAIN-SUFFIX,51pinwei.com
 DOMAIN-SUFFIX,51pjmm.com
 DOMAIN-SUFFIX,51pla.com
@@ -7167,7 +7169,6 @@ DOMAIN-SUFFIX,aiduwenxue.com
 DOMAIN-SUFFIX,aiec-alliance.com
 DOMAIN-SUFFIX,aiegle.com
 DOMAIN-SUFFIX,aiemy.com
-DOMAIN-SUFFIX,aier021.com
 DOMAIN-SUFFIX,aier0755.com
 DOMAIN-SUFFIX,aierchina.com
 DOMAIN-SUFFIX,aiezu.com
@@ -19313,6 +19314,7 @@ DOMAIN-SUFFIX,feizao.tv
 DOMAIN-SUFFIX,feizhaojun.com
 DOMAIN-SUFFIX,feizhu.com
 DOMAIN-SUFFIX,feizl.com
+DOMAIN-SUFFIX,felearn.com
 DOMAIN-SUFFIX,feling.net
 DOMAIN-SUFFIX,felink.com
 DOMAIN-SUFFIX,felix021.com
@@ -46747,6 +46749,7 @@ DOMAIN-SUFFIX,tusij.com
 DOMAIN-SUFFIX,tusstar.com
 DOMAIN-SUFFIX,tusuku.com
 DOMAIN-SUFFIX,tutechanhb.com
+DOMAIN-SUFFIX,tutianer.com
 DOMAIN-SUFFIX,tutorialdocs.com
 DOMAIN-SUFFIX,tutraccoon.com
 DOMAIN-SUFFIX,tutu001.com

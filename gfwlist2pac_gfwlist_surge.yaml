@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQ4MjQxNQo=
+# Checksum: MTYwOTQ5MzQ1OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210101-2
-# TimeUpdated: 2021-01-01T06:26:55+00:00
+# Version: 1.2.9-20210101-3
+# TimeUpdated: 2021-01-01T09:30:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -274,7 +274,6 @@ DOMAIN-SUFFIX,1680103kai.com
 DOMAIN-SUFFIX,1680180.com
 DOMAIN-SUFFIX,1680218.com
 DOMAIN-SUFFIX,168156.kski599.zzux.com
-DOMAIN-SUFFIX,1683580.com
 DOMAIN-SUFFIX,1686200.com
 DOMAIN-SUFFIX,1688.com.au
 DOMAIN-SUFFIX,1688hg.com
@@ -2328,7 +2327,6 @@ DOMAIN-SUFFIX,anon.inf.tu-dresden.de
 DOMAIN-SUFFIX,anonasurf.com
 DOMAIN-SUFFIX,anonine.com
 DOMAIN-SUFFIX,anonproxy.eu
-DOMAIN-SUFFIX,anonquotes.com
 DOMAIN-SUFFIX,anontext.com
 DOMAIN-SUFFIX,anonymise.us
 DOMAIN-SUFFIX,anonymitynetwork.com
@@ -4556,7 +4554,6 @@ DOMAIN-SUFFIX,brutaltgp.com
 DOMAIN-SUFFIX,bryantville.net
 DOMAIN-SUFFIX,bryce.ws
 DOMAIN-SUFFIX,bs-adreview.com
-DOMAIN-SUFFIX,bs988.com
 DOMAIN-SUFFIX,bsdrp.net
 DOMAIN-SUFFIX,bskgrp.com
 DOMAIN-SUFFIX,bss.pppsong.com

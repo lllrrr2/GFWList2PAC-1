@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQ4MjQxNQo=
+# Checksum: MTYwOTQ5MzQ1OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210101-2
-# TimeUpdated: 2021-01-01T06:26:55+00:00
+# Version: 1.2.9-20210101-3
+# TimeUpdated: 2021-01-01T09:30:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -274,7 +274,6 @@ domain:1680103kai.com,
 domain:1680180.com,
 domain:1680218.com,
 domain:168156.kski599.zzux.com,
-domain:1683580.com,
 domain:1686200.com,
 domain:1688.com.au,
 domain:1688hg.com,
@@ -2328,7 +2327,6 @@ domain:anon.inf.tu-dresden.de,
 domain:anonasurf.com,
 domain:anonine.com,
 domain:anonproxy.eu,
-domain:anonquotes.com,
 domain:anontext.com,
 domain:anonymise.us,
 domain:anonymitynetwork.com,
@@ -4556,7 +4554,6 @@ domain:brutaltgp.com,
 domain:bryantville.net,
 domain:bryce.ws,
 domain:bs-adreview.com,
-domain:bs988.com,
 domain:bsdrp.net,
 domain:bskgrp.com,
 domain:bss.pppsong.com,

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQ4MjQwNwo=
+# Checksum: MTYwOTQ5MzQ0OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210101-2
-# TimeUpdated: 2021-01-01T06:26:47+00:00
+# Version: 1.2.9-20210101-3
+# TimeUpdated: 2021-01-01T09:30:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -459,6 +459,7 @@ domain:0597ok.com,
 domain:0597seo.com,
 domain:0597zp.com,
 domain:0598777.com,
+domain:0598rc.com,
 domain:05bk.com,
 domain:05info.com,
 domain:05vm.com,
@@ -3708,6 +3709,7 @@ domain:51pgzs.com,
 domain:51php.com,
 domain:51piaozi.com,
 domain:51pigai.com,
+domain:51pintan.com,
 domain:51pinwei.com,
 domain:51pjmm.com,
 domain:51pla.com,
@@ -7167,7 +7169,6 @@ domain:aiduwenxue.com,
 domain:aiec-alliance.com,
 domain:aiegle.com,
 domain:aiemy.com,
-domain:aier021.com,
 domain:aier0755.com,
 domain:aierchina.com,
 domain:aiezu.com,
@@ -19313,6 +19314,7 @@ domain:feizao.tv,
 domain:feizhaojun.com,
 domain:feizhu.com,
 domain:feizl.com,
+domain:felearn.com,
 domain:feling.net,
 domain:felink.com,
 domain:felix021.com,
@@ -46747,6 +46749,7 @@ domain:tusij.com,
 domain:tusstar.com,
 domain:tusuku.com,
 domain:tutechanhb.com,
+domain:tutianer.com,
 domain:tutorialdocs.com,
 domain:tutraccoon.com,
 domain:tutu001.com,
