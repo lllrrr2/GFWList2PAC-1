@@ -1,7 +1,7 @@
-# Checksum: MTYwOTUwNDI2Nwo=
+# Checksum: MTYwOTUxNDU1Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210101-4
-# TimeUpdated: 2021-01-01T12:31:07+00:00
+# Version: 1.2.9-20210101-5
+# TimeUpdated: 2021-01-01T15:22:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2409,6 +2409,7 @@ domain:30xz.com,
 domain:310game.com,
 domain:310s-2520.com,
 domain:310win.com,
+domain:311ksw.com,
 domain:311wan.com,
 domain:312168.com,
 domain:312green.com,
@@ -42015,6 +42016,7 @@ domain:shenguang.com,
 domain:shengxiao.net,
 domain:shengyeji.com,
 domain:shengyidi.com,
+domain:shengyouxi.com,
 domain:shengzehr.com,
 domain:shengzhaoli.com,
 domain:shengzhouyigou.com,
@@ -42209,6 +42211,7 @@ domain:shisongya.com,
 domain:shisrd.com,
 domain:shisuint.org,
 domain:shit.name,
+domain:shitac.com,
 domain:shitianxia.vip,
 domain:shitibaodian.com,
 domain:shitongaf.com,
