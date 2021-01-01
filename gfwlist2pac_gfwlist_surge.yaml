@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQ2MzIzNAo=
+# Checksum: MTYwOTQ3MTk3OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210101-0
-# TimeUpdated: 2021-01-01T01:07:14+00:00
+# Version: 1.2.9-20210101-1
+# TimeUpdated: 2021-01-01T03:32:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2478,7 +2478,6 @@ DOMAIN-SUFFIX,appbridge.io
 DOMAIN-SUFFIX,appbridge.it
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,appcloud.com
-DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,appdownload.qm2500.com
 DOMAIN-SUFFIX,appdownloader.net
 DOMAIN-SUFFIX,appdynamics.com

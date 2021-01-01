@@ -1,7 +1,7 @@
-# Checksum: MTYwOTQ2MzIyNwo=
+# Checksum: MTYwOTQ3MTk2OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210101-0
-# TimeUpdated: 2021-01-01T01:07:07+00:00
+# Version: 1.2.9-20210101-1
+# TimeUpdated: 2021-01-01T03:32:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -11974,6 +11974,7 @@ domain:changtu.com,
 domain:changtu8.com,
 domain:changweibo.com,
 domain:changweibo.net,
+domain:changxie.com,
 domain:changxingyun.com,
 domain:changyan.com,
 domain:changyifan.com,
@@ -18999,6 +19000,7 @@ domain:fangzhipeng.com,
 domain:fangzhizao.com,
 domain:fangzhur.com,
 domain:fangzongguan.com,
+domain:fanhai8.com,
 domain:fanhaobai.com,
 domain:fanhaoyue.com,
 domain:fanhonghua.net,
@@ -35145,6 +35147,7 @@ domain:mubie.net,
 domain:mubu.com,
 domain:mubu.io,
 domain:mucai-china.com,
+domain:mucaipin.com,
 domain:mucf.cc,
 domain:mucfc.com,
 domain:muchangqing.com,
