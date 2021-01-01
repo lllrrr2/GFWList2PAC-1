@@ -1,7 +1,7 @@
-# Checksum: MTYwOTUxNDU1Mwo=
+# Checksum: MTYwOTUyNjU1Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210101-5
-# TimeUpdated: 2021-01-01T15:22:33+00:00
+# Version: 1.2.9-20210101-6
+# TimeUpdated: 2021-01-01T18:42:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2814,7 +2814,6 @@ domain:3699.cc,
 domain:36990.com,
 domain:36992.com,
 domain:369beauty.com,
-domain:369cc.com,
 domain:369gc.com,
 domain:369wenku.com,
 domain:369xxw.com,
@@ -10940,7 +10939,6 @@ domain:c114.net,
 domain:c1ass.com,
 domain:c1s.com,
 domain:c2h4.org,
-domain:c32356.com,
 domain:c32375.com,
 domain:c32869.com,
 domain:c360dn.com,
@@ -11452,6 +11450,7 @@ domain:ccpithz.org,
 domain:ccpitjinan.org,
 domain:ccpitlight.org,
 domain:ccpitnmg.org,
+domain:ccpitqd.org,
 domain:ccpitsd.com,
 domain:ccpittex.com,
 domain:ccpittj.org,
@@ -16826,6 +16825,7 @@ domain:dongdongwenda.com,
 domain:dongdongyx.com,
 domain:dongdongzu.com,
 domain:dongdui.com,
+domain:dongeedu.com,
 domain:dongfang-wh.com,
 domain:dongfang77.com,
 domain:dongfang8.com,
@@ -42965,6 +42965,7 @@ domain:sjhl.cc,
 domain:sjhy.net,
 domain:sjmdh.com,
 domain:sjmeigao.com,
+domain:sjmw69.com,
 domain:sjmxx.com,
 domain:sjono.com,
 domain:sjpcw.com,

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTUxNDU2Mgo=
+# Checksum: MTYwOTUyNjU2MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210101-5
-# TimeUpdated: 2021-01-01T15:22:42+00:00
+# Version: 1.2.9-20210101-6
+# TimeUpdated: 2021-01-01T18:42:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -973,7 +973,6 @@ domain:559.flnet.org,
 domain:5595app.com,
 domain:5595nnn.com,
 domain:55afcp.com,
-domain:55hg.com,
 domain:55hg.com.com,
 domain:56.etowns.org,
 domain:56.flnet.org,

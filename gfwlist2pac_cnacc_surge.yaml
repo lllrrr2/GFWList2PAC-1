@@ -1,7 +1,7 @@
-# Checksum: MTYwOTUxNDU1Mwo=
+# Checksum: MTYwOTUyNjU1Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210101-5
-# TimeUpdated: 2021-01-01T15:22:33+00:00
+# Version: 1.2.9-20210101-6
+# TimeUpdated: 2021-01-01T18:42:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2814,7 +2814,6 @@ DOMAIN-SUFFIX,3699.cc
 DOMAIN-SUFFIX,36990.com
 DOMAIN-SUFFIX,36992.com
 DOMAIN-SUFFIX,369beauty.com
-DOMAIN-SUFFIX,369cc.com
 DOMAIN-SUFFIX,369gc.com
 DOMAIN-SUFFIX,369wenku.com
 DOMAIN-SUFFIX,369xxw.com
@@ -10940,7 +10939,6 @@ DOMAIN-SUFFIX,c114.net
 DOMAIN-SUFFIX,c1ass.com
 DOMAIN-SUFFIX,c1s.com
 DOMAIN-SUFFIX,c2h4.org
-DOMAIN-SUFFIX,c32356.com
 DOMAIN-SUFFIX,c32375.com
 DOMAIN-SUFFIX,c32869.com
 DOMAIN-SUFFIX,c360dn.com
@@ -11452,6 +11450,7 @@ DOMAIN-SUFFIX,ccpithz.org
 DOMAIN-SUFFIX,ccpitjinan.org
 DOMAIN-SUFFIX,ccpitlight.org
 DOMAIN-SUFFIX,ccpitnmg.org
+DOMAIN-SUFFIX,ccpitqd.org
 DOMAIN-SUFFIX,ccpitsd.com
 DOMAIN-SUFFIX,ccpittex.com
 DOMAIN-SUFFIX,ccpittj.org
@@ -16826,6 +16825,7 @@ DOMAIN-SUFFIX,dongdongwenda.com
 DOMAIN-SUFFIX,dongdongyx.com
 DOMAIN-SUFFIX,dongdongzu.com
 DOMAIN-SUFFIX,dongdui.com
+DOMAIN-SUFFIX,dongeedu.com
 DOMAIN-SUFFIX,dongfang-wh.com
 DOMAIN-SUFFIX,dongfang77.com
 DOMAIN-SUFFIX,dongfang8.com
@@ -42965,6 +42965,7 @@ DOMAIN-SUFFIX,sjhl.cc
 DOMAIN-SUFFIX,sjhy.net
 DOMAIN-SUFFIX,sjmdh.com
 DOMAIN-SUFFIX,sjmeigao.com
+DOMAIN-SUFFIX,sjmw69.com
 DOMAIN-SUFFIX,sjmxx.com
 DOMAIN-SUFFIX,sjono.com
 DOMAIN-SUFFIX,sjpcw.com
