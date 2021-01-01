@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTQ5MzQ0OQo=
+# Checksum: MTYwOTUwNDI2Nwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210101-3
-# TimeUpdated: 2021-01-01T09:30:49+00:00
+# Version: 1.2.9-20210101-4
+# TimeUpdated: 2021-01-01T12:31:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,0088dns.com
   - DOMAIN-SUFFIX,008gj.com
   - DOMAIN-SUFFIX,009.com
+  - DOMAIN-SUFFIX,00934.com
   - DOMAIN-SUFFIX,00991901.com
   - DOMAIN-SUFFIX,0099524.com
   - DOMAIN-SUFFIX,00997708.com
@@ -555,6 +556,7 @@ payload:
   - DOMAIN-SUFFIX,0758net.com
   - DOMAIN-SUFFIX,0759job.com
   - DOMAIN-SUFFIX,0759k.com
+  - DOMAIN-SUFFIX,0759yc.com
   - DOMAIN-SUFFIX,0760bw.com
   - DOMAIN-SUFFIX,0760rc.com
   - DOMAIN-SUFFIX,0762uu.com
@@ -2492,7 +2494,6 @@ payload:
   - DOMAIN-SUFFIX,323507.com
   - DOMAIN-SUFFIX,324.com
   - DOMAIN-SUFFIX,325286.com
-  - DOMAIN-SUFFIX,32668g.com
   - DOMAIN-SUFFIX,32800.com
   - DOMAIN-SUFFIX,328f.com
   - DOMAIN-SUFFIX,329329.com
@@ -4973,7 +4974,6 @@ payload:
   - DOMAIN-SUFFIX,68team.com
   - DOMAIN-SUFFIX,68tuku.com
   - DOMAIN-SUFFIX,68youhui.com
-  - DOMAIN-SUFFIX,68zhuan.com
   - DOMAIN-SUFFIX,6903.com
   - DOMAIN-SUFFIX,693836.com
   - DOMAIN-SUFFIX,6949.com
@@ -8043,6 +8043,7 @@ payload:
   - DOMAIN-SUFFIX,apmbooth.com
   - DOMAIN-SUFFIX,apmvista.com
   - DOMAIN-SUFFIX,apnring.com
+  - DOMAIN-SUFFIX,apogel.com
   - DOMAIN-SUFFIX,apollo.auto
   - DOMAIN-SUFFIX,apous.com
   - DOMAIN-SUFFIX,apowo.com
@@ -8372,6 +8373,7 @@ payload:
   - DOMAIN-SUFFIX,atcontainer.com
   - DOMAIN-SUFFIX,atelier39.org
   - DOMAIN-SUFFIX,atf.com
+  - DOMAIN-SUFFIX,atfeng.com
   - DOMAIN-SUFFIX,atguigu.com
   - DOMAIN-SUFFIX,athaitao.com
   - DOMAIN-SUFFIX,athmapp.com
@@ -9299,6 +9301,7 @@ payload:
   - DOMAIN-SUFFIX,bei1688.com
   - DOMAIN-SUFFIX,beian88.com
   - DOMAIN-SUFFIX,beianapi29.com
+  - DOMAIN-SUFFIX,beianapi30.com
   - DOMAIN-SUFFIX,beianbaba.com
   - DOMAIN-SUFFIX,beianidc.com
   - DOMAIN-SUFFIX,beianok.com
@@ -10253,7 +10256,6 @@ payload:
   - DOMAIN-SUFFIX,blocksite.cc
   - DOMAIN-SUFFIX,blockvalue.com
   - DOMAIN-SUFFIX,blog.anank.ke
-  - DOMAIN-SUFFIX,blog.htc.com
   - DOMAIN-SUFFIX,blog.htcvive.com
   - DOMAIN-SUFFIX,blog.tutorabc.com
   - DOMAIN-SUFFIX,blog.vive.com
@@ -13132,6 +13134,7 @@ payload:
   - DOMAIN-SUFFIX,chyfh.com
   - DOMAIN-SUFFIX,chyot.com
   - DOMAIN-SUFFIX,chyxx.com
+  - DOMAIN-SUFFIX,chzcq.com
   - DOMAIN-SUFFIX,chzhw.com
   - DOMAIN-SUFFIX,chzybj.com
   - DOMAIN-SUFFIX,ci123.com
@@ -14639,6 +14642,7 @@ payload:
   - DOMAIN-SUFFIX,crimoon.net
   - DOMAIN-SUFFIX,crjfw.com
   - DOMAIN-SUFFIX,crl.globalsign.net
+  - DOMAIN-SUFFIX,crl.kaspersky.com
   - DOMAIN-SUFFIX,crl.pki.goog
   - DOMAIN-SUFFIX,crlcn.com
   - DOMAIN-SUFFIX,crlf0710.com
@@ -23504,6 +23508,7 @@ payload:
   - DOMAIN-SUFFIX,hfsbpf.com
   - DOMAIN-SUFFIX,hfsid.com
   - DOMAIN-SUFFIX,hfssw.com
+  - DOMAIN-SUFFIX,hfswcz.com
   - DOMAIN-SUFFIX,hftogo.com
   - DOMAIN-SUFFIX,hftycj.com
   - DOMAIN-SUFFIX,hfun.me
@@ -32002,6 +32007,7 @@ payload:
   - DOMAIN-SUFFIX,linuxidc.com
   - DOMAIN-SUFFIX,linuxidc.net
   - DOMAIN-SUFFIX,linuxkiss.com
+  - DOMAIN-SUFFIX,linuxmi.com
   - DOMAIN-SUFFIX,linuxpanda.tech
   - DOMAIN-SUFFIX,linuxpk.com
   - DOMAIN-SUFFIX,linuxplus.org
@@ -33019,6 +33025,7 @@ payload:
   - DOMAIN-SUFFIX,lx.cok.elexapp.com
   - DOMAIN-SUFFIX,lx138.com
   - DOMAIN-SUFFIX,lx167.com
+  - DOMAIN-SUFFIX,lx2.cok.elexapp.com
   - DOMAIN-SUFFIX,lx3.cok.elexapp.com
   - DOMAIN-SUFFIX,lx598.com
   - DOMAIN-SUFFIX,lxall.net
@@ -34312,6 +34319,8 @@ payload:
   - DOMAIN-SUFFIX,miku.fm
   - DOMAIN-SUFFIX,mikuac.com
   - DOMAIN-SUFFIX,mikublog.com
+  - DOMAIN-SUFFIX,mikuclub.fun
+  - DOMAIN-SUFFIX,mikuclub.org
   - DOMAIN-SUFFIX,milan-bride.com
   - DOMAIN-SUFFIX,milanstand.com
   - DOMAIN-SUFFIX,milanvip.com
@@ -36512,6 +36521,7 @@ payload:
   - DOMAIN-SUFFIX,nuokui.com
   - DOMAIN-SUFFIX,nuomi.com
   - DOMAIN-SUFFIX,nuomi9.com
+  - DOMAIN-SUFFIX,nuomicikoi.com
   - DOMAIN-SUFFIX,nuonuo.com
   - DOMAIN-SUFFIX,nuoweb.com
   - DOMAIN-SUFFIX,nuozhan.com
@@ -43837,7 +43847,6 @@ payload:
   - DOMAIN-SUFFIX,starstech.tech
   - DOMAIN-SUFFIX,starstopic.com
   - DOMAIN-SUFFIX,starswar.org
-  - DOMAIN-SUFFIX,start.htc.com
   - DOMAIN-SUFFIX,start.htcsense.com
   - DOMAIN-SUFFIX,starting2000.com
   - DOMAIN-SUFFIX,startos.com
@@ -46039,6 +46048,7 @@ payload:
   - DOMAIN-SUFFIX,tohuo.com
   - DOMAIN-SUFFIX,toidea.com
   - DOMAIN-SUFFIX,tok9.com
+  - DOMAIN-SUFFIX,token.im
   - DOMAIN-SUFFIX,tokenglish.com
   - DOMAIN-SUFFIX,tokenpocket.pro
   - DOMAIN-SUFFIX,tokensky.net
@@ -50513,11 +50523,11 @@ payload:
   - DOMAIN-SUFFIX,www.djivideos.com
   - DOMAIN-SUFFIX,www.ericsson.com
   - DOMAIN-SUFFIX,www.gstatic.com
-  - DOMAIN-SUFFIX,www.htc.com
   - DOMAIN-SUFFIX,www.htcsense.com
   - DOMAIN-SUFFIX,www.htcvive.com
   - DOMAIN-SUFFIX,www.ibm.com
   - DOMAIN-SUFFIX,www.intel.com
+  - DOMAIN-SUFFIX,www.kaspersky.com
   - DOMAIN-SUFFIX,www.microsoft.com
   - DOMAIN-SUFFIX,www.nike.com
   - DOMAIN-SUFFIX,www.pandora.net
