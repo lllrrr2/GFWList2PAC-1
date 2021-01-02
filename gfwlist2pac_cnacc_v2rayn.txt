@@ -1,7 +1,7 @@
-# Checksum: MTYwOTU2ODc5NAo=
+# Checksum: MTYwOTU3OTc5NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210102-2
-# TimeUpdated: 2021-01-02T06:26:34+00:00
+# Version: 1.2.9-20210102-3
+# TimeUpdated: 2021-01-02T09:29:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -444,6 +444,7 @@ domain:0577home.net,
 domain:0577hr.com,
 domain:0577qiche.com,
 domain:0578rencai.com,
+domain:0579dm.com,
 domain:0579fw.com,
 domain:0591job.com,
 domain:05927.com,
@@ -4398,7 +4399,6 @@ domain:583go.com,
 domain:5858.com,
 domain:585998d.com,
 domain:5866.com,
-domain:587c51.com,
 domain:58801hn.com,
 domain:5884.com,
 domain:5887.com,
@@ -13418,6 +13418,7 @@ domain:cloudroom.com,
 domain:cloudsation.com,
 domain:cloudsee.com,
 domain:cloudsgis.com,
+domain:cloudsmobi.com,
 domain:cloudsohu.net,
 domain:cloudtopo.com,
 domain:cloudtrans.com,

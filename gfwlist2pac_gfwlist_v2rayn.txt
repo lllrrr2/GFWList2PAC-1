@@ -1,7 +1,7 @@
-# Checksum: MTYwOTU2ODgwMwo=
+# Checksum: MTYwOTU3OTgwMgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210102-2
-# TimeUpdated: 2021-01-02T06:26:43+00:00
+# Version: 1.2.9-20210102-3
+# TimeUpdated: 2021-01-02T09:30:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1304,7 +1304,6 @@ domain:8f5cs.j5.biz.tm,
 domain:8muses.com,
 domain:8news.com.tw,
 domain:8proxy.com,
-domain:8qse2eq.x.incapdns.net,
 domain:8teenxxx.com,
 domain:8tube.com,
 domain:8z1.net,
@@ -2287,6 +2286,7 @@ domain:apiary.io,
 domain:apic.pinnacle.com,
 domain:apigee.com,
 domain:apisof.net,
+domain:apjforex.com,
 domain:apk-dl.com,
 domain:apk.asso.st,
 domain:apk.fr.cr,
