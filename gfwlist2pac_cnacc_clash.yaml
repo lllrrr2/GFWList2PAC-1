@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTU5MDU2Ngo=
+# Checksum: MTYwOTYwMDkxNgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210102-4
-# TimeUpdated: 2021-01-02T12:29:26+00:00
+# Version: 1.2.9-20210102-5
+# TimeUpdated: 2021-01-02T15:21:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -64,7 +64,6 @@ payload:
   - DOMAIN-SUFFIX,009y.com
   - DOMAIN-SUFFIX,00bx.com
   - DOMAIN-SUFFIX,00cdn.com
-  - DOMAIN-SUFFIX,00cf.com
   - DOMAIN-SUFFIX,00cha.com
   - DOMAIN-SUFFIX,00cha.net
   - DOMAIN-SUFFIX,00ic.com
@@ -8197,6 +8196,7 @@ payload:
   - DOMAIN-SUFFIX,arctime.org
   - DOMAIN-SUFFIX,ardme.net
   - DOMAIN-SUFFIX,ardsec.com
+  - DOMAIN-SUFFIX,areachina.com
   - DOMAIN-SUFFIX,arebz.com
   - DOMAIN-SUFFIX,arefly.com
   - DOMAIN-SUFFIX,ares.dl.playstation.net
@@ -8698,7 +8698,6 @@ payload:
   - DOMAIN-SUFFIX,baicizhan.org
   - DOMAIN-SUFFIX,baiclouds.com
   - DOMAIN-SUFFIX,baicmotor.com
-  - DOMAIN-SUFFIX,baicmotorsales.com
   - DOMAIN-SUFFIX,baicuoa.com
   - DOMAIN-SUFFIX,baidajob.com
   - DOMAIN-SUFFIX,baidd.com
@@ -50140,7 +50139,6 @@ payload:
   - DOMAIN-SUFFIX,woxuexue.com
   - DOMAIN-SUFFIX,woxuyuan.com
   - DOMAIN-SUFFIX,woyao998.com
-  - DOMAIN-SUFFIX,woyaobaoliang.com
   - DOMAIN-SUFFIX,woyaofanyi.com
   - DOMAIN-SUFFIX,woyaogexing.com
   - DOMAIN-SUFFIX,woyaommm.com

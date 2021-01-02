@@ -1,7 +1,7 @@
-# Checksum: MTYwOTU5MDU2Ngo=
+# Checksum: MTYwOTYwMDkxNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210102-4
-# TimeUpdated: 2021-01-02T12:29:26+00:00
+# Version: 1.2.9-20210102-5
+# TimeUpdated: 2021-01-02T15:21:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -63,7 +63,6 @@ domain:00997708.com,
 domain:009y.com,
 domain:00bx.com,
 domain:00cdn.com,
-domain:00cf.com,
 domain:00cha.com,
 domain:00cha.net,
 domain:00ic.com,
@@ -8196,6 +8195,7 @@ domain:archsummit.com,
 domain:arctime.org,
 domain:ardme.net,
 domain:ardsec.com,
+domain:areachina.com,
 domain:arebz.com,
 domain:arefly.com,
 domain:ares.dl.playstation.net,
@@ -8697,7 +8697,6 @@ domain:baicizhan.com,
 domain:baicizhan.org,
 domain:baiclouds.com,
 domain:baicmotor.com,
-domain:baicmotorsales.com,
 domain:baicuoa.com,
 domain:baidajob.com,
 domain:baidd.com,
@@ -50139,7 +50138,6 @@ domain:woxiu.com,
 domain:woxuexue.com,
 domain:woxuyuan.com,
 domain:woyao998.com,
-domain:woyaobaoliang.com,
 domain:woyaofanyi.com,
 domain:woyaogexing.com,
 domain:woyaommm.com,
