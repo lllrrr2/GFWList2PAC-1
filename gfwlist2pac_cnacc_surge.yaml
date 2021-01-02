@@ -1,7 +1,7 @@
-# Checksum: MTYwOTU1ODM2OAo=
+# Checksum: MTYwOTU2ODc5NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210102-1
-# TimeUpdated: 2021-01-02T03:32:48+00:00
+# Version: 1.2.9-20210102-2
+# TimeUpdated: 2021-01-02T06:26:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -646,7 +646,6 @@ DOMAIN-SUFFIX,0915home.com
 DOMAIN-SUFFIX,091601.com
 DOMAIN-SUFFIX,0916auto.com
 DOMAIN-SUFFIX,0917.com
-DOMAIN-SUFFIX,0919123.com
 DOMAIN-SUFFIX,0931lanzhou.com
 DOMAIN-SUFFIX,0937js.com
 DOMAIN-SUFFIX,09418.com
@@ -1296,6 +1295,7 @@ DOMAIN-SUFFIX,160yx.com
 DOMAIN-SUFFIX,161580.com
 DOMAIN-SUFFIX,1616.net
 DOMAIN-SUFFIX,16163.com
+DOMAIN-SUFFIX,1616dh.com
 DOMAIN-SUFFIX,1616n.com
 DOMAIN-SUFFIX,161856.com
 DOMAIN-SUFFIX,161gg.com
@@ -7486,6 +7486,7 @@ DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabacapital.com
 DOMAIN-SUFFIX,alibabacorp.com
+DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alibabafuturehotel.com
 DOMAIN-SUFFIX,alibabagroup.com
 DOMAIN-SUFFIX,alibabaonline.com
@@ -9381,7 +9382,6 @@ DOMAIN-SUFFIX,beiyuu.com
 DOMAIN-SUFFIX,beiyxiu.com
 DOMAIN-SUFFIX,beizigen.com
 DOMAIN-SUFFIX,beiziman.com
-DOMAIN-SUFFIX,bej9.com
 DOMAIN-SUFFIX,bejoin.net
 DOMAIN-SUFFIX,bejson.com
 DOMAIN-SUFFIX,belfone.com
@@ -13036,6 +13036,7 @@ DOMAIN-SUFFIX,chuangyejia.vip
 DOMAIN-SUFFIX,chuangyejian.com
 DOMAIN-SUFFIX,chuangyejmw.com
 DOMAIN-SUFFIX,chuangyemeng.com
+DOMAIN-SUFFIX,chuangyezhu.com
 DOMAIN-SUFFIX,chuangyijisu.com
 DOMAIN-SUFFIX,chuangyouqi.com
 DOMAIN-SUFFIX,chuangzaoshi.com
@@ -14934,6 +14935,7 @@ DOMAIN-SUFFIX,cuiqingcai.com
 DOMAIN-SUFFIX,cuirushi.com
 DOMAIN-SUFFIX,cuishuai.cc
 DOMAIN-SUFFIX,cuiuc.com
+DOMAIN-SUFFIX,cuixx.com
 DOMAIN-SUFFIX,cuiyongjian.com
 DOMAIN-SUFFIX,cuizl.com
 DOMAIN-SUFFIX,cuketest.com
@@ -21099,6 +21101,8 @@ DOMAIN-SUFFIX,gllue.me
 DOMAIN-SUFFIX,glmama.com
 DOMAIN-SUFFIX,glmei.net
 DOMAIN-SUFFIX,global-harbor.com
+DOMAIN-SUFFIX,global-ict.cn
+DOMAIN-SUFFIX,global-idc.net
 DOMAIN-SUFFIX,global-jf.com
 DOMAIN-SUFFIX,globalaccentchinese.com
 DOMAIN-SUFFIX,globalbuy.cc
@@ -26844,6 +26848,7 @@ DOMAIN-SUFFIX,iswifting.com
 DOMAIN-SUFFIX,it-api.com
 DOMAIN-SUFFIX,it-bound.com
 DOMAIN-SUFFIX,it-crazy.net
+DOMAIN-SUFFIX,it-global.cn
 DOMAIN-SUFFIX,it-home.org
 DOMAIN-SUFFIX,it-shit.com
 DOMAIN-SUFFIX,it.link
@@ -43755,6 +43760,7 @@ DOMAIN-SUFFIX,ssldun.com
 DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,ssmec.com
 DOMAIN-SUFFIX,ssnewyork.com
+DOMAIN-SUFFIX,ssnm.xyz
 DOMAIN-SUFFIX,ssnn.net
 DOMAIN-SUFFIX,ssofair.com
 DOMAIN-SUFFIX,ssoomm.com
@@ -47028,6 +47034,7 @@ DOMAIN-SUFFIX,ubuntukylin.org
 DOMAIN-SUFFIX,ubuntuqa.com
 DOMAIN-SUFFIX,ubuuk.com
 DOMAIN-SUFFIX,uc-union.com
+DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,uc108.com
 DOMAIN-SUFFIX,uc123.com
 DOMAIN-SUFFIX,uc129.com
