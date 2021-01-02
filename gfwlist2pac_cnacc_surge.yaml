@@ -1,7 +1,7 @@
-# Checksum: MTYwOTYwMDkxNgo=
+# Checksum: MTYwOTYxMjg3MQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210102-5
-# TimeUpdated: 2021-01-02T15:21:56+00:00
+# Version: 1.2.9-20210102-6
+# TimeUpdated: 2021-01-02T18:41:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -465,6 +465,7 @@ DOMAIN-SUFFIX,05bk.com
 DOMAIN-SUFFIX,05info.com
 DOMAIN-SUFFIX,05vm.com
 DOMAIN-SUFFIX,05wan.com
+DOMAIN-SUFFIX,062616.com
 DOMAIN-SUFFIX,063108.com
 DOMAIN-SUFFIX,0632idc.com
 DOMAIN-SUFFIX,0634.com
@@ -9698,6 +9699,7 @@ DOMAIN-SUFFIX,bili.com
 DOMAIN-SUFFIX,bilibii.com
 DOMAIN-SUFFIX,bilibili.co
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.ru
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilicraft.com
 DOMAIN-SUFFIX,biligame.com
@@ -11394,6 +11396,7 @@ DOMAIN-SUFFIX,ccjkwjjedu.com
 DOMAIN-SUFFIX,ccjoin.com
 DOMAIN-SUFFIX,ccjoyland.com
 DOMAIN-SUFFIX,ccjt.net
+DOMAIN-SUFFIX,ccjzzj.com
 DOMAIN-SUFFIX,cclcn.com
 DOMAIN-SUFFIX,cclexpo.com
 DOMAIN-SUFFIX,cclndx.com
@@ -12018,6 +12021,7 @@ DOMAIN-SUFFIX,chaoliutai.com
 DOMAIN-SUFFIX,chaolongbus.com
 DOMAIN-SUFFIX,chaomengdata.com
 DOMAIN-SUFFIX,chaomi.cc
+DOMAIN-SUFFIX,chaomo25.com
 DOMAIN-SUFFIX,chaonanrc.com
 DOMAIN-SUFFIX,chaonei.com
 DOMAIN-SUFFIX,chaonengjie.com
@@ -38910,6 +38914,7 @@ DOMAIN-SUFFIX,qiancheng.me
 DOMAIN-SUFFIX,qianchengriben.com
 DOMAIN-SUFFIX,qiandaqian.com
 DOMAIN-SUFFIX,qiandd.com
+DOMAIN-SUFFIX,qianduan.com
 DOMAIN-SUFFIX,qianduan.net
 DOMAIN-SUFFIX,qianduanblog.com
 DOMAIN-SUFFIX,qiandw.com
@@ -39252,6 +39257,7 @@ DOMAIN-SUFFIX,qinxue.com
 DOMAIN-SUFFIX,qinxue100.com
 DOMAIN-SUFFIX,qinxue365.com
 DOMAIN-SUFFIX,qinxuye.me
+DOMAIN-SUFFIX,qinyi.net
 DOMAIN-SUFFIX,qinyipu.com
 DOMAIN-SUFFIX,qinzc.me
 DOMAIN-SUFFIX,qinzhe.com
