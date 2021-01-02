@@ -1,7 +1,7 @@
-# Checksum: MTYwOTU3OTgwMgo=
+# Checksum: MTYwOTU5MDU3Mwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210102-3
-# TimeUpdated: 2021-01-02T09:30:02+00:00
+# Version: 1.2.9-20210102-4
+# TimeUpdated: 2021-01-02T12:29:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2286,7 +2286,6 @@ DOMAIN-SUFFIX,apiary.io,PROXY
 DOMAIN-SUFFIX,apic.pinnacle.com,PROXY
 DOMAIN-SUFFIX,apigee.com,PROXY
 DOMAIN-SUFFIX,apisof.net,PROXY
-DOMAIN-SUFFIX,apjforex.com,PROXY
 DOMAIN-SUFFIX,apk-dl.com,PROXY
 DOMAIN-SUFFIX,apk.asso.st,PROXY
 DOMAIN-SUFFIX,apk.fr.cr,PROXY
@@ -2604,7 +2603,6 @@ DOMAIN-SUFFIX,askjelly.com,PROXY
 DOMAIN-SUFFIX,askstudent.com,PROXY
 DOMAIN-SUFFIX,askubuntu.com,PROXY
 DOMAIN-SUFFIX,aslbeauty.byethost7.com,PROXY
-DOMAIN-SUFFIX,aslzg.x.incapdns.net,PROXY
 DOMAIN-SUFFIX,asnebula.cf,PROXY
 DOMAIN-SUFFIX,asp.net,PROXY
 DOMAIN-SUFFIX,aspj.aircrack-ng.org,PROXY
@@ -4162,7 +4160,6 @@ DOMAIN-SUFFIX,bnews.co,PROXY
 DOMAIN-SUFFIX,bnn.co,PROXY
 DOMAIN-SUFFIX,bnrmetal.com,PROXY
 DOMAIN-SUFFIX,bo.biz.tm,PROXY
-DOMAIN-SUFFIX,bo123g.com,PROXY
 DOMAIN-SUFFIX,bo92.ga,PROXY
 DOMAIN-SUFFIX,boardreader.com,PROXY
 DOMAIN-SUFFIX,boards.4chan.org,PROXY

@@ -1,7 +1,7 @@
-# Checksum: MTYwOTU3OTgwMgo=
+# Checksum: MTYwOTU5MDU3Mwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210102-3
-# TimeUpdated: 2021-01-02T09:30:02+00:00
+# Version: 1.2.9-20210102-4
+# TimeUpdated: 2021-01-02T12:29:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2286,7 +2286,6 @@ DOMAIN-SUFFIX,apiary.io
 DOMAIN-SUFFIX,apic.pinnacle.com
 DOMAIN-SUFFIX,apigee.com
 DOMAIN-SUFFIX,apisof.net
-DOMAIN-SUFFIX,apjforex.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apk.asso.st
 DOMAIN-SUFFIX,apk.fr.cr
@@ -2604,7 +2603,6 @@ DOMAIN-SUFFIX,askjelly.com
 DOMAIN-SUFFIX,askstudent.com
 DOMAIN-SUFFIX,askubuntu.com
 DOMAIN-SUFFIX,aslbeauty.byethost7.com
-DOMAIN-SUFFIX,aslzg.x.incapdns.net
 DOMAIN-SUFFIX,asnebula.cf
 DOMAIN-SUFFIX,asp.net
 DOMAIN-SUFFIX,aspj.aircrack-ng.org
@@ -4162,7 +4160,6 @@ DOMAIN-SUFFIX,bnews.co
 DOMAIN-SUFFIX,bnn.co
 DOMAIN-SUFFIX,bnrmetal.com
 DOMAIN-SUFFIX,bo.biz.tm
-DOMAIN-SUFFIX,bo123g.com
 DOMAIN-SUFFIX,bo92.ga
 DOMAIN-SUFFIX,boardreader.com
 DOMAIN-SUFFIX,boards.4chan.org

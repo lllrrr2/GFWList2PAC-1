@@ -1,7 +1,7 @@
-# Checksum: MTYwOTU3OTc5NAo=
+# Checksum: MTYwOTU5MDU2Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210102-3
-# TimeUpdated: 2021-01-02T09:29:54+00:00
+# Version: 1.2.9-20210102-4
+# TimeUpdated: 2021-01-02T12:29:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1923,7 +1923,6 @@ DOMAIN-SUFFIX,204801.xyz
 DOMAIN-SUFFIX,2048sj.com
 DOMAIN-SUFFIX,204u.com
 DOMAIN-SUFFIX,206dy.com
-DOMAIN-SUFFIX,2088062.com
 DOMAIN-SUFFIX,2088063.com
 DOMAIN-SUFFIX,208xs.com
 DOMAIN-SUFFIX,20qu.com
@@ -2054,6 +2053,7 @@ DOMAIN-SUFFIX,22dm.com
 DOMAIN-SUFFIX,22edu.com
 DOMAIN-SUFFIX,22ff.com
 DOMAIN-SUFFIX,22ff.org
+DOMAIN-SUFFIX,22hd.com
 DOMAIN-SUFFIX,22hyk.com
 DOMAIN-SUFFIX,22ja.com
 DOMAIN-SUFFIX,22k9.com
@@ -6508,7 +6508,6 @@ DOMAIN-SUFFIX,9fbank.com
 DOMAIN-SUFFIX,9first.com
 DOMAIN-SUFFIX,9fs.com
 DOMAIN-SUFFIX,9g.com
-DOMAIN-SUFFIX,9gaoding.com
 DOMAIN-SUFFIX,9gty.net
 DOMAIN-SUFFIX,9gui.net
 DOMAIN-SUFFIX,9hcom.com
@@ -8352,7 +8351,6 @@ DOMAIN-SUFFIX,assrt.net
 DOMAIN-SUFFIX,astestech.com
 DOMAIN-SUFFIX,asthis.net
 DOMAIN-SUFFIX,astorpiano.com
-DOMAIN-SUFFIX,astoutiao.com
 DOMAIN-SUFFIX,astrocn.org
 DOMAIN-SUFFIX,astron.ac
 DOMAIN-SUFFIX,aswetalk.net
@@ -9470,6 +9468,7 @@ DOMAIN-SUFFIX,bestwehotel.com
 DOMAIN-SUFFIX,bestweshop.com
 DOMAIN-SUFFIX,bestwing.me
 DOMAIN-SUFFIX,bet007.com
+DOMAIN-SUFFIX,bet63k.com
 DOMAIN-SUFFIX,bet7158.com
 DOMAIN-SUFFIX,bet810.vip
 DOMAIN-SUFFIX,bet91308.com
@@ -12717,7 +12716,6 @@ DOMAIN-SUFFIX,chinasb.org
 DOMAIN-SUFFIX,chinasbj.net
 DOMAIN-SUFFIX,chinasbjy.com
 DOMAIN-SUFFIX,chinasbsp.com
-DOMAIN-SUFFIX,chinascenic.com
 DOMAIN-SUFFIX,chinasciencejournal.com
 DOMAIN-SUFFIX,chinascrum.org
 DOMAIN-SUFFIX,chinasexq.com
@@ -22426,6 +22424,7 @@ DOMAIN-SUFFIX,haishui.cc
 DOMAIN-SUFFIX,haishun.com
 DOMAIN-SUFFIX,haitaibrowser.com
 DOMAIN-SUFFIX,haitaichina.com
+DOMAIN-SUFFIX,haitao.co
 DOMAIN-SUFFIX,haitao.com
 DOMAIN-SUFFIX,haitao8.com
 DOMAIN-SUFFIX,haitaocheng.com
@@ -31178,6 +31177,7 @@ DOMAIN-SUFFIX,ld246.com
 DOMAIN-SUFFIX,lday.me
 DOMAIN-SUFFIX,ldcang.com
 DOMAIN-SUFFIX,lddengine.com
+DOMAIN-SUFFIX,lddgo.net
 DOMAIN-SUFFIX,ldeng.com
 DOMAIN-SUFFIX,ldgmc.com
 DOMAIN-SUFFIX,ldmap.net
@@ -36546,6 +36546,8 @@ DOMAIN-SUFFIX,nvziwu.com
 DOMAIN-SUFFIX,nw-host.com
 DOMAIN-SUFFIX,nwenxue.com
 DOMAIN-SUFFIX,nwtongcheng.com
+DOMAIN-SUFFIX,nwxs2.com
+DOMAIN-SUFFIX,nwxs4.com
 DOMAIN-SUFFIX,nx5.com
 DOMAIN-SUFFIX,nxadmin.com
 DOMAIN-SUFFIX,nxboluo.com
@@ -48521,6 +48523,7 @@ DOMAIN-SUFFIX,wanredian.com
 DOMAIN-SUFFIX,wanrenxing.net
 DOMAIN-SUFFIX,wanshanshuju.com
 DOMAIN-SUFFIX,wanshh.com
+DOMAIN-SUFFIX,wanshhh.com
 DOMAIN-SUFFIX,wanshifu.com
 DOMAIN-SUFFIX,wanshitong.com
 DOMAIN-SUFFIX,wansongpu.com
@@ -50136,6 +50139,7 @@ DOMAIN-SUFFIX,woxiu.com
 DOMAIN-SUFFIX,woxuexue.com
 DOMAIN-SUFFIX,woxuyuan.com
 DOMAIN-SUFFIX,woyao998.com
+DOMAIN-SUFFIX,woyaobaoliang.com
 DOMAIN-SUFFIX,woyaofanyi.com
 DOMAIN-SUFFIX,woyaogexing.com
 DOMAIN-SUFFIX,woyaommm.com
