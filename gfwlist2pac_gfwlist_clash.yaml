@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTYxMjg3OQo=
+# Checksum: MTYwOTYyMjM5Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210102-6
-# TimeUpdated: 2021-01-02T18:41:19+00:00
+# Version: 1.2.9-20210102-7
+# TimeUpdated: 2021-01-02T21:19:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1409,7 +1409,6 @@ payload:
   - DOMAIN-SUFFIX,98298b.com
   - DOMAIN-SUFFIX,98298c.com
   - DOMAIN-SUFFIX,98298d.com
-  - DOMAIN-SUFFIX,98298f.com
   - DOMAIN-SUFFIX,98298g.com
   - DOMAIN-SUFFIX,98298i.com
   - DOMAIN-SUFFIX,98298w.com

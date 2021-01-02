@@ -1,7 +1,7 @@
-# Checksum: MTYwOTYxMjg3MQo=
+# Checksum: MTYwOTYyMjM4NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210102-6
-# TimeUpdated: 2021-01-02T18:41:11+00:00
+# Version: 1.2.9-20210102-7
+# TimeUpdated: 2021-01-02T21:19:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1044,7 +1044,6 @@ DOMAIN-SUFFIX,12227.com
 DOMAIN-SUFFIX,12248.net
 DOMAIN-SUFFIX,122park.com
 DOMAIN-SUFFIX,123.com
-DOMAIN-SUFFIX,12301china.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,12306bypass.com
 DOMAIN-SUFFIX,12308.com
@@ -19182,6 +19181,7 @@ DOMAIN-SUFFIX,fcgsnews.com
 DOMAIN-SUFFIX,fcgtt.com
 DOMAIN-SUFFIX,fcheche.com
 DOMAIN-SUFFIX,fcjob88.com
+DOMAIN-SUFFIX,fcloudpaas.com
 DOMAIN-SUFFIX,fcnes.com
 DOMAIN-SUFFIX,fcpiao.com
 DOMAIN-SUFFIX,fcrc114.com
@@ -19969,6 +19969,7 @@ DOMAIN-SUFFIX,freetstar.com
 DOMAIN-SUFFIX,freeuid.com
 DOMAIN-SUFFIX,freewhale.net
 DOMAIN-SUFFIX,freexs.org
+DOMAIN-SUFFIX,freeydch.com
 DOMAIN-SUFFIX,freeyun.com
 DOMAIN-SUFFIX,frensworkz.com
 DOMAIN-SUFFIX,freqchina.com
@@ -20427,6 +20428,7 @@ DOMAIN-SUFFIX,gamehome.tv
 DOMAIN-SUFFIX,gamehui.com
 DOMAIN-SUFFIX,gameinns.com
 DOMAIN-SUFFIX,gamekee.com
+DOMAIN-SUFFIX,gameloveman.com
 DOMAIN-SUFFIX,gamemei.com
 DOMAIN-SUFFIX,gameplay.intel.com
 DOMAIN-SUFFIX,gamept.com
@@ -57129,6 +57131,7 @@ DOMAIN-SUFFIX,zkh360.com
 DOMAIN-SUFFIX,zkhcsoft.com
 DOMAIN-SUFFIX,zkhcsy.com
 DOMAIN-SUFFIX,zkii.net
+DOMAIN-SUFFIX,zkk7.com
 DOMAIN-SUFFIX,zkl2333.com
 DOMAIN-SUFFIX,zknysp.com
 DOMAIN-SUFFIX,zksoftwaresz.com

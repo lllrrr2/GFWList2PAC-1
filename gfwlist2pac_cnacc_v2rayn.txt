@@ -1,7 +1,7 @@
-# Checksum: MTYwOTYxMjg3MQo=
+# Checksum: MTYwOTYyMjM4NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210102-6
-# TimeUpdated: 2021-01-02T18:41:11+00:00
+# Version: 1.2.9-20210102-7
+# TimeUpdated: 2021-01-02T21:19:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1044,7 +1044,6 @@ domain:12227.com,
 domain:12248.net,
 domain:122park.com,
 domain:123.com,
-domain:12301china.com,
 domain:12306.com,
 domain:12306bypass.com,
 domain:12308.com,
@@ -19182,6 +19181,7 @@ domain:fcgsnews.com,
 domain:fcgtt.com,
 domain:fcheche.com,
 domain:fcjob88.com,
+domain:fcloudpaas.com,
 domain:fcnes.com,
 domain:fcpiao.com,
 domain:fcrc114.com,
@@ -19969,6 +19969,7 @@ domain:freetstar.com,
 domain:freeuid.com,
 domain:freewhale.net,
 domain:freexs.org,
+domain:freeydch.com,
 domain:freeyun.com,
 domain:frensworkz.com,
 domain:freqchina.com,
@@ -20427,6 +20428,7 @@ domain:gamehome.tv,
 domain:gamehui.com,
 domain:gameinns.com,
 domain:gamekee.com,
+domain:gameloveman.com,
 domain:gamemei.com,
 domain:gameplay.intel.com,
 domain:gamept.com,
@@ -57129,6 +57131,7 @@ domain:zkh360.com,
 domain:zkhcsoft.com,
 domain:zkhcsy.com,
 domain:zkii.net,
+domain:zkk7.com,
 domain:zkl2333.com,
 domain:zknysp.com,
 domain:zksoftwaresz.com,
