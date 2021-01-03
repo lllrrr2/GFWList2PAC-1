@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTYzNjA4MQo=
+# Checksum: MTYwOTY0NDg5NAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210103-0
-# TimeUpdated: 2021-01-03T01:08:01+00:00
+# Version: 1.2.9-20210103-1
+# TimeUpdated: 2021-01-03T03:34:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5081,6 +5081,7 @@ payload:
   - DOMAIN-SUFFIX,chaterbate.com
   - DOMAIN-SUFFIX,chatnook.com
   - DOMAIN-SUFFIX,chatroom.456777.com
+  - DOMAIN-SUFFIX,chatroom.dsn02.co
   - DOMAIN-SUFFIX,chatroom.dsn201.co
   - DOMAIN-SUFFIX,chatroom1.1680170.com
   - DOMAIN-SUFFIX,chatter.com

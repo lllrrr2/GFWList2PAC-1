@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTYzNjA3Mwo=
+# Checksum: MTYwOTY0NDg4NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210103-0
-# TimeUpdated: 2021-01-03T01:07:53+00:00
+# Version: 1.2.9-20210103-1
+# TimeUpdated: 2021-01-03T03:34:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1868,7 +1868,6 @@ payload:
   - DOMAIN-SUFFIX,1ziyou.com
   - DOMAIN-SUFFIX,1zjob.com
   - DOMAIN-SUFFIX,1zr.com
-  - DOMAIN-SUFFIX,1zsoft.com
   - DOMAIN-SUFFIX,1zu.com
   - DOMAIN-SUFFIX,1zw.com
   - DOMAIN-SUFFIX,2-01-5830-0005.cdx.cedexis.net
@@ -12113,6 +12112,7 @@ payload:
   - DOMAIN-SUFFIX,cheflie.com
   - DOMAIN-SUFFIX,chefugao.com
   - DOMAIN-SUFFIX,cheguanyi.com
+  - DOMAIN-SUFFIX,chegun.com
   - DOMAIN-SUFFIX,cheguo.com
   - DOMAIN-SUFFIX,chehang168.com
   - DOMAIN-SUFFIX,chehejia.com
@@ -12714,6 +12714,7 @@ payload:
   - DOMAIN-SUFFIX,chinasbj.net
   - DOMAIN-SUFFIX,chinasbjy.com
   - DOMAIN-SUFFIX,chinasbsp.com
+  - DOMAIN-SUFFIX,chinascenic.com
   - DOMAIN-SUFFIX,chinasciencejournal.com
   - DOMAIN-SUFFIX,chinascrum.org
   - DOMAIN-SUFFIX,chinasexq.com
@@ -30845,6 +30846,7 @@ payload:
   - DOMAIN-SUFFIX,lanbozb.com
   - DOMAIN-SUFFIX,lanbu.net
   - DOMAIN-SUFFIX,lancdn.com
+  - DOMAIN-SUFFIX,lancn.net
   - DOMAIN-SUFFIX,landai.com
   - DOMAIN-SUFFIX,landed.cc
   - DOMAIN-SUFFIX,landi.com

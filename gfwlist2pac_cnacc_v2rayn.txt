@@ -1,7 +1,7 @@
-# Checksum: MTYwOTYzNjA3Mwo=
+# Checksum: MTYwOTY0NDg4NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210103-0
-# TimeUpdated: 2021-01-03T01:07:53+00:00
+# Version: 1.2.9-20210103-1
+# TimeUpdated: 2021-01-03T03:34:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1867,7 +1867,6 @@ domain:1zhe.com,
 domain:1ziyou.com,
 domain:1zjob.com,
 domain:1zr.com,
-domain:1zsoft.com,
 domain:1zu.com,
 domain:1zw.com,
 domain:2-01-5830-0005.cdx.cedexis.net,
@@ -12112,6 +12111,7 @@ domain:chefans.com,
 domain:cheflie.com,
 domain:chefugao.com,
 domain:cheguanyi.com,
+domain:chegun.com,
 domain:cheguo.com,
 domain:chehang168.com,
 domain:chehejia.com,
@@ -12713,6 +12713,7 @@ domain:chinasb.org,
 domain:chinasbj.net,
 domain:chinasbjy.com,
 domain:chinasbsp.com,
+domain:chinascenic.com,
 domain:chinasciencejournal.com,
 domain:chinascrum.org,
 domain:chinasexq.com,
@@ -30844,6 +30845,7 @@ domain:lanbowanyouting.com,
 domain:lanbozb.com,
 domain:lanbu.net,
 domain:lancdn.com,
+domain:lancn.net,
 domain:landai.com,
 domain:landed.cc,
 domain:landi.com,
