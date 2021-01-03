@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY5OTI2MQo=
+# Checksum: MTYwOTcwODgzMwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210103-6
-# TimeUpdated: 2021-01-03T18:41:01+00:00
+# Version: 1.2.9-20210103-7
+# TimeUpdated: 2021-01-03T21:20:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6073,7 +6073,6 @@ DOMAIN-SUFFIX,91yixun.com
 DOMAIN-SUFFIX,91yk.com
 DOMAIN-SUFFIX,91yong.com
 DOMAIN-SUFFIX,91you.com
-DOMAIN-SUFFIX,91yuandian.com
 DOMAIN-SUFFIX,91yuedu.com
 DOMAIN-SUFFIX,91yunxiao.com
 DOMAIN-SUFFIX,91yunying.com
@@ -8566,6 +8565,7 @@ DOMAIN-SUFFIX,azfashao.com
 DOMAIN-SUFFIX,azg168.com
 DOMAIN-SUFFIX,azhituo.com
 DOMAIN-SUFFIX,azhjt.com
+DOMAIN-SUFFIX,azme-contractors.com
 DOMAIN-SUFFIX,azonvo.com
 DOMAIN-SUFFIX,azooo.com
 DOMAIN-SUFFIX,azoyacdn.com
@@ -9202,7 +9202,6 @@ DOMAIN-SUFFIX,bdall.com
 DOMAIN-SUFFIX,bdapark.com
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,bdc-rays.com
-DOMAIN-SUFFIX,bdddy.com
 DOMAIN-SUFFIX,bdf2.com
 DOMAIN-SUFFIX,bdf304.com
 DOMAIN-SUFFIX,bdfkb.com
@@ -9731,6 +9730,7 @@ DOMAIN-SUFFIX,bingsns.com
 DOMAIN-SUFFIX,bingtuannet.com
 DOMAIN-SUFFIX,bingwang.cc
 DOMAIN-SUFFIX,bingyan.net
+DOMAIN-SUFFIX,bingyoulm.com
 DOMAIN-SUFFIX,bingyublog.com
 DOMAIN-SUFFIX,bingzhilv.com
 DOMAIN-SUFFIX,binkery.com
@@ -10699,6 +10699,7 @@ DOMAIN-SUFFIX,budhano.com
 DOMAIN-SUFFIX,budongnvren.com
 DOMAIN-SUFFIX,budopian.com
 DOMAIN-SUFFIX,budou.com
+DOMAIN-SUFFIX,budueba.com
 DOMAIN-SUFFIX,bufan.com
 DOMAIN-SUFFIX,buffst.com
 DOMAIN-SUFFIX,bug200.com
@@ -11439,7 +11440,6 @@ DOMAIN-SUFFIX,ccpithz.org
 DOMAIN-SUFFIX,ccpitjinan.org
 DOMAIN-SUFFIX,ccpitlight.org
 DOMAIN-SUFFIX,ccpitnmg.org
-DOMAIN-SUFFIX,ccpitqd.org
 DOMAIN-SUFFIX,ccpitsd.com
 DOMAIN-SUFFIX,ccpittex.com
 DOMAIN-SUFFIX,ccpittj.org
@@ -16687,6 +16687,7 @@ DOMAIN-SUFFIX,dnsdun.com
 DOMAIN-SUFFIX,dnsfang.com
 DOMAIN-SUFFIX,dnsff.com
 DOMAIN-SUFFIX,dnsfwq.com
+DOMAIN-SUFFIX,dnsgtm.com
 DOMAIN-SUFFIX,dnshot.net
 DOMAIN-SUFFIX,dnsinside.net
 DOMAIN-SUFFIX,dnsis.net
@@ -18402,6 +18403,7 @@ DOMAIN-SUFFIX,epwksx.com
 DOMAIN-SUFFIX,eq-hl.com
 DOMAIN-SUFFIX,eq-xz.net
 DOMAIN-SUFFIX,eqblog.com
+DOMAIN-SUFFIX,eqbyc.com
 DOMAIN-SUFFIX,eqceshi.com
 DOMAIN-SUFFIX,eqding.com
 DOMAIN-SUFFIX,eqh5.com
@@ -24617,6 +24619,7 @@ DOMAIN-SUFFIX,huanghaicollege.com
 DOMAIN-SUFFIX,huanghaipress.com
 DOMAIN-SUFFIX,huanghanlian.com
 DOMAIN-SUFFIX,huanghecaifu.com
+DOMAIN-SUFFIX,huangheidc.com
 DOMAIN-SUFFIX,huanghepiao.com
 DOMAIN-SUFFIX,huanghouyz.com
 DOMAIN-SUFFIX,huangjiemin.com
@@ -38011,7 +38014,10 @@ DOMAIN-SUFFIX,piqs.com
 DOMAIN-SUFFIX,pisx.com
 DOMAIN-SUFFIX,piworker.com
 DOMAIN-SUFFIX,pix2code.net
+DOMAIN-SUFFIX,pixanalytics.com
+DOMAIN-SUFFIX,pixdns.tw
 DOMAIN-SUFFIX,pixelauth.com
+DOMAIN-SUFFIX,pixfs.net
 DOMAIN-SUFFIX,pixivacg.com
 DOMAIN-SUFFIX,pixivic.com
 DOMAIN-SUFFIX,pixivic.net
@@ -40082,6 +40088,7 @@ DOMAIN-SUFFIX,raindoe.com
 DOMAIN-SUFFIX,raineggplant.com
 DOMAIN-SUFFIX,rainersu.club
 DOMAIN-SUFFIX,rainhz.com
+DOMAIN-SUFFIX,rainjay.wang
 DOMAIN-SUFFIX,rainmanfloor.com
 DOMAIN-SUFFIX,rainyang.me
 DOMAIN-SUFFIX,rainyin.com
@@ -47097,6 +47104,7 @@ DOMAIN-SUFFIX,ueeshop.com
 DOMAIN-SUFFIX,ueibo.com
 DOMAIN-SUFFIX,uelike.com
 DOMAIN-SUFFIX,uemo.net
+DOMAIN-SUFFIX,uen2sxi.com
 DOMAIN-SUFFIX,ueren.com
 DOMAIN-SUFFIX,uestcedu.com
 DOMAIN-SUFFIX,uestcguoji.com

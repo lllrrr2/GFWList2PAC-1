@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY5OTI3MAo=
+# Checksum: MTYwOTcwODg0MAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210103-6
-# TimeUpdated: 2021-01-03T18:41:10+00:00
+# Version: 1.2.9-20210103-7
+# TimeUpdated: 2021-01-03T21:20:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5416,6 +5416,7 @@ domain:civilhrfront.org,
 domain:civiliangunner.com,
 domain:civilmedia.tw,
 domain:civisec.org,
+domain:cixiaoya.club,
 domain:cixp.net,
 domain:ck.juicyads.com,
 domain:ck101.com,
@@ -8182,6 +8183,7 @@ domain:fcebook.com,
 domain:fcebookk.com,
 domain:fcfacebook.com,
 domain:fcg101.com,
+domain:fcity888.com,
 domain:fcm.googleapis.com,
 domain:fcww95.com,
 domain:fczdcf.com,

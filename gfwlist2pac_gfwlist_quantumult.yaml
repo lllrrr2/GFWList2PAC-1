@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY5OTI3MAo=
+# Checksum: MTYwOTcwODg0MAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210103-6
-# TimeUpdated: 2021-01-03T18:41:10+00:00
+# Version: 1.2.9-20210103-7
+# TimeUpdated: 2021-01-03T21:20:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -5416,6 +5416,7 @@ DOMAIN-SUFFIX,civilhrfront.org,PROXY
 DOMAIN-SUFFIX,civiliangunner.com,PROXY
 DOMAIN-SUFFIX,civilmedia.tw,PROXY
 DOMAIN-SUFFIX,civisec.org,PROXY
+DOMAIN-SUFFIX,cixiaoya.club,PROXY
 DOMAIN-SUFFIX,cixp.net,PROXY
 DOMAIN-SUFFIX,ck.juicyads.com,PROXY
 DOMAIN-SUFFIX,ck101.com,PROXY
@@ -8182,6 +8183,7 @@ DOMAIN-SUFFIX,fcebook.com,PROXY
 DOMAIN-SUFFIX,fcebookk.com,PROXY
 DOMAIN-SUFFIX,fcfacebook.com,PROXY
 DOMAIN-SUFFIX,fcg101.com,PROXY
+DOMAIN-SUFFIX,fcity888.com,PROXY
 DOMAIN-SUFFIX,fcm.googleapis.com,PROXY
 DOMAIN-SUFFIX,fcww95.com,PROXY
 DOMAIN-SUFFIX,fczdcf.com,PROXY
