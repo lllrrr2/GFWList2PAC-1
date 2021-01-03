@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY0NDg4NQo=
+# Checksum: MTYwOTY1NTI0Ngo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210103-1
-# TimeUpdated: 2021-01-03T03:34:45+00:00
+# Version: 1.2.9-20210103-2
+# TimeUpdated: 2021-01-03T06:27:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -777,7 +777,6 @@ domain:100lw.com,
 domain:100market.net,
 domain:100md.com,
 domain:100mian.com,
-domain:100msh.net,
 domain:100niangudu.com,
 domain:100nike.com,
 domain:100njz.com,
@@ -3988,7 +3987,6 @@ domain:528529.com,
 domain:52892.com,
 domain:528btc.com,
 domain:528day.com,
-domain:529c31.com,
 domain:52ae.cc,
 domain:52ai.com,
 domain:52analysis.com,
