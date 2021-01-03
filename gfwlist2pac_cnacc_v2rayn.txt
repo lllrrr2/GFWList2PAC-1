@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY1NTI0Ngo=
+# Checksum: MTYwOTY2NjI3MAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210103-2
-# TimeUpdated: 2021-01-03T06:27:26+00:00
+# Version: 1.2.9-20210103-3
+# TimeUpdated: 2021-01-03T09:31:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2731,6 +2731,7 @@ domain:363u.com,
 domain:364000.com,
 domain:365112233.com,
 domain:365128.com,
+domain:36540s.com,
 domain:36543.com,
 domain:365500.com,
 domain:36578.com,
@@ -9873,7 +9874,6 @@ domain:bitu360.com,
 domain:bitvip.com,
 domain:biuapp.im,
 domain:biubiu001.com,
-domain:biubiubiu.org,
 domain:bivdu.com,
 domain:bivean.com,
 domain:biwanshequ.com,
@@ -46744,6 +46744,7 @@ domain:tutraccoon.com,
 domain:tutu001.com,
 domain:tutuapp.com,
 domain:tutucloud.com,
+domain:tutuera.com,
 domain:tutuge.me,
 domain:tutuim.com,
 domain:tutupan.com,
