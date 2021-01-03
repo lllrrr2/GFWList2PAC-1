@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY3NzAxNwo=
+# Checksum: MTYwOTY4NzMzOAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210103-4
-# TimeUpdated: 2021-01-03T12:30:17+00:00
+# Version: 1.2.9-20210103-5
+# TimeUpdated: 2021-01-03T15:22:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -17805,7 +17805,6 @@ DOMAIN-SUFFIX,sg-pls.com,PROXY
 DOMAIN-SUFFIX,sg-zxc.serverip.co,PROXY
 DOMAIN-SUFFIX,sg.news.yahoo.com,PROXY
 DOMAIN-SUFFIX,sg.pampered-chefs.com,PROXY
-DOMAIN-SUFFIX,sg138app.com,PROXY
 DOMAIN-SUFFIX,sgf-menziken.ch,PROXY
 DOMAIN-SUFFIX,sgp1.racingvpn.com,PROXY
 DOMAIN-SUFFIX,sgtsourcing.box.com,PROXY
@@ -19923,7 +19922,6 @@ DOMAIN-SUFFIX,tv3.tv322.yustu.net,PROXY
 DOMAIN-SUFFIX,tv3.usa.cc,PROXY
 DOMAIN-SUFFIX,tv365.ga,PROXY
 DOMAIN-SUFFIX,tv55.ga,PROXY
-DOMAIN-SUFFIX,tv555.ml,PROXY
 DOMAIN-SUFFIX,tv72.ga,PROXY
 DOMAIN-SUFFIX,tvants.com,PROXY
 DOMAIN-SUFFIX,tvappstore.net,PROXY
@@ -23092,7 +23090,6 @@ DOMAIN-SUFFIX,www.fanstop.net,PROXY
 DOMAIN-SUFFIX,www.farangdingdong.com,PROXY
 DOMAIN-SUFFIX,www.farglory-realty.com.tw,PROXY
 DOMAIN-SUFFIX,www.faroo.com,PROXY
-DOMAIN-SUFFIX,www.faropornotube.com,PROXY
 DOMAIN-SUFFIX,www.fast-ssr.org,PROXY
 DOMAIN-SUFFIX,www.fatbtc.com,PROXY
 DOMAIN-SUFFIX,www.fatrat.com,PROXY
@@ -23576,7 +23573,6 @@ DOMAIN-SUFFIX,www.imcreator.com,PROXY
 DOMAIN-SUFFIX,www.imdb.com,PROXY
 DOMAIN-SUFFIX,www.immoral.jp,PROXY
 DOMAIN-SUFFIX,www.imobifly.com,PROXY
-DOMAIN-SUFFIX,www.imonss.com,PROXY
 DOMAIN-SUFFIX,www.imsarah.com,PROXY
 DOMAIN-SUFFIX,www.imssx.com,PROXY
 DOMAIN-SUFFIX,www.inbeijing.se,PROXY
@@ -24714,7 +24710,6 @@ DOMAIN-SUFFIX,www.spendee.com,PROXY
 DOMAIN-SUFFIX,www.spia.com,PROXY
 DOMAIN-SUFFIX,www.spike.com,PROXY
 DOMAIN-SUFFIX,www.spin505.com,PROXY
-DOMAIN-SUFFIX,www.spin868.com,PROXY
 DOMAIN-SUFFIX,www.spin88.com,PROXY
 DOMAIN-SUFFIX,www.spreadtruedharma.org,PROXY
 DOMAIN-SUFFIX,www.spreaker.com,PROXY

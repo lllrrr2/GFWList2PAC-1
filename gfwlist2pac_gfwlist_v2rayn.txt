@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY3NzAxNwo=
+# Checksum: MTYwOTY4NzMzOAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210103-4
-# TimeUpdated: 2021-01-03T12:30:17+00:00
+# Version: 1.2.9-20210103-5
+# TimeUpdated: 2021-01-03T15:22:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -17805,7 +17805,6 @@ domain:sg-pls.com,
 domain:sg-zxc.serverip.co,
 domain:sg.news.yahoo.com,
 domain:sg.pampered-chefs.com,
-domain:sg138app.com,
 domain:sgf-menziken.ch,
 domain:sgp1.racingvpn.com,
 domain:sgtsourcing.box.com,
@@ -19923,7 +19922,6 @@ domain:tv3.tv322.yustu.net,
 domain:tv3.usa.cc,
 domain:tv365.ga,
 domain:tv55.ga,
-domain:tv555.ml,
 domain:tv72.ga,
 domain:tvants.com,
 domain:tvappstore.net,
@@ -23092,7 +23090,6 @@ domain:www.fanstop.net,
 domain:www.farangdingdong.com,
 domain:www.farglory-realty.com.tw,
 domain:www.faroo.com,
-domain:www.faropornotube.com,
 domain:www.fast-ssr.org,
 domain:www.fatbtc.com,
 domain:www.fatrat.com,
@@ -23576,7 +23573,6 @@ domain:www.imcreator.com,
 domain:www.imdb.com,
 domain:www.immoral.jp,
 domain:www.imobifly.com,
-domain:www.imonss.com,
 domain:www.imsarah.com,
 domain:www.imssx.com,
 domain:www.inbeijing.se,
@@ -24714,7 +24710,6 @@ domain:www.spendee.com,
 domain:www.spia.com,
 domain:www.spike.com,
 domain:www.spin505.com,
-domain:www.spin868.com,
 domain:www.spin88.com,
 domain:www.spreadtruedharma.org,
 domain:www.spreaker.com,

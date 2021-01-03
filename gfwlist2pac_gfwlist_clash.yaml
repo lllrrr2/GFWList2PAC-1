@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTY3NzAxNwo=
+# Checksum: MTYwOTY4NzMzOAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210103-4
-# TimeUpdated: 2021-01-03T12:30:17+00:00
+# Version: 1.2.9-20210103-5
+# TimeUpdated: 2021-01-03T15:22:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -17806,7 +17806,6 @@ payload:
   - DOMAIN-SUFFIX,sg-zxc.serverip.co
   - DOMAIN-SUFFIX,sg.news.yahoo.com
   - DOMAIN-SUFFIX,sg.pampered-chefs.com
-  - DOMAIN-SUFFIX,sg138app.com
   - DOMAIN-SUFFIX,sgf-menziken.ch
   - DOMAIN-SUFFIX,sgp1.racingvpn.com
   - DOMAIN-SUFFIX,sgtsourcing.box.com
@@ -19924,7 +19923,6 @@ payload:
   - DOMAIN-SUFFIX,tv3.usa.cc
   - DOMAIN-SUFFIX,tv365.ga
   - DOMAIN-SUFFIX,tv55.ga
-  - DOMAIN-SUFFIX,tv555.ml
   - DOMAIN-SUFFIX,tv72.ga
   - DOMAIN-SUFFIX,tvants.com
   - DOMAIN-SUFFIX,tvappstore.net
@@ -23093,7 +23091,6 @@ payload:
   - DOMAIN-SUFFIX,www.farangdingdong.com
   - DOMAIN-SUFFIX,www.farglory-realty.com.tw
   - DOMAIN-SUFFIX,www.faroo.com
-  - DOMAIN-SUFFIX,www.faropornotube.com
   - DOMAIN-SUFFIX,www.fast-ssr.org
   - DOMAIN-SUFFIX,www.fatbtc.com
   - DOMAIN-SUFFIX,www.fatrat.com
@@ -23577,7 +23574,6 @@ payload:
   - DOMAIN-SUFFIX,www.imdb.com
   - DOMAIN-SUFFIX,www.immoral.jp
   - DOMAIN-SUFFIX,www.imobifly.com
-  - DOMAIN-SUFFIX,www.imonss.com
   - DOMAIN-SUFFIX,www.imsarah.com
   - DOMAIN-SUFFIX,www.imssx.com
   - DOMAIN-SUFFIX,www.inbeijing.se
@@ -24715,7 +24711,6 @@ payload:
   - DOMAIN-SUFFIX,www.spia.com
   - DOMAIN-SUFFIX,www.spike.com
   - DOMAIN-SUFFIX,www.spin505.com
-  - DOMAIN-SUFFIX,www.spin868.com
   - DOMAIN-SUFFIX,www.spin88.com
   - DOMAIN-SUFFIX,www.spreadtruedharma.org
   - DOMAIN-SUFFIX,www.spreaker.com

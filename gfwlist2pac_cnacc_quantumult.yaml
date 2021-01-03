@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY3NzAxMAo=
+# Checksum: MTYwOTY4NzMzMAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210103-4
-# TimeUpdated: 2021-01-03T12:30:10+00:00
+# Version: 1.2.9-20210103-5
+# TimeUpdated: 2021-01-03T15:22:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -3759,7 +3759,6 @@ DOMAIN-SUFFIX,51scb.com,DIRECT
 DOMAIN-SUFFIX,51sdjob.com,DIRECT
 DOMAIN-SUFFIX,51search.net,DIRECT
 DOMAIN-SUFFIX,51self.com,DIRECT
-DOMAIN-SUFFIX,51serive.com,DIRECT
 DOMAIN-SUFFIX,51share.net,DIRECT
 DOMAIN-SUFFIX,51shebao.com,DIRECT
 DOMAIN-SUFFIX,51shebao.org,DIRECT
