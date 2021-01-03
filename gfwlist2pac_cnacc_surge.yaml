@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY2NjI3MAo=
+# Checksum: MTYwOTY3NzAxMAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210103-3
-# TimeUpdated: 2021-01-03T09:31:10+00:00
+# Version: 1.2.9-20210103-4
+# TimeUpdated: 2021-01-03T12:30:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1918,7 +1918,6 @@ DOMAIN-SUFFIX,2029.cc
 DOMAIN-SUFFIX,202wan.com
 DOMAIN-SUFFIX,204801.xyz
 DOMAIN-SUFFIX,2048sj.com
-DOMAIN-SUFFIX,204u.com
 DOMAIN-SUFFIX,206dy.com
 DOMAIN-SUFFIX,2088063.com
 DOMAIN-SUFFIX,208xs.com
@@ -6803,7 +6802,6 @@ DOMAIN-SUFFIX,actionsky.com
 DOMAIN-SUFFIX,activeclub.net
 DOMAIN-SUFFIX,activepower.net
 DOMAIN-SUFFIX,actom.me
-DOMAIN-SUFFIX,actorsulamec.xyz
 DOMAIN-SUFFIX,actoys.com
 DOMAIN-SUFFIX,actranslation.com
 DOMAIN-SUFFIX,actself.me
@@ -8491,6 +8489,7 @@ DOMAIN-SUFFIX,avicnews.com
 DOMAIN-SUFFIX,avicone.com
 DOMAIN-SUFFIX,avicsec.com
 DOMAIN-SUFFIX,avicui.com
+DOMAIN-SUFFIX,avivaqueen.com
 DOMAIN-SUFFIX,avivasign.com
 DOMAIN-SUFFIX,avlsec.com
 DOMAIN-SUFFIX,avlyun.com
@@ -27982,6 +27981,7 @@ DOMAIN-SUFFIX,jinanxw.com
 DOMAIN-SUFFIX,jinanxww.com
 DOMAIN-SUFFIX,jinbaiteng.com
 DOMAIN-SUFFIX,jinbaobeiqiming.com
+DOMAIN-SUFFIX,jinbaonet.com
 DOMAIN-SUFFIX,jinbiaohui.com
 DOMAIN-SUFFIX,jinbifun.com
 DOMAIN-SUFFIX,jinbikan.com
@@ -34149,7 +34149,6 @@ DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,mi1.cc
 DOMAIN-SUFFIX,mia.com
 DOMAIN-SUFFIX,mian4.net
-DOMAIN-SUFFIX,mianbao.com
 DOMAIN-SUFFIX,mianbaodianying.com
 DOMAIN-SUFFIX,mianbaoduo.com
 DOMAIN-SUFFIX,mianbaotou.com

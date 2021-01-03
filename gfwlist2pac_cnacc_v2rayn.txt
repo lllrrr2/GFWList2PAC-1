@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY2NjI3MAo=
+# Checksum: MTYwOTY3NzAxMAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210103-3
-# TimeUpdated: 2021-01-03T09:31:10+00:00
+# Version: 1.2.9-20210103-4
+# TimeUpdated: 2021-01-03T12:30:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1918,7 +1918,6 @@ domain:2029.cc,
 domain:202wan.com,
 domain:204801.xyz,
 domain:2048sj.com,
-domain:204u.com,
 domain:206dy.com,
 domain:2088063.com,
 domain:208xs.com,
@@ -6803,7 +6802,6 @@ domain:actionsky.com,
 domain:activeclub.net,
 domain:activepower.net,
 domain:actom.me,
-domain:actorsulamec.xyz,
 domain:actoys.com,
 domain:actranslation.com,
 domain:actself.me,
@@ -8491,6 +8489,7 @@ domain:avicnews.com,
 domain:avicone.com,
 domain:avicsec.com,
 domain:avicui.com,
+domain:avivaqueen.com,
 domain:avivasign.com,
 domain:avlsec.com,
 domain:avlyun.com,
@@ -27982,6 +27981,7 @@ domain:jinanxw.com,
 domain:jinanxww.com,
 domain:jinbaiteng.com,
 domain:jinbaobeiqiming.com,
+domain:jinbaonet.com,
 domain:jinbiaohui.com,
 domain:jinbifun.com,
 domain:jinbikan.com,
@@ -34149,7 +34149,6 @@ domain:mi.com,
 domain:mi1.cc,
 domain:mia.com,
 domain:mian4.net,
-domain:mianbao.com,
 domain:mianbaodianying.com,
 domain:mianbaoduo.com,
 domain:mianbaotou.com,
