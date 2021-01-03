@@ -1,7 +1,7 @@
-# Checksum: MTYwOTYyMjM5Mwo=
+# Checksum: MTYwOTYzNjA4MQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210102-7
-# TimeUpdated: 2021-01-02T21:19:53+00:00
+# Version: 1.2.9-20210103-0
+# TimeUpdated: 2021-01-03T01:08:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -8912,6 +8912,7 @@ DOMAIN-SUFFIX,friendsofshenyun.org
 DOMAIN-SUFFIX,friendsoftibet.org
 DOMAIN-SUFFIX,fring.com
 DOMAIN-SUFFIX,fringenetwork.com
+DOMAIN-SUFFIX,frishoes.com
 DOMAIN-SUFFIX,fritzload.ga
 DOMAIN-SUFFIX,fritzload.gq
 DOMAIN-SUFFIX,from-al.com
