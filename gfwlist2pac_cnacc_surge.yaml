@@ -1,7 +1,7 @@
-# Checksum: MTYwOTY4NzMzMAo=
+# Checksum: MTYwOTY5OTI2MQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210103-5
-# TimeUpdated: 2021-01-03T15:22:10+00:00
+# Version: 1.2.9-20210103-6
+# TimeUpdated: 2021-01-03T18:41:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -23414,6 +23414,7 @@ DOMAIN-SUFFIX,herostart.com
 DOMAIN-SUFFIX,herowind.com
 DOMAIN-SUFFIX,heroworld.net
 DOMAIN-SUFFIX,hesey.net
+DOMAIN-SUFFIX,heshebei.com
 DOMAIN-SUFFIX,heshui.com
 DOMAIN-SUFFIX,hetao101.com
 DOMAIN-SUFFIX,hetaoa.com
