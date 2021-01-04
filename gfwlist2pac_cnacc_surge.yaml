@@ -1,7 +1,7 @@
-# Checksum: MTYwOTc2MzUyMgo=
+# Checksum: MTYwOTc3MzgyOQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210104-4
-# TimeUpdated: 2021-01-04T12:32:02+00:00
+# Version: 1.2.9-20210104-5
+# TimeUpdated: 2021-01-04T15:23:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -797,7 +797,6 @@ DOMAIN-SUFFIX,100txt.com
 DOMAIN-SUFFIX,100txy.com
 DOMAIN-SUFFIX,100uo.com
 DOMAIN-SUFFIX,100wa.com
-DOMAIN-SUFFIX,100weidu.com
 DOMAIN-SUFFIX,100wen.cc
 DOMAIN-SUFFIX,100wen.com
 DOMAIN-SUFFIX,100xgrc.com
@@ -1453,7 +1452,6 @@ DOMAIN-SUFFIX,1758.com
 DOMAIN-SUFFIX,175game.com
 DOMAIN-SUFFIX,175ha.com
 DOMAIN-SUFFIX,175pt.com
-DOMAIN-SUFFIX,175wan.com
 DOMAIN-SUFFIX,175wx.com
 DOMAIN-SUFFIX,17611.com
 DOMAIN-SUFFIX,17666.mobi
@@ -2066,6 +2064,7 @@ DOMAIN-SUFFIX,22zryx.com
 DOMAIN-SUFFIX,22zw.com
 DOMAIN-SUFFIX,23-01.com
 DOMAIN-SUFFIX,2300sjz.com
+DOMAIN-SUFFIX,232100.net
 DOMAIN-SUFFIX,2323u.com
 DOMAIN-SUFFIX,2323wan.com
 DOMAIN-SUFFIX,232485.com
@@ -7201,6 +7200,7 @@ DOMAIN-SUFFIX,aihuajia.com
 DOMAIN-SUFFIX,aihuaju.com
 DOMAIN-SUFFIX,aihuau.com
 DOMAIN-SUFFIX,aihuishou.com
+DOMAIN-SUFFIX,aihundan.com
 DOMAIN-SUFFIX,aii-alliance.org
 DOMAIN-SUFFIX,aiijournal.com
 DOMAIN-SUFFIX,aiimg.com
@@ -7444,7 +7444,6 @@ DOMAIN-SUFFIX,akscan.com
 DOMAIN-SUFFIX,akuaikan.com
 DOMAIN-SUFFIX,akyiyou.com
 DOMAIN-SUFFIX,akylq.com
-DOMAIN-SUFFIX,al-hk.com
 DOMAIN-SUFFIX,al-jin.com
 DOMAIN-SUFFIX,alaccountant.com
 DOMAIN-SUFFIX,alacun.com
@@ -9249,7 +9248,6 @@ DOMAIN-SUFFIX,beaacc.com
 DOMAIN-SUFFIX,beacons.gcp.gvt2.com
 DOMAIN-SUFFIX,beacons.gvt2.com
 DOMAIN-SUFFIX,beacons3.gvt2.com
-DOMAIN-SUFFIX,beadwallet.com
 DOMAIN-SUFFIX,bear20.com
 DOMAIN-SUFFIX,bearjoy.com
 DOMAIN-SUFFIX,bearrental.com
@@ -10742,7 +10740,6 @@ DOMAIN-SUFFIX,burgud.com
 DOMAIN-SUFFIX,burl.cc
 DOMAIN-SUFFIX,burnelltek.com
 DOMAIN-SUFFIX,burstgift.com
-DOMAIN-SUFFIX,buruizi.com
 DOMAIN-SUFFIX,bus365.com
 DOMAIN-SUFFIX,busbaoche.com
 DOMAIN-SUFFIX,bushangban.com
@@ -15712,7 +15709,6 @@ DOMAIN-SUFFIX,dbzyz.com
 DOMAIN-SUFFIX,dc-cn.com
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dcdkjx.com
-DOMAIN-SUFFIX,dcement.com
 DOMAIN-SUFFIX,dcetax.com
 DOMAIN-SUFFIX,dcharm.com
 DOMAIN-SUFFIX,dchpv.com
@@ -20162,7 +20158,6 @@ DOMAIN-SUFFIX,fuyinzm.com
 DOMAIN-SUFFIX,fuyou888.com
 DOMAIN-SUFFIX,fuyoubank.com
 DOMAIN-SUFFIX,fuyoukache.com
-DOMAIN-SUFFIX,fuyuan5.com
 DOMAIN-SUFFIX,fuyuandian.com
 DOMAIN-SUFFIX,fuyuncc.com
 DOMAIN-SUFFIX,fuyuncun.com
