@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTcyMjQ5Mgo=
+# Checksum: MTYwOTczMTQyMQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210104-0
-# TimeUpdated: 2021-01-04T01:08:12+00:00
+# Version: 1.2.9-20210104-1
+# TimeUpdated: 2021-01-04T03:37:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -401,6 +401,7 @@ payload:
   - DOMAIN-SUFFIX,0537tt.com
   - DOMAIN-SUFFIX,0537yz.com
   - DOMAIN-SUFFIX,053c.com
+  - DOMAIN-SUFFIX,054057.com
   - DOMAIN-SUFFIX,0543hr.com
   - DOMAIN-SUFFIX,0546dsw.com
   - DOMAIN-SUFFIX,0546fdc.com
@@ -2494,6 +2495,7 @@ payload:
   - DOMAIN-SUFFIX,323507.com
   - DOMAIN-SUFFIX,324.com
   - DOMAIN-SUFFIX,325286.com
+  - DOMAIN-SUFFIX,32668g.com
   - DOMAIN-SUFFIX,32800.com
   - DOMAIN-SUFFIX,328f.com
   - DOMAIN-SUFFIX,329329.com
@@ -3792,6 +3794,7 @@ payload:
   - DOMAIN-SUFFIX,51tietu.net
   - DOMAIN-SUFFIX,51tijian.com
   - DOMAIN-SUFFIX,51ting.com
+  - DOMAIN-SUFFIX,51tmt.net
   - DOMAIN-SUFFIX,51tonglu.com
   - DOMAIN-SUFFIX,51tools.info
   - DOMAIN-SUFFIX,51toro.com
@@ -9094,6 +9097,7 @@ payload:
   - DOMAIN-SUFFIX,baxiami.com
   - DOMAIN-SUFFIX,baxichina.com
   - DOMAIN-SUFFIX,baybox.club
+  - DOMAIN-SUFFIX,baye.tech
   - DOMAIN-SUFFIX,bayescafe.com
   - DOMAIN-SUFFIX,bayescom.com
   - DOMAIN-SUFFIX,bayimob.com
@@ -31114,6 +31118,7 @@ payload:
   - DOMAIN-SUFFIX,lbxueyuan.com
   - DOMAIN-SUFFIX,lbzuo.com
   - DOMAIN-SUFFIX,lc-cn-n1-npxfk.com
+  - DOMAIN-SUFFIX,lc-cn-n1-thovg.com
   - DOMAIN-SUFFIX,lc-model.com
   - DOMAIN-SUFFIX,lc-news.com
   - DOMAIN-SUFFIX,lc123.net

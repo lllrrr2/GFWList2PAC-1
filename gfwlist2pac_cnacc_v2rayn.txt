@@ -1,7 +1,7 @@
-# Checksum: MTYwOTcyMjQ5Mgo=
+# Checksum: MTYwOTczMTQyMQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210104-0
-# TimeUpdated: 2021-01-04T01:08:12+00:00
+# Version: 1.2.9-20210104-1
+# TimeUpdated: 2021-01-04T03:37:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -400,6 +400,7 @@ domain:0536qz.com,
 domain:0537tt.com,
 domain:0537yz.com,
 domain:053c.com,
+domain:054057.com,
 domain:0543hr.com,
 domain:0546dsw.com,
 domain:0546fdc.com,
@@ -2493,6 +2494,7 @@ domain:322822.cc,
 domain:323507.com,
 domain:324.com,
 domain:325286.com,
+domain:32668g.com,
 domain:32800.com,
 domain:328f.com,
 domain:329329.com,
@@ -3791,6 +3793,7 @@ domain:51tfb.com,
 domain:51tietu.net,
 domain:51tijian.com,
 domain:51ting.com,
+domain:51tmt.net,
 domain:51tonglu.com,
 domain:51tools.info,
 domain:51toro.com,
@@ -9093,6 +9096,7 @@ domain:baxi.tv,
 domain:baxiami.com,
 domain:baxichina.com,
 domain:baybox.club,
+domain:baye.tech,
 domain:bayescafe.com,
 domain:bayescom.com,
 domain:bayimob.com,
@@ -31113,6 +31117,7 @@ domain:lbxdrugs.com,
 domain:lbxueyuan.com,
 domain:lbzuo.com,
 domain:lc-cn-n1-npxfk.com,
+domain:lc-cn-n1-thovg.com,
 domain:lc-model.com,
 domain:lc-news.com,
 domain:lc123.net,
