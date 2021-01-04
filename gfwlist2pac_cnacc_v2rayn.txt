@@ -1,7 +1,7 @@
-# Checksum: MTYwOTc0MTgwNAo=
+# Checksum: MTYwOTc1MjgwNgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210104-2
-# TimeUpdated: 2021-01-04T06:30:04+00:00
+# Version: 1.2.9-20210104-3
+# TimeUpdated: 2021-01-04T09:33:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -4617,6 +4617,7 @@ domain:5ixs.net,
 domain:5ixuexiwang.com,
 domain:5iyq.com,
 domain:5iyxw.net,
+domain:5izt.net,
 domain:5j5k.com,
 domain:5jdai.com,
 domain:5jianghai88.vip,
@@ -8360,6 +8361,7 @@ domain:ataozx.com,
 domain:atatech.org,
 domain:atbug.com,
 domain:atcontainer.com,
+domain:atcpu.com,
 domain:atelier39.org,
 domain:atf.com,
 domain:atfeng.com,
@@ -9440,6 +9442,7 @@ domain:bestebookdownload.com,
 domain:bestfangchan.com,
 domain:bestfuturevip.com,
 domain:bestgo.com,
+domain:besthotelonline.com.hk,
 domain:besthuaxia.com,
 domain:besticity.com,
 domain:bestinwo.com,
