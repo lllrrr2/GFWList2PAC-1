@@ -1,7 +1,7 @@
-# Checksum: MTYwOTczMTQyMQo=
+# Checksum: MTYwOTc0MTgwNAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210104-1
-# TimeUpdated: 2021-01-04T03:37:01+00:00
+# Version: 1.2.9-20210104-2
+# TimeUpdated: 2021-01-04T06:30:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1344,6 +1344,7 @@ domain:166015.com,
 domain:166161.com,
 domain:166396.com,
 domain:1666.com,
+domain:1668g.com,
 domain:166cai.com,
 domain:166ks.net,
 domain:166xs.cc,
@@ -16962,6 +16963,7 @@ domain:douya2.com,
 domain:douyapu.com,
 domain:douyar.com,
 domain:douyin.com,
+domain:douyincdn.com,
 domain:douyinvideo.net,
 domain:douyou100.com,
 domain:douyu.com,
