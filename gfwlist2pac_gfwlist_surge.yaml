@@ -1,7 +1,7 @@
-# Checksum: MTYwOTc3MzgzNwo=
+# Checksum: MTYwOTc4NTczMAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210104-5
-# TimeUpdated: 2021-01-04T15:23:57+00:00
+# Version: 1.2.9-20210104-6
+# TimeUpdated: 2021-01-04T18:42:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -213,7 +213,6 @@ DOMAIN-SUFFIX,12vpn.net
 DOMAIN-SUFFIX,12vpx.com
 DOMAIN-SUFFIX,1300kai.com
 DOMAIN-SUFFIX,1303483.live173.com
-DOMAIN-SUFFIX,130599.com
 DOMAIN-SUFFIX,1314.4irc.com
 DOMAIN-SUFFIX,1337.cx
 DOMAIN-SUFFIX,1365.com
@@ -906,7 +905,6 @@ DOMAIN-SUFFIX,567.etowns.org
 DOMAIN-SUFFIX,567210.com
 DOMAIN-SUFFIX,56cun04.jigsy.com
 DOMAIN-SUFFIX,57.biz.tm
-DOMAIN-SUFFIX,57138.com
 DOMAIN-SUFFIX,576.slyip.net
 DOMAIN-SUFFIX,576166i.com
 DOMAIN-SUFFIX,579.flnet.org
@@ -15996,7 +15994,6 @@ DOMAIN-SUFFIX,piggyproof.benediktweishaupt.de
 DOMAIN-SUFFIX,pikachu-26da5.firebaseio.com
 DOMAIN-SUFFIX,pilihan-anda.blogspot.hk
 DOMAIN-SUFFIX,pillbeatsblackfridaysale.com
-DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pin-cong.com
 DOMAIN-SUFFIX,pin.it
 DOMAIN-SUFFIX,pin1188.com

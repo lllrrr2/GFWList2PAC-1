@@ -1,7 +1,7 @@
-# Checksum: MTYwOTc3MzgzNwo=
+# Checksum: MTYwOTc4NTczMAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210104-5
-# TimeUpdated: 2021-01-04T15:23:57+00:00
+# Version: 1.2.9-20210104-6
+# TimeUpdated: 2021-01-04T18:42:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -213,7 +213,6 @@ domain:12vpn.net,
 domain:12vpx.com,
 domain:1300kai.com,
 domain:1303483.live173.com,
-domain:130599.com,
 domain:1314.4irc.com,
 domain:1337.cx,
 domain:1365.com,
@@ -906,7 +905,6 @@ domain:567.etowns.org,
 domain:567210.com,
 domain:56cun04.jigsy.com,
 domain:57.biz.tm,
-domain:57138.com,
 domain:576.slyip.net,
 domain:576166i.com,
 domain:579.flnet.org,
@@ -15996,7 +15994,6 @@ domain:piggyproof.benediktweishaupt.de,
 domain:pikachu-26da5.firebaseio.com,
 domain:pilihan-anda.blogspot.hk,
 domain:pillbeatsblackfridaysale.com,
-domain:pimg.tw,
 domain:pin-cong.com,
 domain:pin.it,
 domain:pin1188.com,
