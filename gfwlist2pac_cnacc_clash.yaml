@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTc4NTcyMgo=
+# Checksum: MTYwOTc5NTI5NAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210104-6
-# TimeUpdated: 2021-01-04T18:42:02+00:00
+# Version: 1.2.9-20210104-7
+# TimeUpdated: 2021-01-04T21:21:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -4942,7 +4942,6 @@ payload:
   - DOMAIN-SUFFIX,67gu.com
   - DOMAIN-SUFFIX,67joy.com
   - DOMAIN-SUFFIX,67mb.com
-  - DOMAIN-SUFFIX,67nb.com
   - DOMAIN-SUFFIX,67tuan.com
   - DOMAIN-SUFFIX,680.com
   - DOMAIN-SUFFIX,680qk.com
@@ -5472,6 +5471,7 @@ payload:
   - DOMAIN-SUFFIX,8090xx.com
   - DOMAIN-SUFFIX,8090yx.com
   - DOMAIN-SUFFIX,8090yxs.com
+  - DOMAIN-SUFFIX,809803.com
   - DOMAIN-SUFFIX,80anmo.net
   - DOMAIN-SUFFIX,80baicai.biz
   - DOMAIN-SUFFIX,80bi.com
@@ -9223,7 +9223,6 @@ payload:
   - DOMAIN-SUFFIX,bdkssc.com
   - DOMAIN-SUFFIX,bdkyr.com
   - DOMAIN-SUFFIX,bdpan.com
-  - DOMAIN-SUFFIX,bdqlz.com
   - DOMAIN-SUFFIX,bdqn027.com
   - DOMAIN-SUFFIX,bdqn666.com
   - DOMAIN-SUFFIX,bdqnwh.com
@@ -20570,7 +20569,6 @@ payload:
   - DOMAIN-SUFFIX,gaszx.com
   - DOMAIN-SUFFIX,gateface.com
   - DOMAIN-SUFFIX,gatefanyi.com
-  - DOMAIN-SUFFIX,gather-dns.com
   - DOMAIN-SUFFIX,gather-sc.com
   - DOMAIN-SUFFIX,gaussianoptics.com
   - DOMAIN-SUFFIX,gavindesign.com
