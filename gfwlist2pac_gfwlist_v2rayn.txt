@@ -1,7 +1,7 @@
-# Checksum: MTYwOTc1MjgxNAo=
+# Checksum: MTYwOTc2MzUzMQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210104-3
-# TimeUpdated: 2021-01-04T09:33:34+00:00
+# Version: 1.2.9-20210104-4
+# TimeUpdated: 2021-01-04T12:32:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1245,7 +1245,6 @@ domain:882110055.com,
 domain:8822buyu.com,
 domain:8833buyu.com,
 domain:8844buyu.com,
-domain:885370.com,
 domain:8855buyu.com,
 domain:886666.com,
 domain:8877buyu.com,
@@ -11845,7 +11844,6 @@ domain:jetbrains.com,
 domain:jetbrains.net,
 domain:jetfuelapp.com,
 domain:jetfuelapps.com,
-domain:jeth.tk,
 domain:jetos.com,
 domain:jewishpathways.com,
 domain:jex.com,

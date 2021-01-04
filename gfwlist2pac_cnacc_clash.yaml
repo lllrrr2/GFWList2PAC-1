@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTc1MjgwNgo=
+# Checksum: MTYwOTc2MzUyMgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210104-3
-# TimeUpdated: 2021-01-04T09:33:26+00:00
+# Version: 1.2.9-20210104-4
+# TimeUpdated: 2021-01-04T12:32:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -161,7 +161,6 @@ payload:
   - DOMAIN-SUFFIX,021jingwu.com
   - DOMAIN-SUFFIX,021js.com
   - DOMAIN-SUFFIX,021lawfirm.com
-  - DOMAIN-SUFFIX,021mingyi.com
   - DOMAIN-SUFFIX,021phone.com
   - DOMAIN-SUFFIX,021ren.com
   - DOMAIN-SUFFIX,021sports.com
@@ -3989,6 +3988,7 @@ payload:
   - DOMAIN-SUFFIX,52892.com
   - DOMAIN-SUFFIX,528btc.com
   - DOMAIN-SUFFIX,528day.com
+  - DOMAIN-SUFFIX,529c31.com
   - DOMAIN-SUFFIX,52ae.cc
   - DOMAIN-SUFFIX,52ai.com
   - DOMAIN-SUFFIX,52analysis.com
@@ -8209,7 +8209,6 @@ payload:
   - DOMAIN-SUFFIX,armbbs.net
   - DOMAIN-SUFFIX,armber.com
   - DOMAIN-SUFFIX,armsword.com
-  - DOMAIN-SUFFIX,armystar.com
   - DOMAIN-SUFFIX,arocmag.com
   - DOMAIN-SUFFIX,arondight.me
   - DOMAIN-SUFFIX,arongsoft.com
@@ -15714,6 +15713,7 @@ payload:
   - DOMAIN-SUFFIX,dc-cn.com
   - DOMAIN-SUFFIX,dcdapp.com
   - DOMAIN-SUFFIX,dcdkjx.com
+  - DOMAIN-SUFFIX,dcement.com
   - DOMAIN-SUFFIX,dcetax.com
   - DOMAIN-SUFFIX,dcharm.com
   - DOMAIN-SUFFIX,dchpv.com
@@ -20163,6 +20163,7 @@ payload:
   - DOMAIN-SUFFIX,fuyou888.com
   - DOMAIN-SUFFIX,fuyoubank.com
   - DOMAIN-SUFFIX,fuyoukache.com
+  - DOMAIN-SUFFIX,fuyuan5.com
   - DOMAIN-SUFFIX,fuyuandian.com
   - DOMAIN-SUFFIX,fuyuncc.com
   - DOMAIN-SUFFIX,fuyuncun.com
@@ -21651,6 +21652,7 @@ payload:
   - DOMAIN-SUFFIX,gtjaqh.com
   - DOMAIN-SUFFIX,gtjazg.com
   - DOMAIN-SUFFIX,gtm-a1b2.com
+  - DOMAIN-SUFFIX,gtm-a1b4.com
   - DOMAIN-SUFFIX,gtm-a2b3.com
   - DOMAIN-SUFFIX,gtm-a3b1.com
   - DOMAIN-SUFFIX,gtm-a4b8.com
@@ -37676,6 +37678,7 @@ payload:
   - DOMAIN-SUFFIX,petnakanojo.com
   - DOMAIN-SUFFIX,petpcb.com
   - DOMAIN-SUFFIX,petrelteam.com
+  - DOMAIN-SUFFIX,petroren.com
   - DOMAIN-SUFFIX,pets12345.com
   - DOMAIN-SUFFIX,petshoming.com
   - DOMAIN-SUFFIX,pettwo.com
@@ -54856,6 +54859,7 @@ payload:
   - DOMAIN-SUFFIX,yuedusg.com
   - DOMAIN-SUFFIX,yueduwen.com
   - DOMAIN-SUFFIX,yuego.net
+  - DOMAIN-SUFFIX,yuegowu.com
   - DOMAIN-SUFFIX,yuehuzhi.com
   - DOMAIN-SUFFIX,yueji.com
   - DOMAIN-SUFFIX,yuejiayan.com

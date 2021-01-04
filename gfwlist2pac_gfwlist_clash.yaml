@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTc1MjgxNAo=
+# Checksum: MTYwOTc2MzUzMQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210104-3
-# TimeUpdated: 2021-01-04T09:33:34+00:00
+# Version: 1.2.9-20210104-4
+# TimeUpdated: 2021-01-04T12:32:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1246,7 +1246,6 @@ payload:
   - DOMAIN-SUFFIX,8822buyu.com
   - DOMAIN-SUFFIX,8833buyu.com
   - DOMAIN-SUFFIX,8844buyu.com
-  - DOMAIN-SUFFIX,885370.com
   - DOMAIN-SUFFIX,8855buyu.com
   - DOMAIN-SUFFIX,886666.com
   - DOMAIN-SUFFIX,8877buyu.com
@@ -11846,7 +11845,6 @@ payload:
   - DOMAIN-SUFFIX,jetbrains.net
   - DOMAIN-SUFFIX,jetfuelapp.com
   - DOMAIN-SUFFIX,jetfuelapps.com
-  - DOMAIN-SUFFIX,jeth.tk
   - DOMAIN-SUFFIX,jetos.com
   - DOMAIN-SUFFIX,jewishpathways.com
   - DOMAIN-SUFFIX,jex.com
