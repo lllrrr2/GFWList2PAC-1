@@ -1,7 +1,7 @@
-# Checksum: MTYwOTgzOTMwMgo=
+# Checksum: MTYwOTg0OTk1Ngo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210105-3
-# TimeUpdated: 2021-01-05T09:35:02+00:00
+# Version: 1.2.9-20210105-4
+# TimeUpdated: 2021-01-05T12:32:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5729,6 +5729,7 @@ domain:cnet.com,
 domain:cnews.com.tw,
 domain:cnex.org.cn,
 domain:cngkfxprime.com,
+domain:cnineu.com,
 domain:cnitter.com,
 domain:cnix-gov-cn.com,
 domain:cnn.com,
