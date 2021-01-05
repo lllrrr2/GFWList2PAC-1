@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTg0OTk1Ngo=
+# Checksum: MTYwOTg2MDIzNgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210105-4
-# TimeUpdated: 2021-01-05T12:32:36+00:00
+# Version: 1.2.9-20210105-5
+# TimeUpdated: 2021-01-05T15:23:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -464,7 +464,6 @@ payload:
   - DOMAIN-SUFFIX,223pp.net
   - DOMAIN-SUFFIX,223ww.net
   - DOMAIN-SUFFIX,223zz.net
-  - DOMAIN-SUFFIX,2245z.com
   - DOMAIN-SUFFIX,225.etowns.org
   - DOMAIN-SUFFIX,225.xxxy.biz
   - DOMAIN-SUFFIX,225540.com
@@ -933,7 +932,6 @@ payload:
   - DOMAIN-SUFFIX,599499.com
   - DOMAIN-SUFFIX,5afcp.com
   - DOMAIN-SUFFIX,5beatsbydre.com
-  - DOMAIN-SUFFIX,5best1.com
   - DOMAIN-SUFFIX,5ch.net
   - DOMAIN-SUFFIX,5i01.com
   - DOMAIN-SUFFIX,5idd.us
@@ -11656,6 +11654,7 @@ payload:
   - DOMAIN-SUFFIX,ip5000.com
   - DOMAIN-SUFFIX,ip5001.co
   - DOMAIN-SUFFIX,ip5002.co
+  - DOMAIN-SUFFIX,ip5006.co
   - DOMAIN-SUFFIX,ipa-iphone.net
   - DOMAIN-SUFFIX,ipad.co.kr
   - DOMAIN-SUFFIX,ipad.de

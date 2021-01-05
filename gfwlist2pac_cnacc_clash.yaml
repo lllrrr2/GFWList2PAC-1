@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTg0OTk0OQo=
+# Checksum: MTYwOTg2MDIyOAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210105-4
-# TimeUpdated: 2021-01-05T12:32:29+00:00
+# Version: 1.2.9-20210105-5
+# TimeUpdated: 2021-01-05T15:23:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1916,7 +1916,6 @@ payload:
   - DOMAIN-SUFFIX,201980.com
   - DOMAIN-SUFFIX,2019ayaya.com
   - DOMAIN-SUFFIX,2019cdac.com
-  - DOMAIN-SUFFIX,2019fafafa.com
   - DOMAIN-SUFFIX,2019zjj.com
   - DOMAIN-SUFFIX,202030.com
   - DOMAIN-SUFFIX,202096e.com
@@ -2868,7 +2867,6 @@ payload:
   - DOMAIN-SUFFIX,379942.com
   - DOMAIN-SUFFIX,37bjw.com
   - DOMAIN-SUFFIX,37cs.com
-  - DOMAIN-SUFFIX,37cy.com
   - DOMAIN-SUFFIX,37hr.com
   - DOMAIN-SUFFIX,37job.net
   - DOMAIN-SUFFIX,37k.com
@@ -3584,7 +3582,6 @@ payload:
   - DOMAIN-SUFFIX,51g3.net
   - DOMAIN-SUFFIX,51gaifang.com
   - DOMAIN-SUFFIX,51gcw.com
-  - DOMAIN-SUFFIX,51geeks.com
   - DOMAIN-SUFFIX,51gfl.com
   - DOMAIN-SUFFIX,51ggwu.com
   - DOMAIN-SUFFIX,51gh.net
@@ -6742,6 +6739,7 @@ payload:
   - DOMAIN-SUFFIX,accessoft.com
   - DOMAIN-SUFFIX,accesspath.com
   - DOMAIN-SUFFIX,acconsys.com
+  - DOMAIN-SUFFIX,account.htcvive.com
   - DOMAIN-SUFFIX,account.samsung.com
   - DOMAIN-SUFFIX,accspeed.com
   - DOMAIN-SUFFIX,accu.cc
@@ -7020,7 +7018,6 @@ payload:
   - DOMAIN-SUFFIX,agoraio.cn
   - DOMAIN-SUFFIX,agoteno.com
   - DOMAIN-SUFFIX,agotools.com
-  - DOMAIN-SUFFIX,agouzq.com
   - DOMAIN-SUFFIX,agri35.com
   - DOMAIN-SUFFIX,agriturismi-sicilia.com
   - DOMAIN-SUFFIX,agrochemshow.com
@@ -8394,6 +8391,7 @@ payload:
   - DOMAIN-SUFFIX,asrockrack.com
   - DOMAIN-SUFFIX,asrsingapore.com
   - DOMAIN-SUFFIX,assbbs.com
+  - DOMAIN-SUFFIX,assets-global.viveport.com
   - DOMAIN-SUFFIX,assets.analog.com
   - DOMAIN-SUFFIX,assets.volvocars.com
   - DOMAIN-SUFFIX,assrt.net
@@ -10323,6 +10321,7 @@ payload:
   - DOMAIN-SUFFIX,blocksite.cc
   - DOMAIN-SUFFIX,blockvalue.com
   - DOMAIN-SUFFIX,blog.anank.ke
+  - DOMAIN-SUFFIX,blog.htc.com
   - DOMAIN-SUFFIX,blog.htcvive.com
   - DOMAIN-SUFFIX,blog.tutorabc.com
   - DOMAIN-SUFFIX,blog.vive.com
@@ -11889,7 +11888,6 @@ payload:
   - DOMAIN-SUFFIX,cfsino.com
   - DOMAIN-SUFFIX,cftea.com
   - DOMAIN-SUFFIX,cftong.com
-  - DOMAIN-SUFFIX,cftv8.com
   - DOMAIN-SUFFIX,cfucn.com
   - DOMAIN-SUFFIX,cfund108.com
   - DOMAIN-SUFFIX,cfxydefsyy.com
@@ -15138,6 +15136,7 @@ payload:
   - DOMAIN-SUFFIX,cxwz.org
   - DOMAIN-SUFFIX,cxxjs.com
   - DOMAIN-SUFFIX,cxxwnews.com
+  - DOMAIN-SUFFIX,cxy61.com
   - DOMAIN-SUFFIX,cxy7.com
   - DOMAIN-SUFFIX,cxybl.com
   - DOMAIN-SUFFIX,cxyl.org
@@ -19763,6 +19762,7 @@ payload:
   - DOMAIN-SUFFIX,fjacg.com
   - DOMAIN-SUFFIX,fjanlian.com
   - DOMAIN-SUFFIX,fjba.xyz
+  - DOMAIN-SUFFIX,fjbfan.com
   - DOMAIN-SUFFIX,fjcesuo.com
   - DOMAIN-SUFFIX,fjcoop.com
   - DOMAIN-SUFFIX,fjcqjy.com
@@ -23419,6 +23419,7 @@ payload:
   - DOMAIN-SUFFIX,hegouvip.com
   - DOMAIN-SUFFIX,hegsryjq.com
   - DOMAIN-SUFFIX,heheba.com
+  - DOMAIN-SUFFIX,hehesheng.com
   - DOMAIN-SUFFIX,heheshouyou.com
   - DOMAIN-SUFFIX,hehesy.com
   - DOMAIN-SUFFIX,hehewan.com
@@ -25402,6 +25403,7 @@ payload:
   - DOMAIN-SUFFIX,hxkvm.com
   - DOMAIN-SUFFIX,hxland.com
   - DOMAIN-SUFFIX,hxlsw.com
+  - DOMAIN-SUFFIX,hxltad.com
   - DOMAIN-SUFFIX,hxmeishi.com
   - DOMAIN-SUFFIX,hxmrys.com
   - DOMAIN-SUFFIX,hxnews.com
@@ -31937,6 +31939,7 @@ payload:
   - DOMAIN-SUFFIX,licomsh.com
   - DOMAIN-SUFFIX,licqi.com
   - DOMAIN-SUFFIX,licstar.net
+  - DOMAIN-SUFFIX,lid1688.com
   - DOMAIN-SUFFIX,lidaoliang.com
   - DOMAIN-SUFFIX,lidaren.com
   - DOMAIN-SUFFIX,lidazhuang.com
@@ -34406,6 +34409,7 @@ payload:
   - DOMAIN-SUFFIX,mhwy2.com
   - DOMAIN-SUFFIX,mhxk.com
   - DOMAIN-SUFFIX,mhyun.net
+  - DOMAIN-SUFFIX,mhyv888.com
   - DOMAIN-SUFFIX,mhzd.cc
   - DOMAIN-SUFFIX,mhzd.net
   - DOMAIN-SUFFIX,mi-idc.com
@@ -34656,6 +34660,7 @@ payload:
   - DOMAIN-SUFFIX,mingliwenhua.com
   - DOMAIN-SUFFIX,mingluji.com
   - DOMAIN-SUFFIX,mingpian.biz
+  - DOMAIN-SUFFIX,mingqiceping.com
   - DOMAIN-SUFFIX,mingqizhongyi.com
   - DOMAIN-SUFFIX,mingren888.com
   - DOMAIN-SUFFIX,mingrenteahouse.com
@@ -37232,6 +37237,7 @@ payload:
   - DOMAIN-SUFFIX,onlylady.com
   - DOMAIN-SUFFIX,onlyliuxue.com
   - DOMAIN-SUFFIX,onlyou.com
+  - DOMAIN-SUFFIX,onlyred.net
   - DOMAIN-SUFFIX,onlystem.com
   - DOMAIN-SUFFIX,onlytss.com
   - DOMAIN-SUFFIX,onlyyou.com
@@ -44205,6 +44211,7 @@ payload:
   - DOMAIN-SUFFIX,starstech.tech
   - DOMAIN-SUFFIX,starstopic.com
   - DOMAIN-SUFFIX,starswar.org
+  - DOMAIN-SUFFIX,start.htc.com
   - DOMAIN-SUFFIX,start.htcsense.com
   - DOMAIN-SUFFIX,starting2000.com
   - DOMAIN-SUFFIX,startos.com
@@ -46429,6 +46436,7 @@ payload:
   - DOMAIN-SUFFIX,tok9.com
   - DOMAIN-SUFFIX,token.im
   - DOMAIN-SUFFIX,tokenglish.com
+  - DOMAIN-SUFFIX,tokenlon.im
   - DOMAIN-SUFFIX,tokenpocket.pro
   - DOMAIN-SUFFIX,tokensky.net
   - DOMAIN-SUFFIX,tokenview.com
@@ -48506,6 +48514,7 @@ payload:
   - DOMAIN-SUFFIX,vr5008.com
   - DOMAIN-SUFFIX,vrar-expo.com
   - DOMAIN-SUFFIX,vrbeing.com
+  - DOMAIN-SUFFIX,vrbi.viveport.com
   - DOMAIN-SUFFIX,vrbig.com
   - DOMAIN-SUFFIX,vrbrothers.com
   - DOMAIN-SUFFIX,vrcfo.com
@@ -50938,6 +50947,7 @@ payload:
   - DOMAIN-SUFFIX,www.djivideos.com
   - DOMAIN-SUFFIX,www.ericsson.com
   - DOMAIN-SUFFIX,www.gstatic.com
+  - DOMAIN-SUFFIX,www.htc.com
   - DOMAIN-SUFFIX,www.htcsense.com
   - DOMAIN-SUFFIX,www.htcvive.com
   - DOMAIN-SUFFIX,www.ibm.com
@@ -50956,6 +50966,7 @@ payload:
   - DOMAIN-SUFFIX,www.tutorabc.com
   - DOMAIN-SUFFIX,www.tzoo-img.com
   - DOMAIN-SUFFIX,www.vive.com
+  - DOMAIN-SUFFIX,www.viveport.com
   - DOMAIN-SUFFIX,www.volvocars.com
   - DOMAIN-SUFFIX,www000377.com
   - DOMAIN-SUFFIX,www045789.com
@@ -56198,6 +56209,8 @@ payload:
   - DOMAIN-SUFFIX,zeroac.com
   - DOMAIN-SUFFIX,zerobreeze.com
   - DOMAIN-SUFFIX,zerobyw.com
+  - DOMAIN-SUFFIX,zerobywps2.com
+  - DOMAIN-SUFFIX,zerobywswit.com
   - DOMAIN-SUFFIX,zerodream.net
   - DOMAIN-SUFFIX,zerogfans.com
   - DOMAIN-SUFFIX,zerokeeper.com
