@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTg3MjA0NQo=
+# Checksum: MTYwOTg4MTcwOAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210105-6
-# TimeUpdated: 2021-01-05T18:40:45+00:00
+# Version: 1.2.9-20210105-7
+# TimeUpdated: 2021-01-05T21:21:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1035,6 +1035,7 @@ payload:
   - DOMAIN-SUFFIX,121121.net
   - DOMAIN-SUFFIX,12114job.com
   - DOMAIN-SUFFIX,12114rc.com
+  - DOMAIN-SUFFIX,1212.com
   - DOMAIN-SUFFIX,1213.me
   - DOMAIN-SUFFIX,121314.com
   - DOMAIN-SUFFIX,121ask.com
@@ -2909,7 +2910,6 @@ payload:
   - DOMAIN-SUFFIX,391065.com
   - DOMAIN-SUFFIX,3937.com
   - DOMAIN-SUFFIX,39655.com
-  - DOMAIN-SUFFIX,3970yy.com
   - DOMAIN-SUFFIX,3975.com
   - DOMAIN-SUFFIX,398990.com
   - DOMAIN-SUFFIX,39ask.net
@@ -3037,7 +3037,6 @@ payload:
   - DOMAIN-SUFFIX,3png.com
   - DOMAIN-SUFFIX,3poo.com
   - DOMAIN-SUFFIX,3q2008.com
-  - DOMAIN-SUFFIX,3qec.com
   - DOMAIN-SUFFIX,3qhouse.com
   - DOMAIN-SUFFIX,3qwe.com
   - DOMAIN-SUFFIX,3qzj.com
@@ -7915,6 +7914,7 @@ payload:
   - DOMAIN-SUFFIX,anybeen.com
   - DOMAIN-SUFFIX,anydd.com
   - DOMAIN-SUFFIX,anyelse.com
+  - DOMAIN-SUFFIX,anyew.com
   - DOMAIN-SUFFIX,anyforweb.com
   - DOMAIN-SUFFIX,anygame.info
   - DOMAIN-SUFFIX,anyiidc.com
@@ -7944,7 +7944,6 @@ payload:
   - DOMAIN-SUFFIX,anzhixun.com
   - DOMAIN-SUFFIX,anzhuo2.com
   - DOMAIN-SUFFIX,anzhuoshangdian.com
-  - DOMAIN-SUFFIX,anzhuotan.com
   - DOMAIN-SUFFIX,anzhuowo.com
   - DOMAIN-SUFFIX,anzogame.com
   - DOMAIN-SUFFIX,anzow.com
@@ -15870,7 +15869,6 @@ payload:
   - DOMAIN-SUFFIX,ddcsh.com
   - DOMAIN-SUFFIX,ddd-china.com
   - DOMAIN-SUFFIX,dddazhe.com
-  - DOMAIN-SUFFIX,dddccs8p.com
   - DOMAIN-SUFFIX,dddd168.com
   - DOMAIN-SUFFIX,dddso.com
   - DOMAIN-SUFFIX,ddepin.com
@@ -48424,7 +48422,6 @@ payload:
   - DOMAIN-SUFFIX,vnsiubvgs.com
   - DOMAIN-SUFFIX,vnsr6788.com
   - DOMAIN-SUFFIX,vnvshen.com
-  - DOMAIN-SUFFIX,vnylzny0.com
   - DOMAIN-SUFFIX,vnzmi.com
   - DOMAIN-SUFFIX,vobao.com
   - DOMAIN-SUFFIX,vobao.mobi
