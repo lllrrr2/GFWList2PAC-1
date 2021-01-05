@@ -1,7 +1,7 @@
-# Checksum: MTYwOTgyODI0Ngo=
+# Checksum: MTYwOTgzOTMwMgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210105-2
-# TimeUpdated: 2021-01-05T06:30:46+00:00
+# Version: 1.2.9-20210105-3
+# TimeUpdated: 2021-01-05T09:35:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -449,6 +449,7 @@ domain:22.now-ip.net,
 domain:22.suroot.com,
 domain:22.te.rs,
 domain:2200buyu.com,
+domain:220808.com,
 domain:221.trickip.org,
 domain:222.my03.com,
 domain:22222n.cc,
@@ -18165,6 +18166,7 @@ domain:shangri-la.com,
 domain:shaoshuren.org,
 domain:shapach.net,
 domain:shapeservices.com,
+domain:share.acgnx.net,
 domain:share.acgnx.se,
 domain:share.america.gov,
 domain:share.dmhy.org,

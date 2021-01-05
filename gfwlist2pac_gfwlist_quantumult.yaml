@@ -1,7 +1,7 @@
-# Checksum: MTYwOTgyODI0Ngo=
+# Checksum: MTYwOTgzOTMwMgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210105-2
-# TimeUpdated: 2021-01-05T06:30:46+00:00
+# Version: 1.2.9-20210105-3
+# TimeUpdated: 2021-01-05T09:35:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -449,6 +449,7 @@ DOMAIN-SUFFIX,22.now-ip.net,PROXY
 DOMAIN-SUFFIX,22.suroot.com,PROXY
 DOMAIN-SUFFIX,22.te.rs,PROXY
 DOMAIN-SUFFIX,2200buyu.com,PROXY
+DOMAIN-SUFFIX,220808.com,PROXY
 DOMAIN-SUFFIX,221.trickip.org,PROXY
 DOMAIN-SUFFIX,222.my03.com,PROXY
 DOMAIN-SUFFIX,22222n.cc,PROXY
@@ -18165,6 +18166,7 @@ DOMAIN-SUFFIX,shangri-la.com,PROXY
 DOMAIN-SUFFIX,shaoshuren.org,PROXY
 DOMAIN-SUFFIX,shapach.net,PROXY
 DOMAIN-SUFFIX,shapeservices.com,PROXY
+DOMAIN-SUFFIX,share.acgnx.net,PROXY
 DOMAIN-SUFFIX,share.acgnx.se,PROXY
 DOMAIN-SUFFIX,share.america.gov,PROXY
 DOMAIN-SUFFIX,share.dmhy.org,PROXY

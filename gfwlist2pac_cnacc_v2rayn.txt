@@ -1,7 +1,7 @@
-# Checksum: MTYwOTgyODIzNwo=
+# Checksum: MTYwOTgzOTI5NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210105-2
-# TimeUpdated: 2021-01-05T06:30:37+00:00
+# Version: 1.2.9-20210105-3
+# TimeUpdated: 2021-01-05T09:34:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1279,6 +1279,7 @@ domain:15gift.com,
 domain:15h8.net,
 domain:15hn.com,
 domain:15hr.com,
+domain:15in.com,
 domain:15lu.com,
 domain:15ms.com,
 domain:15shu.net,
@@ -2815,6 +2816,7 @@ domain:368mall.com,
 domain:368tea.com,
 domain:368yh.com,
 domain:369110.xyz,
+domain:3694c.com,
 domain:369785.com,
 domain:3699.cc,
 domain:36990.com,
@@ -8021,6 +8023,7 @@ domain:aoyii.com,
 domain:aoyotech.com,
 domain:aoyou.com,
 domain:aoyoux.com,
+domain:aoyuge.com,
 domain:aoyunque.com,
 domain:aozehuanbao.com,
 domain:aozhougoufang.com,
@@ -11529,6 +11532,7 @@ domain:ccpithebei.com,
 domain:ccpithn.org,
 domain:ccpithz.org,
 domain:ccpitjinan.org,
+domain:ccpitjs.org,
 domain:ccpitlight.org,
 domain:ccpitnmg.org,
 domain:ccpitsd.com,
@@ -16950,6 +16954,7 @@ domain:dongfangnews.com,
 domain:dongfangtai.com,
 domain:dongfangtech.net,
 domain:dongfeng-nissan.com,
+domain:dongfeng.net,
 domain:dongfengtrucks.com,
 domain:dongfund.com,
 domain:dongganboy.com,

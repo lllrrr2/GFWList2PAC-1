@@ -1,7 +1,7 @@
-# Checksum: MTYwOTgyODIzNwo=
+# Checksum: MTYwOTgzOTI5NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210105-2
-# TimeUpdated: 2021-01-05T06:30:37+00:00
+# Version: 1.2.9-20210105-3
+# TimeUpdated: 2021-01-05T09:34:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1279,6 +1279,7 @@ DOMAIN-SUFFIX,15gift.com
 DOMAIN-SUFFIX,15h8.net
 DOMAIN-SUFFIX,15hn.com
 DOMAIN-SUFFIX,15hr.com
+DOMAIN-SUFFIX,15in.com
 DOMAIN-SUFFIX,15lu.com
 DOMAIN-SUFFIX,15ms.com
 DOMAIN-SUFFIX,15shu.net
@@ -2815,6 +2816,7 @@ DOMAIN-SUFFIX,368mall.com
 DOMAIN-SUFFIX,368tea.com
 DOMAIN-SUFFIX,368yh.com
 DOMAIN-SUFFIX,369110.xyz
+DOMAIN-SUFFIX,3694c.com
 DOMAIN-SUFFIX,369785.com
 DOMAIN-SUFFIX,3699.cc
 DOMAIN-SUFFIX,36990.com
@@ -8021,6 +8023,7 @@ DOMAIN-SUFFIX,aoyii.com
 DOMAIN-SUFFIX,aoyotech.com
 DOMAIN-SUFFIX,aoyou.com
 DOMAIN-SUFFIX,aoyoux.com
+DOMAIN-SUFFIX,aoyuge.com
 DOMAIN-SUFFIX,aoyunque.com
 DOMAIN-SUFFIX,aozehuanbao.com
 DOMAIN-SUFFIX,aozhougoufang.com
@@ -11529,6 +11532,7 @@ DOMAIN-SUFFIX,ccpithebei.com
 DOMAIN-SUFFIX,ccpithn.org
 DOMAIN-SUFFIX,ccpithz.org
 DOMAIN-SUFFIX,ccpitjinan.org
+DOMAIN-SUFFIX,ccpitjs.org
 DOMAIN-SUFFIX,ccpitlight.org
 DOMAIN-SUFFIX,ccpitnmg.org
 DOMAIN-SUFFIX,ccpitsd.com
@@ -16950,6 +16954,7 @@ DOMAIN-SUFFIX,dongfangnews.com
 DOMAIN-SUFFIX,dongfangtai.com
 DOMAIN-SUFFIX,dongfangtech.net
 DOMAIN-SUFFIX,dongfeng-nissan.com
+DOMAIN-SUFFIX,dongfeng.net
 DOMAIN-SUFFIX,dongfengtrucks.com
 DOMAIN-SUFFIX,dongfund.com
 DOMAIN-SUFFIX,dongganboy.com
