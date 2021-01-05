@@ -1,7 +1,7 @@
-# Checksum: MTYwOTg2MDIzNgo=
+# Checksum: MTYwOTg3MjA1Mwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210105-5
-# TimeUpdated: 2021-01-05T15:23:56+00:00
+# Version: 1.2.9-20210105-6
+# TimeUpdated: 2021-01-05T18:40:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -4107,7 +4107,6 @@ domain:blznav.akamaized.net,
 domain:bm-feichtinger.at,
 domain:bm1104.com,
 domain:bm919.com,
-domain:bm969.com,
 domain:bmh001.com,
 domain:bmia.org,
 domain:bml.info,

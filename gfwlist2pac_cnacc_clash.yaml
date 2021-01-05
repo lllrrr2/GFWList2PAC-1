@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTg2MDIyOAo=
+# Checksum: MTYwOTg3MjA0NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210105-5
-# TimeUpdated: 2021-01-05T15:23:48+00:00
+# Version: 1.2.9-20210105-6
+# TimeUpdated: 2021-01-05T18:40:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -7458,7 +7458,6 @@ payload:
   - DOMAIN-SUFFIX,akr-developers.com
   - DOMAIN-SUFFIX,akscan.com
   - DOMAIN-SUFFIX,akuaikan.com
-  - DOMAIN-SUFFIX,akyiyou.com
   - DOMAIN-SUFFIX,akylq.com
   - DOMAIN-SUFFIX,al-jin.com
   - DOMAIN-SUFFIX,alaccountant.com
@@ -9997,6 +9996,7 @@ payload:
   - DOMAIN-SUFFIX,bizvane.com
   - DOMAIN-SUFFIX,bj-apc.com
   - DOMAIN-SUFFIX,bj-big.com
+  - DOMAIN-SUFFIX,bj-dsmzyy.com
   - DOMAIN-SUFFIX,bj-fd.com
   - DOMAIN-SUFFIX,bj-sagtar.com
   - DOMAIN-SUFFIX,bj-saite.com
@@ -12185,7 +12185,6 @@ payload:
   - DOMAIN-SUFFIX,cheari.com
   - DOMAIN-SUFFIX,chebaba.com
   - DOMAIN-SUFFIX,chebada.com
-  - DOMAIN-SUFFIX,chebao360.com
   - DOMAIN-SUFFIX,checheboke.com
   - DOMAIN-SUFFIX,chechong.com
   - DOMAIN-SUFFIX,checkin.gstatic.com
@@ -15871,6 +15870,7 @@ payload:
   - DOMAIN-SUFFIX,ddcsh.com
   - DOMAIN-SUFFIX,ddd-china.com
   - DOMAIN-SUFFIX,dddazhe.com
+  - DOMAIN-SUFFIX,dddccs8p.com
   - DOMAIN-SUFFIX,dddd168.com
   - DOMAIN-SUFFIX,dddso.com
   - DOMAIN-SUFFIX,ddepin.com
@@ -25403,7 +25403,6 @@ payload:
   - DOMAIN-SUFFIX,hxkvm.com
   - DOMAIN-SUFFIX,hxland.com
   - DOMAIN-SUFFIX,hxlsw.com
-  - DOMAIN-SUFFIX,hxltad.com
   - DOMAIN-SUFFIX,hxmeishi.com
   - DOMAIN-SUFFIX,hxmrys.com
   - DOMAIN-SUFFIX,hxnews.com
@@ -32140,6 +32139,7 @@ payload:
   - DOMAIN-SUFFIX,lingxiu580.com
   - DOMAIN-SUFFIX,lingxmall.com
   - DOMAIN-SUFFIX,lingyi.org
+  - DOMAIN-SUFFIX,lingyiliebian.com
   - DOMAIN-SUFFIX,lingyinsi.com
   - DOMAIN-SUFFIX,lingyinsi.org
   - DOMAIN-SUFFIX,lingyu.org
@@ -33242,6 +33242,7 @@ payload:
   - DOMAIN-SUFFIX,lwfree.com
   - DOMAIN-SUFFIX,lwgod.xyz
   - DOMAIN-SUFFIX,lwhouse.com
+  - DOMAIN-SUFFIX,lwinfo.com
   - DOMAIN-SUFFIX,lwinl.com
   - DOMAIN-SUFFIX,lwj786.org
   - DOMAIN-SUFFIX,lwkz.cc
@@ -37237,7 +37238,6 @@ payload:
   - DOMAIN-SUFFIX,onlylady.com
   - DOMAIN-SUFFIX,onlyliuxue.com
   - DOMAIN-SUFFIX,onlyou.com
-  - DOMAIN-SUFFIX,onlyred.net
   - DOMAIN-SUFFIX,onlystem.com
   - DOMAIN-SUFFIX,onlytss.com
   - DOMAIN-SUFFIX,onlyyou.com
@@ -40401,6 +40401,7 @@ payload:
   - DOMAIN-SUFFIX,r-s-services.com
   - DOMAIN-SUFFIX,r-tms.net
   - DOMAIN-SUFFIX,r12345.com
+  - DOMAIN-SUFFIX,r147emh.com
   - DOMAIN-SUFFIX,r1x1.com
   - DOMAIN-SUFFIX,r1y.com
   - DOMAIN-SUFFIX,r2g.net
@@ -48423,6 +48424,7 @@ payload:
   - DOMAIN-SUFFIX,vnsiubvgs.com
   - DOMAIN-SUFFIX,vnsr6788.com
   - DOMAIN-SUFFIX,vnvshen.com
+  - DOMAIN-SUFFIX,vnylzny0.com
   - DOMAIN-SUFFIX,vnzmi.com
   - DOMAIN-SUFFIX,vobao.com
   - DOMAIN-SUFFIX,vobao.mobi
@@ -56210,7 +56212,6 @@ payload:
   - DOMAIN-SUFFIX,zerobreeze.com
   - DOMAIN-SUFFIX,zerobyw.com
   - DOMAIN-SUFFIX,zerobywps2.com
-  - DOMAIN-SUFFIX,zerobywswit.com
   - DOMAIN-SUFFIX,zerodream.net
   - DOMAIN-SUFFIX,zerogfans.com
   - DOMAIN-SUFFIX,zerokeeper.com
