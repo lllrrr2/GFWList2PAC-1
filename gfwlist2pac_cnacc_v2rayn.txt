@@ -1,7 +1,7 @@
-# Checksum: MTYwOTgwODgzMgo=
+# Checksum: MTYwOTgxNzg4MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210105-0
-# TimeUpdated: 2021-01-05T01:07:12+00:00
+# Version: 1.2.9-20210105-1
+# TimeUpdated: 2021-01-05T03:38:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2812,6 +2812,7 @@ domain:3699.cc,
 domain:36990.com,
 domain:36992.com,
 domain:369beauty.com,
+domain:369cc.com,
 domain:369gc.com,
 domain:369wenku.com,
 domain:369xxw.com,
@@ -6181,7 +6182,6 @@ domain:94dreamer.com,
 domain:94he38.com,
 domain:94hnr.com,
 domain:94i5.com,
-domain:94ip.com,
 domain:94kssc8.icu,
 domain:94lm.com,
 domain:94mxd.com,
