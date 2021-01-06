@@ -1,7 +1,7 @@
-# Checksum: MTYwOTk1ODUyNgo=
+# Checksum: MTYwOTk2ODExNwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210106-6
-# TimeUpdated: 2021-01-06T18:42:06+00:00
+# Version: 1.2.9-20210106-7
+# TimeUpdated: 2021-01-06T21:21:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -4402,6 +4402,7 @@ DOMAIN-SUFFIX,583go.com
 DOMAIN-SUFFIX,5858.com
 DOMAIN-SUFFIX,585998d.com
 DOMAIN-SUFFIX,5866.com
+DOMAIN-SUFFIX,587c51.com
 DOMAIN-SUFFIX,58801hn.com
 DOMAIN-SUFFIX,5884.com
 DOMAIN-SUFFIX,5887.com
@@ -6806,6 +6807,7 @@ DOMAIN-SUFFIX,act-telecom.com
 DOMAIN-SUFFIX,actacams.com
 DOMAIN-SUFFIX,actamath.com
 DOMAIN-SUFFIX,actcn.net
+DOMAIN-SUFFIX,actions-semi.com
 DOMAIN-SUFFIX,actionsky.com
 DOMAIN-SUFFIX,activeclub.net
 DOMAIN-SUFFIX,activepower.net
@@ -7174,7 +7176,6 @@ DOMAIN-SUFFIX,aiemy.com
 DOMAIN-SUFFIX,aier0755.com
 DOMAIN-SUFFIX,aierchina.com
 DOMAIN-SUFFIX,aiezu.com
-DOMAIN-SUFFIX,aifamu.com
 DOMAIN-SUFFIX,aifanfan.com
 DOMAIN-SUFFIX,aifang.com
 DOMAIN-SUFFIX,aifangke.com
@@ -10889,7 +10890,6 @@ DOMAIN-SUFFIX,bxdlkj.com
 DOMAIN-SUFFIX,bxdoctor.com
 DOMAIN-SUFFIX,bxgfw.com
 DOMAIN-SUFFIX,bxgjyc.com
-DOMAIN-SUFFIX,bxglobal.com
 DOMAIN-SUFFIX,bxgtd.com
 DOMAIN-SUFFIX,bxjob.net
 DOMAIN-SUFFIX,bxjr.com
@@ -15183,6 +15183,7 @@ DOMAIN-SUFFIX,cyegushi.com
 DOMAIN-SUFFIX,cyepai.com
 DOMAIN-SUFFIX,cyfeng.com
 DOMAIN-SUFFIX,cyggcygg.com
+DOMAIN-SUFFIX,cygglm.com
 DOMAIN-SUFFIX,cyhd.net
 DOMAIN-SUFFIX,cyhm.com
 DOMAIN-SUFFIX,cyhone.com
@@ -23250,6 +23251,7 @@ DOMAIN-SUFFIX,hbzkzx.com
 DOMAIN-SUFFIX,hbzqzx.com
 DOMAIN-SUFFIX,hbzrtx.com
 DOMAIN-SUFFIX,hbzsb.com
+DOMAIN-SUFFIX,hbzuojia.com
 DOMAIN-SUFFIX,hbzxr.com
 DOMAIN-SUFFIX,hbzywh.com
 DOMAIN-SUFFIX,hc-byq.com
@@ -24799,6 +24801,7 @@ DOMAIN-SUFFIX,huananxinwen.com
 DOMAIN-SUFFIX,huanbao-world.com
 DOMAIN-SUFFIX,huanbaolqt.com
 DOMAIN-SUFFIX,huancaicp.com
+DOMAIN-SUFFIX,huanchenggjhy.com
 DOMAIN-SUFFIX,huang-jerryc.com
 DOMAIN-SUFFIX,huang-ou.com
 DOMAIN-SUFFIX,huangbaoche.com
@@ -44858,6 +44861,7 @@ DOMAIN-SUFFIX,sysclk.com
 DOMAIN-SUFFIX,syscxp.com
 DOMAIN-SUFFIX,sysengi.com
 DOMAIN-SUFFIX,syshospital.com
+DOMAIN-SUFFIX,syshospital.org
 DOMAIN-SUFFIX,sysight.com
 DOMAIN-SUFFIX,sysjdjy.com
 DOMAIN-SUFFIX,sysmini.com
