@@ -1,7 +1,7 @@
-# Checksum: MTYwOTg4MTcxNwo=
+# Checksum: MTYwOTg5NTI1Nwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210105-7
-# TimeUpdated: 2021-01-05T21:21:57+00:00
+# Version: 1.2.9-20210106-0
+# TimeUpdated: 2021-01-06T01:07:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -6456,6 +6456,7 @@ DOMAIN-SUFFIX,desisexclips.com,PROXY
 DOMAIN-SUFFIX,desitorrents.com,PROXY
 DOMAIN-SUFFIX,desk.com,PROXY
 DOMAIN-SUFFIX,deskconnect.com,PROXY
+DOMAIN-SUFFIX,desktop.githubusercontent.com,PROXY
 DOMAIN-SUFFIX,desktopmovie.com,PROXY
 DOMAIN-SUFFIX,desktopmovie.net,PROXY
 DOMAIN-SUFFIX,desktopmovie.org,PROXY
@@ -9614,6 +9615,7 @@ DOMAIN-SUFFIX,github.io,PROXY
 DOMAIN-SUFFIX,githubapp.com,PROXY
 DOMAIN-SUFFIX,githubhackathon.com,PROXY
 DOMAIN-SUFFIX,githubstatus.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com,PROXY
 DOMAIN-SUFFIX,gitlab.com,PROXY
 DOMAIN-SUFFIX,gitlab.io,PROXY
@@ -16320,6 +16322,7 @@ DOMAIN-SUFFIX,piggyproof.benediktweishaupt.de,PROXY
 DOMAIN-SUFFIX,pikachu-26da5.firebaseio.com,PROXY
 DOMAIN-SUFFIX,pilihan-anda.blogspot.hk,PROXY
 DOMAIN-SUFFIX,pillbeatsblackfridaysale.com,PROXY
+DOMAIN-SUFFIX,pimg.tw,PROXY
 DOMAIN-SUFFIX,pin-cong.com,PROXY
 DOMAIN-SUFFIX,pin.it,PROXY
 DOMAIN-SUFFIX,pin1188.com,PROXY

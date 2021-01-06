@@ -1,7 +1,7 @@
-# Checksum: MTYwOTg4MTcxNwo=
+# Checksum: MTYwOTg5NTI1Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210105-7
-# TimeUpdated: 2021-01-05T21:21:57+00:00
+# Version: 1.2.9-20210106-0
+# TimeUpdated: 2021-01-06T01:07:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -6456,6 +6456,7 @@ domain:desisexclips.com,
 domain:desitorrents.com,
 domain:desk.com,
 domain:deskconnect.com,
+domain:desktop.githubusercontent.com,
 domain:desktopmovie.com,
 domain:desktopmovie.net,
 domain:desktopmovie.org,
@@ -9614,6 +9615,7 @@ domain:github.io,
 domain:githubapp.com,
 domain:githubhackathon.com,
 domain:githubstatus.com,
+domain:githubusercontent.com,
 domain:gitlab-assets.oss-cn-hongkong.aliyuncs.com,
 domain:gitlab.com,
 domain:gitlab.io,
@@ -16320,6 +16322,7 @@ domain:piggyproof.benediktweishaupt.de,
 domain:pikachu-26da5.firebaseio.com,
 domain:pilihan-anda.blogspot.hk,
 domain:pillbeatsblackfridaysale.com,
+domain:pimg.tw,
 domain:pin-cong.com,
 domain:pin.it,
 domain:pin1188.com,
