@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTkwNDM2Ngo=
+# Checksum: MTYwOTkxNDY2MQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210106-1
-# TimeUpdated: 2021-01-06T03:39:26+00:00
+# Version: 1.2.9-20210106-2
+# TimeUpdated: 2021-01-06T06:31:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -5850,6 +5850,7 @@ payload:
   - DOMAIN-SUFFIX,8she.com
   - DOMAIN-SUFFIX,8taobaodian.com
   - DOMAIN-SUFFIX,8toto.com
+  - DOMAIN-SUFFIX,8ttt8.com
   - DOMAIN-SUFFIX,8tupian.com
   - DOMAIN-SUFFIX,8twan.com
   - DOMAIN-SUFFIX,8u58.com
@@ -11645,6 +11646,7 @@ payload:
   - DOMAIN-SUFFIX,cdhulan.com
   - DOMAIN-SUFFIX,cdili.com
   - DOMAIN-SUFFIX,cdjingfeng.com
+  - DOMAIN-SUFFIX,cdjinpeng.com
   - DOMAIN-SUFFIX,cdjnrc.com
   - DOMAIN-SUFFIX,cdjsjx.com
   - DOMAIN-SUFFIX,cdjxjy.com
@@ -11880,7 +11882,6 @@ payload:
   - DOMAIN-SUFFIX,cfucn.com
   - DOMAIN-SUFFIX,cfund108.com
   - DOMAIN-SUFFIX,cfxydefsyy.com
-  - DOMAIN-SUFFIX,cfycf.com
   - DOMAIN-SUFFIX,cfzb.org
   - DOMAIN-SUFFIX,cfzq.com
   - DOMAIN-SUFFIX,cg-orz.com
@@ -13222,7 +13223,6 @@ payload:
   - DOMAIN-SUFFIX,ciaoca.com
   - DOMAIN-SUFFIX,ciatcm.org
   - DOMAIN-SUFFIX,ciavision.com
-  - DOMAIN-SUFFIX,cib.com.cn
   - DOMAIN-SUFFIX,cibfintech.com
   - DOMAIN-SUFFIX,cibntv.net
   - DOMAIN-SUFFIX,ciboedu.org
@@ -13325,6 +13325,7 @@ payload:
   - DOMAIN-SUFFIX,citshq.com
   - DOMAIN-SUFFIX,citszb.com
   - DOMAIN-SUFFIX,citure.net
+  - DOMAIN-SUFFIX,citv.net.cn
   - DOMAIN-SUFFIX,citw2008.com
   - DOMAIN-SUFFIX,city8.com
   - DOMAIN-SUFFIX,citygf.com

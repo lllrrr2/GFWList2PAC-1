@@ -1,7 +1,7 @@
-# Checksum: MTYwOTkwNDM2Ngo=
+# Checksum: MTYwOTkxNDY2MQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210106-1
-# TimeUpdated: 2021-01-06T03:39:26+00:00
+# Version: 1.2.9-20210106-2
+# TimeUpdated: 2021-01-06T06:31:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5849,6 +5849,7 @@ domain:8s8s.net,
 domain:8she.com,
 domain:8taobaodian.com,
 domain:8toto.com,
+domain:8ttt8.com,
 domain:8tupian.com,
 domain:8twan.com,
 domain:8u58.com,
@@ -11644,6 +11645,7 @@ domain:cdhtnews.com,
 domain:cdhulan.com,
 domain:cdili.com,
 domain:cdjingfeng.com,
+domain:cdjinpeng.com,
 domain:cdjnrc.com,
 domain:cdjsjx.com,
 domain:cdjxjy.com,
@@ -11879,7 +11881,6 @@ domain:cftong.com,
 domain:cfucn.com,
 domain:cfund108.com,
 domain:cfxydefsyy.com,
-domain:cfycf.com,
 domain:cfzb.org,
 domain:cfzq.com,
 domain:cg-orz.com,
@@ -13221,7 +13222,6 @@ domain:ciandcd.com,
 domain:ciaoca.com,
 domain:ciatcm.org,
 domain:ciavision.com,
-domain:cib.com.cn,
 domain:cibfintech.com,
 domain:cibntv.net,
 domain:ciboedu.org,
@@ -13324,6 +13324,7 @@ domain:citscsc.com,
 domain:citshq.com,
 domain:citszb.com,
 domain:citure.net,
+domain:citv.net.cn,
 domain:citw2008.com,
 domain:city8.com,
 domain:citygf.com,
