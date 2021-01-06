@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTk0NjYzNwo=
+# Checksum: MTYwOTk1ODUzNAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210106-5
-# TimeUpdated: 2021-01-06T15:23:57+00:00
+# Version: 1.2.9-20210106-6
+# TimeUpdated: 2021-01-06T18:42:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4983,7 +4983,6 @@ payload:
   - DOMAIN-SUFFIX,carphonewarehouse.com
   - DOMAIN-SUFFIX,carrd.co
   - DOMAIN-SUFFIX,carribeancom.com
-  - DOMAIN-SUFFIX,carryzhou.com
   - DOMAIN-SUFFIX,carstagram.com
   - DOMAIN-SUFFIX,cartewright.com
   - DOMAIN-SUFFIX,cartoonmovement.com
