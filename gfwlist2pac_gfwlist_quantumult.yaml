@@ -1,7 +1,7 @@
-# Checksum: MTYwOTkxNDY2OQo=
+# Checksum: MTYwOTkyNTcwMgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210106-2
-# TimeUpdated: 2021-01-06T06:31:09+00:00
+# Version: 1.2.9-20210106-3
+# TimeUpdated: 2021-01-06T09:35:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -183,7 +183,6 @@ DOMAIN-SUFFIX,116.etowns.org,PROXY
 DOMAIN-SUFFIX,1165g.com,PROXY
 DOMAIN-SUFFIX,1165p.com,PROXY
 DOMAIN-SUFFIX,1166buyu.com,PROXY
-DOMAIN-SUFFIX,119hg.com,PROXY
 DOMAIN-SUFFIX,11afcp.com,PROXY
 DOMAIN-SUFFIX,11cpk.com,PROXY
 DOMAIN-SUFFIX,11sebb.com,PROXY
@@ -1995,7 +1994,6 @@ DOMAIN-SUFFIX,alqp95.com,PROXY
 DOMAIN-SUFFIX,alsupnet.com,PROXY
 DOMAIN-SUFFIX,altavista.com,PROXY
 DOMAIN-SUFFIX,altera.com,PROXY
-DOMAIN-SUFFIX,alteraforums.net,PROXY
 DOMAIN-SUFFIX,alterauserforum.com,PROXY
 DOMAIN-SUFFIX,alterauserforum.net,PROXY
 DOMAIN-SUFFIX,alterauserforums.com,PROXY
@@ -15449,6 +15447,7 @@ DOMAIN-SUFFIX,nytlog.com,PROXY
 DOMAIN-SUFFIX,nytnow.com,PROXY
 DOMAIN-SUFFIX,nytsyn.com,PROXY
 DOMAIN-SUFFIX,nywb.fat.flnet.org,PROXY
+DOMAIN-SUFFIX,nzchinese.com,PROXY
 DOMAIN-SUFFIX,nzlife.nz,PROXY
 DOMAIN-SUFFIX,nztdsm.com,PROXY
 DOMAIN-SUFFIX,o.po18.tw,PROXY

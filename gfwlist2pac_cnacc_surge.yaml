@@ -1,7 +1,7 @@
-# Checksum: MTYwOTkxNDY2MQo=
+# Checksum: MTYwOTkyNTY5NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210106-2
-# TimeUpdated: 2021-01-06T06:31:01+00:00
+# Version: 1.2.9-20210106-3
+# TimeUpdated: 2021-01-06T09:34:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1558,6 +1558,7 @@ DOMAIN-SUFFIX,17pxs.com
 DOMAIN-SUFFIX,17python.com
 DOMAIN-SUFFIX,17qcc.com
 DOMAIN-SUFFIX,17qq.com
+DOMAIN-SUFFIX,17qread.com
 DOMAIN-SUFFIX,17rd.com
 DOMAIN-SUFFIX,17rd.net
 DOMAIN-SUFFIX,17read.com
@@ -1904,6 +1905,7 @@ DOMAIN-SUFFIX,201551.com
 DOMAIN-SUFFIX,2015huo.com
 DOMAIN-SUFFIX,2016ruanwen.com
 DOMAIN-SUFFIX,2016win10.com
+DOMAIN-SUFFIX,2016y.com
 DOMAIN-SUFFIX,20174555.com
 DOMAIN-SUFFIX,20176699.com
 DOMAIN-SUFFIX,20180719.com
@@ -2048,6 +2050,7 @@ DOMAIN-SUFFIX,228445.com
 DOMAIN-SUFFIX,2288.org
 DOMAIN-SUFFIX,2295.com
 DOMAIN-SUFFIX,2298.com
+DOMAIN-SUFFIX,22ab.com
 DOMAIN-SUFFIX,22baobei.com
 DOMAIN-SUFFIX,22dm.com
 DOMAIN-SUFFIX,22edu.com
@@ -10347,6 +10350,7 @@ DOMAIN-SUFFIX,bluelettercn.org
 DOMAIN-SUFFIX,bluelightfuse.com
 DOMAIN-SUFFIX,bluelive.me
 DOMAIN-SUFFIX,blueplus.cc
+DOMAIN-SUFFIX,blueriiver-eu.com
 DOMAIN-SUFFIX,bluesdream.com
 DOMAIN-SUFFIX,blueshow.net
 DOMAIN-SUFFIX,blueskykong.com
@@ -11881,6 +11885,7 @@ DOMAIN-SUFFIX,cftong.com
 DOMAIN-SUFFIX,cfucn.com
 DOMAIN-SUFFIX,cfund108.com
 DOMAIN-SUFFIX,cfxydefsyy.com
+DOMAIN-SUFFIX,cfxyfsyy.com
 DOMAIN-SUFFIX,cfzb.org
 DOMAIN-SUFFIX,cfzq.com
 DOMAIN-SUFFIX,cg-orz.com
@@ -13324,7 +13329,6 @@ DOMAIN-SUFFIX,citscsc.com
 DOMAIN-SUFFIX,citshq.com
 DOMAIN-SUFFIX,citszb.com
 DOMAIN-SUFFIX,citure.net
-DOMAIN-SUFFIX,citv.net.cn
 DOMAIN-SUFFIX,citw2008.com
 DOMAIN-SUFFIX,city8.com
 DOMAIN-SUFFIX,citygf.com
@@ -21189,6 +21193,7 @@ DOMAIN-SUFFIX,gjalk.com
 DOMAIN-SUFFIX,gjb9001b.com
 DOMAIN-SUFFIX,gjbaek.ren
 DOMAIN-SUFFIX,gjfax.com
+DOMAIN-SUFFIX,gjgbdszt.com.cn
 DOMAIN-SUFFIX,gjggad.com
 DOMAIN-SUFFIX,gjgov.com
 DOMAIN-SUFFIX,gjgwy.net

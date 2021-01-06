@@ -1,7 +1,7 @@
-# Checksum: MTYwOTkxNDY2OQo=
+# Checksum: MTYwOTkyNTcwMgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210106-2
-# TimeUpdated: 2021-01-06T06:31:09+00:00
+# Version: 1.2.9-20210106-3
+# TimeUpdated: 2021-01-06T09:35:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -183,7 +183,6 @@ domain:116.etowns.org,
 domain:1165g.com,
 domain:1165p.com,
 domain:1166buyu.com,
-domain:119hg.com,
 domain:11afcp.com,
 domain:11cpk.com,
 domain:11sebb.com,
@@ -1995,7 +1994,6 @@ domain:alqp95.com,
 domain:alsupnet.com,
 domain:altavista.com,
 domain:altera.com,
-domain:alteraforums.net,
 domain:alterauserforum.com,
 domain:alterauserforum.net,
 domain:alterauserforums.com,
@@ -15449,6 +15447,7 @@ domain:nytlog.com,
 domain:nytnow.com,
 domain:nytsyn.com,
 domain:nywb.fat.flnet.org,
+domain:nzchinese.com,
 domain:nzlife.nz,
 domain:nztdsm.com,
 domain:o.po18.tw,

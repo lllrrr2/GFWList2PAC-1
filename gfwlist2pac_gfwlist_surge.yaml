@@ -1,7 +1,7 @@
-# Checksum: MTYwOTkxNDY2OQo=
+# Checksum: MTYwOTkyNTcwMgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210106-2
-# TimeUpdated: 2021-01-06T06:31:09+00:00
+# Version: 1.2.9-20210106-3
+# TimeUpdated: 2021-01-06T09:35:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -183,7 +183,6 @@ DOMAIN-SUFFIX,116.etowns.org
 DOMAIN-SUFFIX,1165g.com
 DOMAIN-SUFFIX,1165p.com
 DOMAIN-SUFFIX,1166buyu.com
-DOMAIN-SUFFIX,119hg.com
 DOMAIN-SUFFIX,11afcp.com
 DOMAIN-SUFFIX,11cpk.com
 DOMAIN-SUFFIX,11sebb.com
@@ -1995,7 +1994,6 @@ DOMAIN-SUFFIX,alqp95.com
 DOMAIN-SUFFIX,alsupnet.com
 DOMAIN-SUFFIX,altavista.com
 DOMAIN-SUFFIX,altera.com
-DOMAIN-SUFFIX,alteraforums.net
 DOMAIN-SUFFIX,alterauserforum.com
 DOMAIN-SUFFIX,alterauserforum.net
 DOMAIN-SUFFIX,alterauserforums.com
@@ -15449,6 +15447,7 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytnow.com
 DOMAIN-SUFFIX,nytsyn.com
 DOMAIN-SUFFIX,nywb.fat.flnet.org
+DOMAIN-SUFFIX,nzchinese.com
 DOMAIN-SUFFIX,nzlife.nz
 DOMAIN-SUFFIX,nztdsm.com
 DOMAIN-SUFFIX,o.po18.tw
