@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTkzNjM1Mgo=
+# Checksum: MTYwOTk0NjYzMAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210106-4
-# TimeUpdated: 2021-01-06T12:32:32+00:00
+# Version: 1.2.9-20210106-5
+# TimeUpdated: 2021-01-06T15:23:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -10054,6 +10054,7 @@ payload:
   - DOMAIN-SUFFIX,bjdt360.com
   - DOMAIN-SUFFIX,bjeasycom.com
   - DOMAIN-SUFFIX,bjepn.com
+  - DOMAIN-SUFFIX,bjexx.com
   - DOMAIN-SUFFIX,bjfengguang.com
   - DOMAIN-SUFFIX,bjffdz.com
   - DOMAIN-SUFFIX,bjffkj.com
@@ -11532,6 +11533,7 @@ payload:
   - DOMAIN-SUFFIX,ccpitjs.org
   - DOMAIN-SUFFIX,ccpitlight.org
   - DOMAIN-SUFFIX,ccpitnmg.org
+  - DOMAIN-SUFFIX,ccpitqd.org
   - DOMAIN-SUFFIX,ccpitsd.com
   - DOMAIN-SUFFIX,ccpittex.com
   - DOMAIN-SUFFIX,ccpittj.org
@@ -38333,10 +38335,15 @@ payload:
   - DOMAIN-SUFFIX,pisx.com
   - DOMAIN-SUFFIX,piworker.com
   - DOMAIN-SUFFIX,pix2code.net
+  - DOMAIN-SUFFIX,pixanalytics.com
   - DOMAIN-SUFFIX,pixelauth.com
+  - DOMAIN-SUFFIX,pixfs.net
   - DOMAIN-SUFFIX,pixivacg.com
   - DOMAIN-SUFFIX,pixivic.com
   - DOMAIN-SUFFIX,pixivic.net
+  - DOMAIN-SUFFIX,pixnet.cc
+  - DOMAIN-SUFFIX,pixnet.in
+  - DOMAIN-SUFFIX,pixplug.in
   - DOMAIN-SUFFIX,piyingke.com
   - DOMAIN-SUFFIX,pj00001.com
   - DOMAIN-SUFFIX,pj0585.com
@@ -45449,6 +45456,7 @@ payload:
   - DOMAIN-SUFFIX,taotieren.com
   - DOMAIN-SUFFIX,taotiwang.com
   - DOMAIN-SUFFIX,taotu8.net
+  - DOMAIN-SUFFIX,taotumowang.com
   - DOMAIN-SUFFIX,taotuwu.com
   - DOMAIN-SUFFIX,taou.com
   - DOMAIN-SUFFIX,taowenxue.com
