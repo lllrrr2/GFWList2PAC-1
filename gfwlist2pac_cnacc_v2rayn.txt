@@ -1,7 +1,7 @@
-# Checksum: MTYwOTkyNTY5NQo=
+# Checksum: MTYwOTkzNjM1Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210106-3
-# TimeUpdated: 2021-01-06T09:34:55+00:00
+# Version: 1.2.9-20210106-4
+# TimeUpdated: 2021-01-06T12:32:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1457,6 +1457,7 @@ domain:1758.com,
 domain:175game.com,
 domain:175ha.com,
 domain:175pt.com,
+domain:175wan.com,
 domain:175wx.com,
 domain:17611.com,
 domain:17666.mobi,
@@ -1925,6 +1926,7 @@ domain:202wan.com,
 domain:204801.xyz,
 domain:2048sj.com,
 domain:206dy.com,
+domain:2088062.com,
 domain:2088063.com,
 domain:208xs.com,
 domain:20qu.com,
@@ -21193,7 +21195,6 @@ domain:gjalk.com,
 domain:gjb9001b.com,
 domain:gjbaek.ren,
 domain:gjfax.com,
-domain:gjgbdszt.com.cn,
 domain:gjggad.com,
 domain:gjgov.com,
 domain:gjgwy.net,
@@ -36450,6 +36451,7 @@ domain:nj-fst.com,
 domain:nj-marathon.org,
 domain:njbaisou.com,
 domain:njbys.com,
+domain:njcb.com.cn,
 domain:njcdata.com,
 domain:njcedu.com,
 domain:njcgs.com,
@@ -36498,6 +36500,7 @@ domain:njw88.com,
 domain:njweijin.com,
 domain:njwfgs.com,
 domain:njwww.net,
+domain:njxsmaofa.com,
 domain:njxsmfyh.com,
 domain:njxsmz.com,
 domain:njxzwh.com,

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTkyNTY5NQo=
+# Checksum: MTYwOTkzNjM1Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210106-3
-# TimeUpdated: 2021-01-06T09:34:55+00:00
+# Version: 1.2.9-20210106-4
+# TimeUpdated: 2021-01-06T12:32:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1458,6 +1458,7 @@ payload:
   - DOMAIN-SUFFIX,175game.com
   - DOMAIN-SUFFIX,175ha.com
   - DOMAIN-SUFFIX,175pt.com
+  - DOMAIN-SUFFIX,175wan.com
   - DOMAIN-SUFFIX,175wx.com
   - DOMAIN-SUFFIX,17611.com
   - DOMAIN-SUFFIX,17666.mobi
@@ -1926,6 +1927,7 @@ payload:
   - DOMAIN-SUFFIX,204801.xyz
   - DOMAIN-SUFFIX,2048sj.com
   - DOMAIN-SUFFIX,206dy.com
+  - DOMAIN-SUFFIX,2088062.com
   - DOMAIN-SUFFIX,2088063.com
   - DOMAIN-SUFFIX,208xs.com
   - DOMAIN-SUFFIX,20qu.com
@@ -21194,7 +21196,6 @@ payload:
   - DOMAIN-SUFFIX,gjb9001b.com
   - DOMAIN-SUFFIX,gjbaek.ren
   - DOMAIN-SUFFIX,gjfax.com
-  - DOMAIN-SUFFIX,gjgbdszt.com.cn
   - DOMAIN-SUFFIX,gjggad.com
   - DOMAIN-SUFFIX,gjgov.com
   - DOMAIN-SUFFIX,gjgwy.net
@@ -36451,6 +36452,7 @@ payload:
   - DOMAIN-SUFFIX,nj-marathon.org
   - DOMAIN-SUFFIX,njbaisou.com
   - DOMAIN-SUFFIX,njbys.com
+  - DOMAIN-SUFFIX,njcb.com.cn
   - DOMAIN-SUFFIX,njcdata.com
   - DOMAIN-SUFFIX,njcedu.com
   - DOMAIN-SUFFIX,njcgs.com
@@ -36499,6 +36501,7 @@ payload:
   - DOMAIN-SUFFIX,njweijin.com
   - DOMAIN-SUFFIX,njwfgs.com
   - DOMAIN-SUFFIX,njwww.net
+  - DOMAIN-SUFFIX,njxsmaofa.com
   - DOMAIN-SUFFIX,njxsmfyh.com
   - DOMAIN-SUFFIX,njxsmz.com
   - DOMAIN-SUFFIX,njxzwh.com
