@@ -1,7 +1,7 @@
-# Checksum: MTYwOTk2ODEyNgo=
+# Checksum: MTYwOTk4MTg5OAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210106-7
-# TimeUpdated: 2021-01-06T21:22:06+00:00
+# Version: 1.2.9-20210107-0
+# TimeUpdated: 2021-01-07T01:11:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -538,6 +538,7 @@ DOMAIN-SUFFIX,266908.com,PROXY
 DOMAIN-SUFFIX,268.etowns.org,PROXY
 DOMAIN-SUFFIX,268.slyip.net,PROXY
 DOMAIN-SUFFIX,27.flnet.org,PROXY
+DOMAIN-SUFFIX,27.qc.to,PROXY
 DOMAIN-SUFFIX,27.zyns.com,PROXY
 DOMAIN-SUFFIX,2741103.com,PROXY
 DOMAIN-SUFFIX,2741131.com,PROXY
@@ -3704,6 +3705,7 @@ DOMAIN-SUFFIX,big.one,PROXY
 DOMAIN-SUFFIX,big2wt.com,PROXY
 DOMAIN-SUFFIX,big5.zhengjian.org,PROXY
 DOMAIN-SUFFIX,big5sex.com,PROXY
+DOMAIN-SUFFIX,bigbigshop.com,PROXY
 DOMAIN-SUFFIX,bigbird18.com,PROXY
 DOMAIN-SUFFIX,bigbozz.org,PROXY
 DOMAIN-SUFFIX,bigbreastarchive.com,PROXY
@@ -7400,6 +7402,8 @@ DOMAIN-SUFFIX,ecommtools.com,PROXY
 DOMAIN-SUFFIX,econ.st,PROXY
 DOMAIN-SUFFIX,economicsandpeace.org,PROXY
 DOMAIN-SUFFIX,economist.com,PROXY
+DOMAIN-SUFFIX,economistgroup.com,PROXY
+DOMAIN-SUFFIX,economistgroupcareers.com,PROXY
 DOMAIN-SUFFIX,ecosys.eu,PROXY
 DOMAIN-SUFFIX,ecped.tk,PROXY
 DOMAIN-SUFFIX,ecrans.fr,PROXY
@@ -7414,6 +7418,7 @@ DOMAIN-SUFFIX,edgedatg.com,PROXY
 DOMAIN-SUFFIX,edicypages.com,PROXY
 DOMAIN-SUFFIX,edilly.com,PROXY
 DOMAIN-SUFFIX,edisebay.com,PROXY
+DOMAIN-SUFFIX,editorx.com,PROXY
 DOMAIN-SUFFIX,edmontonchina.cn,PROXY
 DOMAIN-SUFFIX,edmontonservice.com,PROXY
 DOMAIN-SUFFIX,edninfo.com,PROXY
@@ -7485,6 +7490,7 @@ DOMAIN-SUFFIX,eip.pccp.com.tw,PROXY
 DOMAIN-SUFFIX,eireinikotaerukai.com,PROXY
 DOMAIN-SUFFIX,eiresol.com,PROXY
 DOMAIN-SUFFIX,eisbb.com,PROXY
+DOMAIN-SUFFIX,eiu.com,PROXY
 DOMAIN-SUFFIX,ekh3.way-to-win.com,PROXY
 DOMAIN-SUFFIX,ekhindi.com,PROXY
 DOMAIN-SUFFIX,ekiry.com,PROXY
@@ -15961,6 +15967,7 @@ DOMAIN-SUFFIX,parallels.com,PROXY
 DOMAIN-SUFFIX,paramitadirect.com,PROXY
 DOMAIN-SUFFIX,paramount.com,PROXY
 DOMAIN-SUFFIX,parapentemanquehue.cl,PROXY
+DOMAIN-SUFFIX,parastorage.com,PROXY
 DOMAIN-SUFFIX,pardot.com,PROXY
 DOMAIN-SUFFIX,park-now.com,PROXY
 DOMAIN-SUFFIX,parkansky.com,PROXY
@@ -18228,6 +18235,7 @@ DOMAIN-SUFFIX,shmooze.com,PROXY
 DOMAIN-SUFFIX,shodanhq.com,PROXY
 DOMAIN-SUFFIX,shoers.com,PROXY
 DOMAIN-SUFFIX,shooshtime.com,PROXY
+DOMAIN-SUFFIX,shop.app,PROXY
 DOMAIN-SUFFIX,shop.tm,PROXY
 DOMAIN-SUFFIX,shop2000.com.tw,PROXY
 DOMAIN-SUFFIX,shopbeatsdre.com,PROXY
@@ -18247,6 +18255,7 @@ DOMAIN-SUFFIX,shopfacebook.com,PROXY
 DOMAIN-SUFFIX,shopibay.net,PROXY
 DOMAIN-SUFFIX,shopify.com,PROXY
 DOMAIN-SUFFIX,shopify.dev,PROXY
+DOMAIN-SUFFIX,shopifycloud.com,PROXY
 DOMAIN-SUFFIX,shopifystatus.com,PROXY
 DOMAIN-SUFFIX,shoplineimg.com,PROXY
 DOMAIN-SUFFIX,shopminiusa.com,PROXY
@@ -20256,6 +20265,8 @@ DOMAIN-SUFFIX,tvbddd.com,PROXY
 DOMAIN-SUFFIX,tvboxnow.com,PROXY
 DOMAIN-SUFFIX,tvbppp.com,PROXY
 DOMAIN-SUFFIX,tvbs.com.tw,PROXY
+DOMAIN-SUFFIX,tvbusa.com,PROXY
+DOMAIN-SUFFIX,tvbweekly.com,PROXY
 DOMAIN-SUFFIX,tvider.com,PROXY
 DOMAIN-SUFFIX,tvmost.com.hk,PROXY
 DOMAIN-SUFFIX,tvplayvideos.com,PROXY
@@ -21937,6 +21948,7 @@ DOMAIN-SUFFIX,witopia.com,PROXY
 DOMAIN-SUFFIX,witopia.net,PROXY
 DOMAIN-SUFFIX,wiwiwiki.kfd.me,PROXY
 DOMAIN-SUFFIX,wix.com,PROXY
+DOMAIN-SUFFIX,wixanswers.com,PROXY
 DOMAIN-SUFFIX,wixmp.com,PROXY
 DOMAIN-SUFFIX,wizcrafts.net,PROXY
 DOMAIN-SUFFIX,wjbookny.com,PROXY

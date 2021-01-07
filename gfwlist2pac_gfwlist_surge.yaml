@@ -1,7 +1,7 @@
-# Checksum: MTYwOTk2ODEyNgo=
+# Checksum: MTYwOTk4MTg5OAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210106-7
-# TimeUpdated: 2021-01-06T21:22:06+00:00
+# Version: 1.2.9-20210107-0
+# TimeUpdated: 2021-01-07T01:11:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -538,6 +538,7 @@ DOMAIN-SUFFIX,266908.com
 DOMAIN-SUFFIX,268.etowns.org
 DOMAIN-SUFFIX,268.slyip.net
 DOMAIN-SUFFIX,27.flnet.org
+DOMAIN-SUFFIX,27.qc.to
 DOMAIN-SUFFIX,27.zyns.com
 DOMAIN-SUFFIX,2741103.com
 DOMAIN-SUFFIX,2741131.com
@@ -3704,6 +3705,7 @@ DOMAIN-SUFFIX,big.one
 DOMAIN-SUFFIX,big2wt.com
 DOMAIN-SUFFIX,big5.zhengjian.org
 DOMAIN-SUFFIX,big5sex.com
+DOMAIN-SUFFIX,bigbigshop.com
 DOMAIN-SUFFIX,bigbird18.com
 DOMAIN-SUFFIX,bigbozz.org
 DOMAIN-SUFFIX,bigbreastarchive.com
@@ -7400,6 +7402,8 @@ DOMAIN-SUFFIX,ecommtools.com
 DOMAIN-SUFFIX,econ.st
 DOMAIN-SUFFIX,economicsandpeace.org
 DOMAIN-SUFFIX,economist.com
+DOMAIN-SUFFIX,economistgroup.com
+DOMAIN-SUFFIX,economistgroupcareers.com
 DOMAIN-SUFFIX,ecosys.eu
 DOMAIN-SUFFIX,ecped.tk
 DOMAIN-SUFFIX,ecrans.fr
@@ -7414,6 +7418,7 @@ DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,edicypages.com
 DOMAIN-SUFFIX,edilly.com
 DOMAIN-SUFFIX,edisebay.com
+DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,edmontonchina.cn
 DOMAIN-SUFFIX,edmontonservice.com
 DOMAIN-SUFFIX,edninfo.com
@@ -7485,6 +7490,7 @@ DOMAIN-SUFFIX,eip.pccp.com.tw
 DOMAIN-SUFFIX,eireinikotaerukai.com
 DOMAIN-SUFFIX,eiresol.com
 DOMAIN-SUFFIX,eisbb.com
+DOMAIN-SUFFIX,eiu.com
 DOMAIN-SUFFIX,ekh3.way-to-win.com
 DOMAIN-SUFFIX,ekhindi.com
 DOMAIN-SUFFIX,ekiry.com
@@ -15961,6 +15967,7 @@ DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,paramitadirect.com
 DOMAIN-SUFFIX,paramount.com
 DOMAIN-SUFFIX,parapentemanquehue.cl
+DOMAIN-SUFFIX,parastorage.com
 DOMAIN-SUFFIX,pardot.com
 DOMAIN-SUFFIX,park-now.com
 DOMAIN-SUFFIX,parkansky.com
@@ -18228,6 +18235,7 @@ DOMAIN-SUFFIX,shmooze.com
 DOMAIN-SUFFIX,shodanhq.com
 DOMAIN-SUFFIX,shoers.com
 DOMAIN-SUFFIX,shooshtime.com
+DOMAIN-SUFFIX,shop.app
 DOMAIN-SUFFIX,shop.tm
 DOMAIN-SUFFIX,shop2000.com.tw
 DOMAIN-SUFFIX,shopbeatsdre.com
@@ -18247,6 +18255,7 @@ DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,shopibay.net
 DOMAIN-SUFFIX,shopify.com
 DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycloud.com
 DOMAIN-SUFFIX,shopifystatus.com
 DOMAIN-SUFFIX,shoplineimg.com
 DOMAIN-SUFFIX,shopminiusa.com
@@ -20256,6 +20265,8 @@ DOMAIN-SUFFIX,tvbddd.com
 DOMAIN-SUFFIX,tvboxnow.com
 DOMAIN-SUFFIX,tvbppp.com
 DOMAIN-SUFFIX,tvbs.com.tw
+DOMAIN-SUFFIX,tvbusa.com
+DOMAIN-SUFFIX,tvbweekly.com
 DOMAIN-SUFFIX,tvider.com
 DOMAIN-SUFFIX,tvmost.com.hk
 DOMAIN-SUFFIX,tvplayvideos.com
@@ -21937,6 +21948,7 @@ DOMAIN-SUFFIX,witopia.com
 DOMAIN-SUFFIX,witopia.net
 DOMAIN-SUFFIX,wiwiwiki.kfd.me
 DOMAIN-SUFFIX,wix.com
+DOMAIN-SUFFIX,wixanswers.com
 DOMAIN-SUFFIX,wixmp.com
 DOMAIN-SUFFIX,wizcrafts.net
 DOMAIN-SUFFIX,wjbookny.com

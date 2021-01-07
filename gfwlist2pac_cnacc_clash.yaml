@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYwOTk2ODExNwo=
+# Checksum: MTYwOTk4MTg5MQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210106-7
-# TimeUpdated: 2021-01-06T21:21:57+00:00
+# Version: 1.2.9-20210107-0
+# TimeUpdated: 2021-01-07T01:11:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1044,7 +1044,6 @@ payload:
   - DOMAIN-SUFFIX,12225.com
   - DOMAIN-SUFFIX,12226.com
   - DOMAIN-SUFFIX,12227.com
-  - DOMAIN-SUFFIX,12248.net
   - DOMAIN-SUFFIX,122park.com
   - DOMAIN-SUFFIX,123.com
   - DOMAIN-SUFFIX,12306.com
@@ -5809,6 +5808,7 @@ payload:
   - DOMAIN-SUFFIX,8cheche.com
   - DOMAIN-SUFFIX,8cnd.com
   - DOMAIN-SUFFIX,8cnet.com
+  - DOMAIN-SUFFIX,8da.com
   - DOMAIN-SUFFIX,8dc.net
   - DOMAIN-SUFFIX,8ddao.com
   - DOMAIN-SUFFIX,8desk.com
@@ -13626,6 +13626,7 @@ payload:
   - DOMAIN-SUFFIX,cn-roofexpert.com
   - DOMAIN-SUFFIX,cn-truck.com
   - DOMAIN-SUFFIX,cn.bing.com
+  - DOMAIN-SUFFIX,cn.bing.net
   - DOMAIN-SUFFIX,cn.img.stb.s-msn.com
   - DOMAIN-SUFFIX,cn.msi.com
   - DOMAIN-SUFFIX,cn.pandora.net
@@ -14333,7 +14334,6 @@ payload:
   - DOMAIN-SUFFIX,colourlife.com
   - DOMAIN-SUFFIX,columbiays.com
   - DOMAIN-SUFFIX,com.tv
-  - DOMAIN-SUFFIX,com01.org
   - DOMAIN-SUFFIX,com126.com
   - DOMAIN-SUFFIX,com21.com
   - DOMAIN-SUFFIX,com4loves.com
@@ -16115,7 +16115,6 @@ payload:
   - DOMAIN-SUFFIX,dfafei.com
   - DOMAIN-SUFFIX,dfbgv.com
   - DOMAIN-SUFFIX,dfcfw.com
-  - DOMAIN-SUFFIX,dfd88.com
   - DOMAIN-SUFFIX,dfdaily.com
   - DOMAIN-SUFFIX,dfedu.com
   - DOMAIN-SUFFIX,dfgzqc.com
@@ -22194,6 +22193,7 @@ payload:
   - DOMAIN-SUFFIX,gxjtaq.com
   - DOMAIN-SUFFIX,gxjubao.org
   - DOMAIN-SUFFIX,gxjznet.com
+  - DOMAIN-SUFFIX,gxkjec.com
   - DOMAIN-SUFFIX,gxkjjt.com
   - DOMAIN-SUFFIX,gxlxs2008.net
   - DOMAIN-SUFFIX,gxmenjin.com
@@ -36924,7 +36924,6 @@ payload:
   - DOMAIN-SUFFIX,objcer.com
   - DOMAIN-SUFFIX,objcoding.com
   - DOMAIN-SUFFIX,objectyan.me
-  - DOMAIN-SUFFIX,objweb.com
   - DOMAIN-SUFFIX,obkoro1.com
   - DOMAIN-SUFFIX,obkprint.com
   - DOMAIN-SUFFIX,obolee.com
@@ -43361,7 +43360,6 @@ payload:
   - DOMAIN-SUFFIX,sketchchina.net
   - DOMAIN-SUFFIX,sketchcn.com
   - DOMAIN-SUFFIX,sketchui.net
-  - DOMAIN-SUFFIX,sketchup10.com
   - DOMAIN-SUFFIX,sketchupbar.com
   - DOMAIN-SUFFIX,sketchupbbs.com
   - DOMAIN-SUFFIX,skg.com
@@ -47180,6 +47178,7 @@ payload:
   - DOMAIN-SUFFIX,tvapk.net
   - DOMAIN-SUFFIX,tvb1.cc
   - DOMAIN-SUFFIX,tvbbj.com
+  - DOMAIN-SUFFIX,tvbc.com.cn
   - DOMAIN-SUFFIX,tvcbook.com
   - DOMAIN-SUFFIX,tvflnet.com
   - DOMAIN-SUFFIX,tvhome.com
@@ -50309,6 +50308,7 @@ payload:
   - DOMAIN-SUFFIX,wn3331.com
   - DOMAIN-SUFFIX,wn51.com
   - DOMAIN-SUFFIX,wn789.com
+  - DOMAIN-SUFFIX,wnacg.xyz
   - DOMAIN-SUFFIX,wnbsq.com
   - DOMAIN-SUFFIX,wndhw.com
   - DOMAIN-SUFFIX,wnform.com
@@ -50917,6 +50917,7 @@ payload:
   - DOMAIN-SUFFIX,www.analog.com
   - DOMAIN-SUFFIX,www.apple.com
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net
+  - DOMAIN-SUFFIX,www.bing.com
   - DOMAIN-SUFFIX,www.cc
   - DOMAIN-SUFFIX,www.cg
   - DOMAIN-SUFFIX,www.com.my
