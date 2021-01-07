@@ -1,7 +1,7 @@
-# Checksum: MTYxMDAzMzA0Mwo=
+# Checksum: MTYxMDA0NDkzOQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210107-5
-# TimeUpdated: 2021-01-07T15:24:03+00:00
+# Version: 1.2.9-20210107-6
+# TimeUpdated: 2021-01-07T18:42:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -12328,6 +12328,7 @@ DOMAIN-SUFFIX,chenzhongtech.com
 DOMAIN-SUFFIX,cheonhyeong.com
 DOMAIN-SUFFIX,cheoo.com
 DOMAIN-SUFFIX,cheoz.com
+DOMAIN-SUFFIX,chepin88.com
 DOMAIN-SUFFIX,chepinnet.com
 DOMAIN-SUFFIX,chepinxiu.net
 DOMAIN-SUFFIX,chepoo.com
@@ -16949,6 +16950,7 @@ DOMAIN-SUFFIX,dongannews.com
 DOMAIN-SUFFIX,dongao.com
 DOMAIN-SUFFIX,dongbao120.com
 DOMAIN-SUFFIX,dongbeiol.com
+DOMAIN-SUFFIX,dongbeisurewin.com
 DOMAIN-SUFFIX,dongbucaijing.com
 DOMAIN-SUFFIX,dongcheng120.com
 DOMAIN-SUFFIX,dongdalou.com
@@ -25829,6 +25831,7 @@ DOMAIN-SUFFIX,iceinto.com
 DOMAIN-SUFFIX,icemle.org
 DOMAIN-SUFFIX,iceshi.org
 DOMAIN-SUFFIX,icesimba.com
+DOMAIN-SUFFIX,icesoulgames.com
 DOMAIN-SUFFIX,icevpn.org
 DOMAIN-SUFFIX,icewing.cc
 DOMAIN-SUFFIX,icewingcc.com
@@ -33706,7 +33709,6 @@ DOMAIN-SUFFIX,mandao-tech.com
 DOMAIN-SUFFIX,mandarincapital.net
 DOMAIN-SUFFIX,mandarinedu.org
 DOMAIN-SUFFIX,mandarinhouse.com
-DOMAIN-SUFFIX,mandudu.com
 DOMAIN-SUFFIX,manduwu.com
 DOMAIN-SUFFIX,manew.com
 DOMAIN-SUFFIX,manewvr.com
@@ -44032,6 +44034,7 @@ DOMAIN-SUFFIX,spbosta.org
 DOMAIN-SUFFIX,spc365.net
 DOMAIN-SUFFIX,spcdntip.com
 DOMAIN-SUFFIX,spcywang.com
+DOMAIN-SUFFIX,spdb.com.cn
 DOMAIN-SUFFIX,spdbh5.com
 DOMAIN-SUFFIX,spdcat.com
 DOMAIN-SUFFIX,spdex.com
@@ -53577,7 +53580,6 @@ DOMAIN-SUFFIX,yangyongquan.com
 DOMAIN-SUFFIX,yangyoulin.com
 DOMAIN-SUFFIX,yangyq.net
 DOMAIN-SUFFIX,yangzhe1991.org
-DOMAIN-SUFFIX,yangzhi.net
 DOMAIN-SUFFIX,yangzhiping.com
 DOMAIN-SUFFIX,yangzhiriji.com
 DOMAIN-SUFFIX,yangzhix.com

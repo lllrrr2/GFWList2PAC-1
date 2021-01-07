@@ -1,7 +1,7 @@
-# Checksum: MTYxMDAzMzA1Mgo=
+# Checksum: MTYxMDA0NDk0Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210107-5
-# TimeUpdated: 2021-01-07T15:24:12+00:00
+# Version: 1.2.9-20210107-6
+# TimeUpdated: 2021-01-07T18:42:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1477,7 +1477,6 @@ domain:78ten.com,
 domain:78xtv.com,
 domain:7909.com,
 domain:7911k.app,
-domain:797vip.com,
 domain:799299.com,
 domain:799499.com,
 domain:7afcp.com,
@@ -4335,6 +4334,7 @@ domain:bet18xl.biz,
 domain:bet18xl.com,
 domain:bet18xl.net,
 domain:bet18xl.org,
+domain:bet301.com,
 domain:bet365.com,
 domain:bet365.dk,
 domain:bet365.es,
