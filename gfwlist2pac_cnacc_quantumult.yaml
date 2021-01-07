@@ -1,7 +1,7 @@
-# Checksum: MTYwOTk4MTg5MQo=
+# Checksum: MTYwOTk5MDkzOAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210107-0
-# TimeUpdated: 2021-01-07T01:11:31+00:00
+# Version: 1.2.9-20210107-1
+# TimeUpdated: 2021-01-07T03:42:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -1752,6 +1752,7 @@ DOMAIN-SUFFIX,1dufish.com,DIRECT
 DOMAIN-SUFFIX,1duhy.com,DIRECT
 DOMAIN-SUFFIX,1dume.com,DIRECT
 DOMAIN-SUFFIX,1dusou.com,DIRECT
+DOMAIN-SUFFIX,1dutm.com,DIRECT
 DOMAIN-SUFFIX,1f11.com,DIRECT
 DOMAIN-SUFFIX,1fenda.com,DIRECT
 DOMAIN-SUFFIX,1fqw.com,DIRECT
@@ -2990,6 +2991,7 @@ DOMAIN-SUFFIX,3eyes.org,DIRECT
 DOMAIN-SUFFIX,3f-house.com,DIRECT
 DOMAIN-SUFFIX,3fang.com,DIRECT
 DOMAIN-SUFFIX,3fantizi.com,DIRECT
+DOMAIN-SUFFIX,3g210.com,DIRECT
 DOMAIN-SUFFIX,3g2win.com,DIRECT
 DOMAIN-SUFFIX,3g3h.org,DIRECT
 DOMAIN-SUFFIX,3g518.com,DIRECT
