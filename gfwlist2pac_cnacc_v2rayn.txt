@@ -1,7 +1,7 @@
-# Checksum: MTYxMDA0NDkzOQo=
+# Checksum: MTYxMDA1NDQxNAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210107-6
-# TimeUpdated: 2021-01-07T18:42:19+00:00
+# Version: 1.2.9-20210107-7
+# TimeUpdated: 2021-01-07T21:20:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2013,7 +2013,6 @@ domain:21vianet.com,
 domain:21voa.com,
 domain:21wenju.com,
 domain:21ww.cc,
-domain:21xianhua.com,
 domain:21xuema.com,
 domain:21yinxiang.com,
 domain:21yod.com,
@@ -2120,6 +2119,7 @@ domain:23hh.net,
 domain:23job.net,
 domain:23juqing.com,
 domain:23ks.com,
+domain:23lvxing.com,
 domain:23qb.com,
 domain:23qb.net,
 domain:23txt.com,
@@ -8377,6 +8377,7 @@ domain:aso114.com,
 domain:aso120.com,
 domain:asoasm.com,
 domain:asp300.com,
+domain:asp8php.com,
 domain:aspbc.com,
 domain:aspirer.wang,
 domain:aspku.com,

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDA0NDk0Nwo=
+# Checksum: MTYxMDA1NDQyMwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210107-6
-# TimeUpdated: 2021-01-07T18:42:27+00:00
+# Version: 1.2.9-20210107-7
+# TimeUpdated: 2021-01-07T21:20:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,

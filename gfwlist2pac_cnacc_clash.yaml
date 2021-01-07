@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDA0NDkzOQo=
+# Checksum: MTYxMDA1NDQxNAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210107-6
-# TimeUpdated: 2021-01-07T18:42:19+00:00
+# Version: 1.2.9-20210107-7
+# TimeUpdated: 2021-01-07T21:20:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2014,7 +2014,6 @@ payload:
   - DOMAIN-SUFFIX,21voa.com
   - DOMAIN-SUFFIX,21wenju.com
   - DOMAIN-SUFFIX,21ww.cc
-  - DOMAIN-SUFFIX,21xianhua.com
   - DOMAIN-SUFFIX,21xuema.com
   - DOMAIN-SUFFIX,21yinxiang.com
   - DOMAIN-SUFFIX,21yod.com
@@ -2121,6 +2120,7 @@ payload:
   - DOMAIN-SUFFIX,23job.net
   - DOMAIN-SUFFIX,23juqing.com
   - DOMAIN-SUFFIX,23ks.com
+  - DOMAIN-SUFFIX,23lvxing.com
   - DOMAIN-SUFFIX,23qb.com
   - DOMAIN-SUFFIX,23qb.net
   - DOMAIN-SUFFIX,23txt.com
@@ -8378,6 +8378,7 @@ payload:
   - DOMAIN-SUFFIX,aso120.com
   - DOMAIN-SUFFIX,asoasm.com
   - DOMAIN-SUFFIX,asp300.com
+  - DOMAIN-SUFFIX,asp8php.com
   - DOMAIN-SUFFIX,aspbc.com
   - DOMAIN-SUFFIX,aspirer.wang
   - DOMAIN-SUFFIX,aspku.com
