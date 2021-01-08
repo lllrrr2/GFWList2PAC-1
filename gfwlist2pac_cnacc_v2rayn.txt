@@ -1,7 +1,7 @@
-# Checksum: MTYxMDA3NzM5OQo=
+# Checksum: MTYxMDA4NzU3OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210108-1
-# TimeUpdated: 2021-01-08T03:43:19+00:00
+# Version: 1.2.9-20210108-2
+# TimeUpdated: 2021-01-08T06:32:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -202,7 +202,6 @@ domain:024888.net,
 domain:02489.com,
 domain:024anfang.com,
 domain:024aosite.com,
-domain:024asdr.com,
 domain:024bj.com,
 domain:024bxkj.com,
 domain:024eps.com,
@@ -2504,6 +2503,7 @@ domain:32r.com,
 domain:32wan.com,
 domain:32yx.com,
 domain:330123456.com,
+domain:3304399.com,
 domain:3306safe.com,
 domain:33105.com,
 domain:3312345.com,
@@ -8297,6 +8297,7 @@ domain:asklicai.com,
 domain:askmaclean.com,
 domain:askpanda.cc,
 domain:askququ.com,
+domain:askwx.com,
 domain:askxt.org,
 domain:aslzw.com,
 domain:asm64.com,
@@ -33979,6 +33980,7 @@ domain:melote.com,
 domain:melove.net,
 domain:memacx.com,
 domain:memagames.com,
+domain:memeyule.com,
 domain:memorieslab.com,
 domain:memorycarddeal.com,
 domain:memoryhere.com,

@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDA3NzM5OQo=
+# Checksum: MTYxMDA4NzU3OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210108-1
-# TimeUpdated: 2021-01-08T03:43:19+00:00
+# Version: 1.2.9-20210108-2
+# TimeUpdated: 2021-01-08T06:32:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -203,7 +203,6 @@ payload:
   - DOMAIN-SUFFIX,02489.com
   - DOMAIN-SUFFIX,024anfang.com
   - DOMAIN-SUFFIX,024aosite.com
-  - DOMAIN-SUFFIX,024asdr.com
   - DOMAIN-SUFFIX,024bj.com
   - DOMAIN-SUFFIX,024bxkj.com
   - DOMAIN-SUFFIX,024eps.com
@@ -2505,6 +2504,7 @@ payload:
   - DOMAIN-SUFFIX,32wan.com
   - DOMAIN-SUFFIX,32yx.com
   - DOMAIN-SUFFIX,330123456.com
+  - DOMAIN-SUFFIX,3304399.com
   - DOMAIN-SUFFIX,3306safe.com
   - DOMAIN-SUFFIX,33105.com
   - DOMAIN-SUFFIX,3312345.com
@@ -8298,6 +8298,7 @@ payload:
   - DOMAIN-SUFFIX,askmaclean.com
   - DOMAIN-SUFFIX,askpanda.cc
   - DOMAIN-SUFFIX,askququ.com
+  - DOMAIN-SUFFIX,askwx.com
   - DOMAIN-SUFFIX,askxt.org
   - DOMAIN-SUFFIX,aslzw.com
   - DOMAIN-SUFFIX,asm64.com
@@ -33980,6 +33981,7 @@ payload:
   - DOMAIN-SUFFIX,melove.net
   - DOMAIN-SUFFIX,memacx.com
   - DOMAIN-SUFFIX,memagames.com
+  - DOMAIN-SUFFIX,memeyule.com
   - DOMAIN-SUFFIX,memorieslab.com
   - DOMAIN-SUFFIX,memorycarddeal.com
   - DOMAIN-SUFFIX,memoryhere.com
