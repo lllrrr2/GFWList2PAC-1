@@ -1,7 +1,7 @@
-# Checksum: MTYxMDA5ODU4OAo=
+# Checksum: MTYxMDEwOTI3Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210108-3
-# TimeUpdated: 2021-01-08T09:36:28+00:00
+# Version: 1.2.9-20210108-4
+# TimeUpdated: 2021-01-08T12:34:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -8117,6 +8117,7 @@ domain:appweiyuan.com,
 domain:appwill.com,
 domain:appxcode.com,
 domain:appyao.com,
+domain:appyxxy.com,
 domain:appzhu.com,
 domain:apsgo.com,
 domain:aptchina.com,
@@ -13198,6 +13199,7 @@ domain:cio360.net,
 domain:cioage.com,
 domain:ciotimes.com,
 domain:ciotour.com,
+domain:ciou.com,
 domain:cip.cc,
 domain:cipgtrans.com,
 domain:ciprun.com,
@@ -25880,6 +25882,7 @@ domain:ifanggo.com,
 domain:ifangka.com,
 domain:ifanr.com,
 domain:ifanr.in,
+domain:ifanrusercontent.com,
 domain:ifareast.com,
 domain:ifavart.com,
 domain:ifaxin.com,
@@ -37402,6 +37405,7 @@ domain:paochefang.com,
 domain:paodoo.com,
 domain:paofugroup.com,
 domain:paojiao.com,
+domain:paolanhuanbao.com,
 domain:paomo.com,
 domain:paomou.com,
 domain:paopao.com,

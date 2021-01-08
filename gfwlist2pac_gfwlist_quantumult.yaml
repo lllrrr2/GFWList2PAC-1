@@ -1,7 +1,7 @@
-# Checksum: MTYxMDA5ODU5Nwo=
+# Checksum: MTYxMDEwOTI4NQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210108-3
-# TimeUpdated: 2021-01-08T09:36:37+00:00
+# Version: 1.2.9-20210108-4
+# TimeUpdated: 2021-01-08T12:34:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2236,6 +2236,7 @@ DOMAIN-SUFFIX,air-watch.com,PROXY
 DOMAIN-SUFFIX,airasia-firebase.firebaseio.com,PROXY
 DOMAIN-SUFFIX,airav.cc,PROXY
 DOMAIN-SUFFIX,airav.co,PROXY
+DOMAIN-SUFFIX,airav.me,PROXY
 DOMAIN-SUFFIX,airav.work,PROXY
 DOMAIN-SUFFIX,airbank.cz,PROXY
 DOMAIN-SUFFIX,airbrake.io,PROXY

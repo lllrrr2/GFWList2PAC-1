@@ -1,7 +1,7 @@
-# Checksum: MTYxMDA5ODU4OAo=
+# Checksum: MTYxMDEwOTI3Nwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210108-3
-# TimeUpdated: 2021-01-08T09:36:28+00:00
+# Version: 1.2.9-20210108-4
+# TimeUpdated: 2021-01-08T12:34:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -8117,6 +8117,7 @@ DOMAIN-SUFFIX,appweiyuan.com,DIRECT
 DOMAIN-SUFFIX,appwill.com,DIRECT
 DOMAIN-SUFFIX,appxcode.com,DIRECT
 DOMAIN-SUFFIX,appyao.com,DIRECT
+DOMAIN-SUFFIX,appyxxy.com,DIRECT
 DOMAIN-SUFFIX,appzhu.com,DIRECT
 DOMAIN-SUFFIX,apsgo.com,DIRECT
 DOMAIN-SUFFIX,aptchina.com,DIRECT
@@ -13198,6 +13199,7 @@ DOMAIN-SUFFIX,cio360.net,DIRECT
 DOMAIN-SUFFIX,cioage.com,DIRECT
 DOMAIN-SUFFIX,ciotimes.com,DIRECT
 DOMAIN-SUFFIX,ciotour.com,DIRECT
+DOMAIN-SUFFIX,ciou.com,DIRECT
 DOMAIN-SUFFIX,cip.cc,DIRECT
 DOMAIN-SUFFIX,cipgtrans.com,DIRECT
 DOMAIN-SUFFIX,ciprun.com,DIRECT
@@ -25880,6 +25882,7 @@ DOMAIN-SUFFIX,ifanggo.com,DIRECT
 DOMAIN-SUFFIX,ifangka.com,DIRECT
 DOMAIN-SUFFIX,ifanr.com,DIRECT
 DOMAIN-SUFFIX,ifanr.in,DIRECT
+DOMAIN-SUFFIX,ifanrusercontent.com,DIRECT
 DOMAIN-SUFFIX,ifareast.com,DIRECT
 DOMAIN-SUFFIX,ifavart.com,DIRECT
 DOMAIN-SUFFIX,ifaxin.com,DIRECT
@@ -37402,6 +37405,7 @@ DOMAIN-SUFFIX,paochefang.com,DIRECT
 DOMAIN-SUFFIX,paodoo.com,DIRECT
 DOMAIN-SUFFIX,paofugroup.com,DIRECT
 DOMAIN-SUFFIX,paojiao.com,DIRECT
+DOMAIN-SUFFIX,paolanhuanbao.com,DIRECT
 DOMAIN-SUFFIX,paomo.com,DIRECT
 DOMAIN-SUFFIX,paomou.com,DIRECT
 DOMAIN-SUFFIX,paopao.com,DIRECT
