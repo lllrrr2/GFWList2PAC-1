@@ -1,7 +1,7 @@
-# Checksum: MTYxMDA4NzU3OQo=
+# Checksum: MTYxMDA5ODU4OAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210108-2
-# TimeUpdated: 2021-01-08T06:32:59+00:00
+# Version: 1.2.9-20210108-3
+# TimeUpdated: 2021-01-08T09:36:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -37761,6 +37761,7 @@ domain:phouses.com,
 domain:php-master.com,
 domain:php-note.com,
 domain:php-oa.com,
+domain:php-z.com,
 domain:php168.com,
 domain:php186.com,
 domain:php2.cc,
