@@ -1,7 +1,7 @@
-# Checksum: MTYxMDEwOTI4NQo=
+# Checksum: MTYxMDExOTQ5OAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210108-4
-# TimeUpdated: 2021-01-08T12:34:45+00:00
+# Version: 1.2.9-20210108-5
+# TimeUpdated: 2021-01-08T15:24:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -1984,7 +1984,6 @@ DOMAIN-SUFFIX,accessfacebookfromschool.com,PROXY
 DOMAIN-SUFFIX,accessify.com,PROXY
 DOMAIN-SUFFIX,accesstoinsight.com,PROXY
 DOMAIN-SUFFIX,accessvpn.com,PROXY
-DOMAIN-SUFFIX,accim.org,PROXY
 DOMAIN-SUFFIX,accorhotels.com,PROXY
 DOMAIN-SUFFIX,account-paypal.info,PROXY
 DOMAIN-SUFFIX,account-paypal.net,PROXY
@@ -4029,7 +4028,6 @@ DOMAIN-SUFFIX,beeg.com,PROXY
 DOMAIN-SUFFIX,beehivetcg.com,PROXY
 DOMAIN-SUFFIX,beemtube.com,PROXY
 DOMAIN-SUFFIX,beerolympics.se,PROXY
-DOMAIN-SUFFIX,beevpn.com,PROXY
 DOMAIN-SUFFIX,beforeitsnews.com,PROXY
 DOMAIN-SUFFIX,befuck.com,PROXY
 DOMAIN-SUFFIX,behance.com,PROXY

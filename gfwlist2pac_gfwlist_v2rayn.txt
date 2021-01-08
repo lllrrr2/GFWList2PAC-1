@@ -1,7 +1,7 @@
-# Checksum: MTYxMDEwOTI4NQo=
+# Checksum: MTYxMDExOTQ5OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210108-4
-# TimeUpdated: 2021-01-08T12:34:45+00:00
+# Version: 1.2.9-20210108-5
+# TimeUpdated: 2021-01-08T15:24:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1984,7 +1984,6 @@ domain:accessfacebookfromschool.com,
 domain:accessify.com,
 domain:accesstoinsight.com,
 domain:accessvpn.com,
-domain:accim.org,
 domain:accorhotels.com,
 domain:account-paypal.info,
 domain:account-paypal.net,
@@ -4029,7 +4028,6 @@ domain:beeg.com,
 domain:beehivetcg.com,
 domain:beemtube.com,
 domain:beerolympics.se,
-domain:beevpn.com,
 domain:beforeitsnews.com,
 domain:befuck.com,
 domain:behance.com,
