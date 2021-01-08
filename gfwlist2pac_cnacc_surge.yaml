@@ -1,7 +1,7 @@
-# Checksum: MTYxMDEzMTE3OAo=
+# Checksum: MTYxMDE0MTAwNgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210108-6
-# TimeUpdated: 2021-01-08T18:39:38+00:00
+# Version: 1.2.9-20210108-7
+# TimeUpdated: 2021-01-08T21:23:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -3855,7 +3855,6 @@ DOMAIN-SUFFIX,51xuetang.com
 DOMAIN-SUFFIX,51xueyingyu.com
 DOMAIN-SUFFIX,51xumei.com
 DOMAIN-SUFFIX,51xw.net
-DOMAIN-SUFFIX,51xxyy.com
 DOMAIN-SUFFIX,51yabei.com
 DOMAIN-SUFFIX,51yala.com
 DOMAIN-SUFFIX,51yam.com
@@ -5866,7 +5865,6 @@ DOMAIN-SUFFIX,8wq.com
 DOMAIN-SUFFIX,8wss.com
 DOMAIN-SUFFIX,8yao.cc
 DOMAIN-SUFFIX,8ybct.com
-DOMAIN-SUFFIX,8ygby.com
 DOMAIN-SUFFIX,8ym8.com
 DOMAIN-SUFFIX,8yw.xyz
 DOMAIN-SUFFIX,8yzw.com
@@ -7410,7 +7408,6 @@ DOMAIN-SUFFIX,aixcoder.com
 DOMAIN-SUFFIX,aixgl.com
 DOMAIN-SUFFIX,aixiashu.com
 DOMAIN-SUFFIX,aixiatxt.com
-DOMAIN-SUFFIX,aixiawa.com
 DOMAIN-SUFFIX,aixiezuo.com
 DOMAIN-SUFFIX,aixigua.com
 DOMAIN-SUFFIX,aixinbaomu.com
@@ -7521,6 +7518,7 @@ DOMAIN-SUFFIX,alexafund.cn
 DOMAIN-SUFFIX,alexafund.com.cn
 DOMAIN-SUFFIX,alexyan.cc
 DOMAIN-SUFFIX,aleyoo.com
+DOMAIN-SUFFIX,alfeng.com
 DOMAIN-SUFFIX,alfheim.cc
 DOMAIN-SUFFIX,alfz999.com
 DOMAIN-SUFFIX,ali213.com
@@ -24344,6 +24342,7 @@ DOMAIN-SUFFIX,hnmdtv.com
 DOMAIN-SUFFIX,hnmgjr.com
 DOMAIN-SUFFIX,hnmsw.com
 DOMAIN-SUFFIX,hnmyyz.com
+DOMAIN-SUFFIX,hnnuange.com
 DOMAIN-SUFFIX,hnnx.com
 DOMAIN-SUFFIX,hnnxs.com
 DOMAIN-SUFFIX,hnoceanrace.com
@@ -30710,6 +30709,7 @@ DOMAIN-SUFFIX,koolbao.com
 DOMAIN-SUFFIX,kooldns.com
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koolproxy.com
+DOMAIN-SUFFIX,koolyun.com
 DOMAIN-SUFFIX,koorun.com
 DOMAIN-SUFFIX,kooshui.com
 DOMAIN-SUFFIX,kooteam.com
@@ -36562,6 +36562,7 @@ DOMAIN-SUFFIX,nice-app.com
 DOMAIN-SUFFIX,nice1688.com
 DOMAIN-SUFFIX,nicebing.com
 DOMAIN-SUFFIX,niceboybao.com
+DOMAIN-SUFFIX,nicecdn.com
 DOMAIN-SUFFIX,nicefilm.com
 DOMAIN-SUFFIX,nicekid.com
 DOMAIN-SUFFIX,nicelabel.cc
@@ -41040,6 +41041,7 @@ DOMAIN-SUFFIX,rg959.com
 DOMAIN-SUFFIX,rgb128.com
 DOMAIN-SUFFIX,rgfc.net
 DOMAIN-SUFFIX,rgoo.com
+DOMAIN-SUFFIX,rgslb.com
 DOMAIN-SUFFIX,rgt66.com
 DOMAIN-SUFFIX,rguidemetro.com
 DOMAIN-SUFFIX,rgyun.com
@@ -43598,6 +43600,7 @@ DOMAIN-SUFFIX,sj123.com
 DOMAIN-SUFFIX,sj33.net
 DOMAIN-SUFFIX,sj3w.com
 DOMAIN-SUFFIX,sj88.com
+DOMAIN-SUFFIX,sj96615.com
 DOMAIN-SUFFIX,sj998.com
 DOMAIN-SUFFIX,sjawards.com
 DOMAIN-SUFFIX,sjbzx.com
@@ -46886,6 +46889,7 @@ DOMAIN-SUFFIX,topcfo.net
 DOMAIN-SUFFIX,topcheer.com
 DOMAIN-SUFFIX,topchitu.com
 DOMAIN-SUFFIX,topciic.com
+DOMAIN-SUFFIX,topcj.com
 DOMAIN-SUFFIX,topcrab.com
 DOMAIN-SUFFIX,topcsic.com
 DOMAIN-SUFFIX,topdiaoyu.com
