@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE0MTAwNgo=
+# Checksum: MTYxMDE1NDY5Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210108-7
-# TimeUpdated: 2021-01-08T21:23:26+00:00
+# Version: 1.2.9-20210109-0
+# TimeUpdated: 2021-01-09T01:11:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6075,6 +6075,7 @@ DOMAIN-SUFFIX,91yixun.com
 DOMAIN-SUFFIX,91yk.com
 DOMAIN-SUFFIX,91yong.com
 DOMAIN-SUFFIX,91you.com
+DOMAIN-SUFFIX,91yuandian.com
 DOMAIN-SUFFIX,91yuedu.com
 DOMAIN-SUFFIX,91yunxiao.com
 DOMAIN-SUFFIX,91yunying.com
@@ -41041,7 +41042,6 @@ DOMAIN-SUFFIX,rg959.com
 DOMAIN-SUFFIX,rgb128.com
 DOMAIN-SUFFIX,rgfc.net
 DOMAIN-SUFFIX,rgoo.com
-DOMAIN-SUFFIX,rgslb.com
 DOMAIN-SUFFIX,rgt66.com
 DOMAIN-SUFFIX,rguidemetro.com
 DOMAIN-SUFFIX,rgyun.com

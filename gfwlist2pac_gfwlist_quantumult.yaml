@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE0MTAxNAo=
+# Checksum: MTYxMDE1NDcwMAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210108-7
-# TimeUpdated: 2021-01-08T21:23:34+00:00
+# Version: 1.2.9-20210109-0
+# TimeUpdated: 2021-01-09T01:11:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -4316,7 +4316,6 @@ DOMAIN-SUFFIX,beeg.com,PROXY
 DOMAIN-SUFFIX,beehivetcg.com,PROXY
 DOMAIN-SUFFIX,beemtube.com,PROXY
 DOMAIN-SUFFIX,beerolympics.se,PROXY
-DOMAIN-SUFFIX,beevpn.com,PROXY
 DOMAIN-SUFFIX,beforeitsnews.com,PROXY
 DOMAIN-SUFFIX,befuck.com,PROXY
 DOMAIN-SUFFIX,behance.com,PROXY
@@ -13707,6 +13706,39 @@ DOMAIN-SUFFIX,ichineseporn.com,PROXY
 DOMAIN-SUFFIX,icij.org,PROXY
 DOMAIN-SUFFIX,icili.com,PROXY
 DOMAIN-SUFFIX,icl-fi.org,PROXY
+DOMAIN-SUFFIX,icloud-content.com,PROXY
+DOMAIN-SUFFIX,icloud.ch,PROXY
+DOMAIN-SUFFIX,icloud.com,PROXY
+DOMAIN-SUFFIX,icloud.de,PROXY
+DOMAIN-SUFFIX,icloud.ee,PROXY
+DOMAIN-SUFFIX,icloud.fi,PROXY
+DOMAIN-SUFFIX,icloud.fr,PROXY
+DOMAIN-SUFFIX,icloud.hu,PROXY
+DOMAIN-SUFFIX,icloud.ie,PROXY
+DOMAIN-SUFFIX,icloud.is,PROXY
+DOMAIN-SUFFIX,icloud.jp,PROXY
+DOMAIN-SUFFIX,icloud.lv,PROXY
+DOMAIN-SUFFIX,icloud.om,PROXY
+DOMAIN-SUFFIX,icloud.org,PROXY
+DOMAIN-SUFFIX,icloud.pt,PROXY
+DOMAIN-SUFFIX,icloud.ro,PROXY
+DOMAIN-SUFFIX,icloud.si,PROXY
+DOMAIN-SUFFIX,icloud.sk,PROXY
+DOMAIN-SUFFIX,icloud.vn,PROXY
+DOMAIN-SUFFIX,icloudads.net,PROXY
+DOMAIN-SUFFIX,icloudbox.net,PROXY
+DOMAIN-SUFFIX,icloudbrowser.net,PROXY
+DOMAIN-SUFFIX,icloude.com,PROXY
+DOMAIN-SUFFIX,icloudmail.net,PROXY
+DOMAIN-SUFFIX,icloudmusic.net,PROXY
+DOMAIN-SUFFIX,icloudnet.net,PROXY
+DOMAIN-SUFFIX,icloudo.com,PROXY
+DOMAIN-SUFFIX,icloudo.de,PROXY
+DOMAIN-SUFFIX,icloudo.net,PROXY
+DOMAIN-SUFFIX,icloudos.de,PROXY
+DOMAIN-SUFFIX,icloudos.net,PROXY
+DOMAIN-SUFFIX,icloudpay.net,PROXY
+DOMAIN-SUFFIX,icloudsecure.net,PROXY
 DOMAIN-SUFFIX,icomsex.com,PROXY
 DOMAIN-SUFFIX,iconfactory.net,PROXY
 DOMAIN-SUFFIX,iconpaper.org,PROXY
@@ -16935,6 +16967,7 @@ DOMAIN-SUFFIX,mdn.mozillademos.org,PROXY
 DOMAIN-SUFFIX,mdpi.com,PROXY
 DOMAIN-SUFFIX,mdsol.com,PROXY
 DOMAIN-SUFFIX,me-gay.com,PROXY
+DOMAIN-SUFFIX,me.com,PROXY
 DOMAIN-SUFFIX,me.me,PROXY
 DOMAIN-SUFFIX,me.uk,PROXY
 DOMAIN-SUFFIX,me.youthwant.com.tw,PROXY
@@ -18135,6 +18168,7 @@ DOMAIN-SUFFIX,myhotbook.com,PROXY
 DOMAIN-SUFFIX,myhotsite.net,PROXY
 DOMAIN-SUFFIX,myhpsupport.com,PROXY
 DOMAIN-SUFFIX,myhulu.com,PROXY
+DOMAIN-SUFFIX,myicloud.net,PROXY
 DOMAIN-SUFFIX,myiphide.com,PROXY
 DOMAIN-SUFFIX,myiphider.com,PROXY
 DOMAIN-SUFFIX,myipod.net,PROXY
@@ -20187,6 +20221,7 @@ DOMAIN-SUFFIX,pikkur.com,PROXY
 DOMAIN-SUFFIX,pikolive.com,PROXY
 DOMAIN-SUFFIX,pilihan-anda.blogspot.hk,PROXY
 DOMAIN-SUFFIX,pillbeatsblackfridaysale.com,PROXY
+DOMAIN-SUFFIX,pimg.tw,PROXY
 DOMAIN-SUFFIX,pimproll.com,PROXY
 DOMAIN-SUFFIX,pin-cong.com,PROXY
 DOMAIN-SUFFIX,pin.it,PROXY

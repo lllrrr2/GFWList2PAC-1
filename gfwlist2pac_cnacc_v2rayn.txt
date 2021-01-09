@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE0MTAwNgo=
+# Checksum: MTYxMDE1NDY5Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210108-7
-# TimeUpdated: 2021-01-08T21:23:26+00:00
+# Version: 1.2.9-20210109-0
+# TimeUpdated: 2021-01-09T01:11:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6075,6 +6075,7 @@ domain:91yixun.com,
 domain:91yk.com,
 domain:91yong.com,
 domain:91you.com,
+domain:91yuandian.com,
 domain:91yuedu.com,
 domain:91yunxiao.com,
 domain:91yunying.com,
@@ -41041,7 +41042,6 @@ domain:rg959.com,
 domain:rgb128.com,
 domain:rgfc.net,
 domain:rgoo.com,
-domain:rgslb.com,
 domain:rgt66.com,
 domain:rguidemetro.com,
 domain:rgyun.com,
