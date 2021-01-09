@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE2MzgzMQo=
+# Checksum: MTYxMDE3NDAyNAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210109-1
-# TimeUpdated: 2021-01-09T03:43:51+00:00
+# Version: 1.2.9-20210109-2
+# TimeUpdated: 2021-01-09T06:33:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -4901,7 +4901,6 @@ DOMAIN-SUFFIX,66jsk.com
 DOMAIN-SUFFIX,66kk.com
 DOMAIN-SUFFIX,66liu.com
 DOMAIN-SUFFIX,66money.com
-DOMAIN-SUFFIX,66mz8.com
 DOMAIN-SUFFIX,66nao.com
 DOMAIN-SUFFIX,66php.com
 DOMAIN-SUFFIX,66play.com
@@ -6132,7 +6131,6 @@ DOMAIN-SUFFIX,92wy.com
 DOMAIN-SUFFIX,92xygame.com
 DOMAIN-SUFFIX,92you.com
 DOMAIN-SUFFIX,9312.net
-DOMAIN-SUFFIX,932pk.com
 DOMAIN-SUFFIX,934dsw.com
 DOMAIN-SUFFIX,93636.com
 DOMAIN-SUFFIX,936u.com
@@ -7894,7 +7892,6 @@ DOMAIN-SUFFIX,anqn.com
 DOMAIN-SUFFIX,anqu.com
 DOMAIN-SUFFIX,anquan.info
 DOMAIN-SUFFIX,anquan.org
-DOMAIN-SUFFIX,anquan.us
 DOMAIN-SUFFIX,anquan35.com
 DOMAIN-SUFFIX,anquanbao.com
 DOMAIN-SUFFIX,anquanke.com
@@ -12469,6 +12466,7 @@ DOMAIN-SUFFIX,chiheba.com
 DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,chiji-h5.com
 DOMAIN-SUFFIX,chijianfeng.com
+DOMAIN-SUFFIX,chilemanin.com
 DOMAIN-SUFFIX,chillyroom.com
 DOMAIN-SUFFIX,chilunyc.com
 DOMAIN-SUFFIX,chimatong.com
@@ -25624,6 +25622,7 @@ DOMAIN-SUFFIX,hxzdhn.com
 DOMAIN-SUFFIX,hxzxg.com
 DOMAIN-SUFFIX,hy-cgp.com
 DOMAIN-SUFFIX,hy-zr.com
+DOMAIN-SUFFIX,hy01888.com
 DOMAIN-SUFFIX,hy2046.com
 DOMAIN-SUFFIX,hy233.tv
 DOMAIN-SUFFIX,hy316.com
@@ -26281,6 +26280,7 @@ DOMAIN-SUFFIX,ifangka.com
 DOMAIN-SUFFIX,ifanr.com
 DOMAIN-SUFFIX,ifanr.in
 DOMAIN-SUFFIX,ifanrusercontent.com
+DOMAIN-SUFFIX,ifanrx.com
 DOMAIN-SUFFIX,ifareast.com
 DOMAIN-SUFFIX,ifavart.com
 DOMAIN-SUFFIX,ifaxin.com
@@ -32925,6 +32925,7 @@ DOMAIN-SUFFIX,longseor.com
 DOMAIN-SUFFIX,longshangrc.com
 DOMAIN-SUFFIX,longsheng.org
 DOMAIN-SUFFIX,longsok.com
+DOMAIN-SUFFIX,longsto.com
 DOMAIN-SUFFIX,longsunhenges.com
 DOMAIN-SUFFIX,longsys.com
 DOMAIN-SUFFIX,longtaifoods.com

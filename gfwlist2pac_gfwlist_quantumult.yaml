@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE2MzgzOQo=
+# Checksum: MTYxMDE3NDAzNAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210109-1
-# TimeUpdated: 2021-01-09T03:43:59+00:00
+# Version: 1.2.9-20210109-2
+# TimeUpdated: 2021-01-09T06:33:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -7999,6 +7999,7 @@ DOMAIN-SUFFIX,ddns.us,PROXY
 DOMAIN-SUFFIX,ddownr.com,PROXY
 DOMAIN-SUFFIX,ddrinformatica.es,PROXY
 DOMAIN-SUFFIX,ddtomm.com,PROXY
+DOMAIN-SUFFIX,ddvpn.net,PROXY
 DOMAIN-SUFFIX,ddxzp.com,PROXY
 DOMAIN-SUFFIX,de-a.org,PROXY
 DOMAIN-SUFFIX,de-almeida.org,PROXY
