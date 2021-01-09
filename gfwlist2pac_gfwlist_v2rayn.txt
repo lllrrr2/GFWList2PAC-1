@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE1NDcwMAo=
+# Checksum: MTYxMDE2MzgzOQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210109-0
-# TimeUpdated: 2021-01-09T01:11:40+00:00
+# Version: 1.2.9-20210109-1
+# TimeUpdated: 2021-01-09T03:43:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -21520,6 +21520,7 @@ domain:renzhecloud.com,
 domain:repk1124.xyz,
 domain:repostone.home.blog,
 domain:repsils.no,
+domain:repswing.com,
 domain:rerouted.org,
 domain:res.iqucai.com,
 domain:research.google,
