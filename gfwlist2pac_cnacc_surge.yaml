@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE5NTY1OAo=
+# Checksum: MTYxMDIwNTg1NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210109-4
-# TimeUpdated: 2021-01-09T12:34:18+00:00
+# Version: 1.2.9-20210109-5
+# TimeUpdated: 2021-01-09T15:24:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -118,7 +118,6 @@ DOMAIN-SUFFIX,01lmsc.com
 DOMAIN-SUFFIX,01p.com
 DOMAIN-SUFFIX,01retail.com
 DOMAIN-SUFFIX,01rv.com
-DOMAIN-SUFFIX,01s6.com
 DOMAIN-SUFFIX,01tao.com
 DOMAIN-SUFFIX,01teacher.com
 DOMAIN-SUFFIX,01tingshu.com
@@ -1450,7 +1449,6 @@ DOMAIN-SUFFIX,1758.com
 DOMAIN-SUFFIX,175game.com
 DOMAIN-SUFFIX,175ha.com
 DOMAIN-SUFFIX,175pt.com
-DOMAIN-SUFFIX,175wan.com
 DOMAIN-SUFFIX,175wx.com
 DOMAIN-SUFFIX,17611.com
 DOMAIN-SUFFIX,17666.mobi
@@ -1632,7 +1630,6 @@ DOMAIN-SUFFIX,1866.tv
 DOMAIN-SUFFIX,186688.com
 DOMAIN-SUFFIX,1872.net
 DOMAIN-SUFFIX,187801.com
-DOMAIN-SUFFIX,187884.com
 DOMAIN-SUFFIX,188.com
 DOMAIN-SUFFIX,188158.com
 DOMAIN-SUFFIX,18856.com
@@ -5816,7 +5813,6 @@ DOMAIN-SUFFIX,8fenxiang.com
 DOMAIN-SUFFIX,8gov.com
 DOMAIN-SUFFIX,8gw.com
 DOMAIN-SUFFIX,8gyu.com
-DOMAIN-SUFFIX,8hkj.com
 DOMAIN-SUFFIX,8hsleep.com
 DOMAIN-SUFFIX,8illl.com
 DOMAIN-SUFFIX,8jiaoye.com
@@ -12180,7 +12176,6 @@ DOMAIN-SUFFIX,chaojibiaoge.com
 DOMAIN-SUFFIX,chaojideng.com
 DOMAIN-SUFFIX,chaojifan.com
 DOMAIN-SUFFIX,chaojilian.net
-DOMAIN-SUFFIX,chaojiuhui.com
 DOMAIN-SUFFIX,chaojiying.com
 DOMAIN-SUFFIX,chaojiyun.com
 DOMAIN-SUFFIX,chaojizuowen.com
@@ -27659,6 +27654,7 @@ DOMAIN-SUFFIX,iyunshu.com
 DOMAIN-SUFFIX,iyunv.com
 DOMAIN-SUFFIX,iyunxiao.com
 DOMAIN-SUFFIX,iyunyue.com
+DOMAIN-SUFFIX,iyunzk.com
 DOMAIN-SUFFIX,iyuxy.com
 DOMAIN-SUFFIX,iyx668.com
 DOMAIN-SUFFIX,iyxku.com
@@ -30001,7 +29997,6 @@ DOMAIN-SUFFIX,kandianshi.com
 DOMAIN-SUFFIX,kandongman.net
 DOMAIN-SUFFIX,kandshu.com
 DOMAIN-SUFFIX,kandzww.com
-DOMAIN-SUFFIX,kanfangapp.com
 DOMAIN-SUFFIX,kanfangjilu.com
 DOMAIN-SUFFIX,kanfeidie.com
 DOMAIN-SUFFIX,kang5.net
@@ -40413,6 +40408,7 @@ DOMAIN-SUFFIX,quclouds.com
 DOMAIN-SUFFIX,qudao.com
 DOMAIN-SUFFIX,qudaowuyou.com
 DOMAIN-SUFFIX,qudong.com
+DOMAIN-SUFFIX,qudong51.net
 DOMAIN-SUFFIX,qududu.net
 DOMAIN-SUFFIX,qudushu.com
 DOMAIN-SUFFIX,quduwu.com
