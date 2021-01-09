@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE4NTAxMQo=
+# Checksum: MTYxMDE5NTY1OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210109-3
-# TimeUpdated: 2021-01-09T09:36:51+00:00
+# Version: 1.2.9-20210109-4
+# TimeUpdated: 2021-01-09T12:34:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -520,7 +520,6 @@ DOMAIN-SUFFIX,0735.com
 DOMAIN-SUFFIX,07358.com
 DOMAIN-SUFFIX,0735ba.com
 DOMAIN-SUFFIX,0735jz.com
-DOMAIN-SUFFIX,0735zx.com
 DOMAIN-SUFFIX,0735zz.com
 DOMAIN-SUFFIX,0736fdc.com
 DOMAIN-SUFFIX,0736zz.com
@@ -5687,7 +5686,6 @@ DOMAIN-SUFFIX,88077777.com
 DOMAIN-SUFFIX,880834.com
 DOMAIN-SUFFIX,8808808.com
 DOMAIN-SUFFIX,8809806.com
-DOMAIN-SUFFIX,880job.com
 DOMAIN-SUFFIX,880sy.com
 DOMAIN-SUFFIX,880you.com
 DOMAIN-SUFFIX,88106.com
@@ -7638,6 +7636,7 @@ DOMAIN-SUFFIX,alliread.com
 DOMAIN-SUFFIX,alllget.com
 DOMAIN-SUFFIX,alllook.tv
 DOMAIN-SUFFIX,allmei.com
+DOMAIN-SUFFIX,allok.wang
 DOMAIN-SUFFIX,alloyteam.com
 DOMAIN-SUFFIX,allpayx.com
 DOMAIN-SUFFIX,allposs.com
@@ -9506,6 +9505,7 @@ DOMAIN-SUFFIX,beiyuu.com
 DOMAIN-SUFFIX,beiyxiu.com
 DOMAIN-SUFFIX,beizigen.com
 DOMAIN-SUFFIX,beiziman.com
+DOMAIN-SUFFIX,bej9.com
 DOMAIN-SUFFIX,bejoin.net
 DOMAIN-SUFFIX,bejson.com
 DOMAIN-SUFFIX,belfone.com
@@ -30001,6 +30001,7 @@ DOMAIN-SUFFIX,kandianshi.com
 DOMAIN-SUFFIX,kandongman.net
 DOMAIN-SUFFIX,kandshu.com
 DOMAIN-SUFFIX,kandzww.com
+DOMAIN-SUFFIX,kanfangapp.com
 DOMAIN-SUFFIX,kanfangjilu.com
 DOMAIN-SUFFIX,kanfeidie.com
 DOMAIN-SUFFIX,kang5.net
@@ -33572,6 +33573,7 @@ DOMAIN-SUFFIX,lysqdx.com
 DOMAIN-SUFFIX,lysszthj.com
 DOMAIN-SUFFIX,lystrt.com
 DOMAIN-SUFFIX,lytning.xyz
+DOMAIN-SUFFIX,lytoufang.com
 DOMAIN-SUFFIX,lytpw.com
 DOMAIN-SUFFIX,lyunweb.com
 DOMAIN-SUFFIX,lyvnee.com
@@ -34213,6 +34215,7 @@ DOMAIN-SUFFIX,mcumonitor.com
 DOMAIN-SUFFIX,mcuzone.com
 DOMAIN-SUFFIX,mcuzx.net
 DOMAIN-SUFFIX,mcwshop.com
+DOMAIN-SUFFIX,mcx666.com
 DOMAIN-SUFFIX,mcyo.pw
 DOMAIN-SUFFIX,mczyz.com
 DOMAIN-SUFFIX,md1618.com
@@ -44194,6 +44197,7 @@ DOMAIN-SUFFIX,souebao.com
 DOMAIN-SUFFIX,soufang.com
 DOMAIN-SUFFIX,soufuli.net
 DOMAIN-SUFFIX,soufun.com
+DOMAIN-SUFFIX,soufunimg.com
 DOMAIN-SUFFIX,souge.cc
 DOMAIN-SUFFIX,sougoulvyou.com
 DOMAIN-SUFFIX,souho.cc
@@ -46991,6 +46995,7 @@ DOMAIN-SUFFIX,toutiao.org
 DOMAIN-SUFFIX,toutiao11.com
 DOMAIN-SUFFIX,toutiao12.com
 DOMAIN-SUFFIX,toutiao13.com
+DOMAIN-SUFFIX,toutiaoapp.com
 DOMAIN-SUFFIX,toutiaobashi.com
 DOMAIN-SUFFIX,toutiaobus.com
 DOMAIN-SUFFIX,toutiaocloud.net
