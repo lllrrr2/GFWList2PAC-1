@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE3NDAyNAo=
+# Checksum: MTYxMDE4NTAxMQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210109-2
-# TimeUpdated: 2021-01-09T06:33:44+00:00
+# Version: 1.2.9-20210109-3
+# TimeUpdated: 2021-01-09T09:36:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -11999,7 +11999,6 @@ DOMAIN-SUFFIX,cgdream.org,DIRECT
 DOMAIN-SUFFIX,cgebook.com,DIRECT
 DOMAIN-SUFFIX,cgejournal.com,DIRECT
 DOMAIN-SUFFIX,cger.com,DIRECT
-DOMAIN-SUFFIX,cgeszdcm.com,DIRECT
 DOMAIN-SUFFIX,cgf-csyc.com,DIRECT
 DOMAIN-SUFFIX,cgfriend.org,DIRECT
 DOMAIN-SUFFIX,cghlj.com,DIRECT
@@ -20249,6 +20248,7 @@ DOMAIN-SUFFIX,fqpai.com,DIRECT
 DOMAIN-SUFFIX,fqriji.com,DIRECT
 DOMAIN-SUFFIX,fqseo.org,DIRECT
 DOMAIN-SUFFIX,fqsou.com,DIRECT
+DOMAIN-SUFFIX,fqsszx.com,DIRECT
 DOMAIN-SUFFIX,fqxs.org,DIRECT
 DOMAIN-SUFFIX,fqzww.com,DIRECT
 DOMAIN-SUFFIX,fr-odc.samsungapps.com,DIRECT

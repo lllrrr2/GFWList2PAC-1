@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE3NDAyNAo=
+# Checksum: MTYxMDE4NTAxMQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210109-2
-# TimeUpdated: 2021-01-09T06:33:44+00:00
+# Version: 1.2.9-20210109-3
+# TimeUpdated: 2021-01-09T09:36:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -11999,7 +11999,6 @@ domain:cgdream.org,
 domain:cgebook.com,
 domain:cgejournal.com,
 domain:cger.com,
-domain:cgeszdcm.com,
 domain:cgf-csyc.com,
 domain:cgfriend.org,
 domain:cghlj.com,
@@ -20249,6 +20248,7 @@ domain:fqpai.com,
 domain:fqriji.com,
 domain:fqseo.org,
 domain:fqsou.com,
+domain:fqsszx.com,
 domain:fqxs.org,
 domain:fqzww.com,
 domain:fr-odc.samsungapps.com,

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDE3NDAzNAo=
+# Checksum: MTYxMDE4NTAxOQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210109-2
-# TimeUpdated: 2021-01-09T06:33:54+00:00
+# Version: 1.2.9-20210109-3
+# TimeUpdated: 2021-01-09T09:36:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1275,6 +1275,7 @@ domain:63kk.net,
 domain:63oo.net,
 domain:63pp.net,
 domain:63qq.net,
+domain:63rr.net,
 domain:64899.com,
 domain:64live.org,
 domain:64memo.com,
