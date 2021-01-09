@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDIxNzkxMQo=
+# Checksum: MTYxMDIyNzQxMgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210109-6
-# TimeUpdated: 2021-01-09T18:45:11+00:00
+# Version: 1.2.9-20210109-7
+# TimeUpdated: 2021-01-09T21:23:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1047,7 +1047,6 @@ payload:
   - DOMAIN-SUFFIX,12317.com
   - DOMAIN-SUFFIX,12317wan.com
   - DOMAIN-SUFFIX,1231818.com
-  - DOMAIN-SUFFIX,1231n10.com
   - DOMAIN-SUFFIX,12333.com
   - DOMAIN-SUFFIX,12333ask.com
   - DOMAIN-SUFFIX,12333sb.com
@@ -3648,7 +3647,6 @@ payload:
   - DOMAIN-SUFFIX,51kahui.com
   - DOMAIN-SUFFIX,51kaiye.com
   - DOMAIN-SUFFIX,51kanke.com
-  - DOMAIN-SUFFIX,51kaowang.com
   - DOMAIN-SUFFIX,51kaxun.com
   - DOMAIN-SUFFIX,51kehui.com
   - DOMAIN-SUFFIX,51kids.com
@@ -9344,7 +9342,6 @@ payload:
   - DOMAIN-SUFFIX,bdinfo.net
   - DOMAIN-SUFFIX,bding.net
   - DOMAIN-SUFFIX,bditong.com
-  - DOMAIN-SUFFIX,bdkssc.com
   - DOMAIN-SUFFIX,bdkyr.com
   - DOMAIN-SUFFIX,bdpan.com
   - DOMAIN-SUFFIX,bdplus.baidu.com
@@ -11731,7 +11728,6 @@ payload:
   - DOMAIN-SUFFIX,cdhaiguang.com
   - DOMAIN-SUFFIX,cdhfund.com
   - DOMAIN-SUFFIX,cdhongfu.com
-  - DOMAIN-SUFFIX,cdhtnews.com
   - DOMAIN-SUFFIX,cdhulan.com
   - DOMAIN-SUFFIX,cdili.com
   - DOMAIN-SUFFIX,cdjingfeng.com
@@ -12274,7 +12270,6 @@ payload:
   - DOMAIN-SUFFIX,chedan5.com
   - DOMAIN-SUFFIX,chediandian.com
   - DOMAIN-SUFFIX,cheduo.com
-  - DOMAIN-SUFFIX,cheduoshao.com
   - DOMAIN-SUFFIX,cheerfun.dev
   - DOMAIN-SUFFIX,cheerjoy.com
   - DOMAIN-SUFFIX,cheerspublishing.com
@@ -24434,6 +24429,7 @@ payload:
   - DOMAIN-SUFFIX,homedo.com
   - DOMAIN-SUFFIX,homeinns.com
   - DOMAIN-SUFFIX,homeintour.com
+  - DOMAIN-SUFFIX,homejiang.com
   - DOMAIN-SUFFIX,homeking365.com
   - DOMAIN-SUFFIX,homekoo.com
   - DOMAIN-SUFFIX,homekoocdn.com
@@ -40267,6 +40263,7 @@ payload:
   - DOMAIN-SUFFIX,qsbbs.net
   - DOMAIN-SUFFIX,qsbdc.com
   - DOMAIN-SUFFIX,qsboy.com
+  - DOMAIN-SUFFIX,qschou.com
   - DOMAIN-SUFFIX,qseeking.com
   - DOMAIN-SUFFIX,qsfcw.com
   - DOMAIN-SUFFIX,qshang.com
@@ -40415,6 +40412,7 @@ payload:
   - DOMAIN-SUFFIX,quduwu.com
   - DOMAIN-SUFFIX,queenshimei.com
   - DOMAIN-SUFFIX,quegame.com
+  - DOMAIN-SUFFIX,queqiaoba.com
   - DOMAIN-SUFFIX,querylist.cc
   - DOMAIN-SUFFIX,queshao.com
   - DOMAIN-SUFFIX,queshu.com
