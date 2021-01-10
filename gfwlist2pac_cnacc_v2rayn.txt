@@ -1,7 +1,7 @@
-# Checksum: MTYxMDI2MDU2Nwo=
+# Checksum: MTYxMDI3MTQ2Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210110-2
-# TimeUpdated: 2021-01-10T06:36:07+00:00
+# Version: 1.2.9-20210110-3
+# TimeUpdated: 2021-01-10T09:37:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -8738,7 +8738,6 @@ domain:bababus.com,
 domain:babaike.com,
 domain:babaimi.com,
 domain:babaipu.com,
-domain:babalatz.com,
 domain:babao.com,
 domain:babaofan.com,
 domain:babapi.com,
@@ -35669,6 +35668,7 @@ domain:mugeda.com,
 domain:mugisama.com,
 domain:muguaddy.com,
 domain:muhai.net,
+domain:muhehuanbao.com,
 domain:mujj.us,
 domain:mukewang.com,
 domain:mukool.com,
