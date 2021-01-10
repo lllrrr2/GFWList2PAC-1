@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDI0MTMxOQo=
+# Checksum: MTYxMDI1MDQ1Nwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210110-0
-# TimeUpdated: 2021-01-10T01:15:19+00:00
+# Version: 1.2.9-20210110-1
+# TimeUpdated: 2021-01-10T03:47:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2405,7 +2405,6 @@ payload:
   - DOMAIN-SUFFIX,30dj.com
   - DOMAIN-SUFFIX,30play.com
   - DOMAIN-SUFFIX,30px.com
-  - DOMAIN-SUFFIX,30sy.com
   - DOMAIN-SUFFIX,30w.net
   - DOMAIN-SUFFIX,30xz.com
   - DOMAIN-SUFFIX,310game.com
@@ -4162,7 +4161,6 @@ payload:
   - DOMAIN-SUFFIX,530p.com
   - DOMAIN-SUFFIX,531314.com
   - DOMAIN-SUFFIX,5317wan.com
-  - DOMAIN-SUFFIX,531mk.com
   - DOMAIN-SUFFIX,533.com
   - DOMAIN-SUFFIX,5336.com
   - DOMAIN-SUFFIX,5338.org
@@ -13800,7 +13798,6 @@ payload:
   - DOMAIN-SUFFIX,cnbzlf.com
   - DOMAIN-SUFFIX,cnbzol.com
   - DOMAIN-SUFFIX,cnbzs.com
-  - DOMAIN-SUFFIX,cnc-gd.net
   - DOMAIN-SUFFIX,cncait.net
   - DOMAIN-SUFFIX,cncc.bingj.com
   - DOMAIN-SUFFIX,cnccac.com
@@ -33379,7 +33376,6 @@ payload:
   - DOMAIN-SUFFIX,luyouqi.biz
   - DOMAIN-SUFFIX,luyouqi.com
   - DOMAIN-SUFFIX,luyouxia.com
-  - DOMAIN-SUFFIX,luyuanqj.com
   - DOMAIN-SUFFIX,luzexi.com
   - DOMAIN-SUFFIX,lv-ams.com
   - DOMAIN-SUFFIX,lv74.com
@@ -46018,7 +46014,6 @@ payload:
   - DOMAIN-SUFFIX,tedx.net
   - DOMAIN-SUFFIX,teein.com
   - DOMAIN-SUFFIX,teeker.com
-  - DOMAIN-SUFFIX,teemmm.com
   - DOMAIN-SUFFIX,teencn.com
   - DOMAIN-SUFFIX,teeqee.com
   - DOMAIN-SUFFIX,tegjlxs.com
@@ -46406,7 +46401,6 @@ payload:
   - DOMAIN-SUFFIX,tiantianxuexi.com
   - DOMAIN-SUFFIX,tiantk.com
   - DOMAIN-SUFFIX,tianvalue.com
-  - DOMAIN-SUFFIX,tianwenhu.com
   - DOMAIN-SUFFIX,tianxia.la
   - DOMAIN-SUFFIX,tianxiadianjia.com
   - DOMAIN-SUFFIX,tianxiawangxiao.com
@@ -56223,7 +56217,6 @@ payload:
   - DOMAIN-SUFFIX,yymapp.com
   - DOMAIN-SUFFIX,yymchina.cc
   - DOMAIN-SUFFIX,yymedias.com
-  - DOMAIN-SUFFIX,yyming2.com
   - DOMAIN-SUFFIX,yyny.me
   - DOMAIN-SUFFIX,yynys.com
   - DOMAIN-SUFFIX,yypbao.com
