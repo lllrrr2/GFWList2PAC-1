@@ -1,7 +1,7 @@
-# Checksum: MTYxMDI1MDQ2NQo=
+# Checksum: MTYxMDI2MDU3NAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210110-1
-# TimeUpdated: 2021-01-10T03:47:45+00:00
+# Version: 1.2.9-20210110-2
+# TimeUpdated: 2021-01-10T06:36:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -13095,6 +13095,7 @@ DOMAIN-SUFFIX,hkbn-a.nsl-node.ml,PROXY
 DOMAIN-SUFFIX,hkbnkim.tk,PROXY
 DOMAIN-SUFFIX,hkbookcity.com,PROXY
 DOMAIN-SUFFIX,hkcah-np.blogspot.hk,PROXY
+DOMAIN-SUFFIX,hkchronicles.com,PROXY
 DOMAIN-SUFFIX,hkchurch.org,PROXY
 DOMAIN-SUFFIX,hkci.org.hk,PROXY
 DOMAIN-SUFFIX,hkcities.com,PROXY
@@ -24668,6 +24669,7 @@ DOMAIN-SUFFIX,tp.trickip.org,PROXY
 DOMAIN-SUFFIX,tparents.org,PROXY
 DOMAIN-SUFFIX,tpcdct.org,PROXY
 DOMAIN-SUFFIX,tpeman.com,PROXY
+DOMAIN-SUFFIX,tpi.org.tw,PROXY
 DOMAIN-SUFFIX,tpimage.com,PROXY
 DOMAIN-SUFFIX,tpms-il.com,PROXY
 DOMAIN-SUFFIX,tpn.flnet.org,PROXY

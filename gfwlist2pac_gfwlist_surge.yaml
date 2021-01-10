@@ -1,7 +1,7 @@
-# Checksum: MTYxMDI1MDQ2NQo=
+# Checksum: MTYxMDI2MDU3NAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210110-1
-# TimeUpdated: 2021-01-10T03:47:45+00:00
+# Version: 1.2.9-20210110-2
+# TimeUpdated: 2021-01-10T06:36:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -13095,6 +13095,7 @@ DOMAIN-SUFFIX,hkbn-a.nsl-node.ml
 DOMAIN-SUFFIX,hkbnkim.tk
 DOMAIN-SUFFIX,hkbookcity.com
 DOMAIN-SUFFIX,hkcah-np.blogspot.hk
+DOMAIN-SUFFIX,hkchronicles.com
 DOMAIN-SUFFIX,hkchurch.org
 DOMAIN-SUFFIX,hkci.org.hk
 DOMAIN-SUFFIX,hkcities.com
@@ -24668,6 +24669,7 @@ DOMAIN-SUFFIX,tp.trickip.org
 DOMAIN-SUFFIX,tparents.org
 DOMAIN-SUFFIX,tpcdct.org
 DOMAIN-SUFFIX,tpeman.com
+DOMAIN-SUFFIX,tpi.org.tw
 DOMAIN-SUFFIX,tpimage.com
 DOMAIN-SUFFIX,tpms-il.com
 DOMAIN-SUFFIX,tpn.flnet.org

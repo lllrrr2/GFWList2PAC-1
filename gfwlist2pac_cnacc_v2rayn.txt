@@ -1,7 +1,7 @@
-# Checksum: MTYxMDI1MDQ1Nwo=
+# Checksum: MTYxMDI2MDU2Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210110-1
-# TimeUpdated: 2021-01-10T03:47:37+00:00
+# Version: 1.2.9-20210110-2
+# TimeUpdated: 2021-01-10T06:36:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3445,7 +3445,6 @@ domain:5184pass.com,
 domain:51864.com,
 domain:5187g.com,
 domain:5188.com,
-domain:518moban.com,
 domain:518weibo.com,
 domain:519397.com,
 domain:51969.com,
@@ -5529,7 +5528,6 @@ domain:8232365.com,
 domain:82326999.com,
 domain:82335966.com,
 domain:82341.com,
-domain:82401980.com,
 domain:8264.com,
 domain:826rc.com,
 domain:826wan.com,
@@ -5755,7 +5753,6 @@ domain:88u.com,
 domain:88wakuang.com,
 domain:88xiaoshuo.com,
 domain:88xr.org,
-domain:88yangzhi.com,
 domain:88zha.com,
 domain:89029.cc,
 domain:8912128.com,
