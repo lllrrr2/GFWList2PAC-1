@@ -1,7 +1,7 @@
-# Checksum: MTYxMDI3MTQ3Ngo=
+# Checksum: MTYxMDI4MjEzMAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210110-3
-# TimeUpdated: 2021-01-10T09:37:56+00:00
+# Version: 1.2.9-20210110-4
+# TimeUpdated: 2021-01-10T12:35:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -10677,6 +10677,7 @@ DOMAIN-SUFFIX,fleshbot.com,PROXY
 DOMAIN-SUFFIX,fleursdeslettres.com,PROXY
 DOMAIN-SUFFIX,flexibits.com,PROXY
 DOMAIN-SUFFIX,flgjustice.org,PROXY
+DOMAIN-SUFFIX,flic.kr,PROXY
 DOMAIN-SUFFIX,flicker.com,PROXY
 DOMAIN-SUFFIX,flickr.com,PROXY
 DOMAIN-SUFFIX,flickr.net,PROXY

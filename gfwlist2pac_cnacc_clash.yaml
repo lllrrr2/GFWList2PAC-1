@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDI3MTQ2Nwo=
+# Checksum: MTYxMDI4MjEyMQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210110-3
-# TimeUpdated: 2021-01-10T09:37:47+00:00
+# Version: 1.2.9-20210110-4
+# TimeUpdated: 2021-01-10T12:35:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2739,7 +2739,6 @@ payload:
   - DOMAIN-SUFFIX,36578.com
   - DOMAIN-SUFFIX,365960.com
   - DOMAIN-SUFFIX,365a8.com
-  - DOMAIN-SUFFIX,365ajw.com
   - DOMAIN-SUFFIX,365art.com
   - DOMAIN-SUFFIX,365azw.com
   - DOMAIN-SUFFIX,365bj.com
@@ -3918,7 +3917,6 @@ payload:
   - DOMAIN-SUFFIX,520cfc.com
   - DOMAIN-SUFFIX,520code.cc
   - DOMAIN-SUFFIX,520dyfx.com
-  - DOMAIN-SUFFIX,520e3e4.com
   - DOMAIN-SUFFIX,520fx.com
   - DOMAIN-SUFFIX,520hhht.com
   - DOMAIN-SUFFIX,520im.com
@@ -4275,7 +4273,6 @@ payload:
   - DOMAIN-SUFFIX,55idc.com
   - DOMAIN-SUFFIX,55jisu.com
   - DOMAIN-SUFFIX,55jj.com
-  - DOMAIN-SUFFIX,55jsk.com
   - DOMAIN-SUFFIX,55la.com
   - DOMAIN-SUFFIX,55lady.net
   - DOMAIN-SUFFIX,55lewen.com
@@ -6326,7 +6323,6 @@ payload:
   - DOMAIN-SUFFIX,97xiazai.com
   - DOMAIN-SUFFIX,97yrbl.com
   - DOMAIN-SUFFIX,9800.com
-  - DOMAIN-SUFFIX,980uc.com
   - DOMAIN-SUFFIX,984g.com
   - DOMAIN-SUFFIX,985.so
   - DOMAIN-SUFFIX,985994.com
@@ -8224,7 +8220,6 @@ payload:
   - DOMAIN-SUFFIX,appurl.me
   - DOMAIN-SUFFIX,appving.com
   - DOMAIN-SUFFIX,appvipshop.com
-  - DOMAIN-SUFFIX,appvv.com
   - DOMAIN-SUFFIX,appweiyuan.com
   - DOMAIN-SUFFIX,appwill.com
   - DOMAIN-SUFFIX,appxcode.com
@@ -10108,7 +10103,6 @@ payload:
   - DOMAIN-SUFFIX,bjdcfy.com
   - DOMAIN-SUFFIX,bjdfart.com
   - DOMAIN-SUFFIX,bjdfxj.com
-  - DOMAIN-SUFFIX,bjdhbl.com
   - DOMAIN-SUFFIX,bjdiaoyu.com
   - DOMAIN-SUFFIX,bjdingyi.com
   - DOMAIN-SUFFIX,bjdjc.com
@@ -11697,7 +11691,6 @@ payload:
   - DOMAIN-SUFFIX,cdadsj.com
   - DOMAIN-SUFFIX,cdajcx.com
   - DOMAIN-SUFFIX,cdalxx.com
-  - DOMAIN-SUFFIX,cdanqin.com
   - DOMAIN-SUFFIX,cdaten.com
   - DOMAIN-SUFFIX,cdbdsec.com
   - DOMAIN-SUFFIX,cdbjh.com
@@ -41840,6 +41833,7 @@ payload:
   - DOMAIN-SUFFIX,sciyon.com
   - DOMAIN-SUFFIX,scjimiao.com
   - DOMAIN-SUFFIX,scjtaq.com
+  - DOMAIN-SUFFIX,scjzjyjc.com
   - DOMAIN-SUFFIX,scjzlyxxpt.com
   - DOMAIN-SUFFIX,sclezhu.com
   - DOMAIN-SUFFIX,sclf.org
@@ -42094,6 +42088,7 @@ payload:
   - DOMAIN-SUFFIX,secrss.com
   - DOMAIN-SUFFIX,secrui.com
   - DOMAIN-SUFFIX,secsilo.com
+  - DOMAIN-SUFFIX,secu100.net
   - DOMAIN-SUFFIX,secun.com
   - DOMAIN-SUFFIX,secure-nikeplus.nike.com
   - DOMAIN-SUFFIX,secure.globalsign.com
