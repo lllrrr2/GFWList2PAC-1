@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDMwNDM1Mgo=
+# Checksum: MTYxMDMxMzc0OAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210110-6
-# TimeUpdated: 2021-01-10T18:45:52+00:00
+# Version: 1.2.9-20210110-7
+# TimeUpdated: 2021-01-10T21:22:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -597,7 +597,6 @@ payload:
   - DOMAIN-SUFFIX,082808.com
   - DOMAIN-SUFFIX,0832h.com
   - DOMAIN-SUFFIX,0832mh.com
-  - DOMAIN-SUFFIX,0832pp.com
   - DOMAIN-SUFFIX,083332.com
   - DOMAIN-SUFFIX,0835meiya.com
   - DOMAIN-SUFFIX,0838.com
@@ -1449,6 +1448,7 @@ payload:
   - DOMAIN-SUFFIX,175game.com
   - DOMAIN-SUFFIX,175ha.com
   - DOMAIN-SUFFIX,175pt.com
+  - DOMAIN-SUFFIX,175wan.com
   - DOMAIN-SUFFIX,175wx.com
   - DOMAIN-SUFFIX,17611.com
   - DOMAIN-SUFFIX,17666.mobi
@@ -2422,6 +2422,7 @@ payload:
   - DOMAIN-SUFFIX,3145.com
   - DOMAIN-SUFFIX,315003.com
   - DOMAIN-SUFFIX,3150315.com
+  - DOMAIN-SUFFIX,315034.com
   - DOMAIN-SUFFIX,315166.com
   - DOMAIN-SUFFIX,315196.com
   - DOMAIN-SUFFIX,3158.com
@@ -2484,6 +2485,7 @@ payload:
   - DOMAIN-SUFFIX,320106.com
   - DOMAIN-SUFFIX,3208.net
   - DOMAIN-SUFFIX,320921.com
+  - DOMAIN-SUFFIX,321274.com
   - DOMAIN-SUFFIX,321ba.com
   - DOMAIN-SUFFIX,321cad.com
   - DOMAIN-SUFFIX,321cy.com
@@ -2759,7 +2761,6 @@ payload:
   - DOMAIN-SUFFIX,365fdy.com
   - DOMAIN-SUFFIX,365gangqin.com
   - DOMAIN-SUFFIX,365gj.com
-  - DOMAIN-SUFFIX,365hdf.com
   - DOMAIN-SUFFIX,365heart.com
   - DOMAIN-SUFFIX,365htk.com
   - DOMAIN-SUFFIX,365huaer.com
@@ -5176,6 +5177,7 @@ payload:
   - DOMAIN-SUFFIX,766sf.com
   - DOMAIN-SUFFIX,766z.com
   - DOMAIN-SUFFIX,7676u.com
+  - DOMAIN-SUFFIX,7677wan.com
   - DOMAIN-SUFFIX,767stock.com
   - DOMAIN-SUFFIX,76868.com
   - DOMAIN-SUFFIX,769279.com
@@ -11711,6 +11713,7 @@ payload:
   - DOMAIN-SUFFIX,cdfytx.com
   - DOMAIN-SUFFIX,cdgdad.com
   - DOMAIN-SUFFIX,cdgjbus.com
+  - DOMAIN-SUFFIX,cdgjlxs.com
   - DOMAIN-SUFFIX,cdgtw.net
   - DOMAIN-SUFFIX,cdgyjs.com
   - DOMAIN-SUFFIX,cdh3c.com
@@ -18748,6 +18751,7 @@ payload:
   - DOMAIN-SUFFIX,errenzhuan.cc
   - DOMAIN-SUFFIX,ers.baidu.com
   - DOMAIN-SUFFIX,ershenghuo.com
+  - DOMAIN-SUFFIX,ershenghuo.net
   - DOMAIN-SUFFIX,ershicimi.com
   - DOMAIN-SUFFIX,ershouhui.com
   - DOMAIN-SUFFIX,ert7.com
@@ -29858,6 +29862,7 @@ payload:
   - DOMAIN-SUFFIX,k366.com
   - DOMAIN-SUFFIX,k369.com
   - DOMAIN-SUFFIX,k3851.com
+  - DOMAIN-SUFFIX,k429fma.com
   - DOMAIN-SUFFIX,k4nz.com
   - DOMAIN-SUFFIX,k5.cc
   - DOMAIN-SUFFIX,k518.com
@@ -39184,6 +39189,7 @@ payload:
   - DOMAIN-SUFFIX,pxecn.com
   - DOMAIN-SUFFIX,pxfeed.com
   - DOMAIN-SUFFIX,pxsky.net
+  - DOMAIN-SUFFIX,pxstda.com
   - DOMAIN-SUFFIX,pxtu.com
   - DOMAIN-SUFFIX,pxtx.com
   - DOMAIN-SUFFIX,pxx.io
