@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDI4MjEyMQo=
+# Checksum: MTYxMDI5MjMxNQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210110-4
-# TimeUpdated: 2021-01-10T12:35:21+00:00
+# Version: 1.2.9-20210110-5
+# TimeUpdated: 2021-01-10T15:25:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2161,6 +2161,7 @@ payload:
   - DOMAIN-SUFFIX,251ai.com
   - DOMAIN-SUFFIX,2526game.com
   - DOMAIN-SUFFIX,252ai.com
+  - DOMAIN-SUFFIX,252yy.net
   - DOMAIN-SUFFIX,253.com
   - DOMAIN-SUFFIX,253952.com
   - DOMAIN-SUFFIX,253news.com
@@ -12149,6 +12150,7 @@ payload:
   - DOMAIN-SUFFIX,chanwuhotel.com
   - DOMAIN-SUFFIX,chanyouji.com
   - DOMAIN-SUFFIX,chanzhi.org
+  - DOMAIN-SUFFIX,chanzuimei.com
   - DOMAIN-SUFFIX,chaoart.com
   - DOMAIN-SUFFIX,chaobaida.com
   - DOMAIN-SUFFIX,chaodream.com
@@ -18938,6 +18940,7 @@ payload:
   - DOMAIN-SUFFIX,ewanshang.com
   - DOMAIN-SUFFIX,ewarecomputer.com
   - DOMAIN-SUFFIX,ewatt.com
+  - DOMAIN-SUFFIX,ewceo.com
   - DOMAIN-SUFFIX,ewdcloud.com
   - DOMAIN-SUFFIX,ewebeditor.net
   - DOMAIN-SUFFIX,ewebsoft.com
@@ -47732,6 +47735,7 @@ payload:
   - DOMAIN-SUFFIX,u3dc.com
   - DOMAIN-SUFFIX,u3dol.com
   - DOMAIN-SUFFIX,u3v3.com
+  - DOMAIN-SUFFIX,u4ad.com
   - DOMAIN-SUFFIX,u51.com
   - DOMAIN-SUFFIX,u520.net
   - DOMAIN-SUFFIX,u5h5.com

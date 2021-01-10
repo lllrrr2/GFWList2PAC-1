@@ -1,7 +1,7 @@
-# Checksum: MTYxMDI4MjEyMQo=
+# Checksum: MTYxMDI5MjMxNQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210110-4
-# TimeUpdated: 2021-01-10T12:35:21+00:00
+# Version: 1.2.9-20210110-5
+# TimeUpdated: 2021-01-10T15:25:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2160,6 +2160,7 @@ domain:2500sz.com,
 domain:251ai.com,
 domain:2526game.com,
 domain:252ai.com,
+domain:252yy.net,
 domain:253.com,
 domain:253952.com,
 domain:253news.com,
@@ -12148,6 +12149,7 @@ domain:chanumber.com,
 domain:chanwuhotel.com,
 domain:chanyouji.com,
 domain:chanzhi.org,
+domain:chanzuimei.com,
 domain:chaoart.com,
 domain:chaobaida.com,
 domain:chaodream.com,
@@ -18937,6 +18939,7 @@ domain:ewang100.net,
 domain:ewanshang.com,
 domain:ewarecomputer.com,
 domain:ewatt.com,
+domain:ewceo.com,
 domain:ewdcloud.com,
 domain:ewebeditor.net,
 domain:ewebsoft.com,
@@ -47731,6 +47734,7 @@ domain:u38sn2a.com,
 domain:u3dc.com,
 domain:u3dol.com,
 domain:u3v3.com,
+domain:u4ad.com,
 domain:u51.com,
 domain:u520.net,
 domain:u5h5.com,
