@@ -1,7 +1,7 @@
-# Checksum: MTYxMDIyNzQyMQo=
+# Checksum: MTYxMDI0MTMyNwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210109-7
-# TimeUpdated: 2021-01-09T21:23:41+00:00
+# Version: 1.2.9-20210110-0
+# TimeUpdated: 2021-01-10T01:15:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1066,6 +1066,7 @@ domain:52.cr.rs,
 domain:52.edns.biz,
 domain:52.otzo.com,
 domain:52.win7.us,
+domain:52.www1.biz,
 domain:5200ddd.com,
 domain:5200eee.com,
 domain:5200vvv.com,
@@ -6387,7 +6388,6 @@ domain:cc18.tv,
 domain:cc18sm.tv,
 domain:cc18tv.com,
 domain:cc353.com,
-domain:cc9514.com,
 domain:ccache.org,
 domain:ccavgirl.com,
 domain:ccb-darmstadt.com,
