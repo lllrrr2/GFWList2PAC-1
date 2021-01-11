@@ -1,7 +1,7 @@
-# Checksum: MTYxMDMzNjg0OQo=
+# Checksum: MTYxMDM0NzAzOQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210111-1
-# TimeUpdated: 2021-01-11T03:47:29+00:00
+# Version: 1.2.9-20210111-2
+# TimeUpdated: 2021-01-11T06:37:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -5473,7 +5473,6 @@ domain:80note.com,
 domain:80paper.com,
 domain:80s.cm,
 domain:80s.la,
-domain:80s.so,
 domain:80s.tw,
 domain:80shihua.com,
 domain:80sjy.net,
@@ -10826,7 +10825,6 @@ domain:btyou.com,
 domain:buaaer.com,
 domain:buagengen.com,
 domain:bubalusplus.com,
-domain:bubu5.com,
 domain:bubugao.com,
 domain:bubuko.com,
 domain:bubukua.com,
@@ -13295,6 +13293,7 @@ domain:ciandcd.com,
 domain:ciaoca.com,
 domain:ciatcm.org,
 domain:ciavision.com,
+domain:cib.com.cn,
 domain:cibfintech.com,
 domain:cibntv.net,
 domain:ciboedu.org,

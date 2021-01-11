@@ -1,7 +1,7 @@
-# Checksum: MTYxMDMzNjg0OQo=
+# Checksum: MTYxMDM0NzAzOQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210111-1
-# TimeUpdated: 2021-01-11T03:47:29+00:00
+# Version: 1.2.9-20210111-2
+# TimeUpdated: 2021-01-11T06:37:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -5473,7 +5473,6 @@ DOMAIN-SUFFIX,80note.com,DIRECT
 DOMAIN-SUFFIX,80paper.com,DIRECT
 DOMAIN-SUFFIX,80s.cm,DIRECT
 DOMAIN-SUFFIX,80s.la,DIRECT
-DOMAIN-SUFFIX,80s.so,DIRECT
 DOMAIN-SUFFIX,80s.tw,DIRECT
 DOMAIN-SUFFIX,80shihua.com,DIRECT
 DOMAIN-SUFFIX,80sjy.net,DIRECT
@@ -10826,7 +10825,6 @@ DOMAIN-SUFFIX,btyou.com,DIRECT
 DOMAIN-SUFFIX,buaaer.com,DIRECT
 DOMAIN-SUFFIX,buagengen.com,DIRECT
 DOMAIN-SUFFIX,bubalusplus.com,DIRECT
-DOMAIN-SUFFIX,bubu5.com,DIRECT
 DOMAIN-SUFFIX,bubugao.com,DIRECT
 DOMAIN-SUFFIX,bubuko.com,DIRECT
 DOMAIN-SUFFIX,bubukua.com,DIRECT
@@ -13295,6 +13293,7 @@ DOMAIN-SUFFIX,ciandcd.com,DIRECT
 DOMAIN-SUFFIX,ciaoca.com,DIRECT
 DOMAIN-SUFFIX,ciatcm.org,DIRECT
 DOMAIN-SUFFIX,ciavision.com,DIRECT
+DOMAIN-SUFFIX,cib.com.cn,DIRECT
 DOMAIN-SUFFIX,cibfintech.com,DIRECT
 DOMAIN-SUFFIX,cibntv.net,DIRECT
 DOMAIN-SUFFIX,ciboedu.org,DIRECT
