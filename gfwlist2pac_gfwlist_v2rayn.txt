@@ -1,7 +1,7 @@
-# Checksum: MTYxMDMxMzc1Ngo=
+# Checksum: MTYxMDMyNzYyNwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210110-7
-# TimeUpdated: 2021-01-10T21:22:36+00:00
+# Version: 1.2.9-20210111-0
+# TimeUpdated: 2021-01-11T01:13:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -20175,7 +20175,6 @@ domain:photoshop.com,
 domain:php.de,
 domain:php.net,
 domain:php.now-ip.net,
-domain:php3.ga,
 domain:php5.idv.tw,
 domain:php5.ml,
 domain:phpbido.com,
