@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM5MDY4Mwo=
+# Checksum: MTYxMDQwMDQwNQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210111-6
-# TimeUpdated: 2021-01-11T18:44:43+00:00
+# Version: 1.2.9-20210111-7
+# TimeUpdated: 2021-01-11T21:26:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -1682,7 +1682,6 @@ DOMAIN-SUFFIX,91stw.net,PROXY
 DOMAIN-SUFFIX,91tianlu.com,PROXY
 DOMAIN-SUFFIX,91tvh5.tv,PROXY
 DOMAIN-SUFFIX,91tvlu.com,PROXY
-DOMAIN-SUFFIX,91vnn.com,PROXY
 DOMAIN-SUFFIX,91vps.win,PROXY
 DOMAIN-SUFFIX,91vss.com,PROXY
 DOMAIN-SUFFIX,91yun.org,PROXY
@@ -3438,7 +3437,6 @@ DOMAIN-SUFFIX,astrillaff.com,PROXY
 DOMAIN-SUFFIX,astro.org,PROXY
 DOMAIN-SUFFIX,astroawani.com,PROXY
 DOMAIN-SUFFIX,astrumpeople.com,PROXY
-DOMAIN-SUFFIX,asu.su,PROXY
 DOMAIN-SUFFIX,asus.com,PROXY
 DOMAIN-SUFFIX,asxxtv.com,PROXY
 DOMAIN-SUFFIX,asylnetzbaar.ch,PROXY
@@ -5123,7 +5121,6 @@ DOMAIN-SUFFIX,bmw-motorrad.dk,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.dz,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.ec,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.ee,PROXY
-DOMAIN-SUFFIX,bmw-motorrad.es,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.fi,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.fr,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.gr,PROXY

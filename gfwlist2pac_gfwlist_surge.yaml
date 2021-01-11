@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM5MDY4Mwo=
+# Checksum: MTYxMDQwMDQwNQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210111-6
-# TimeUpdated: 2021-01-11T18:44:43+00:00
+# Version: 1.2.9-20210111-7
+# TimeUpdated: 2021-01-11T21:26:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1682,7 +1682,6 @@ DOMAIN-SUFFIX,91stw.net
 DOMAIN-SUFFIX,91tianlu.com
 DOMAIN-SUFFIX,91tvh5.tv
 DOMAIN-SUFFIX,91tvlu.com
-DOMAIN-SUFFIX,91vnn.com
 DOMAIN-SUFFIX,91vps.win
 DOMAIN-SUFFIX,91vss.com
 DOMAIN-SUFFIX,91yun.org
@@ -3438,7 +3437,6 @@ DOMAIN-SUFFIX,astrillaff.com
 DOMAIN-SUFFIX,astro.org
 DOMAIN-SUFFIX,astroawani.com
 DOMAIN-SUFFIX,astrumpeople.com
-DOMAIN-SUFFIX,asu.su
 DOMAIN-SUFFIX,asus.com
 DOMAIN-SUFFIX,asxxtv.com
 DOMAIN-SUFFIX,asylnetzbaar.ch
@@ -5123,7 +5121,6 @@ DOMAIN-SUFFIX,bmw-motorrad.dk
 DOMAIN-SUFFIX,bmw-motorrad.dz
 DOMAIN-SUFFIX,bmw-motorrad.ec
 DOMAIN-SUFFIX,bmw-motorrad.ee
-DOMAIN-SUFFIX,bmw-motorrad.es
 DOMAIN-SUFFIX,bmw-motorrad.fi
 DOMAIN-SUFFIX,bmw-motorrad.fr
 DOMAIN-SUFFIX,bmw-motorrad.gr

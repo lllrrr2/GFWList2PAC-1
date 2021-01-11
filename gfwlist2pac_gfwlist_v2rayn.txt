@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM5MDY4Mwo=
+# Checksum: MTYxMDQwMDQwNQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210111-6
-# TimeUpdated: 2021-01-11T18:44:43+00:00
+# Version: 1.2.9-20210111-7
+# TimeUpdated: 2021-01-11T21:26:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1682,7 +1682,6 @@ domain:91stw.net,
 domain:91tianlu.com,
 domain:91tvh5.tv,
 domain:91tvlu.com,
-domain:91vnn.com,
 domain:91vps.win,
 domain:91vss.com,
 domain:91yun.org,
@@ -3438,7 +3437,6 @@ domain:astrillaff.com,
 domain:astro.org,
 domain:astroawani.com,
 domain:astrumpeople.com,
-domain:asu.su,
 domain:asus.com,
 domain:asxxtv.com,
 domain:asylnetzbaar.ch,
@@ -5123,7 +5121,6 @@ domain:bmw-motorrad.dk,
 domain:bmw-motorrad.dz,
 domain:bmw-motorrad.ec,
 domain:bmw-motorrad.ee,
-domain:bmw-motorrad.es,
 domain:bmw-motorrad.fi,
 domain:bmw-motorrad.fr,
 domain:bmw-motorrad.gr,
