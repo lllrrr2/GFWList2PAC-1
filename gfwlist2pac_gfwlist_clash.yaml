@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDMyNzYyNwo=
+# Checksum: MTYxMDMzNjg1Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210111-0
-# TimeUpdated: 2021-01-11T01:13:47+00:00
+# Version: 1.2.9-20210111-1
+# TimeUpdated: 2021-01-11T03:47:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4854,7 +4854,6 @@ payload:
   - DOMAIN-SUFFIX,blogspot.co.at
   - DOMAIN-SUFFIX,blogspot.co.id
   - DOMAIN-SUFFIX,blogspot.co.il
-  - DOMAIN-SUFFIX,blogspot.co.ke
   - DOMAIN-SUFFIX,blogspot.co.nz
   - DOMAIN-SUFFIX,blogspot.co.uk
   - DOMAIN-SUFFIX,blogspot.co.za
@@ -7863,6 +7862,7 @@ payload:
   - DOMAIN-SUFFIX,dalailamanola.com
   - DOMAIN-SUFFIX,dalailamany.org
   - DOMAIN-SUFFIX,dalailamaprotesters.info
+  - DOMAIN-SUFFIX,dalailamaquotes.org
   - DOMAIN-SUFFIX,dalailamasandiego.org
   - DOMAIN-SUFFIX,dalailamatrust.org
   - DOMAIN-SUFFIX,dalailamavillage.it

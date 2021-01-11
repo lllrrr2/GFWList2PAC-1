@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDMyNzYxOAo=
+# Checksum: MTYxMDMzNjg0OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210111-0
-# TimeUpdated: 2021-01-11T01:13:38+00:00
+# Version: 1.2.9-20210111-1
+# TimeUpdated: 2021-01-11T03:47:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -625,7 +625,6 @@ payload:
   - DOMAIN-SUFFIX,0898888.com
   - DOMAIN-SUFFIX,0898cc.com
   - DOMAIN-SUFFIX,0898cfw.com
-  - DOMAIN-SUFFIX,0898dichan.com
   - DOMAIN-SUFFIX,0898hq.com
   - DOMAIN-SUFFIX,0898mmf.com
   - DOMAIN-SUFFIX,0898qw.com
@@ -1543,7 +1542,6 @@ payload:
   - DOMAIN-SUFFIX,17oh.com
   - DOMAIN-SUFFIX,17ok.com
   - DOMAIN-SUFFIX,17oko.com
-  - DOMAIN-SUFFIX,17one8.com
   - DOMAIN-SUFFIX,17palyba.com
   - DOMAIN-SUFFIX,17pr.com
   - DOMAIN-SUFFIX,17pxs.com
@@ -2076,7 +2074,6 @@ payload:
   - DOMAIN-SUFFIX,233863.com
   - DOMAIN-SUFFIX,2339.com
   - DOMAIN-SUFFIX,233py.com
-  - DOMAIN-SUFFIX,233quan.com
   - DOMAIN-SUFFIX,233wo.com
   - DOMAIN-SUFFIX,233xiao.com
   - DOMAIN-SUFFIX,233xyx.com
@@ -2129,7 +2126,6 @@ payload:
   - DOMAIN-SUFFIX,23xsba.cc
   - DOMAIN-SUFFIX,23xsw.cc
   - DOMAIN-SUFFIX,23yy.com
-  - DOMAIN-SUFFIX,23zhuiju.com
   - DOMAIN-SUFFIX,240yx.com
   - DOMAIN-SUFFIX,2455000.com
   - DOMAIN-SUFFIX,246ys.com
@@ -2861,6 +2857,7 @@ payload:
   - DOMAIN-SUFFIX,379942.com
   - DOMAIN-SUFFIX,37bjw.com
   - DOMAIN-SUFFIX,37cs.com
+  - DOMAIN-SUFFIX,37cy.com
   - DOMAIN-SUFFIX,37hr.com
   - DOMAIN-SUFFIX,37job.net
   - DOMAIN-SUFFIX,37k.com
@@ -3233,7 +3230,6 @@ payload:
   - DOMAIN-SUFFIX,466.com
   - DOMAIN-SUFFIX,46644.com
   - DOMAIN-SUFFIX,4671580.net
-  - DOMAIN-SUFFIX,467316.com
   - DOMAIN-SUFFIX,4699a.com
   - DOMAIN-SUFFIX,4699f.com
   - DOMAIN-SUFFIX,46design.com
@@ -6076,7 +6072,6 @@ payload:
   - DOMAIN-SUFFIX,921716.com
   - DOMAIN-SUFFIX,9217w.com
   - DOMAIN-SUFFIX,9217web.com
-  - DOMAIN-SUFFIX,921eu.com
   - DOMAIN-SUFFIX,922000.com
   - DOMAIN-SUFFIX,922c25.com
   - DOMAIN-SUFFIX,925pk.com
@@ -10624,7 +10619,6 @@ payload:
   - DOMAIN-SUFFIX,borpor.com
   - DOMAIN-SUFFIX,boruiqin.com
   - DOMAIN-SUFFIX,boruisx.com
-  - DOMAIN-SUFFIX,boruisz.com
   - DOMAIN-SUFFIX,boryou.com
   - DOMAIN-SUFFIX,bosc.cn
   - DOMAIN-SUFFIX,bosdile.com
@@ -11679,7 +11673,6 @@ payload:
   - DOMAIN-SUFFIX,ccymf.com
   - DOMAIN-SUFFIX,ccyts.com
   - DOMAIN-SUFFIX,ccyyls.com
-  - DOMAIN-SUFFIX,ccz0.com
   - DOMAIN-SUFFIX,cczhenfeng.com
   - DOMAIN-SUFFIX,ccziben.com
   - DOMAIN-SUFFIX,cczq.net

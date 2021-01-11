@@ -1,7 +1,7 @@
-# Checksum: MTYxMDMyNzYyNwo=
+# Checksum: MTYxMDMzNjg1Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210111-0
-# TimeUpdated: 2021-01-11T01:13:47+00:00
+# Version: 1.2.9-20210111-1
+# TimeUpdated: 2021-01-11T03:47:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -4853,7 +4853,6 @@ domain:blogspot.cl,
 domain:blogspot.co.at,
 domain:blogspot.co.id,
 domain:blogspot.co.il,
-domain:blogspot.co.ke,
 domain:blogspot.co.nz,
 domain:blogspot.co.uk,
 domain:blogspot.co.za,
@@ -7862,6 +7861,7 @@ domain:dalailamamatters.com,
 domain:dalailamanola.com,
 domain:dalailamany.org,
 domain:dalailamaprotesters.info,
+domain:dalailamaquotes.org,
 domain:dalailamasandiego.org,
 domain:dalailamatrust.org,
 domain:dalailamavillage.it,
