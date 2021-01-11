@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM0NzAzOQo=
+# Checksum: MTYxMDM1ODE1NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210111-2
-# TimeUpdated: 2021-01-11T06:37:19+00:00
+# Version: 1.2.9-20210111-3
+# TimeUpdated: 2021-01-11T09:42:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -490,7 +490,6 @@ domain:0712zpw.com,
 domain:071333.com,
 domain:0713fang.com,
 domain:0713hb.com,
-domain:0713hgfh.com,
 domain:0714news.com,
 domain:0715fc.com,
 domain:0715rc.com,
@@ -1660,7 +1659,6 @@ domain:18chonglou.com,
 domain:18dao.com,
 domain:18dao.org,
 domain:18daxue.com,
-domain:18fangchan.com,
 domain:18guanjia.com,
 domain:18heat.com,
 domain:18kf.net,
@@ -1800,7 +1798,6 @@ domain:1n11.com,
 domain:1nami.com,
 domain:1nongjing.com,
 domain:1nsou.com,
-domain:1nvsheng.com,
 domain:1nyz.com,
 domain:1p1g.com,
 domain:1peixun.com,
@@ -13293,7 +13290,6 @@ domain:ciandcd.com,
 domain:ciaoca.com,
 domain:ciatcm.org,
 domain:ciavision.com,
-domain:cib.com.cn,
 domain:cibfintech.com,
 domain:cibntv.net,
 domain:ciboedu.org,
