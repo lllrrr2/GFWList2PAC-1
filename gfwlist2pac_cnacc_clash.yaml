@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDM3ODY2MAo=
+# Checksum: MTYxMDM5MDY3NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210111-5
-# TimeUpdated: 2021-01-11T15:24:20+00:00
+# Version: 1.2.9-20210111-6
+# TimeUpdated: 2021-01-11T18:44:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -10872,6 +10872,7 @@ payload:
   - DOMAIN-SUFFIX,burl.cc
   - DOMAIN-SUFFIX,burnelltek.com
   - DOMAIN-SUFFIX,burstgift.com
+  - DOMAIN-SUFFIX,buruizi.com
   - DOMAIN-SUFFIX,bus365.com
   - DOMAIN-SUFFIX,busbaoche.com
   - DOMAIN-SUFFIX,bushangban.com
@@ -11264,6 +11265,7 @@ payload:
   - DOMAIN-SUFFIX,cambricon.com
   - DOMAIN-SUFFIX,camcap.us
   - DOMAIN-SUFFIX,camcard.com
+  - DOMAIN-SUFFIX,camelsee.com
   - DOMAIN-SUFFIX,camera360.com
   - DOMAIN-SUFFIX,camgle.com
   - DOMAIN-SUFFIX,camnpr.com
@@ -11341,6 +11343,7 @@ payload:
   - DOMAIN-SUFFIX,capsuleshanghai.com
   - DOMAIN-SUFFIX,capvision.com
   - DOMAIN-SUFFIX,car-sort.com
+  - DOMAIN-SUFFIX,car0575.com
   - DOMAIN-SUFFIX,car136.com
   - DOMAIN-SUFFIX,car2100.com
   - DOMAIN-SUFFIX,car365.org
@@ -17022,6 +17025,7 @@ payload:
   - DOMAIN-SUFFIX,donevii.com
   - DOMAIN-SUFFIX,donews.com
   - DOMAIN-SUFFIX,dong-shou.com
+  - DOMAIN-SUFFIX,dong-xu.com
   - DOMAIN-SUFFIX,dongannews.com
   - DOMAIN-SUFFIX,dongao.com
   - DOMAIN-SUFFIX,dongbao120.com

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM3ODY2MAo=
+# Checksum: MTYxMDM5MDY3NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210111-5
-# TimeUpdated: 2021-01-11T15:24:20+00:00
+# Version: 1.2.9-20210111-6
+# TimeUpdated: 2021-01-11T18:44:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10871,6 +10871,7 @@ domain:burgud.com,
 domain:burl.cc,
 domain:burnelltek.com,
 domain:burstgift.com,
+domain:buruizi.com,
 domain:bus365.com,
 domain:busbaoche.com,
 domain:bushangban.com,
@@ -11263,6 +11264,7 @@ domain:cambodiafang.com,
 domain:cambricon.com,
 domain:camcap.us,
 domain:camcard.com,
+domain:camelsee.com,
 domain:camera360.com,
 domain:camgle.com,
 domain:camnpr.com,
@@ -11340,6 +11342,7 @@ domain:cappeg.com,
 domain:capsuleshanghai.com,
 domain:capvision.com,
 domain:car-sort.com,
+domain:car0575.com,
 domain:car136.com,
 domain:car2100.com,
 domain:car365.org,
@@ -17021,6 +17024,7 @@ domain:donever.com,
 domain:donevii.com,
 domain:donews.com,
 domain:dong-shou.com,
+domain:dong-xu.com,
 domain:dongannews.com,
 domain:dongao.com,
 domain:dongbao120.com,
