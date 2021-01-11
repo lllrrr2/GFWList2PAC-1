@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM1ODE2Mgo=
+# Checksum: MTYxMDM2ODc0MAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210111-3
-# TimeUpdated: 2021-01-11T09:42:42+00:00
+# Version: 1.2.9-20210111-4
+# TimeUpdated: 2021-01-11T12:39:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -158,6 +158,7 @@ domain:100ke.org,
 domain:100mountain.com,
 domain:100sihu.com,
 domain:100tjs.com,
+domain:101.www1.biz,
 domain:1010bo888.com,
 domain:101com.com,
 domain:101newsmedia.com,
@@ -5958,7 +5959,6 @@ domain:ca326.com,
 domain:ca331.com,
 domain:ca335.com,
 domain:ca336.com,
-domain:ca358.com,
 domain:ca359.com,
 domain:ca362.com,
 domain:ca372.com,

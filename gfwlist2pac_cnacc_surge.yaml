@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM1ODE1NQo=
+# Checksum: MTYxMDM2ODczNAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210111-3
-# TimeUpdated: 2021-01-11T09:42:35+00:00
+# Version: 1.2.9-20210111-4
+# TimeUpdated: 2021-01-11T12:38:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -279,7 +279,6 @@ DOMAIN-SUFFIX,029lintong.com
 DOMAIN-SUFFIX,029shw.com
 DOMAIN-SUFFIX,029weichen.com
 DOMAIN-SUFFIX,029wsw.com
-DOMAIN-SUFFIX,029xacayy.com
 DOMAIN-SUFFIX,029yjy.com
 DOMAIN-SUFFIX,029yljj.com
 DOMAIN-SUFFIX,029yuezi.com
@@ -3045,7 +3044,6 @@ DOMAIN-SUFFIX,3songshu.com
 DOMAIN-SUFFIX,3tnm.com
 DOMAIN-SUFFIX,3type.cn
 DOMAIN-SUFFIX,3u.com
-DOMAIN-SUFFIX,3ujp.com
 DOMAIN-SUFFIX,3uol.com
 DOMAIN-SUFFIX,3us.com
 DOMAIN-SUFFIX,3utui.com
@@ -3414,7 +3412,6 @@ DOMAIN-SUFFIX,5173.com
 DOMAIN-SUFFIX,5173cdn.com
 DOMAIN-SUFFIX,5174f.com
 DOMAIN-SUFFIX,517best.com
-DOMAIN-SUFFIX,517dv.com
 DOMAIN-SUFFIX,517ee.com
 DOMAIN-SUFFIX,517far.com
 DOMAIN-SUFFIX,517hotel.com
@@ -13582,6 +13579,7 @@ DOMAIN-SUFFIX,cloudsee.com
 DOMAIN-SUFFIX,cloudsgis.com
 DOMAIN-SUFFIX,cloudsmobi.com
 DOMAIN-SUFFIX,cloudsohu.net
+DOMAIN-SUFFIX,cloudstack-china.org
 DOMAIN-SUFFIX,cloudtopo.com
 DOMAIN-SUFFIX,cloudtrans.com
 DOMAIN-SUFFIX,cloudtui.com
@@ -31783,6 +31781,7 @@ DOMAIN-SUFFIX,lelezone.com
 DOMAIN-SUFFIX,lemaker.org
 DOMAIN-SUFFIX,lemall.com
 DOMAIN-SUFFIX,lemedu.com
+DOMAIN-SUFFIX,lemeitu.com
 DOMAIN-SUFFIX,lemfix.com
 DOMAIN-SUFFIX,lemicp.com
 DOMAIN-SUFFIX,lemo360.com
@@ -38670,6 +38669,7 @@ DOMAIN-SUFFIX,play.itunes.apple.com
 DOMAIN-SUFFIX,play700.com
 DOMAIN-SUFFIX,play86.com
 DOMAIN-SUFFIX,playcomet.jp
+DOMAIN-SUFFIX,playcrab.com
 DOMAIN-SUFFIX,playlu.com
 DOMAIN-SUFFIX,playnail.com
 DOMAIN-SUFFIX,playpi.org
