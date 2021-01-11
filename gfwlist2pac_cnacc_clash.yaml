@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDM2ODczNAo=
+# Checksum: MTYxMDM3ODY2MAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210111-4
-# TimeUpdated: 2021-01-11T12:38:54+00:00
+# Version: 1.2.9-20210111-5
+# TimeUpdated: 2021-01-11T15:24:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -273,7 +273,6 @@ payload:
   - DOMAIN-SUFFIX,029558.com
   - DOMAIN-SUFFIX,029900.com
   - DOMAIN-SUFFIX,029jiuda.com
-  - DOMAIN-SUFFIX,029jk.com
   - DOMAIN-SUFFIX,029judao.com
   - DOMAIN-SUFFIX,029k.com
   - DOMAIN-SUFFIX,029lintong.com
@@ -2043,7 +2042,6 @@ payload:
   - DOMAIN-SUFFIX,22edu.com
   - DOMAIN-SUFFIX,22ff.com
   - DOMAIN-SUFFIX,22ff.org
-  - DOMAIN-SUFFIX,22hd.com
   - DOMAIN-SUFFIX,22hyk.com
   - DOMAIN-SUFFIX,22ja.com
   - DOMAIN-SUFFIX,22k9.com
@@ -8305,7 +8303,6 @@ payload:
   - DOMAIN-SUFFIX,arrowos.net
   - DOMAIN-SUFFIX,art-ba-ba.com
   - DOMAIN-SUFFIX,art-child.com
-  - DOMAIN-SUFFIX,art138.com
   - DOMAIN-SUFFIX,art2500.com
   - DOMAIN-SUFFIX,art456.com
   - DOMAIN-SUFFIX,artacode.com
@@ -13580,7 +13577,6 @@ payload:
   - DOMAIN-SUFFIX,cloudsgis.com
   - DOMAIN-SUFFIX,cloudsmobi.com
   - DOMAIN-SUFFIX,cloudsohu.net
-  - DOMAIN-SUFFIX,cloudstack-china.org
   - DOMAIN-SUFFIX,cloudtopo.com
   - DOMAIN-SUFFIX,cloudtrans.com
   - DOMAIN-SUFFIX,cloudtui.com
@@ -34772,6 +34768,7 @@ payload:
   - DOMAIN-SUFFIX,mijiayoupin.com
   - DOMAIN-SUFFIX,mijishe.com
   - DOMAIN-SUFFIX,mijisou.com
+  - DOMAIN-SUFFIX,mijuge.com
   - DOMAIN-SUFFIX,mijwed.com
   - DOMAIN-SUFFIX,mika123.com
   - DOMAIN-SUFFIX,mika18.com

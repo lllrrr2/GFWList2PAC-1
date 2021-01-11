@@ -1,7 +1,7 @@
-# Checksum: MTYxMDM2ODczNAo=
+# Checksum: MTYxMDM3ODY2MAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210111-4
-# TimeUpdated: 2021-01-11T12:38:54+00:00
+# Version: 1.2.9-20210111-5
+# TimeUpdated: 2021-01-11T15:24:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -272,7 +272,6 @@ domain:029080.com,
 domain:029558.com,
 domain:029900.com,
 domain:029jiuda.com,
-domain:029jk.com,
 domain:029judao.com,
 domain:029k.com,
 domain:029lintong.com,
@@ -2042,7 +2041,6 @@ domain:22dm.com,
 domain:22edu.com,
 domain:22ff.com,
 domain:22ff.org,
-domain:22hd.com,
 domain:22hyk.com,
 domain:22ja.com,
 domain:22k9.com,
@@ -8304,7 +8302,6 @@ domain:arrownock.com,
 domain:arrowos.net,
 domain:art-ba-ba.com,
 domain:art-child.com,
-domain:art138.com,
 domain:art2500.com,
 domain:art456.com,
 domain:artacode.com,
@@ -13579,7 +13576,6 @@ domain:cloudsee.com,
 domain:cloudsgis.com,
 domain:cloudsmobi.com,
 domain:cloudsohu.net,
-domain:cloudstack-china.org,
 domain:cloudtopo.com,
 domain:cloudtrans.com,
 domain:cloudtui.com,
@@ -34771,6 +34767,7 @@ domain:miji8.com,
 domain:mijiayoupin.com,
 domain:mijishe.com,
 domain:mijisou.com,
+domain:mijuge.com,
 domain:mijwed.com,
 domain:mika123.com,
 domain:mika18.com,
