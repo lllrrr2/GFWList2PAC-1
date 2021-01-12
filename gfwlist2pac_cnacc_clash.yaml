@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDQ0NDU0OQo=
+# Checksum: MTYxMDQ1NTI0MAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210112-3
-# TimeUpdated: 2021-01-12T09:42:29+00:00
+# Version: 1.2.9-20210112-4
+# TimeUpdated: 2021-01-12T12:40:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -2711,6 +2711,7 @@ payload:
   - DOMAIN-SUFFIX,361.cm
   - DOMAIN-SUFFIX,3618med.com
   - DOMAIN-SUFFIX,361a.com
+  - DOMAIN-SUFFIX,361games.com
   - DOMAIN-SUFFIX,361ser.com
   - DOMAIN-SUFFIX,361sport.com
   - DOMAIN-SUFFIX,361t.net
@@ -9977,7 +9978,6 @@ payload:
   - DOMAIN-SUFFIX,bitsde.com
   - DOMAIN-SUFFIX,bitshuo.com
   - DOMAIN-SUFFIX,bitsqa.com
-  - DOMAIN-SUFFIX,bitsquan.com
   - DOMAIN-SUFFIX,bitu360.com
   - DOMAIN-SUFFIX,bitvip.com
   - DOMAIN-SUFFIX,biuapp.im
@@ -10777,7 +10777,6 @@ payload:
   - DOMAIN-SUFFIX,btnotes.com
   - DOMAIN-SUFFIX,btophr.com
   - DOMAIN-SUFFIX,btorange.com
-  - DOMAIN-SUFFIX,btpan.com
   - DOMAIN-SUFFIX,btplay.net
   - DOMAIN-SUFFIX,btrace.qq.com
   - DOMAIN-SUFFIX,btrenren.com
@@ -42736,6 +42735,7 @@ payload:
   - DOMAIN-SUFFIX,shgskj.com
   - DOMAIN-SUFFIX,shgyg.com
   - DOMAIN-SUFFIX,shhanqiao.com
+  - DOMAIN-SUFFIX,shhbm.com
   - DOMAIN-SUFFIX,shheywow.com
   - DOMAIN-SUFFIX,shhglj.com
   - DOMAIN-SUFFIX,shhonghu.com
