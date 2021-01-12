@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDQ3NzQwMAo=
+# Checksum: MTYxMDQ4NzAyOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210112-6
-# TimeUpdated: 2021-01-12T18:50:00+00:00
+# Version: 1.2.9-20210112-7
+# TimeUpdated: 2021-01-12T21:30:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -9501,11 +9501,9 @@ payload:
   - DOMAIN-SUFFIX,benlai.com
   - DOMAIN-SUFFIX,benlailife.com
   - DOMAIN-SUFFIX,benmi.com
-  - DOMAIN-SUFFIX,benmingnian68.com
   - DOMAIN-SUFFIX,benmu-health.com
   - DOMAIN-SUFFIX,bensedl.com
   - DOMAIN-SUFFIX,benseshijue.com
-  - DOMAIN-SUFFIX,benxi0414.com
   - DOMAIN-SUFFIX,benyh.com
   - DOMAIN-SUFFIX,benyht.com
   - DOMAIN-SUFFIX,benz-photo.com
@@ -12309,6 +12307,7 @@ payload:
   - DOMAIN-SUFFIX,chengshu.com
   - DOMAIN-SUFFIX,chengtour.com
   - DOMAIN-SUFFIX,chenguangblog.com
+  - DOMAIN-SUFFIX,chengxinyouxuan.com
   - DOMAIN-SUFFIX,chengxuan.com
   - DOMAIN-SUFFIX,chengxuyuans.com
   - DOMAIN-SUFFIX,chengyangnews.com
@@ -16390,6 +16389,7 @@ payload:
   - DOMAIN-SUFFIX,dianru.net
   - DOMAIN-SUFFIX,diansan.com
   - DOMAIN-SUFFIX,dianshang.com
+  - DOMAIN-SUFFIX,dianshanghy.com
   - DOMAIN-SUFFIX,dianshi.com
   - DOMAIN-SUFFIX,dianshijia.com
   - DOMAIN-SUFFIX,diantansuo.com
@@ -16919,6 +16919,7 @@ payload:
   - DOMAIN-SUFFIX,dnsurl.net
   - DOMAIN-SUFFIX,dnsv1.com
   - DOMAIN-SUFFIX,dnsv1.net
+  - DOMAIN-SUFFIX,dnsv2.com
   - DOMAIN-SUFFIX,dnsv4.com
   - DOMAIN-SUFFIX,dnswind.net
   - DOMAIN-SUFFIX,dnszh.com
@@ -31356,6 +31357,7 @@ payload:
   - DOMAIN-SUFFIX,lanrenzhoumo.com
   - DOMAIN-SUFFIX,lansedongli.com
   - DOMAIN-SUFFIX,lanseyujie.com
+  - DOMAIN-SUFFIX,lansezw.com
   - DOMAIN-SUFFIX,lanshanweb.com
   - DOMAIN-SUFFIX,lanshi.hk
   - DOMAIN-SUFFIX,lanshiliu.com
@@ -31520,9 +31522,13 @@ payload:
   - DOMAIN-SUFFIX,layui-inc.com
   - DOMAIN-SUFFIX,layui.com
   - DOMAIN-SUFFIX,layuicdn.com
+  - DOMAIN-SUFFIX,lazada.co.id
+  - DOMAIN-SUFFIX,lazada.co.th
   - DOMAIN-SUFFIX,lazada.com
+  - DOMAIN-SUFFIX,lazada.com.my
   - DOMAIN-SUFFIX,lazada.com.ph
   - DOMAIN-SUFFIX,lazada.sg
+  - DOMAIN-SUFFIX,lazada.vn
   - DOMAIN-SUFFIX,lazonga.com
   - DOMAIN-SUFFIX,lazpit.com
   - DOMAIN-SUFFIX,lazybios.com
@@ -37439,6 +37445,7 @@ payload:
   - DOMAIN-SUFFIX,onesight.com
   - DOMAIN-SUFFIX,onethingcloud.com
   - DOMAIN-SUFFIX,onetwo.ren
+  - DOMAIN-SUFFIX,oneuos.com
   - DOMAIN-SUFFIX,onev.cat
   - DOMAIN-SUFFIX,onevcat.com
   - DOMAIN-SUFFIX,oneway.mobi
@@ -48092,6 +48099,7 @@ payload:
   - DOMAIN-SUFFIX,uoolu.com
   - DOMAIN-SUFFIX,uooss.com
   - DOMAIN-SUFFIX,uoschina.com
+  - DOMAIN-SUFFIX,uoser.org
   - DOMAIN-SUFFIX,uouo123.com
   - DOMAIN-SUFFIX,uovz.com
   - DOMAIN-SUFFIX,uoyrsd.com

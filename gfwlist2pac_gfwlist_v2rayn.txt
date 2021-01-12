@@ -1,7 +1,7 @@
-# Checksum: MTYxMDQ3NzQwNgo=
+# Checksum: MTYxMDQ4NzAzOAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210112-6
-# TimeUpdated: 2021-01-12T18:50:06+00:00
+# Version: 1.2.9-20210112-7
+# TimeUpdated: 2021-01-12T21:30:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -3699,6 +3699,7 @@ domain:azirevpn.com,
 domain:aznmovies.com,
 domain:aznude.com,
 domain:azofreeware.com,
+domain:azoo123.sytes.net,
 domain:azri.my,
 domain:aztecleisure.biz,
 domain:azubu.tv,
@@ -8492,6 +8493,7 @@ domain:dlsite.com,
 domain:dlsite.jp,
 domain:dlyoutube.com,
 domain:dm258.com,
+domain:dm530.net,
 domain:dmc.nico,
 domain:dmcdn.net,
 domain:dmhy.org,

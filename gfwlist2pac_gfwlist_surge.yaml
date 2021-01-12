@@ -1,7 +1,7 @@
-# Checksum: MTYxMDQ3NzQwNgo=
+# Checksum: MTYxMDQ4NzAzOAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210112-6
-# TimeUpdated: 2021-01-12T18:50:06+00:00
+# Version: 1.2.9-20210112-7
+# TimeUpdated: 2021-01-12T21:30:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -3699,6 +3699,7 @@ DOMAIN-SUFFIX,azirevpn.com
 DOMAIN-SUFFIX,aznmovies.com
 DOMAIN-SUFFIX,aznude.com
 DOMAIN-SUFFIX,azofreeware.com
+DOMAIN-SUFFIX,azoo123.sytes.net
 DOMAIN-SUFFIX,azri.my
 DOMAIN-SUFFIX,aztecleisure.biz
 DOMAIN-SUFFIX,azubu.tv
@@ -8492,6 +8493,7 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsite.jp
 DOMAIN-SUFFIX,dlyoutube.com
 DOMAIN-SUFFIX,dm258.com
+DOMAIN-SUFFIX,dm530.net
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,dmcdn.net
 DOMAIN-SUFFIX,dmhy.org
