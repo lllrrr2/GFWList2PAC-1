@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDQzMzU1Mgo=
+# Checksum: MTYxMDQ0NDU1OAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210112-2
-# TimeUpdated: 2021-01-12T06:39:12+00:00
+# Version: 1.2.9-20210112-3
+# TimeUpdated: 2021-01-12T09:42:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -256,7 +256,6 @@ payload:
   - DOMAIN-SUFFIX,123lfz.com
   - DOMAIN-SUFFIX,123rf.com
   - DOMAIN-SUFFIX,125.effers.com
-  - DOMAIN-SUFFIX,126.dtdns.net
   - DOMAIN-SUFFIX,1260449780-sd.cp168.ws
   - DOMAIN-SUFFIX,126688.com
   - DOMAIN-SUFFIX,126bet.com
@@ -1237,7 +1236,6 @@ payload:
   - DOMAIN-SUFFIX,62.my.to
   - DOMAIN-SUFFIX,62.slyip.net
   - DOMAIN-SUFFIX,62033.com
-  - DOMAIN-SUFFIX,622.dtdns.net
   - DOMAIN-SUFFIX,62365t.com
   - DOMAIN-SUFFIX,62382013-bf.cp168.ws
   - DOMAIN-SUFFIX,626ccc.net
@@ -4550,6 +4548,7 @@ payload:
   - DOMAIN-SUFFIX,bigjockcock.com
   - DOMAIN-SUFFIX,biglychee.com
   - DOMAIN-SUFFIX,bigmoney.biz
+  - DOMAIN-SUFFIX,bignews.org
   - DOMAIN-SUFFIX,bigphatcars.com
   - DOMAIN-SUFFIX,bigquery.googleapis.com
   - DOMAIN-SUFFIX,bigshorts.tv
@@ -7779,7 +7778,6 @@ payload:
   - DOMAIN-SUFFIX,d3rkfw22xppori.cloudfront.net
   - DOMAIN-SUFFIX,d3zrn.j5.biz.tm
   - DOMAIN-SUFFIX,d42i.r5.cr.rs
-  - DOMAIN-SUFFIX,d5.dtdns.net
   - DOMAIN-SUFFIX,d5562.com
   - DOMAIN-SUFFIX,d5585.com
   - DOMAIN-SUFFIX,d8898.com
@@ -7981,7 +7979,6 @@ payload:
   - DOMAIN-SUFFIX,dcmilitary.com
   - DOMAIN-SUFFIX,dcs-live.apis.anvato.net
   - DOMAIN-SUFFIX,dctbeatsbydre.com
-  - DOMAIN-SUFFIX,dd5.dtdns.net
   - DOMAIN-SUFFIX,dd57625.9cash.net
   - DOMAIN-SUFFIX,dd6366.com
   - DOMAIN-SUFFIX,dd699.net
@@ -8791,12 +8788,10 @@ payload:
   - DOMAIN-SUFFIX,dtdns.net
   - DOMAIN-SUFFIX,dtiblog.com
   - DOMAIN-SUFFIX,dtic.mil
-  - DOMAIN-SUFFIX,dtt.dtdns.net
   - DOMAIN-SUFFIX,dtunnel.com
   - DOMAIN-SUFFIX,dtv2009offers.com
   - DOMAIN-SUFFIX,dtvideo.com
   - DOMAIN-SUFFIX,dtwang.org
-  - DOMAIN-SUFFIX,du.narasmom.com
   - DOMAIN-SUFFIX,dubandko.com
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,dubstep.net
@@ -15621,7 +15616,6 @@ payload:
   - DOMAIN-SUFFIX,kodingen.com
   - DOMAIN-SUFFIX,koditv.tk
   - DOMAIN-SUFFIX,kohako.com
-  - DOMAIN-SUFFIX,kohq.rhy.dtdns.net
   - DOMAIN-SUFFIX,kokoro.kir.jp
   - DOMAIN-SUFFIX,kome.top
   - DOMAIN-SUFFIX,komica.org
@@ -18359,7 +18353,6 @@ payload:
   - DOMAIN-SUFFIX,nanzao.com
   - DOMAIN-SUFFIX,naol.ca
   - DOMAIN-SUFFIX,naol.cc
-  - DOMAIN-SUFFIX,narasmom.com
   - DOMAIN-SUFFIX,narod.ru
   - DOMAIN-SUFFIX,narutopixxx.com
   - DOMAIN-SUFFIX,nas.hcy.idv.tw
@@ -18940,7 +18933,6 @@ payload:
   - DOMAIN-SUFFIX,nlfreevpn.com
   - DOMAIN-SUFFIX,nm128.com
   - DOMAIN-SUFFIX,nmbmw.com
-  - DOMAIN-SUFFIX,nn.dtdns.net
   - DOMAIN-SUFFIX,nn.zzux.com
   - DOMAIN-SUFFIX,nn337.net
   - DOMAIN-SUFFIX,nn633.com

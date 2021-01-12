@@ -1,7 +1,7 @@
-# Checksum: MTYxMDQzMzU0NAo=
+# Checksum: MTYxMDQ0NDU0OQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210112-2
-# TimeUpdated: 2021-01-12T06:39:04+00:00
+# Version: 1.2.9-20210112-3
+# TimeUpdated: 2021-01-12T09:42:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -398,7 +398,6 @@ DOMAIN-SUFFIX,0543hr.com
 DOMAIN-SUFFIX,0546dsw.com
 DOMAIN-SUFFIX,0546fdc.com
 DOMAIN-SUFFIX,0550.com
-DOMAIN-SUFFIX,0550ai.com
 DOMAIN-SUFFIX,0550dx.com
 DOMAIN-SUFFIX,055110.com
 DOMAIN-SUFFIX,055178.com
@@ -2411,6 +2410,7 @@ DOMAIN-SUFFIX,3150315.com
 DOMAIN-SUFFIX,315034.com
 DOMAIN-SUFFIX,315166.com
 DOMAIN-SUFFIX,315196.com
+DOMAIN-SUFFIX,315246.com
 DOMAIN-SUFFIX,3158.com
 DOMAIN-SUFFIX,315banzhao.com
 DOMAIN-SUFFIX,315che.com
@@ -8963,7 +8963,6 @@ DOMAIN-SUFFIX,bakaawt.com
 DOMAIN-SUFFIX,bakuaiwu.com
 DOMAIN-SUFFIX,bakumon.me
 DOMAIN-SUFFIX,bala.cc
-DOMAIN-SUFFIX,balawoffice.com
 DOMAIN-SUFFIX,baldc.com
 DOMAIN-SUFFIX,baletu.com
 DOMAIN-SUFFIX,balijieji.com
@@ -8976,7 +8975,6 @@ DOMAIN-SUFFIX,bamaol.com
 DOMAIN-SUFFIX,bamayigou.com
 DOMAIN-SUFFIX,bamboo18.com
 DOMAIN-SUFFIX,bamenzhushou.com
-DOMAIN-SUFFIX,bamudi.com
 DOMAIN-SUFFIX,bamuyu.com
 DOMAIN-SUFFIX,bananalighter.com
 DOMAIN-SUFFIX,bananau.com
@@ -9555,7 +9553,6 @@ DOMAIN-SUFFIX,bestmemorymaster.net
 DOMAIN-SUFFIX,bestopview.com
 DOMAIN-SUFFIX,bestqliang.com
 DOMAIN-SUFFIX,bestsapchina.com
-DOMAIN-SUFFIX,bestsdk.com
 DOMAIN-SUFFIX,bestshinhwa.com
 DOMAIN-SUFFIX,bestsign.info
 DOMAIN-SUFFIX,bestsrc.com
@@ -10035,7 +10032,6 @@ DOMAIN-SUFFIX,bizvane.com
 DOMAIN-SUFFIX,bj-apc.com
 DOMAIN-SUFFIX,bj-big.com
 DOMAIN-SUFFIX,bj-dsmzyy.com
-DOMAIN-SUFFIX,bj-fd.com
 DOMAIN-SUFFIX,bj-sagtar.com
 DOMAIN-SUFFIX,bj-saite.com
 DOMAIN-SUFFIX,bj-sydc.com
@@ -10888,7 +10884,6 @@ DOMAIN-SUFFIX,buy360.vip
 DOMAIN-SUFFIX,buyanshufa.com
 DOMAIN-SUFFIX,buyaor.cc
 DOMAIN-SUFFIX,buybieshu.com
-DOMAIN-SUFFIX,buyblogreviews.com
 DOMAIN-SUFFIX,buycolle.com
 DOMAIN-SUFFIX,buyerscellars.com
 DOMAIN-SUFFIX,buyfine.net
@@ -10941,7 +10936,6 @@ DOMAIN-SUFFIX,bxkxw.com
 DOMAIN-SUFFIX,bxlac.com
 DOMAIN-SUFFIX,bxr.im
 DOMAIN-SUFFIX,bxwcn.net
-DOMAIN-SUFFIX,bxwhx.com
 DOMAIN-SUFFIX,bxwx.la
 DOMAIN-SUFFIX,bxwx.org
 DOMAIN-SUFFIX,bxwx.us
@@ -11994,7 +11988,6 @@ DOMAIN-SUFFIX,cgsfusion.com
 DOMAIN-SUFFIX,cgsoft.net
 DOMAIN-SUFFIX,cgspread.com
 DOMAIN-SUFFIX,cgstartup.com
-DOMAIN-SUFFIX,cgt8.net
 DOMAIN-SUFFIX,cgtblog.com
 DOMAIN-SUFFIX,cgtime.net
 DOMAIN-SUFFIX,cgtn.com
@@ -12687,7 +12680,6 @@ DOMAIN-SUFFIX,chinaflier.com
 DOMAIN-SUFFIX,chinaforklift.com
 DOMAIN-SUFFIX,chinafpd.net
 DOMAIN-SUFFIX,chinafpma.org
-DOMAIN-SUFFIX,chinafs120.com
 DOMAIN-SUFFIX,chinafudaoban.com
 DOMAIN-SUFFIX,chinagames.net
 DOMAIN-SUFFIX,chinagayles.com
@@ -12796,6 +12788,7 @@ DOMAIN-SUFFIX,chinamenwang.com
 DOMAIN-SUFFIX,chinamerger.com
 DOMAIN-SUFFIX,chinamfi.net
 DOMAIN-SUFFIX,chinamining.com
+DOMAIN-SUFFIX,chinamlmcc.com
 DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,chinamobileltd.com
 DOMAIN-SUFFIX,chinamootools.com
@@ -45583,6 +45576,7 @@ DOMAIN-SUFFIX,taikangzhijia.com
 DOMAIN-SUFFIX,taikongmedia.com
 DOMAIN-SUFFIX,taikr.com
 DOMAIN-SUFFIX,taim168.com
+DOMAIN-SUFFIX,taipingfund.com.cn
 DOMAIN-SUFFIX,taiqigame.com
 DOMAIN-SUFFIX,tairan.com
 DOMAIN-SUFFIX,taishangshiwu.com
