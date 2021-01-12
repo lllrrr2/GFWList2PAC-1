@@ -1,7 +1,7 @@
-# Checksum: MTYxMDQyMzQzNgo=
+# Checksum: MTYxMDQzMzU0NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210112-1
-# TimeUpdated: 2021-01-12T03:50:36+00:00
+# Version: 1.2.9-20210112-2
+# TimeUpdated: 2021-01-12T06:39:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1404,7 +1404,6 @@ domain:17173.com,
 domain:17173cdn.com,
 domain:17173ie.com,
 domain:17173v.com,
-domain:17173yx.com,
 domain:1717ba.com,
 domain:1717kf.com,
 domain:1717y.net,
