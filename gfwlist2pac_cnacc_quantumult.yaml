@@ -1,7 +1,7 @@
-# Checksum: MTYxMDQxNDE0NAo=
+# Checksum: MTYxMDQyMzQzNgo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210112-0
-# TimeUpdated: 2021-01-12T01:15:44+00:00
+# Version: 1.2.9-20210112-1
+# TimeUpdated: 2021-01-12T03:50:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -6724,7 +6724,6 @@ DOMAIN-SUFFIX,acg18s.com,DIRECT
 DOMAIN-SUFFIX,acg4.com,DIRECT
 DOMAIN-SUFFIX,acg456.com,DIRECT
 DOMAIN-SUFFIX,acg6.com,DIRECT
-DOMAIN-SUFFIX,acg7.com,DIRECT
 DOMAIN-SUFFIX,acgaa.xyz,DIRECT
 DOMAIN-SUFFIX,acgdb.com,DIRECT
 DOMAIN-SUFFIX,acgface.com,DIRECT
@@ -10949,7 +10948,6 @@ DOMAIN-SUFFIX,bxwx.org,DIRECT
 DOMAIN-SUFFIX,bxwx.us,DIRECT
 DOMAIN-SUFFIX,bxwx520.com,DIRECT
 DOMAIN-SUFFIX,bxwx99.com,DIRECT
-DOMAIN-SUFFIX,bxxhdq.com,DIRECT
 DOMAIN-SUFFIX,bxycw.com,DIRECT
 DOMAIN-SUFFIX,bxynzz.com,DIRECT
 DOMAIN-SUFFIX,bxyuer.com,DIRECT
