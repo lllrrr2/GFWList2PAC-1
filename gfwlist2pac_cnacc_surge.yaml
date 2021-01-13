@@ -1,7 +1,7 @@
-# Checksum: MTYxMDQ4NzAyOQo=
+# Checksum: MTYxMDUwMDk1Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210112-7
-# TimeUpdated: 2021-01-12T21:30:29+00:00
+# Version: 1.2.9-20210113-0
+# TimeUpdated: 2021-01-13T01:22:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2701,7 +2701,6 @@ DOMAIN-SUFFIX,360xs.com
 DOMAIN-SUFFIX,360yfw.com
 DOMAIN-SUFFIX,360youtu.com
 DOMAIN-SUFFIX,360yun.org
-DOMAIN-SUFFIX,360zfw.com
 DOMAIN-SUFFIX,360zhai.com
 DOMAIN-SUFFIX,360zhijia.com
 DOMAIN-SUFFIX,360zhyx.com
@@ -8392,7 +8391,6 @@ DOMAIN-SUFFIX,askxt.org
 DOMAIN-SUFFIX,aslzw.com
 DOMAIN-SUFFIX,asm64.com
 DOMAIN-SUFFIX,asmlink.cn
-DOMAIN-SUFFIX,asmr8.com
 DOMAIN-SUFFIX,asnlab.com
 DOMAIN-SUFFIX,asnlab.org
 DOMAIN-SUFFIX,aso.ink
@@ -9053,7 +9051,6 @@ DOMAIN-SUFFIX,banzou.name
 DOMAIN-SUFFIX,bao-cun.com
 DOMAIN-SUFFIX,bao-hulu.com
 DOMAIN-SUFFIX,bao12333.com
-DOMAIN-SUFFIX,bao132.com
 DOMAIN-SUFFIX,bao315.com
 DOMAIN-SUFFIX,bao369.com
 DOMAIN-SUFFIX,bao8899.com
@@ -9324,7 +9321,6 @@ DOMAIN-SUFFIX,bds-cn.com
 DOMAIN-SUFFIX,bdsgps.com
 DOMAIN-SUFFIX,bdshuang.com
 DOMAIN-SUFFIX,bdsimg.com
-DOMAIN-SUFFIX,bdsmearth.com
 DOMAIN-SUFFIX,bdsmluntan16.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdsye.com
@@ -10129,7 +10125,6 @@ DOMAIN-SUFFIX,bjjabc.com
 DOMAIN-SUFFIX,bjjap.com
 DOMAIN-SUFFIX,bjjbsj.com
 DOMAIN-SUFFIX,bjjchf.com
-DOMAIN-SUFFIX,bjjcult.com
 DOMAIN-SUFFIX,bjjdwx.com
 DOMAIN-SUFFIX,bjjf.cc
 DOMAIN-SUFFIX,bjjfsd.com
@@ -11835,6 +11830,7 @@ DOMAIN-SUFFIX,ceeji.net
 DOMAIN-SUFFIX,ceepsp.com
 DOMAIN-SUFFIX,cef114.com
 DOMAIN-SUFFIX,cefc.co
+DOMAIN-SUFFIX,cehca.com
 DOMAIN-SUFFIX,cehome.com
 DOMAIN-SUFFIX,cehuashen.com
 DOMAIN-SUFFIX,cehui8.com
@@ -12472,7 +12468,6 @@ DOMAIN-SUFFIX,china-hrg.com
 DOMAIN-SUFFIX,china-huaxue.com
 DOMAIN-SUFFIX,china-huazhou.com
 DOMAIN-SUFFIX,china-hzd.com
-DOMAIN-SUFFIX,china-intellect.com
 DOMAIN-SUFFIX,china-invests.net
 DOMAIN-SUFFIX,china-isotope.com
 DOMAIN-SUFFIX,china-jm.org
@@ -16388,7 +16383,6 @@ DOMAIN-SUFFIX,dianru.com
 DOMAIN-SUFFIX,dianru.net
 DOMAIN-SUFFIX,diansan.com
 DOMAIN-SUFFIX,dianshang.com
-DOMAIN-SUFFIX,dianshanghy.com
 DOMAIN-SUFFIX,dianshi.com
 DOMAIN-SUFFIX,dianshijia.com
 DOMAIN-SUFFIX,diantansuo.com
@@ -48098,7 +48092,6 @@ DOMAIN-SUFFIX,uooioo.com
 DOMAIN-SUFFIX,uoolu.com
 DOMAIN-SUFFIX,uooss.com
 DOMAIN-SUFFIX,uoschina.com
-DOMAIN-SUFFIX,uoser.org
 DOMAIN-SUFFIX,uouo123.com
 DOMAIN-SUFFIX,uovz.com
 DOMAIN-SUFFIX,uoyrsd.com
