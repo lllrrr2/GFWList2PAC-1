@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDUzMTQ1OAo=
+# Checksum: MTYxMDU0MjA4MAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210113-3
-# TimeUpdated: 2021-01-13T09:50:58+00:00
+# Version: 1.2.9-20210113-4
+# TimeUpdated: 2021-01-13T12:48:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -684,6 +684,7 @@ payload:
   - DOMAIN-SUFFIX,0y856.com
   - DOMAIN-SUFFIX,1-111-1.com
   - DOMAIN-SUFFIX,1-123.com
+  - DOMAIN-SUFFIX,1-b.tc
   - DOMAIN-SUFFIX,1-cs.net
   - DOMAIN-SUFFIX,1-du.net
   - DOMAIN-SUFFIX,1.cms.s81c.com
@@ -1265,7 +1266,6 @@ payload:
   - DOMAIN-SUFFIX,15lu.com
   - DOMAIN-SUFFIX,15ms.com
   - DOMAIN-SUFFIX,15shu.net
-  - DOMAIN-SUFFIX,15sjw.com
   - DOMAIN-SUFFIX,15tianqi.com
   - DOMAIN-SUFFIX,15wz.com
   - DOMAIN-SUFFIX,15xdd.com
@@ -4033,6 +4033,7 @@ payload:
   - DOMAIN-SUFFIX,52jxt.com
   - DOMAIN-SUFFIX,52jying.com
   - DOMAIN-SUFFIX,52khs.com
+  - DOMAIN-SUFFIX,52klz.com
   - DOMAIN-SUFFIX,52laodong.com
   - DOMAIN-SUFFIX,52liaoshen.com
   - DOMAIN-SUFFIX,52lieshou.com
@@ -10691,7 +10692,6 @@ payload:
   - DOMAIN-SUFFIX,bsjquanwu.com
   - DOMAIN-SUFFIX,bskk.com
   - DOMAIN-SUFFIX,bskuav.com
-  - DOMAIN-SUFFIX,bsl168.com
   - DOMAIN-SUFFIX,bspeizi.com
   - DOMAIN-SUFFIX,bspia.com
   - DOMAIN-SUFFIX,bsrkt.com
@@ -11805,6 +11805,7 @@ payload:
   - DOMAIN-SUFFIX,cecisp.com
   - DOMAIN-SUFFIX,cecloud.com
   - DOMAIN-SUFFIX,cecmath.com
+  - DOMAIN-SUFFIX,cecom.cc
   - DOMAIN-SUFFIX,ceconline.com
   - DOMAIN-SUFFIX,ceconlinebbs.com
   - DOMAIN-SUFFIX,cecport.com
@@ -12369,7 +12370,6 @@ payload:
   - DOMAIN-SUFFIX,chexiaopang.com
   - DOMAIN-SUFFIX,chexinwen.com
   - DOMAIN-SUFFIX,chexiu.com
-  - DOMAIN-SUFFIX,chexiw.com
   - DOMAIN-SUFFIX,chexun.com
   - DOMAIN-SUFFIX,chexun.net
   - DOMAIN-SUFFIX,cheyima.com
@@ -17166,6 +17166,7 @@ payload:
   - DOMAIN-SUFFIX,douyar.com
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinvideo.net
   - DOMAIN-SUFFIX,douyou100.com
   - DOMAIN-SUFFIX,douyu.com
@@ -28350,6 +28351,7 @@ payload:
   - DOMAIN-SUFFIX,jilupianzhijia.com
   - DOMAIN-SUFFIX,jimeng.mobi
   - DOMAIN-SUFFIX,jimi168.com
+  - DOMAIN-SUFFIX,jimicn.com
   - DOMAIN-SUFFIX,jimifashion.com
   - DOMAIN-SUFFIX,jimistore.com
   - DOMAIN-SUFFIX,jimmylv.info
@@ -34177,6 +34179,7 @@ payload:
   - DOMAIN-SUFFIX,mcujl.com
   - DOMAIN-SUFFIX,mculover.com
   - DOMAIN-SUFFIX,mcumonitor.com
+  - DOMAIN-SUFFIX,mcusky.com
   - DOMAIN-SUFFIX,mcuzone.com
   - DOMAIN-SUFFIX,mcuzx.net
   - DOMAIN-SUFFIX,mcwshop.com
@@ -38606,6 +38609,7 @@ payload:
   - DOMAIN-SUFFIX,pjjs2.com
   - DOMAIN-SUFFIX,pjnoi.com
   - DOMAIN-SUFFIX,pjob.net
+  - DOMAIN-SUFFIX,pjrcn.com
   - DOMAIN-SUFFIX,pjtime.com
   - DOMAIN-SUFFIX,pjtx.net
   - DOMAIN-SUFFIX,pjylw.net
@@ -45130,6 +45134,7 @@ payload:
   - DOMAIN-SUFFIX,sydm.hk
   - DOMAIN-SUFFIX,sydw8.com
   - DOMAIN-SUFFIX,sydwzp.com
+  - DOMAIN-SUFFIX,sydzconn.com
   - DOMAIN-SUFFIX,sydzdiy.com
   - DOMAIN-SUFFIX,syebh.com
   - DOMAIN-SUFFIX,syf.ink
@@ -47127,6 +47132,7 @@ payload:
   - DOMAIN-SUFFIX,trndtg.com
   - DOMAIN-SUFFIX,troila.com
   - DOMAIN-SUFFIX,trojx.me
+  - DOMAIN-SUFFIX,tronixin.com
   - DOMAIN-SUFFIX,trsoft.vip
   - DOMAIN-SUFFIX,trsoft.xin
   - DOMAIN-SUFFIX,trsol.com
