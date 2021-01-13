@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU2NDQ4Mwo=
+# Checksum: MTYxMDU3MzY4NAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210113-6
-# TimeUpdated: 2021-01-13T19:01:23+00:00
+# Version: 1.2.9-20210113-7
+# TimeUpdated: 2021-01-13T21:34:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -374,6 +374,7 @@ domain:17916512.cn,
 domain:17mh.app,
 domain:17pps.com,
 domain:17t17p.com,
+domain:17xtv.com,
 domain:18-sex.us,
 domain:18123xz.com,
 domain:1818.net,

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU2NDQ3NAo=
+# Checksum: MTYxMDU3MzY3Ngo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210113-6
-# TimeUpdated: 2021-01-13T19:01:14+00:00
+# Version: 1.2.9-20210113-7
+# TimeUpdated: 2021-01-13T21:34:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1376,7 +1376,6 @@ domain:16dy.com,
 domain:16fan.com,
 domain:16game.net,
 domain:16hyt.com,
-domain:16i.cc,
 domain:16ker.com,
 domain:16lao.com,
 domain:16lo.com,
@@ -8064,7 +8063,6 @@ domain:api.bz,
 domain:api.mobula.sdk.duapps.com,
 domain:api.tuisong.baidu.com,
 domain:api.waptest.taobao.com,
-domain:apiadmin.org,
 domain:apicloud.com,
 domain:apieye.com,
 domain:apigwtencent.com,
@@ -37478,7 +37476,6 @@ domain:ooopic.com,
 domain:ooopn.com,
 domain:ooppoo.com,
 domain:ooxx.me,
-domain:ooxxc.com,
 domain:op86.net,
 domain:opark.com,
 domain:opatseg.com,
@@ -46708,7 +46705,6 @@ domain:tmuyun.com,
 domain:tmwcn.com,
 domain:tmxmall.com,
 domain:tmxxw.com,
-domain:tn2000.com,
 domain:tnbz.com,
 domain:tnet.hk,
 domain:tngcjx.com,

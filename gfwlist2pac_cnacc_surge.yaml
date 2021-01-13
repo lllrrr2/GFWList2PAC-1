@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU2NDQ3NAo=
+# Checksum: MTYxMDU3MzY3Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210113-6
-# TimeUpdated: 2021-01-13T19:01:14+00:00
+# Version: 1.2.9-20210113-7
+# TimeUpdated: 2021-01-13T21:34:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1376,7 +1376,6 @@ DOMAIN-SUFFIX,16dy.com
 DOMAIN-SUFFIX,16fan.com
 DOMAIN-SUFFIX,16game.net
 DOMAIN-SUFFIX,16hyt.com
-DOMAIN-SUFFIX,16i.cc
 DOMAIN-SUFFIX,16ker.com
 DOMAIN-SUFFIX,16lao.com
 DOMAIN-SUFFIX,16lo.com
@@ -8064,7 +8063,6 @@ DOMAIN-SUFFIX,api.bz
 DOMAIN-SUFFIX,api.mobula.sdk.duapps.com
 DOMAIN-SUFFIX,api.tuisong.baidu.com
 DOMAIN-SUFFIX,api.waptest.taobao.com
-DOMAIN-SUFFIX,apiadmin.org
 DOMAIN-SUFFIX,apicloud.com
 DOMAIN-SUFFIX,apieye.com
 DOMAIN-SUFFIX,apigwtencent.com
@@ -37478,7 +37476,6 @@ DOMAIN-SUFFIX,ooopic.com
 DOMAIN-SUFFIX,ooopn.com
 DOMAIN-SUFFIX,ooppoo.com
 DOMAIN-SUFFIX,ooxx.me
-DOMAIN-SUFFIX,ooxxc.com
 DOMAIN-SUFFIX,op86.net
 DOMAIN-SUFFIX,opark.com
 DOMAIN-SUFFIX,opatseg.com
@@ -46708,7 +46705,6 @@ DOMAIN-SUFFIX,tmuyun.com
 DOMAIN-SUFFIX,tmwcn.com
 DOMAIN-SUFFIX,tmxmall.com
 DOMAIN-SUFFIX,tmxxw.com
-DOMAIN-SUFFIX,tn2000.com
 DOMAIN-SUFFIX,tnbz.com
 DOMAIN-SUFFIX,tnet.hk
 DOMAIN-SUFFIX,tngcjx.com
