@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDUxMDE0Mgo=
+# Checksum: MTYxMDUyMDI4Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210113-1
-# TimeUpdated: 2021-01-13T03:55:42+00:00
+# Version: 1.2.9-20210113-2
+# TimeUpdated: 2021-01-13T06:44:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -1508,7 +1508,6 @@ payload:
   - DOMAIN-SUFFIX,17hds.com
   - DOMAIN-SUFFIX,17house.com
   - DOMAIN-SUFFIX,17huang.com
-  - DOMAIN-SUFFIX,17ie.com
   - DOMAIN-SUFFIX,17itou.com
   - DOMAIN-SUFFIX,17ivr.com
   - DOMAIN-SUFFIX,17jiaoyu.com
@@ -6484,7 +6483,6 @@ payload:
   - DOMAIN-SUFFIX,9inx.com
   - DOMAIN-SUFFIX,9iphp.com
   - DOMAIN-SUFFIX,9ishe.com
-  - DOMAIN-SUFFIX,9iyoo.com
   - DOMAIN-SUFFIX,9j9y.com
   - DOMAIN-SUFFIX,9ji.com
   - DOMAIN-SUFFIX,9jiu9jiu.com
@@ -9831,6 +9829,7 @@ payload:
   - DOMAIN-SUFFIX,bingwang.cc
   - DOMAIN-SUFFIX,bingyan.net
   - DOMAIN-SUFFIX,bingyublog.com
+  - DOMAIN-SUFFIX,bingzhilv.com
   - DOMAIN-SUFFIX,binkery.com
   - DOMAIN-SUFFIX,binmt.cc
   - DOMAIN-SUFFIX,binospace.com
@@ -9974,7 +9973,6 @@ payload:
   - DOMAIN-SUFFIX,biwanshequ.com
   - DOMAIN-SUFFIX,bixia.org
   - DOMAIN-SUFFIX,bixiaobai.com
-  - DOMAIN-SUFFIX,bixingxing.com
   - DOMAIN-SUFFIX,bixishang.com
   - DOMAIN-SUFFIX,bixu.cc
   - DOMAIN-SUFFIX,bixu.me
@@ -11094,7 +11092,6 @@ payload:
   - DOMAIN-SUFFIX,cabinetbuy.com
   - DOMAIN-SUFFIX,cableabc.com
   - DOMAIN-SUFFIX,cabling-system.com
-  - DOMAIN-SUFFIX,cabotway.com
   - DOMAIN-SUFFIX,cabplink.com
   - DOMAIN-SUFFIX,cacfo.com
   - DOMAIN-SUFFIX,cacg.cc
@@ -11678,7 +11675,6 @@ payload:
   - DOMAIN-SUFFIX,cdgjbus.com
   - DOMAIN-SUFFIX,cdgjlxs.com
   - DOMAIN-SUFFIX,cdgtw.net
-  - DOMAIN-SUFFIX,cdgyjs.com
   - DOMAIN-SUFFIX,cdh3c.com
   - DOMAIN-SUFFIX,cdhaiguang.com
   - DOMAIN-SUFFIX,cdhfund.com
@@ -12698,7 +12694,6 @@ payload:
   - DOMAIN-SUFFIX,chinahightech.com
   - DOMAIN-SUFFIX,chinahkidc.net
   - DOMAIN-SUFFIX,chinahnjs.com
-  - DOMAIN-SUFFIX,chinahosin.com
   - DOMAIN-SUFFIX,chinahost.org
   - DOMAIN-SUFFIX,chinahotel.com
   - DOMAIN-SUFFIX,chinahpa.org
@@ -12799,7 +12794,6 @@ payload:
   - DOMAIN-SUFFIX,chinaobp.com
   - DOMAIN-SUFFIX,chinaonward.net
   - DOMAIN-SUFFIX,chinaopc.org
-  - DOMAIN-SUFFIX,chinaopple.com
   - DOMAIN-SUFFIX,chinaops.org
   - DOMAIN-SUFFIX,chinaore.com
   - DOMAIN-SUFFIX,chinaosx.com
@@ -17338,6 +17332,7 @@ payload:
   - DOMAIN-SUFFIX,drupalba.com
   - DOMAIN-SUFFIX,drupalla.com
   - DOMAIN-SUFFIX,drupalproject.org
+  - DOMAIN-SUFFIX,drupaluser.org
   - DOMAIN-SUFFIX,drvsky.com
   - DOMAIN-SUFFIX,drwfggc.com
   - DOMAIN-SUFFIX,ds-360.com
