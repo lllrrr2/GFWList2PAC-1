@@ -1,7 +1,7 @@
-# Checksum: MTYxMDUyMDI4Mgo=
+# Checksum: MTYxMDUzMTQ1OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210113-2
-# TimeUpdated: 2021-01-13T06:44:42+00:00
+# Version: 1.2.9-20210113-3
+# TimeUpdated: 2021-01-13T09:50:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -437,7 +437,6 @@ DOMAIN-SUFFIX,0577home.net
 DOMAIN-SUFFIX,0577hr.com
 DOMAIN-SUFFIX,0577qiche.com
 DOMAIN-SUFFIX,0578rencai.com
-DOMAIN-SUFFIX,0579dm.com
 DOMAIN-SUFFIX,0579fw.com
 DOMAIN-SUFFIX,0591job.com
 DOMAIN-SUFFIX,05927.com
@@ -1993,6 +1992,7 @@ DOMAIN-SUFFIX,21vianet.com
 DOMAIN-SUFFIX,21voa.com
 DOMAIN-SUFFIX,21wenju.com
 DOMAIN-SUFFIX,21ww.cc
+DOMAIN-SUFFIX,21xianhua.com
 DOMAIN-SUFFIX,21xuema.com
 DOMAIN-SUFFIX,21yinxiang.com
 DOMAIN-SUFFIX,21yod.com
@@ -2001,7 +2001,6 @@ DOMAIN-SUFFIX,21yunwei.com
 DOMAIN-SUFFIX,21zbs.com
 DOMAIN-SUFFIX,21zixun.com
 DOMAIN-SUFFIX,22-30.com
-DOMAIN-SUFFIX,22-qp.com
 DOMAIN-SUFFIX,2213.com
 DOMAIN-SUFFIX,221400job.com
 DOMAIN-SUFFIX,22145.com
@@ -4997,6 +4996,7 @@ DOMAIN-SUFFIX,6miv.com
 DOMAIN-SUFFIX,6mshuwu.com
 DOMAIN-SUFFIX,6mxs.com
 DOMAIN-SUFFIX,6pifa.net
+DOMAIN-SUFFIX,6play.net
 DOMAIN-SUFFIX,6pmcn.com
 DOMAIN-SUFFIX,6renyou.com
 DOMAIN-SUFFIX,6rooms.com
@@ -10004,7 +10004,6 @@ DOMAIN-SUFFIX,bizconfstreaming.com
 DOMAIN-SUFFIX,bizgame.com
 DOMAIN-SUFFIX,bizhi360.com
 DOMAIN-SUFFIX,bizhidaquan.com
-DOMAIN-SUFFIX,bizhipic.com
 DOMAIN-SUFFIX,bizhitupian.com
 DOMAIN-SUFFIX,bizhongchou.com
 DOMAIN-SUFFIX,biznewscn.com
@@ -10093,7 +10092,6 @@ DOMAIN-SUFFIX,bjgooo.com
 DOMAIN-SUFFIX,bjgtzl.com
 DOMAIN-SUFFIX,bjgujibaohu.com
 DOMAIN-SUFFIX,bjhaiguang.com
-DOMAIN-SUFFIX,bjhchh.com
 DOMAIN-SUFFIX,bjhdnet.com
 DOMAIN-SUFFIX,bjheadline.com
 DOMAIN-SUFFIX,bjhee.com
@@ -12389,7 +12387,6 @@ DOMAIN-SUFFIX,chezizhu.com
 DOMAIN-SUFFIX,chgcis.com
 DOMAIN-SUFFIX,chgjcm.com
 DOMAIN-SUFFIX,chgjedu.com
-DOMAIN-SUFFIX,chgtmy.com
 DOMAIN-SUFFIX,chhblog.com
 DOMAIN-SUFFIX,chhkjob.com
 DOMAIN-SUFFIX,chhua.com
@@ -16438,6 +16435,7 @@ DOMAIN-SUFFIX,diauan.net
 DOMAIN-SUFFIX,diaxue.com
 DOMAIN-SUFFIX,dibaotong.com
 DOMAIN-SUFFIX,dibcn.com
+DOMAIN-SUFFIX,dic123.com
 DOMAIN-SUFFIX,dichan.com
 DOMAIN-SUFFIX,dichanlao.com
 DOMAIN-SUFFIX,dictall.com

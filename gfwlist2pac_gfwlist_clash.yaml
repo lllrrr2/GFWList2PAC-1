@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDUyMDI5MQo=
+# Checksum: MTYxMDUzMTQ2Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210113-2
-# TimeUpdated: 2021-01-13T06:44:51+00:00
+# Version: 1.2.9-20210113-3
+# TimeUpdated: 2021-01-13T09:51:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -922,7 +922,6 @@ payload:
   - DOMAIN-SUFFIX,3pi3t.j5.biz.tm
   - DOMAIN-SUFFIX,3proxy.de
   - DOMAIN-SUFFIX,3proxy.ru
-  - DOMAIN-SUFFIX,3rat.com
   - DOMAIN-SUFFIX,3ren.blog
   - DOMAIN-SUFFIX,3ren.ca
   - DOMAIN-SUFFIX,3ruwl5q.x.incapdns.net
@@ -1854,7 +1853,6 @@ payload:
   - DOMAIN-SUFFIX,99xx.com
   - DOMAIN-SUFFIX,9aaa2.com
   - DOMAIN-SUFFIX,9abd1.com
-  - DOMAIN-SUFFIX,9ach1.com
   - DOMAIN-SUFFIX,9acy1.com
   - DOMAIN-SUFFIX,9adk1.com
   - DOMAIN-SUFFIX,9afcp.com
@@ -5006,6 +5004,7 @@ payload:
   - DOMAIN-SUFFIX,bm1104.com
   - DOMAIN-SUFFIX,bm505.cc
   - DOMAIN-SUFFIX,bm919.com
+  - DOMAIN-SUFFIX,bm969.com
   - DOMAIN-SUFFIX,bmd5.com
   - DOMAIN-SUFFIX,bmfinn.com
   - DOMAIN-SUFFIX,bmgj777vip.com

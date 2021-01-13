@@ -1,7 +1,7 @@
-# Checksum: MTYxMDUyMDI5MQo=
+# Checksum: MTYxMDUzMTQ2Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210113-2
-# TimeUpdated: 2021-01-13T06:44:51+00:00
+# Version: 1.2.9-20210113-3
+# TimeUpdated: 2021-01-13T09:51:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -921,7 +921,6 @@ domain:3pforum.com,
 domain:3pi3t.j5.biz.tm,
 domain:3proxy.de,
 domain:3proxy.ru,
-domain:3rat.com,
 domain:3ren.blog,
 domain:3ren.ca,
 domain:3ruwl5q.x.incapdns.net,
@@ -1853,7 +1852,6 @@ domain:99xtv.cc,
 domain:99xx.com,
 domain:9aaa2.com,
 domain:9abd1.com,
-domain:9ach1.com,
 domain:9acy1.com,
 domain:9adk1.com,
 domain:9afcp.com,
@@ -5005,6 +5003,7 @@ domain:bm-feichtinger.at,
 domain:bm1104.com,
 domain:bm505.cc,
 domain:bm919.com,
+domain:bm969.com,
 domain:bmd5.com,
 domain:bmfinn.com,
 domain:bmgj777vip.com,
