@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU1MjE4NQo=
+# Checksum: MTYxMDU2NDQ3NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210113-5
-# TimeUpdated: 2021-01-13T15:36:25+00:00
+# Version: 1.2.9-20210113-6
+# TimeUpdated: 2021-01-13T19:01:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -363,7 +363,6 @@ DOMAIN-SUFFIX,0513.cc
 DOMAIN-SUFFIX,0513.net
 DOMAIN-SUFFIX,0513.org
 DOMAIN-SUFFIX,0513011.com
-DOMAIN-SUFFIX,0513qh.com
 DOMAIN-SUFFIX,0513syedu.com
 DOMAIN-SUFFIX,0514rj.com
 DOMAIN-SUFFIX,0515auto.com
@@ -4751,7 +4750,6 @@ DOMAIN-SUFFIX,629600.com
 DOMAIN-SUFFIX,629kf.com
 DOMAIN-SUFFIX,62a.net
 DOMAIN-SUFFIX,62ma.com
-DOMAIN-SUFFIX,62r5.com
 DOMAIN-SUFFIX,630book.cc
 DOMAIN-SUFFIX,630book.com
 DOMAIN-SUFFIX,630ksw.com
@@ -9537,7 +9535,6 @@ DOMAIN-SUFFIX,besticity.com
 DOMAIN-SUFFIX,bestinwo.com
 DOMAIN-SUFFIX,bestjimmy.com
 DOMAIN-SUFFIX,bestlee.net
-DOMAIN-SUFFIX,bestmemorymaster.net
 DOMAIN-SUFFIX,bestopview.com
 DOMAIN-SUFFIX,bestqliang.com
 DOMAIN-SUFFIX,bestsapchina.com
@@ -9803,6 +9800,7 @@ DOMAIN-SUFFIX,billwang.net
 DOMAIN-SUFFIX,bim99.org
 DOMAIN-SUFFIX,bimcn.org
 DOMAIN-SUFFIX,bimo.cc
+DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binbinyl.com
 DOMAIN-SUFFIX,bincailiuxue.com
 DOMAIN-SUFFIX,binfenyingyu.com
@@ -11306,7 +11304,6 @@ DOMAIN-SUFFIX,caoxudong.info
 DOMAIN-SUFFIX,caoyudong.com
 DOMAIN-SUFFIX,capillarytech-cn.com
 DOMAIN-SUFFIX,capitalcloud.net
-DOMAIN-SUFFIX,capitalfarmer.com
 DOMAIN-SUFFIX,capitalonline.net
 DOMAIN-SUFFIX,capjoy.com
 DOMAIN-SUFFIX,cappchem.com
@@ -11677,7 +11674,6 @@ DOMAIN-SUFFIX,cdhaiguang.com
 DOMAIN-SUFFIX,cdhfund.com
 DOMAIN-SUFFIX,cdhongfu.com
 DOMAIN-SUFFIX,cdhulan.com
-DOMAIN-SUFFIX,cdili.com
 DOMAIN-SUFFIX,cdjingfeng.com
 DOMAIN-SUFFIX,cdjinpeng.com
 DOMAIN-SUFFIX,cdjnrc.com
@@ -12685,7 +12681,6 @@ DOMAIN-SUFFIX,chinaham.com
 DOMAIN-SUFFIX,chinahao.com
 DOMAIN-SUFFIX,chinaharp.com
 DOMAIN-SUFFIX,chinahbnet.com
-DOMAIN-SUFFIX,chinahhmm.com
 DOMAIN-SUFFIX,chinahightech.com
 DOMAIN-SUFFIX,chinahkidc.net
 DOMAIN-SUFFIX,chinahnjs.com
@@ -37483,6 +37478,7 @@ DOMAIN-SUFFIX,ooopic.com
 DOMAIN-SUFFIX,ooopn.com
 DOMAIN-SUFFIX,ooppoo.com
 DOMAIN-SUFFIX,ooxx.me
+DOMAIN-SUFFIX,ooxxc.com
 DOMAIN-SUFFIX,op86.net
 DOMAIN-SUFFIX,opark.com
 DOMAIN-SUFFIX,opatseg.com
@@ -46712,6 +46708,7 @@ DOMAIN-SUFFIX,tmuyun.com
 DOMAIN-SUFFIX,tmwcn.com
 DOMAIN-SUFFIX,tmxmall.com
 DOMAIN-SUFFIX,tmxxw.com
+DOMAIN-SUFFIX,tn2000.com
 DOMAIN-SUFFIX,tnbz.com
 DOMAIN-SUFFIX,tnet.hk
 DOMAIN-SUFFIX,tngcjx.com
