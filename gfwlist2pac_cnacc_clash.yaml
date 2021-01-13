@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDU0MjA4MAo=
+# Checksum: MTYxMDU1MjE4NQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210113-4
-# TimeUpdated: 2021-01-13T12:48:00+00:00
+# Version: 1.2.9-20210113-5
+# TimeUpdated: 2021-01-13T15:36:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -684,7 +684,6 @@ payload:
   - DOMAIN-SUFFIX,0y856.com
   - DOMAIN-SUFFIX,1-111-1.com
   - DOMAIN-SUFFIX,1-123.com
-  - DOMAIN-SUFFIX,1-b.tc
   - DOMAIN-SUFFIX,1-cs.net
   - DOMAIN-SUFFIX,1-du.net
   - DOMAIN-SUFFIX,1.cms.s81c.com
@@ -2037,6 +2036,7 @@ payload:
   - DOMAIN-SUFFIX,22edu.com
   - DOMAIN-SUFFIX,22ff.com
   - DOMAIN-SUFFIX,22ff.org
+  - DOMAIN-SUFFIX,22hd.com
   - DOMAIN-SUFFIX,22hyk.com
   - DOMAIN-SUFFIX,22ja.com
   - DOMAIN-SUFFIX,22k9.com
@@ -11983,7 +11983,6 @@ payload:
   - DOMAIN-SUFFIX,cguwan.com
   - DOMAIN-SUFFIX,cgvxingx-zhongjie.com
   - DOMAIN-SUFFIX,cgwang.com
-  - DOMAIN-SUFFIX,cgwfx.com
   - DOMAIN-SUFFIX,cgwic.com
   - DOMAIN-SUFFIX,cgxc.cc
   - DOMAIN-SUFFIX,cgxia.com
@@ -17166,7 +17165,6 @@ payload:
   - DOMAIN-SUFFIX,douyar.com
   - DOMAIN-SUFFIX,douyin.com
   - DOMAIN-SUFFIX,douyincdn.com
-  - DOMAIN-SUFFIX,douyinpic.com
   - DOMAIN-SUFFIX,douyinvideo.net
   - DOMAIN-SUFFIX,douyou100.com
   - DOMAIN-SUFFIX,douyu.com

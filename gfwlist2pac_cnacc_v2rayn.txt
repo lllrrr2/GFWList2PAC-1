@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU0MjA4MAo=
+# Checksum: MTYxMDU1MjE4NQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210113-4
-# TimeUpdated: 2021-01-13T12:48:00+00:00
+# Version: 1.2.9-20210113-5
+# TimeUpdated: 2021-01-13T15:36:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -683,7 +683,6 @@ domain:0xue.com,
 domain:0y856.com,
 domain:1-111-1.com,
 domain:1-123.com,
-domain:1-b.tc,
 domain:1-cs.net,
 domain:1-du.net,
 domain:1.cms.s81c.com,
@@ -2036,6 +2035,7 @@ domain:22dm.com,
 domain:22edu.com,
 domain:22ff.com,
 domain:22ff.org,
+domain:22hd.com,
 domain:22hyk.com,
 domain:22ja.com,
 domain:22k9.com,
@@ -11982,7 +11982,6 @@ domain:cguiw.com,
 domain:cguwan.com,
 domain:cgvxingx-zhongjie.com,
 domain:cgwang.com,
-domain:cgwfx.com,
 domain:cgwic.com,
 domain:cgxc.cc,
 domain:cgxia.com,
@@ -17165,7 +17164,6 @@ domain:douyapu.com,
 domain:douyar.com,
 domain:douyin.com,
 domain:douyincdn.com,
-domain:douyinpic.com,
 domain:douyinvideo.net,
 domain:douyou100.com,
 domain:douyu.com,
