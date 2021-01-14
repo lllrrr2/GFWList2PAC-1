@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY1MDYxNwo=
+# Checksum: MTYxMDY1OTg1OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210114-6
-# TimeUpdated: 2021-01-14T18:56:57+00:00
+# Version: 1.2.9-20210114-7
+# TimeUpdated: 2021-01-14T21:30:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6458,6 +6458,7 @@ domain:9first.com,
 domain:9fs.com,
 domain:9g.com,
 domain:9game.cn,
+domain:9gaoding.com,
 domain:9gty.net,
 domain:9gui.net,
 domain:9hcom.com,
@@ -9293,7 +9294,6 @@ domain:bdfzcd.net,
 domain:bdgns.com,
 domain:bdhuakan.com,
 domain:bdi.pub,
-domain:bdicd.com,
 domain:bdimg.com,
 domain:bdimg.share.baidu.com,
 domain:bdinfo.net,
@@ -11380,7 +11380,6 @@ domain:cbdjrsh.org,
 domain:cbe21.com,
 domain:cbea.com,
 domain:cbec365.com,
-domain:cbecforum.com,
 domain:cbes21.com,
 domain:cbevent.com,
 domain:cbex.com,
@@ -33685,6 +33684,7 @@ domain:magicwatchface.com,
 domain:magicwinmail.com,
 domain:magicyourlife101.com,
 domain:magnoliaav.com.cn,
+domain:magook.com,
 domain:maguang.net,
 domain:magvision.com,
 domain:mahetao.org,

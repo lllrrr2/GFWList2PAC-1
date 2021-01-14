@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY1MDYxNwo=
+# Checksum: MTYxMDY1OTg1OQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210114-6
-# TimeUpdated: 2021-01-14T18:56:57+00:00
+# Version: 1.2.9-20210114-7
+# TimeUpdated: 2021-01-14T21:30:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6458,6 +6458,7 @@ DOMAIN-SUFFIX,9first.com
 DOMAIN-SUFFIX,9fs.com
 DOMAIN-SUFFIX,9g.com
 DOMAIN-SUFFIX,9game.cn
+DOMAIN-SUFFIX,9gaoding.com
 DOMAIN-SUFFIX,9gty.net
 DOMAIN-SUFFIX,9gui.net
 DOMAIN-SUFFIX,9hcom.com
@@ -9293,7 +9294,6 @@ DOMAIN-SUFFIX,bdfzcd.net
 DOMAIN-SUFFIX,bdgns.com
 DOMAIN-SUFFIX,bdhuakan.com
 DOMAIN-SUFFIX,bdi.pub
-DOMAIN-SUFFIX,bdicd.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdimg.share.baidu.com
 DOMAIN-SUFFIX,bdinfo.net
@@ -11380,7 +11380,6 @@ DOMAIN-SUFFIX,cbdjrsh.org
 DOMAIN-SUFFIX,cbe21.com
 DOMAIN-SUFFIX,cbea.com
 DOMAIN-SUFFIX,cbec365.com
-DOMAIN-SUFFIX,cbecforum.com
 DOMAIN-SUFFIX,cbes21.com
 DOMAIN-SUFFIX,cbevent.com
 DOMAIN-SUFFIX,cbex.com
@@ -33685,6 +33684,7 @@ DOMAIN-SUFFIX,magicwatchface.com
 DOMAIN-SUFFIX,magicwinmail.com
 DOMAIN-SUFFIX,magicyourlife101.com
 DOMAIN-SUFFIX,magnoliaav.com.cn
+DOMAIN-SUFFIX,magook.com
 DOMAIN-SUFFIX,maguang.net
 DOMAIN-SUFFIX,magvision.com
 DOMAIN-SUFFIX,mahetao.org

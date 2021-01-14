@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY1MDYyNQo=
+# Checksum: MTYxMDY1OTg2Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210114-6
-# TimeUpdated: 2021-01-14T18:57:05+00:00
+# Version: 1.2.9-20210114-7
+# TimeUpdated: 2021-01-14T21:31:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1849,7 +1849,6 @@ domain:99xin6.com,
 domain:99xtv.cc,
 domain:99xx.com,
 domain:9aaa2.com,
-domain:9abd1.com,
 domain:9acy1.com,
 domain:9adk1.com,
 domain:9afcp.com,
@@ -8796,6 +8795,7 @@ domain:dsdv001.com,
 domain:dslady.com,
 domain:dsmtp.com,
 domain:dsn00.co,
+domain:dsn01.co,
 domain:dsn02.co,
 domain:dsn05.co,
 domain:dsn105.com,
