@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDYyODUwNQo=
+# Checksum: MTYxMDYzODU1OAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210114-4
-# TimeUpdated: 2021-01-14T12:48:25+00:00
+# Version: 1.2.9-20210114-5
+# TimeUpdated: 2021-01-14T15:35:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -16428,6 +16428,7 @@ payload:
   - DOMAIN-SUFFIX,didialift.com
   - DOMAIN-SUFFIX,didiapp.com
   - DOMAIN-SUFFIX,didiaustralia.blog
+  - DOMAIN-SUFFIX,didichuxing.com
   - DOMAIN-SUFFIX,dididadidi.com
   - DOMAIN-SUFFIX,dididapiao.com
   - DOMAIN-SUFFIX,didiglobal.com

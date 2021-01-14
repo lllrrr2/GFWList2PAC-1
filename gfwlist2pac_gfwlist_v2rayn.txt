@@ -1,7 +1,7 @@
-# Checksum: MTYxMDYyODUxMgo=
+# Checksum: MTYxMDYzODU2Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210114-4
-# TimeUpdated: 2021-01-14T12:48:32+00:00
+# Version: 1.2.9-20210114-5
+# TimeUpdated: 2021-01-14T15:36:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -362,7 +362,6 @@ domain:176ff.net,
 domain:176iii.net,
 domain:176www.net,
 domain:17750099.com,
-domain:1775aa.com,
 domain:1775gg.com,
 domain:1775hh.com,
 domain:1775qq.com,
@@ -1607,6 +1606,7 @@ domain:88838333.com,
 domain:88857.org,
 domain:888888xh.com,
 domain:8888boma365.com,
+domain:888bifa.com,
 domain:888diao.com,
 domain:888funcity.com,
 domain:888funcity.net,
