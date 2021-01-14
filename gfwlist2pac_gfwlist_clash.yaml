@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDU5Njg0Mwo=
+# Checksum: MTYxMDYwNjkzMgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210114-1
-# TimeUpdated: 2021-01-14T04:00:43+00:00
+# Version: 1.2.9-20210114-2
+# TimeUpdated: 2021-01-14T06:48:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1397,6 +1397,7 @@ payload:
   - DOMAIN-SUFFIX,737bm.com
   - DOMAIN-SUFFIX,738bm.com
   - DOMAIN-SUFFIX,73999.02322.cc
+  - DOMAIN-SUFFIX,73999z.com
   - DOMAIN-SUFFIX,73m4v.x.incapdns.net
   - DOMAIN-SUFFIX,742919.com
   - DOMAIN-SUFFIX,744.flnet.org
@@ -18258,7 +18259,6 @@ payload:
   - DOMAIN-SUFFIX,mygalgame.com
   - DOMAIN-SUFFIX,mygaysites.com
   - DOMAIN-SUFFIX,mygod.firebaseio.com
-  - DOMAIN-SUFFIX,mygod.tk
   - DOMAIN-SUFFIX,mygraybar.graybar.com
   - DOMAIN-SUFFIX,mygsi.gr
   - DOMAIN-SUFFIX,myguide.hk
