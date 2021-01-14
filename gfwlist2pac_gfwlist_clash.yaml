@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDU4Nzg4Mgo=
+# Checksum: MTYxMDU5Njg0Mwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210114-0
-# TimeUpdated: 2021-01-14T01:31:22+00:00
+# Version: 1.2.9-20210114-1
+# TimeUpdated: 2021-01-14T04:00:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5136,6 +5136,7 @@ payload:
   - DOMAIN-SUFFIX,bmw-motorrad.dz
   - DOMAIN-SUFFIX,bmw-motorrad.ec
   - DOMAIN-SUFFIX,bmw-motorrad.ee
+  - DOMAIN-SUFFIX,bmw-motorrad.es
   - DOMAIN-SUFFIX,bmw-motorrad.fi
   - DOMAIN-SUFFIX,bmw-motorrad.fr
   - DOMAIN-SUFFIX,bmw-motorrad.gr
@@ -9590,6 +9591,7 @@ payload:
   - DOMAIN-SUFFIX,ensel.com.ar
   - DOMAIN-SUFFIX,enspireformula.com
   - DOMAIN-SUFFIX,enteentegeh.de
+  - DOMAIN-SUFFIX,enter1.avbody.tv
   - DOMAIN-SUFFIX,entermap.com
   - DOMAIN-SUFFIX,entermediadb.net
   - DOMAIN-SUFFIX,entermediadb.org
@@ -18256,6 +18258,7 @@ payload:
   - DOMAIN-SUFFIX,mygalgame.com
   - DOMAIN-SUFFIX,mygaysites.com
   - DOMAIN-SUFFIX,mygod.firebaseio.com
+  - DOMAIN-SUFFIX,mygod.tk
   - DOMAIN-SUFFIX,mygraybar.graybar.com
   - DOMAIN-SUFFIX,mygsi.gr
   - DOMAIN-SUFFIX,myguide.hk

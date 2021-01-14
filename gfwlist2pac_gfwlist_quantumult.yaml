@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU4Nzg4Mgo=
+# Checksum: MTYxMDU5Njg0Mwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210114-0
-# TimeUpdated: 2021-01-14T01:31:22+00:00
+# Version: 1.2.9-20210114-1
+# TimeUpdated: 2021-01-14T04:00:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -5135,6 +5135,7 @@ DOMAIN-SUFFIX,bmw-motorrad.dk,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.dz,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.ec,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.ee,PROXY
+DOMAIN-SUFFIX,bmw-motorrad.es,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.fi,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.fr,PROXY
 DOMAIN-SUFFIX,bmw-motorrad.gr,PROXY
@@ -9589,6 +9590,7 @@ DOMAIN-SUFFIX,enpirion.com,PROXY
 DOMAIN-SUFFIX,ensel.com.ar,PROXY
 DOMAIN-SUFFIX,enspireformula.com,PROXY
 DOMAIN-SUFFIX,enteentegeh.de,PROXY
+DOMAIN-SUFFIX,enter1.avbody.tv,PROXY
 DOMAIN-SUFFIX,entermap.com,PROXY
 DOMAIN-SUFFIX,entermediadb.net,PROXY
 DOMAIN-SUFFIX,entermediadb.org,PROXY
@@ -18255,6 +18257,7 @@ DOMAIN-SUFFIX,myfxcm.com,PROXY
 DOMAIN-SUFFIX,mygalgame.com,PROXY
 DOMAIN-SUFFIX,mygaysites.com,PROXY
 DOMAIN-SUFFIX,mygod.firebaseio.com,PROXY
+DOMAIN-SUFFIX,mygod.tk,PROXY
 DOMAIN-SUFFIX,mygraybar.graybar.com,PROXY
 DOMAIN-SUFFIX,mygsi.gr,PROXY
 DOMAIN-SUFFIX,myguide.hk,PROXY

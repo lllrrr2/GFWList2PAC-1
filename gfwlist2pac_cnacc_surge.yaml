@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU4Nzg3NAo=
+# Checksum: MTYxMDU5NjgzNAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210114-0
-# TimeUpdated: 2021-01-14T01:31:14+00:00
+# Version: 1.2.9-20210114-1
+# TimeUpdated: 2021-01-14T04:00:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2349,7 +2349,6 @@ DOMAIN-SUFFIX,2w.cm
 DOMAIN-SUFFIX,2weima.com
 DOMAIN-SUFFIX,2xbinh.com
 DOMAIN-SUFFIX,2xiazai.com
-DOMAIN-SUFFIX,2y2r.org
 DOMAIN-SUFFIX,2y9y.com
 DOMAIN-SUFFIX,2yuanma.com
 DOMAIN-SUFFIX,2yun.com
@@ -10156,7 +10155,6 @@ DOMAIN-SUFFIX,bjmti.com
 DOMAIN-SUFFIX,bjnaxl.com
 DOMAIN-SUFFIX,bjnsr.com
 DOMAIN-SUFFIX,bjornfromsweden.com
-DOMAIN-SUFFIX,bjp321.com
 DOMAIN-SUFFIX,bjpanzisheying.com
 DOMAIN-SUFFIX,bjpengyi.com
 DOMAIN-SUFFIX,bjpowernode.com
@@ -10955,7 +10953,6 @@ DOMAIN-SUFFIX,bysb.net
 DOMAIN-SUFFIX,byshr.com
 DOMAIN-SUFFIX,bysj999.com
 DOMAIN-SUFFIX,bysocket.com
-DOMAIN-SUFFIX,byt2011.com
 DOMAIN-SUFFIX,byte.online
 DOMAIN-SUFFIX,bytebye.com
 DOMAIN-SUFFIX,bytecdn.cn
@@ -11407,7 +11404,6 @@ DOMAIN-SUFFIX,cbnmall.com
 DOMAIN-SUFFIX,cbnri.org
 DOMAIN-SUFFIX,cbnweek.com
 DOMAIN-SUFFIX,cboad.com
-DOMAIN-SUFFIX,cbpjw.net
 DOMAIN-SUFFIX,cbrex.com
 DOMAIN-SUFFIX,cbskc.com
 DOMAIN-SUFFIX,cbsrc.com
@@ -12740,7 +12736,6 @@ DOMAIN-SUFFIX,chinalive.com
 DOMAIN-SUFFIX,chinalongmai.net
 DOMAIN-SUFFIX,chinalsjt.com
 DOMAIN-SUFFIX,chinalubricant.com
-DOMAIN-SUFFIX,chinalure.com
 DOMAIN-SUFFIX,chinalushan.com
 DOMAIN-SUFFIX,chinalxnet.com
 DOMAIN-SUFFIX,chinamae.com
@@ -16894,6 +16889,7 @@ DOMAIN-SUFFIX,dnsv1.net
 DOMAIN-SUFFIX,dnsv2.com
 DOMAIN-SUFFIX,dnsv3.com
 DOMAIN-SUFFIX,dnsv4.com
+DOMAIN-SUFFIX,dnsv5.com
 DOMAIN-SUFFIX,dnswind.net
 DOMAIN-SUFFIX,dnszh.com
 DOMAIN-SUFFIX,dnwx.com
