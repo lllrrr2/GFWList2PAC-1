@@ -1,7 +1,7 @@
-# Checksum: MTYxMDYwNjkyMwo=
+# Checksum: MTYxMDYxNzk2NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210114-2
-# TimeUpdated: 2021-01-14T06:48:43+00:00
+# Version: 1.2.9-20210114-3
+# TimeUpdated: 2021-01-14T09:52:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2175,7 +2175,6 @@ domain:25xt.com,
 domain:25yi.com,
 domain:25yz.com,
 domain:260.net,
-domain:260pk.com,
 domain:261340.com,
 domain:263.com,
 domain:263.net,
@@ -9367,7 +9366,6 @@ domain:beeweart.com,
 domain:bego.cc,
 domain:begowin.com,
 domain:begup.com,
-domain:begzkj.com,
 domain:behake.com,
 domain:behance.ltd,
 domain:bei1688.com,
@@ -10743,7 +10741,6 @@ domain:bthzh.com,
 domain:btime.com,
 domain:btiyu.com,
 domain:btjia.com,
-domain:btjyjs.com,
 domain:btmao.cc,
 domain:btmeiju.com,
 domain:btnotes.com,
