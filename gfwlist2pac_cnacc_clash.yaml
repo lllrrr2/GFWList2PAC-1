@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDYxNzk2NAo=
+# Checksum: MTYxMDYyODUwNQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210114-3
-# TimeUpdated: 2021-01-14T09:52:44+00:00
+# Version: 1.2.9-20210114-4
+# TimeUpdated: 2021-01-14T12:48:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -8651,7 +8651,6 @@ payload:
   - DOMAIN-SUFFIX,azooo.com
   - DOMAIN-SUFFIX,azoyacdn.com
   - DOMAIN-SUFFIX,azoyagroup.com
-  - DOMAIN-SUFFIX,azteccup.com
   - DOMAIN-SUFFIX,azure.cn
   - DOMAIN-SUFFIX,azurew.com
   - DOMAIN-SUFFIX,azureyun.com
@@ -11023,7 +11022,6 @@ payload:
   - DOMAIN-SUFFIX,c1s.com
   - DOMAIN-SUFFIX,c2h4.org
   - DOMAIN-SUFFIX,c32375.com
-  - DOMAIN-SUFFIX,c32869.com
   - DOMAIN-SUFFIX,c360dn.com
   - DOMAIN-SUFFIX,c366.com
   - DOMAIN-SUFFIX,c3acg.com
@@ -12331,7 +12329,6 @@ payload:
   - DOMAIN-SUFFIX,cheredian.com
   - DOMAIN-SUFFIX,cherongzi.com
   - DOMAIN-SUFFIX,cherriespie.com
-  - DOMAIN-SUFFIX,cherrytips.com
   - DOMAIN-SUFFIX,cheshi-img.com
   - DOMAIN-SUFFIX,cheshi.com
   - DOMAIN-SUFFIX,cheshirex.com
@@ -12499,7 +12496,6 @@ payload:
   - DOMAIN-SUFFIX,china35.com
   - DOMAIN-SUFFIX,china356.com
   - DOMAIN-SUFFIX,china360.net
-  - DOMAIN-SUFFIX,china3gpp.com
   - DOMAIN-SUFFIX,china4a.org
   - DOMAIN-SUFFIX,china50plus.com
   - DOMAIN-SUFFIX,china5e.com
@@ -28088,6 +28084,7 @@ payload:
   - DOMAIN-SUFFIX,jiangxiz.com
   - DOMAIN-SUFFIX,jiangyuesong.me
   - DOMAIN-SUFFIX,jiangzi.com
+  - DOMAIN-SUFFIX,jianhaobao.com
   - DOMAIN-SUFFIX,jianhe.tk
   - DOMAIN-SUFFIX,jianhen.net
   - DOMAIN-SUFFIX,jianhui.org
@@ -39243,6 +39240,7 @@ payload:
   - DOMAIN-SUFFIX,q6u.com
   - DOMAIN-SUFFIX,q8q7.com
   - DOMAIN-SUFFIX,qacn.net
+  - DOMAIN-SUFFIX,qajypx.com
   - DOMAIN-SUFFIX,qalex.com
   - DOMAIN-SUFFIX,qaqgame.com
   - DOMAIN-SUFFIX,qas4x8cw.com
