@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU3MzY4NAo=
+# Checksum: MTYxMDU4Nzg4Mgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210113-7
-# TimeUpdated: 2021-01-13T21:34:44+00:00
+# Version: 1.2.9-20210114-0
+# TimeUpdated: 2021-01-14T01:31:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -77,7 +77,6 @@ domain:02afcp.com,
 domain:030buy.com,
 domain:030xpj.com,
 domain:032006.com,
-domain:0320138.com,
 domain:0328c.com,
 domain:0328x.com,
 domain:0328z.com,
@@ -683,7 +682,6 @@ domain:26.suroot.com,
 domain:26268.com,
 domain:263xx.com,
 domain:2646.com,
-domain:2646k.com,
 domain:265vip.com,
 domain:266.etowns.org,
 domain:266248.com,
@@ -1642,7 +1640,6 @@ domain:88xjb.com,
 domain:89-64.org,
 domain:89.64.charter.constitutionalism.solutions,
 domain:89.flnet.org,
-domain:8916802.com,
 domain:8916822.com,
 domain:8964.in,
 domain:8964.xyz,
@@ -4868,6 +4865,7 @@ domain:blogspot.cl,
 domain:blogspot.co.at,
 domain:blogspot.co.id,
 domain:blogspot.co.il,
+domain:blogspot.co.ke,
 domain:blogspot.co.nz,
 domain:blogspot.co.uk,
 domain:blogspot.co.za,

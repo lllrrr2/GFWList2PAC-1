@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU3MzY3Ngo=
+# Checksum: MTYxMDU4Nzg3NAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210113-7
-# TimeUpdated: 2021-01-13T21:34:36+00:00
+# Version: 1.2.9-20210114-0
+# TimeUpdated: 2021-01-14T01:31:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -198,7 +198,6 @@ DOMAIN-SUFFIX,0245.org
 DOMAIN-SUFFIX,024888.net
 DOMAIN-SUFFIX,02489.com
 DOMAIN-SUFFIX,024anfang.com
-DOMAIN-SUFFIX,024aosite.com
 DOMAIN-SUFFIX,024bj.com
 DOMAIN-SUFFIX,024bxkj.com
 DOMAIN-SUFFIX,024eps.com
@@ -2027,7 +2026,6 @@ DOMAIN-SUFFIX,228445.com
 DOMAIN-SUFFIX,2288.org
 DOMAIN-SUFFIX,2295.com
 DOMAIN-SUFFIX,2298.com
-DOMAIN-SUFFIX,22ab.com
 DOMAIN-SUFFIX,22baobei.com
 DOMAIN-SUFFIX,22dm.com
 DOMAIN-SUFFIX,22edu.com
@@ -10493,7 +10491,6 @@ DOMAIN-SUFFIX,bokon.net
 DOMAIN-SUFFIX,bol-system.com
 DOMAIN-SUFFIX,bolanjr.com
 DOMAIN-SUFFIX,bolead.com
-DOMAIN-SUFFIX,boledir.com
 DOMAIN-SUFFIX,bolejiang.com
 DOMAIN-SUFFIX,bolianpro.com
 DOMAIN-SUFFIX,bolijob.com
@@ -16895,6 +16892,7 @@ DOMAIN-SUFFIX,dnsurl.net
 DOMAIN-SUFFIX,dnsv1.com
 DOMAIN-SUFFIX,dnsv1.net
 DOMAIN-SUFFIX,dnsv2.com
+DOMAIN-SUFFIX,dnsv3.com
 DOMAIN-SUFFIX,dnsv4.com
 DOMAIN-SUFFIX,dnswind.net
 DOMAIN-SUFFIX,dnszh.com
@@ -27795,6 +27793,7 @@ DOMAIN-SUFFIX,jd-bbs.com
 DOMAIN-SUFFIX,jd-df.com
 DOMAIN-SUFFIX,jd-fm.com
 DOMAIN-SUFFIX,jd-tv.com
+DOMAIN-SUFFIX,jd.cn
 DOMAIN-SUFFIX,jd.co
 DOMAIN-SUFFIX,jd.co.th
 DOMAIN-SUFFIX,jd.com

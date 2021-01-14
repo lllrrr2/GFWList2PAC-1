@@ -1,7 +1,7 @@
-# Checksum: MTYxMDU3MzY3Ngo=
+# Checksum: MTYxMDU4Nzg3NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210113-7
-# TimeUpdated: 2021-01-13T21:34:36+00:00
+# Version: 1.2.9-20210114-0
+# TimeUpdated: 2021-01-14T01:31:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -198,7 +198,6 @@ domain:0245.org,
 domain:024888.net,
 domain:02489.com,
 domain:024anfang.com,
-domain:024aosite.com,
 domain:024bj.com,
 domain:024bxkj.com,
 domain:024eps.com,
@@ -2027,7 +2026,6 @@ domain:228445.com,
 domain:2288.org,
 domain:2295.com,
 domain:2298.com,
-domain:22ab.com,
 domain:22baobei.com,
 domain:22dm.com,
 domain:22edu.com,
@@ -10493,7 +10491,6 @@ domain:bokon.net,
 domain:bol-system.com,
 domain:bolanjr.com,
 domain:bolead.com,
-domain:boledir.com,
 domain:bolejiang.com,
 domain:bolianpro.com,
 domain:bolijob.com,
@@ -16895,6 +16892,7 @@ domain:dnsurl.net,
 domain:dnsv1.com,
 domain:dnsv1.net,
 domain:dnsv2.com,
+domain:dnsv3.com,
 domain:dnsv4.com,
 domain:dnswind.net,
 domain:dnszh.com,
@@ -27795,6 +27793,7 @@ domain:jd-bbs.com,
 domain:jd-df.com,
 domain:jd-fm.com,
 domain:jd-tv.com,
+domain:jd.cn,
 domain:jd.co,
 domain:jd.co.th,
 domain:jd.com,
