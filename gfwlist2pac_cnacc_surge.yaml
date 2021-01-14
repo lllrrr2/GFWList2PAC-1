@@ -1,7 +1,7 @@
-# Checksum: MTYxMDYzODU1OAo=
+# Checksum: MTYxMDY1MDYxNwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210114-5
-# TimeUpdated: 2021-01-14T15:35:58+00:00
+# Version: 1.2.9-20210114-6
+# TimeUpdated: 2021-01-14T18:56:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -571,6 +571,7 @@ DOMAIN-SUFFIX,07818ff.com
 DOMAIN-SUFFIX,0791jxhw.com
 DOMAIN-SUFFIX,0791look.com
 DOMAIN-SUFFIX,0791quanquan.com
+DOMAIN-SUFFIX,0791zihai.com
 DOMAIN-SUFFIX,0792jj.net
 DOMAIN-SUFFIX,0792u.com
 DOMAIN-SUFFIX,0797rs.com
@@ -6345,7 +6346,6 @@ DOMAIN-SUFFIX,9955993.com
 DOMAIN-SUFFIX,995jz.com
 DOMAIN-SUFFIX,996.com
 DOMAIN-SUFFIX,996.pm
-DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,9966333.com
 DOMAIN-SUFFIX,9966w.com
 DOMAIN-SUFFIX,996a.com
@@ -10894,7 +10894,6 @@ DOMAIN-SUFFIX,bxb2b.com
 DOMAIN-SUFFIX,bxd365.com
 DOMAIN-SUFFIX,bxdaka.com
 DOMAIN-SUFFIX,bxdlkj.com
-DOMAIN-SUFFIX,bxdoctor.com
 DOMAIN-SUFFIX,bxgfw.com
 DOMAIN-SUFFIX,bxgjyc.com
 DOMAIN-SUFFIX,bxgtd.com
@@ -13641,6 +13640,7 @@ DOMAIN-SUFFIX,cn-psy.com
 DOMAIN-SUFFIX,cn-railway.net
 DOMAIN-SUFFIX,cn-roofexpert.com
 DOMAIN-SUFFIX,cn-truck.com
+DOMAIN-SUFFIX,cn.actual.battle.net
 DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,cn.bing.net
 DOMAIN-SUFFIX,cn.img.stb.s-msn.com
@@ -16427,7 +16427,6 @@ DOMAIN-SUFFIX,didi-food.com
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didiapp.com
 DOMAIN-SUFFIX,didiaustralia.blog
-DOMAIN-SUFFIX,didichuxing.com
 DOMAIN-SUFFIX,dididadidi.com
 DOMAIN-SUFFIX,dididapiao.com
 DOMAIN-SUFFIX,didiglobal.com
@@ -16788,6 +16787,7 @@ DOMAIN-SUFFIX,dmhlj.com
 DOMAIN-SUFFIX,dmhmusic.com
 DOMAIN-SUFFIX,dmjtxt.com
 DOMAIN-SUFFIX,dmlei.com
+DOMAIN-SUFFIX,dmmds.com
 DOMAIN-SUFFIX,dmozdir.org
 DOMAIN-SUFFIX,dmp.sina.cn
 DOMAIN-SUFFIX,dmpans.com
