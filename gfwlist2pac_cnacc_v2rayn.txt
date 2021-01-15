@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY5MzExOQo=
+# Checksum: MTYxMDcwNDI4OAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210115-2
-# TimeUpdated: 2021-01-15T06:45:19+00:00
+# Version: 1.2.9-20210115-3
+# TimeUpdated: 2021-01-15T09:51:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -8195,6 +8195,7 @@ domain:appurl.cc,
 domain:appurl.me,
 domain:appving.com,
 domain:appvipshop.com,
+domain:appvv.com,
 domain:appweiyuan.com,
 domain:appwill.com,
 domain:appxcode.com,
@@ -11821,7 +11822,6 @@ domain:cells-net.net,
 domain:celwk.com,
 domain:cem5117.com,
 domain:cement365.com,
-domain:cementren.com,
 domain:ceming.com,
 domain:cemyun.com,
 domain:cenbel.com,

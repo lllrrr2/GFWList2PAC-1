@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY5MzExOQo=
+# Checksum: MTYxMDcwNDI4OAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210115-2
-# TimeUpdated: 2021-01-15T06:45:19+00:00
+# Version: 1.2.9-20210115-3
+# TimeUpdated: 2021-01-15T09:51:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -8195,6 +8195,7 @@ DOMAIN-SUFFIX,appurl.cc,DIRECT
 DOMAIN-SUFFIX,appurl.me,DIRECT
 DOMAIN-SUFFIX,appving.com,DIRECT
 DOMAIN-SUFFIX,appvipshop.com,DIRECT
+DOMAIN-SUFFIX,appvv.com,DIRECT
 DOMAIN-SUFFIX,appweiyuan.com,DIRECT
 DOMAIN-SUFFIX,appwill.com,DIRECT
 DOMAIN-SUFFIX,appxcode.com,DIRECT
@@ -11821,7 +11822,6 @@ DOMAIN-SUFFIX,cells-net.net,DIRECT
 DOMAIN-SUFFIX,celwk.com,DIRECT
 DOMAIN-SUFFIX,cem5117.com,DIRECT
 DOMAIN-SUFFIX,cement365.com,DIRECT
-DOMAIN-SUFFIX,cementren.com,DIRECT
 DOMAIN-SUFFIX,ceming.com,DIRECT
 DOMAIN-SUFFIX,cemyun.com,DIRECT
 DOMAIN-SUFFIX,cenbel.com,DIRECT
