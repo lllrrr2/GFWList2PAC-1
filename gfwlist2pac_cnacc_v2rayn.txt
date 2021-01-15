@@ -1,7 +1,7 @@
-# Checksum: MTYxMDczNjk2MAo=
+# Checksum: MTYxMDc0NjQ4Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210115-6
-# TimeUpdated: 2021-01-15T18:56:00+00:00
+# Version: 1.2.9-20210115-7
+# TimeUpdated: 2021-01-15T21:34:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -81,7 +81,6 @@ domain:010byyy.com,
 domain:010dh.com,
 domain:010dsmzyy.com,
 domain:010hetongls.com,
-domain:010hx.com,
 domain:010jianzhan.com,
 domain:010jing-pc.com,
 domain:0110m.com,
@@ -7951,6 +7950,7 @@ domain:anzhi.com,
 domain:anzhixun.com,
 domain:anzhuo2.com,
 domain:anzhuoshangdian.com,
+domain:anzhuotan.com,
 domain:anzhuowo.com,
 domain:anzogame.com,
 domain:anzow.com,

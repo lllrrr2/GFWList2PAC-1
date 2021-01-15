@@ -1,7 +1,7 @@
-# Checksum: MTYxMDczNjk3MAo=
+# Checksum: MTYxMDc0NjQ5MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210115-6
-# TimeUpdated: 2021-01-15T18:56:10+00:00
+# Version: 1.2.9-20210115-7
+# TimeUpdated: 2021-01-15T21:34:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5908,7 +5908,6 @@ domain:byinter.net,
 domain:bynet.co.il,
 domain:bypass.pw,
 domain:bypasscensorship.org,
-domain:bypasskey.com,
 domain:bypassthe.net,
 domain:bypassy.com,
 domain:byt0022.com,
