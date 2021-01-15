@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDcwNDI5Ngo=
+# Checksum: MTYxMDcxNDg4MQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210115-3
-# TimeUpdated: 2021-01-15T09:51:36+00:00
+# Version: 1.2.9-20210115-4
+# TimeUpdated: 2021-01-15T12:48:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2912,6 +2912,7 @@ payload:
   - DOMAIN-SUFFIX,apetube.com
   - DOMAIN-SUFFIX,apewd.uphero.com
   - DOMAIN-SUFFIX,apexlegends.com
+  - DOMAIN-SUFFIX,apexprint.com.hk
   - DOMAIN-SUFFIX,api-extractor.com
   - DOMAIN-SUFFIX,api-priconne-redive.cygames.jp
   - DOMAIN-SUFFIX,api-secure.recaptcha.net
@@ -5755,6 +5756,7 @@ payload:
   - DOMAIN-SUFFIX,business.nikkeibp.co.jp
   - DOMAIN-SUFFIX,business.site
   - DOMAIN-SUFFIX,businesscatalyst.com
+  - DOMAIN-SUFFIX,businessfocus.io
   - DOMAIN-SUFFIX,businessinsider.co.za
   - DOMAIN-SUFFIX,businessinsider.com
   - DOMAIN-SUFFIX,businessinsider.com.au
@@ -6733,6 +6735,7 @@ payload:
   - DOMAIN-SUFFIX,chinadigitaltimes.com
   - DOMAIN-SUFFIX,chinadigitaltimes.net
   - DOMAIN-SUFFIX,chinadigitaltimes.org
+  - DOMAIN-SUFFIX,chinaeconomicreview.com
   - DOMAIN-SUFFIX,chinaeforum.com
   - DOMAIN-SUFFIX,chinaelections.com
   - DOMAIN-SUFFIX,chinaengland.net
@@ -9112,11 +9115,13 @@ payload:
   - DOMAIN-SUFFIX,easternstouch.co.za
   - DOMAIN-SUFFIX,eastlink.ca
   - DOMAIN-SUFFIX,eastore.com
+  - DOMAIN-SUFFIX,easttouch.com.hk
   - DOMAIN-SUFFIX,eastturkestan.com
   - DOMAIN-SUFFIX,eastturkistan-gov.org
   - DOMAIN-SUFFIX,eastturkistan.net
   - DOMAIN-SUFFIX,eastturkistancc.org
   - DOMAIN-SUFFIX,eastturkistangovernmentinexile.us
+  - DOMAIN-SUFFIX,eastweek.com.hk
   - DOMAIN-SUFFIX,easy.ac
   - DOMAIN-SUFFIX,easyanticheat.net
   - DOMAIN-SUFFIX,easybib.com
@@ -9366,6 +9371,7 @@ payload:
   - DOMAIN-SUFFIX,edu.tw
   - DOMAIN-SUFFIX,edubridge.com
   - DOMAIN-SUFFIX,educationtimes.com
+  - DOMAIN-SUFFIX,eduplus.hk
   - DOMAIN-SUFFIX,edupro.org
   - DOMAIN-SUFFIX,eduvpn.com
   - DOMAIN-SUFFIX,edwardsalem.com
@@ -9664,6 +9670,7 @@ payload:
   - DOMAIN-SUFFIX,eporner.com
   - DOMAIN-SUFFIX,eporner.eu
   - DOMAIN-SUFFIX,epotala.com
+  - DOMAIN-SUFFIX,eprc.com.hk
   - DOMAIN-SUFFIX,eprice.com.hk
   - DOMAIN-SUFFIX,eprintsw.com
   - DOMAIN-SUFFIX,equalgrid.com
@@ -9748,6 +9755,7 @@ payload:
   - DOMAIN-SUFFIX,etadult.com
   - DOMAIN-SUFFIX,etaireia.gr
   - DOMAIN-SUFFIX,etaiwannews.com
+  - DOMAIN-SUFFIX,etbc.com.hk
   - DOMAIN-SUFFIX,eteenporn.com
   - DOMAIN-SUFFIX,eth0.org.uk
   - DOMAIN-SUFFIX,ethanology.net
@@ -9758,19 +9766,23 @@ payload:
   - DOMAIN-SUFFIX,etherscan.io
   - DOMAIN-SUFFIX,ethfinex.com
   - DOMAIN-SUFFIX,etiquettemoms.com
+  - DOMAIN-SUFFIX,etnet.com.hk
   - DOMAIN-SUFFIX,etnies.pw
   - DOMAIN-SUFFIX,etokki.com
   - DOMAIN-SUFFIX,etools.ncol.com
   - DOMAIN-SUFFIX,etoro.com.cn
   - DOMAIN-SUFFIX,etowns.net
   - DOMAIN-SUFFIX,etowns.org
+  - DOMAIN-SUFFIX,etpress.com.hk
   - DOMAIN-SUFFIX,ets.cc
   - DOMAIN-SUFFIX,etsu.edu
   - DOMAIN-SUFFIX,etsy.com
   - DOMAIN-SUFFIX,ettego.com
   - DOMAIN-SUFFIX,ettoday.net
+  - DOMAIN-SUFFIX,ettrade.com.hk
   - DOMAIN-SUFFIX,etviet.com
   - DOMAIN-SUFFIX,etvonline.hk
+  - DOMAIN-SUFFIX,etwealth.com
   - DOMAIN-SUFFIX,eu-consumer-empowerment.com
   - DOMAIN-SUFFIX,eu.org
   - DOMAIN-SUFFIX,eu99999.com
@@ -12861,6 +12873,7 @@ payload:
   - DOMAIN-SUFFIX,he.net
   - DOMAIN-SUFFIX,he2911.com
   - DOMAIN-SUFFIX,head2toes.org
+  - DOMAIN-SUFFIX,headlinejobs.hk
   - DOMAIN-SUFFIX,headphones-dre.com
   - DOMAIN-SUFFIX,headphones-outlet-online.com
   - DOMAIN-SUFFIX,headphonesbeatsaudio.com
@@ -13160,6 +13173,7 @@ payload:
   - DOMAIN-SUFFIX,hkchurch.org
   - DOMAIN-SUFFIX,hkci.org.hk
   - DOMAIN-SUFFIX,hkcities.com
+  - DOMAIN-SUFFIX,hkcitizenmedia.com
   - DOMAIN-SUFFIX,hkcmi.edu
   - DOMAIN-SUFFIX,hkcnews.com
   - DOMAIN-SUFFIX,hkcoc.com
@@ -13174,6 +13188,7 @@ payload:
   - DOMAIN-SUFFIX,hkej.com
   - DOMAIN-SUFFIX,hkepc.com
   - DOMAIN-SUFFIX,hket.com
+  - DOMAIN-SUFFIX,hketgroup.com
   - DOMAIN-SUFFIX,hkfaa.com
   - DOMAIN-SUFFIX,hkfreezone.com
   - DOMAIN-SUFFIX,hkfront.org
@@ -15214,6 +15229,7 @@ payload:
   - DOMAIN-SUFFIX,joacim.net
   - DOMAIN-SUFFIX,joannagolabek.it
   - DOMAIN-SUFFIX,joannesyrop.com
+  - DOMAIN-SUFFIX,jobmarket.com.hk
   - DOMAIN-SUFFIX,jobnewera.wordpress.com
   - DOMAIN-SUFFIX,jochen-hoenicke.de
   - DOMAIN-SUFFIX,jochgvofd.a0001.net
@@ -17411,10 +17427,13 @@ payload:
   - DOMAIN-SUFFIX,mingpaony.com
   - DOMAIN-SUFFIX,mingpaosf.com
   - DOMAIN-SUFFIX,mingpaotor.com
+  - DOMAIN-SUFFIX,mings-fashion.com
+  - DOMAIN-SUFFIX,mings.hk
   - DOMAIN-SUFFIX,mingshengbao.com
   - DOMAIN-SUFFIX,mingshi118.com
   - DOMAIN-SUFFIX,mingshi88.com
   - DOMAIN-SUFFIX,mingw.org
+  - DOMAIN-SUFFIX,mingwatch.com
   - DOMAIN-SUFFIX,minhhue.net
   - DOMAIN-SUFFIX,mini-abudhabi.com
   - DOMAIN-SUFFIX,mini-antilles.fr
@@ -18134,6 +18153,7 @@ payload:
   - DOMAIN-SUFFIX,my-addr.org
   - DOMAIN-SUFFIX,my-formosa.com
   - DOMAIN-SUFFIX,my-free-mp3s.com
+  - DOMAIN-SUFFIX,my-magazine.me
   - DOMAIN-SUFFIX,my-private-network.co.uk
   - DOMAIN-SUFFIX,my-proxy.com
   - DOMAIN-SUFFIX,my.alan.etowns.org
@@ -19463,6 +19483,7 @@ payload:
   - DOMAIN-SUFFIX,ome-nano.com
   - DOMAIN-SUFFIX,omegle.com
   - DOMAIN-SUFFIX,omekinteractive.com
+  - DOMAIN-SUFFIX,omghk.com
   - DOMAIN-SUFFIX,omgili.com
   - DOMAIN-SUFFIX,omni7.jp
   - DOMAIN-SUFFIX,omnigroup.com
@@ -20140,6 +20161,7 @@ payload:
   - DOMAIN-SUFFIX,pchome.com.tw
   - DOMAIN-SUFFIX,pcij.org
   - DOMAIN-SUFFIX,pcloud.com
+  - DOMAIN-SUFFIX,pcmarket.com.hk
   - DOMAIN-SUFFIX,pcre.org
   - DOMAIN-SUFFIX,pcstore.com.tw
   - DOMAIN-SUFFIX,pct.org.tw
@@ -22745,12 +22767,18 @@ payload:
   - DOMAIN-SUFFIX,since1989.org
   - DOMAIN-SUFFIX,sinchew-i.com
   - DOMAIN-SUFFIX,sinchew.com.my
+  - DOMAIN-SUFFIX,sinchew.my
   - DOMAIN-SUFFIX,sineplex.net
+  - DOMAIN-SUFFIX,sing68.com
   - DOMAIN-SUFFIX,singaporepools.com.sg
   - DOMAIN-SUFFIX,singfortibet.com
   - DOMAIN-SUFFIX,singpao.com.hk
   - DOMAIN-SUFFIX,singtao.ca
   - DOMAIN-SUFFIX,singtao.com
+  - DOMAIN-SUFFIX,singtaobooks.com
+  - DOMAIN-SUFFIX,singtaola.com
+  - DOMAIN-SUFFIX,singtaonewscorp.com
+  - DOMAIN-SUFFIX,singtaoopo.com
   - DOMAIN-SUFFIX,singtaousa.com
   - DOMAIN-SUFFIX,singtaoyp.com
   - DOMAIN-SUFFIX,siniritarit.fi
@@ -22946,6 +22974,7 @@ payload:
   - DOMAIN-SUFFIX,socalbmw.com
   - DOMAIN-SUFFIX,socaltibet.org
   - DOMAIN-SUFFIX,soccer18.com
+  - DOMAIN-SUFFIX,soccerfanz.com.my
   - DOMAIN-SUFFIX,soccerfinancier.ca
   - DOMAIN-SUFFIX,soccermatchpass.com
   - DOMAIN-SUFFIX,social-blog.wix.com
@@ -24901,6 +24930,8 @@ payload:
   - DOMAIN-SUFFIX,triphotograph.eu.org
   - DOMAIN-SUFFIX,trisla.com
   - DOMAIN-SUFFIX,tristatebmw.com
+  - DOMAIN-SUFFIX,trithucvn.net
+  - DOMAIN-SUFFIX,trithucvn.org
   - DOMAIN-SUFFIX,trixbox.com
   - DOMAIN-SUFFIX,trmini.com
   - DOMAIN-SUFFIX,tro-ma-ktiko.blogspot.gr
@@ -25390,6 +25421,7 @@ payload:
   - DOMAIN-SUFFIX,ukuleleshop.com.tw
   - DOMAIN-SUFFIX,ukusvpn.com
   - DOMAIN-SUFFIX,ukwhoswho.com
+  - DOMAIN-SUFFIX,ulifestyle.com.hk
   - DOMAIN-SUFFIX,ulike.net
   - DOMAIN-SUFFIX,ultimaforever.com
   - DOMAIN-SUFFIX,ultimaonline.com
@@ -25408,6 +25440,7 @@ payload:
   - DOMAIN-SUFFIX,ulusalkanal.com.tr
   - DOMAIN-SUFFIX,ulxxtv.com
   - DOMAIN-SUFFIX,ulyssesapp.com
+  - DOMAIN-SUFFIX,umagazine.com.hk
   - DOMAIN-SUFFIX,umass.edu
   - DOMAIN-SUFFIX,umblr.com
   - DOMAIN-SUFFIX,umcbc.ca
@@ -25815,6 +25848,7 @@ payload:
   - DOMAIN-SUFFIX,vcf-online.org
   - DOMAIN-SUFFIX,vcfbuilder.org
   - DOMAIN-SUFFIX,vcloudair.net
+  - DOMAIN-SUFFIX,vct.news
   - DOMAIN-SUFFIX,vcup.in
   - DOMAIN-SUFFIX,vcupbox.net
   - DOMAIN-SUFFIX,vcupmars.com
@@ -26266,6 +26300,10 @@ payload:
   - DOMAIN-SUFFIX,visionchinatimes.org
   - DOMAIN-SUFFIX,visiontimes.com
   - DOMAIN-SUFFIX,visiontimes.de
+  - DOMAIN-SUFFIX,visiontimes.fr
+  - DOMAIN-SUFFIX,visiontimes.it
+  - DOMAIN-SUFFIX,visiontimes.net
+  - DOMAIN-SUFFIX,visiontimesjp.com
   - DOMAIN-SUFFIX,visit.uncensoredlibrary.com
   - DOMAIN-SUFFIX,visitor.pixplug.in
   - DOMAIN-SUFFIX,vistafungame.com

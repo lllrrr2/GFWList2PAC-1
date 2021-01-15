@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDcwNDI4OAo=
+# Checksum: MTYxMDcxNDg3Mwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210115-3
-# TimeUpdated: 2021-01-15T09:51:28+00:00
+# Version: 1.2.9-20210115-4
+# TimeUpdated: 2021-01-15T12:47:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -827,7 +827,6 @@ payload:
   - DOMAIN-SUFFIX,102cw.com
   - DOMAIN-SUFFIX,102no.com
   - DOMAIN-SUFFIX,103.com
-  - DOMAIN-SUFFIX,1030car.com
   - DOMAIN-SUFFIX,103153.com
   - DOMAIN-SUFFIX,10333.com
   - DOMAIN-SUFFIX,1035.mobi
@@ -1861,7 +1860,6 @@ payload:
   - DOMAIN-SUFFIX,2000new.com
   - DOMAIN-SUFFIX,2002000.xyz
   - DOMAIN-SUFFIX,200218.com
-  - DOMAIN-SUFFIX,2003dns.com
   - DOMAIN-SUFFIX,20063365.com
   - DOMAIN-SUFFIX,2006q.com
   - DOMAIN-SUFFIX,2008php.com
@@ -7915,6 +7913,7 @@ payload:
   - DOMAIN-SUFFIX,anxinssl.com
   - DOMAIN-SUFFIX,anxinyisheng.com
   - DOMAIN-SUFFIX,anxiw.com
+  - DOMAIN-SUFFIX,anxjm.com
   - DOMAIN-SUFFIX,anxnr.com
   - DOMAIN-SUFFIX,anxz.com
   - DOMAIN-SUFFIX,any8.com
@@ -8701,7 +8700,6 @@ payload:
   - DOMAIN-SUFFIX,b8yx.com
   - DOMAIN-SUFFIX,ba-li.com
   - DOMAIN-SUFFIX,ba125.com
-  - DOMAIN-SUFFIX,baaidu.com
   - DOMAIN-SUFFIX,baalchina.net
   - DOMAIN-SUFFIX,baba.cc
   - DOMAIN-SUFFIX,bababus.com
@@ -9961,7 +9959,6 @@ payload:
   - DOMAIN-SUFFIX,bitvip.com
   - DOMAIN-SUFFIX,biuapp.im
   - DOMAIN-SUFFIX,biubiu001.com
-  - DOMAIN-SUFFIX,bivdu.com
   - DOMAIN-SUFFIX,bivean.com
   - DOMAIN-SUFFIX,biwanshequ.com
   - DOMAIN-SUFFIX,bixia.org
@@ -12151,6 +12148,7 @@ payload:
   - DOMAIN-SUFFIX,chateacher.com
   - DOMAIN-SUFFIX,chatm.com
   - DOMAIN-SUFFIX,chatnos.com
+  - DOMAIN-SUFFIX,chatplus.ai
   - DOMAIN-SUFFIX,chawenti.com
   - DOMAIN-SUFFIX,chawo.com
   - DOMAIN-SUFFIX,chaxinyu.net
@@ -18790,6 +18788,8 @@ payload:
   - DOMAIN-SUFFIX,etlong.com
   - DOMAIN-SUFFIX,etmchina.com
   - DOMAIN-SUFFIX,etmoc.com
+  - DOMAIN-SUFFIX,etnet.com.cn
+  - DOMAIN-SUFFIX,etnetchina.com.cn
   - DOMAIN-SUFFIX,eto9.com
   - DOMAIN-SUFFIX,etocrm.com
   - DOMAIN-SUFFIX,etomlink.com
