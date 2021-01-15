@@ -1,7 +1,7 @@
-# Checksum: MTYxMDcyNDkxNwo=
+# Checksum: MTYxMDczNjk3MAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210115-5
-# TimeUpdated: 2021-01-15T15:35:17+00:00
+# Version: 1.2.9-20210115-6
+# TimeUpdated: 2021-01-15T18:56:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -784,7 +784,6 @@ domain:321365.net,
 domain:322.effers.com,
 domain:322365.com,
 domain:322518.com,
-domain:3228.sbf9988.com,
 domain:323.slyip.net,
 domain:327hk.com,
 domain:3288js.com,

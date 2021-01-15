@@ -1,7 +1,7 @@
-# Checksum: MTYxMDcyNDkwOAo=
+# Checksum: MTYxMDczNjk2MAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210115-5
-# TimeUpdated: 2021-01-15T15:35:08+00:00
+# Version: 1.2.9-20210115-6
+# TimeUpdated: 2021-01-15T18:56:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6872,7 +6872,6 @@ domain:adnmb3.com,
 domain:adnonstop.com,
 domain:adnyg.com,
 domain:adobeae.com,
-domain:adobedc.cn,
 domain:adobeedu.com,
 domain:adobetop.com,
 domain:adoceans.com,
@@ -10895,6 +10894,7 @@ domain:bxdaka.com,
 domain:bxdlkj.com,
 domain:bxgfw.com,
 domain:bxgjyc.com,
+domain:bxglobal.com,
 domain:bxgtd.com,
 domain:bxjob.net,
 domain:bxjr.com,
