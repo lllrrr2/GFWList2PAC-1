@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY1OTg2Nwo=
+# Checksum: MTYxMDY3NDA5Mgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210114-7
-# TimeUpdated: 2021-01-14T21:31:07+00:00
+# Version: 1.2.9-20210115-0
+# TimeUpdated: 2021-01-15T01:28:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5909,6 +5909,7 @@ domain:bypasscensorship.org,
 domain:bypasskey.com,
 domain:bypassthe.net,
 domain:bypassy.com,
+domain:byspotify.com,
 domain:byt0022.com,
 domain:byt010.com,
 domain:byt020.com,
@@ -6810,6 +6811,7 @@ domain:chinesenewyear.withgoogle.com,
 domain:chineseonboard.com,
 domain:chinesepen.org,
 domain:chineseperformingarts.net,
+domain:chineseporn.org,
 domain:chinesepornweb.com,
 domain:chineseposters.net,
 domain:chineseradioseattle.com,

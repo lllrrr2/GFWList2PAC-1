@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDY1OTg2Nwo=
+# Checksum: MTYxMDY3NDA5Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210114-7
-# TimeUpdated: 2021-01-14T21:31:07+00:00
+# Version: 1.2.9-20210115-0
+# TimeUpdated: 2021-01-15T01:28:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5910,6 +5910,7 @@ payload:
   - DOMAIN-SUFFIX,bypasskey.com
   - DOMAIN-SUFFIX,bypassthe.net
   - DOMAIN-SUFFIX,bypassy.com
+  - DOMAIN-SUFFIX,byspotify.com
   - DOMAIN-SUFFIX,byt0022.com
   - DOMAIN-SUFFIX,byt010.com
   - DOMAIN-SUFFIX,byt020.com
@@ -6811,6 +6812,7 @@ payload:
   - DOMAIN-SUFFIX,chineseonboard.com
   - DOMAIN-SUFFIX,chinesepen.org
   - DOMAIN-SUFFIX,chineseperformingarts.net
+  - DOMAIN-SUFFIX,chineseporn.org
   - DOMAIN-SUFFIX,chinesepornweb.com
   - DOMAIN-SUFFIX,chineseposters.net
   - DOMAIN-SUFFIX,chineseradioseattle.com

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY1OTg1OQo=
+# Checksum: MTYxMDY3NDA4Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210114-7
-# TimeUpdated: 2021-01-14T21:30:59+00:00
+# Version: 1.2.9-20210115-0
+# TimeUpdated: 2021-01-15T01:28:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3365,6 +3365,7 @@ domain:511god.net,
 domain:511mv.com,
 domain:511wan.com,
 domain:511yj.com,
+domain:5120.com,
 domain:51240.com,
 domain:512play.com,
 domain:5132.com,
@@ -30573,6 +30574,7 @@ domain:knewsmart.com,
 domain:knifecms.com,
 domain:kniu.cc,
 domain:knowgive.com,
+domain:knowncoin.com,
 domain:knownpcb.com,
 domain:knownsec.com,
 domain:knowpia.com,
@@ -33953,6 +33955,7 @@ domain:maoyanziyuan.com,
 domain:maoyi.biz,
 domain:maoyidi.com,
 domain:maoyigu.com,
+domain:maoyiw.com,
 domain:maoyiwang.com,
 domain:maoyouhui.cc,
 domain:maoyun.com,
