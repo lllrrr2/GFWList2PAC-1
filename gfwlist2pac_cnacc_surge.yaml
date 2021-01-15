@@ -1,7 +1,7 @@
-# Checksum: MTYxMDcxNDg3Mwo=
+# Checksum: MTYxMDcyNDkwOAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210115-4
-# TimeUpdated: 2021-01-15T12:47:53+00:00
+# Version: 1.2.9-20210115-5
+# TimeUpdated: 2021-01-15T15:35:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -6872,6 +6872,7 @@ DOMAIN-SUFFIX,adnmb3.com
 DOMAIN-SUFFIX,adnonstop.com
 DOMAIN-SUFFIX,adnyg.com
 DOMAIN-SUFFIX,adobeae.com
+DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,adobeedu.com
 DOMAIN-SUFFIX,adobetop.com
 DOMAIN-SUFFIX,adoceans.com
@@ -11017,6 +11018,7 @@ DOMAIN-SUFFIX,c114.net
 DOMAIN-SUFFIX,c1ass.com
 DOMAIN-SUFFIX,c1s.com
 DOMAIN-SUFFIX,c2h4.org
+DOMAIN-SUFFIX,c32356.com
 DOMAIN-SUFFIX,c32375.com
 DOMAIN-SUFFIX,c360dn.com
 DOMAIN-SUFFIX,c366.com
@@ -11541,6 +11543,7 @@ DOMAIN-SUFFIX,ccpitjinan.org
 DOMAIN-SUFFIX,ccpitjs.org
 DOMAIN-SUFFIX,ccpitlight.org
 DOMAIN-SUFFIX,ccpitnmg.org
+DOMAIN-SUFFIX,ccpitqd.org
 DOMAIN-SUFFIX,ccpitsd.com
 DOMAIN-SUFFIX,ccpittex.com
 DOMAIN-SUFFIX,ccpittj.org
@@ -18787,7 +18790,6 @@ DOMAIN-SUFFIX,etiv.me
 DOMAIN-SUFFIX,etlong.com
 DOMAIN-SUFFIX,etmchina.com
 DOMAIN-SUFFIX,etmoc.com
-DOMAIN-SUFFIX,etnet.com.cn
 DOMAIN-SUFFIX,etnetchina.com.cn
 DOMAIN-SUFFIX,eto9.com
 DOMAIN-SUFFIX,etocrm.com

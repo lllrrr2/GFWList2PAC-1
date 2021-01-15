@@ -1,7 +1,7 @@
-# Checksum: MTYxMDcxNDg3Mwo=
+# Checksum: MTYxMDcyNDkwOAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210115-4
-# TimeUpdated: 2021-01-15T12:47:53+00:00
+# Version: 1.2.9-20210115-5
+# TimeUpdated: 2021-01-15T15:35:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -6872,6 +6872,7 @@ domain:adnmb3.com,
 domain:adnonstop.com,
 domain:adnyg.com,
 domain:adobeae.com,
+domain:adobedc.cn,
 domain:adobeedu.com,
 domain:adobetop.com,
 domain:adoceans.com,
@@ -11017,6 +11018,7 @@ domain:c114.net,
 domain:c1ass.com,
 domain:c1s.com,
 domain:c2h4.org,
+domain:c32356.com,
 domain:c32375.com,
 domain:c360dn.com,
 domain:c366.com,
@@ -11541,6 +11543,7 @@ domain:ccpitjinan.org,
 domain:ccpitjs.org,
 domain:ccpitlight.org,
 domain:ccpitnmg.org,
+domain:ccpitqd.org,
 domain:ccpitsd.com,
 domain:ccpittex.com,
 domain:ccpittj.org,
@@ -18787,7 +18790,6 @@ domain:etiv.me,
 domain:etlong.com,
 domain:etmchina.com,
 domain:etmoc.com,
-domain:etnet.com.cn,
 domain:etnetchina.com.cn,
 domain:eto9.com,
 domain:etocrm.com,

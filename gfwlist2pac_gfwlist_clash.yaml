@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDcxNDg4MQo=
+# Checksum: MTYxMDcyNDkxNwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.2.9-20210115-4
-# TimeUpdated: 2021-01-15T12:48:01+00:00
+# Version: 1.2.9-20210115-5
+# TimeUpdated: 2021-01-15T15:35:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4500,6 +4500,7 @@ payload:
   - DOMAIN-SUFFIX,bgproxy.org
   - DOMAIN-SUFFIX,bgr.in
   - DOMAIN-SUFFIX,bgvpn.com
+  - DOMAIN-SUFFIX,bgx.ro
   - DOMAIN-SUFFIX,bgxzp.com
   - DOMAIN-SUFFIX,bhavnaskitchen.com
   - DOMAIN-SUFFIX,bhfitnessparts.com
@@ -19401,6 +19402,7 @@ payload:
   - DOMAIN-SUFFIX,od1n.io
   - DOMAIN-SUFFIX,odiasangita.in
   - DOMAIN-SUFFIX,odnoklassniki.ru
+  - DOMAIN-SUFFIX,odysee.com
   - DOMAIN-SUFFIX,oed.com
   - DOMAIN-SUFFIX,oeea.org
   - DOMAIN-SUFFIX,oex.com
@@ -19483,7 +19485,6 @@ payload:
   - DOMAIN-SUFFIX,ome-nano.com
   - DOMAIN-SUFFIX,omegle.com
   - DOMAIN-SUFFIX,omekinteractive.com
-  - DOMAIN-SUFFIX,omghk.com
   - DOMAIN-SUFFIX,omgili.com
   - DOMAIN-SUFFIX,omni7.jp
   - DOMAIN-SUFFIX,omnigroup.com
@@ -21793,6 +21794,7 @@ payload:
   - DOMAIN-SUFFIX,rliya.com
   - DOMAIN-SUFFIX,rlwlw.com
   - DOMAIN-SUFFIX,rmbav.com
+  - DOMAIN-SUFFIX,rmbl.ws
   - DOMAIN-SUFFIX,rmjdw.com
   - DOMAIN-SUFFIX,rmjdw46.com
   - DOMAIN-SUFFIX,rmjdw50.com
@@ -21902,6 +21904,7 @@ payload:
   - DOMAIN-SUFFIX,rukor.org
   - DOMAIN-SUFFIX,rule34.xxx
   - DOMAIN-SUFFIX,rumbatan.com
+  - DOMAIN-SUFFIX,rumble.com
   - DOMAIN-SUFFIX,run.app
   - DOMAIN-SUFFIX,runbtx.com
   - DOMAIN-SUFFIX,rundell.org.uk
@@ -22003,6 +22006,7 @@ payload:
   - DOMAIN-SUFFIX,safasti.net
   - DOMAIN-SUFFIX,safe-inet.com
   - DOMAIN-SUFFIX,safecart.com
+  - DOMAIN-SUFFIX,safechat.com
   - DOMAIN-SUFFIX,safeforwork.net
   - DOMAIN-SUFFIX,safeguarddefenders.com
   - DOMAIN-SUFFIX,safervpn.com
