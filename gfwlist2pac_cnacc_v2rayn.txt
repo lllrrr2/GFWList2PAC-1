@@ -1,7 +1,7 @@
-# Checksum: MTYxMDY4MzEyNwo=
+# Checksum: MTYxMDY5MzExOQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210115-1
-# TimeUpdated: 2021-01-15T03:58:47+00:00
+# Version: 1.2.9-20210115-2
+# TimeUpdated: 2021-01-15T06:45:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -2345,6 +2345,7 @@ domain:2tudy.com,
 domain:2tx.com,
 domain:2uxs.com,
 domain:2v8d.com,
+domain:2vc00.com,
 domain:2w.cm,
 domain:2weima.com,
 domain:2xbinh.com,
@@ -16057,6 +16058,7 @@ domain:demososo.com,
 domain:denganliang.com,
 domain:dengcuo.com,
 domain:dengfeilong.com,
+domain:denghao.org,
 domain:denghaoxuan.com,
 domain:denghuo.com,
 domain:dengkanwen.com,
@@ -40573,6 +40575,7 @@ domain:qyglzz.com,
 domain:qygmgolf.com,
 domain:qyham.com,
 domain:qyhssd.com,
+domain:qyi.io,
 domain:qyjnxh.com,
 domain:qyjpzx.com,
 domain:qykh2009.com,
