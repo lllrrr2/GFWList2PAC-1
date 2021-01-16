@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc3OTU2MQo=
+# Checksum: MTYxMDc5MDYwNAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210116-2
-# TimeUpdated: 2021-01-16T06:46:01+00:00
+# Version: 1.2.9-20210116-3
+# TimeUpdated: 2021-01-16T09:50:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -918,6 +918,7 @@ DOMAIN-SUFFIX,3pforum.com
 DOMAIN-SUFFIX,3pi3t.j5.biz.tm
 DOMAIN-SUFFIX,3proxy.de
 DOMAIN-SUFFIX,3proxy.ru
+DOMAIN-SUFFIX,3rat.com
 DOMAIN-SUFFIX,3ren.blog
 DOMAIN-SUFFIX,3ren.ca
 DOMAIN-SUFFIX,3ruwl5q.x.incapdns.net

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc3OTU1Mgo=
+# Checksum: MTYxMDc5MDU5Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210116-2
-# TimeUpdated: 2021-01-16T06:45:52+00:00
+# Version: 1.2.9-20210116-3
+# TimeUpdated: 2021-01-16T09:49:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -4574,6 +4574,7 @@ domain:5ips.net,
 domain:5iqiqu.com,
 domain:5isanguo.com,
 domain:5its.com,
+domain:5itx.com,
 domain:5iucn.com,
 domain:5ixs.net,
 domain:5ixuexiwang.com,
