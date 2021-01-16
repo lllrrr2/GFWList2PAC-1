@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc2OTU4NAo=
+# Checksum: MTYxMDc3OTU2MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210116-1
-# TimeUpdated: 2021-01-16T03:59:44+00:00
+# Version: 1.2.9-20210116-2
+# TimeUpdated: 2021-01-16T06:46:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1095,7 +1095,6 @@ domain:52jav.com,
 domain:52news.chinatimes.com,
 domain:52sex.cc,
 domain:52sod.co,
-domain:52ssr.cn,
 domain:52ssr.net,
 domain:53.etowns.net,
 domain:53.my03.com,
@@ -4894,6 +4893,7 @@ domain:blogspot.hk,
 domain:blogspot.hr,
 domain:blogspot.hu,
 domain:blogspot.ie,
+domain:blogspot.in,
 domain:blogspot.is,
 domain:blogspot.it,
 domain:blogspot.jp,
@@ -9757,6 +9757,7 @@ domain:etbc.com.hk,
 domain:eteenporn.com,
 domain:eth0.org.uk,
 domain:ethanology.net,
+domain:etheadphones.com,
 domain:etherdelta.com,
 domain:ethereum.foundation,
 domain:ethereum.org,

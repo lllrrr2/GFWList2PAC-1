@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc2OTU4NAo=
+# Checksum: MTYxMDc3OTU2MQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.2.9-20210116-1
-# TimeUpdated: 2021-01-16T03:59:44+00:00
+# Version: 1.2.9-20210116-2
+# TimeUpdated: 2021-01-16T06:46:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -1095,7 +1095,6 @@ DOMAIN-SUFFIX,52jav.com,PROXY
 DOMAIN-SUFFIX,52news.chinatimes.com,PROXY
 DOMAIN-SUFFIX,52sex.cc,PROXY
 DOMAIN-SUFFIX,52sod.co,PROXY
-DOMAIN-SUFFIX,52ssr.cn,PROXY
 DOMAIN-SUFFIX,52ssr.net,PROXY
 DOMAIN-SUFFIX,53.etowns.net,PROXY
 DOMAIN-SUFFIX,53.my03.com,PROXY
@@ -4894,6 +4893,7 @@ DOMAIN-SUFFIX,blogspot.hk,PROXY
 DOMAIN-SUFFIX,blogspot.hr,PROXY
 DOMAIN-SUFFIX,blogspot.hu,PROXY
 DOMAIN-SUFFIX,blogspot.ie,PROXY
+DOMAIN-SUFFIX,blogspot.in,PROXY
 DOMAIN-SUFFIX,blogspot.is,PROXY
 DOMAIN-SUFFIX,blogspot.it,PROXY
 DOMAIN-SUFFIX,blogspot.jp,PROXY
@@ -9757,6 +9757,7 @@ DOMAIN-SUFFIX,etbc.com.hk,PROXY
 DOMAIN-SUFFIX,eteenporn.com,PROXY
 DOMAIN-SUFFIX,eth0.org.uk,PROXY
 DOMAIN-SUFFIX,ethanology.net,PROXY
+DOMAIN-SUFFIX,etheadphones.com,PROXY
 DOMAIN-SUFFIX,etherdelta.com,PROXY
 DOMAIN-SUFFIX,ethereum.foundation,PROXY
 DOMAIN-SUFFIX,ethereum.org,PROXY

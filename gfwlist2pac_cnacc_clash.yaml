@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDc2OTU3Ngo=
+# Checksum: MTYxMDc3OTU1Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210116-1
-# TimeUpdated: 2021-01-16T03:59:36+00:00
+# Version: 1.2.9-20210116-2
+# TimeUpdated: 2021-01-16T06:45:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -435,6 +435,7 @@ payload:
   - DOMAIN-SUFFIX,0577hr.com
   - DOMAIN-SUFFIX,0577qiche.com
   - DOMAIN-SUFFIX,0578rencai.com
+  - DOMAIN-SUFFIX,0579dm.com
   - DOMAIN-SUFFIX,0579fw.com
   - DOMAIN-SUFFIX,0591job.com
   - DOMAIN-SUFFIX,05927.com
@@ -1884,7 +1885,6 @@ payload:
   - DOMAIN-SUFFIX,20176699.com
   - DOMAIN-SUFFIX,20180719.com
   - DOMAIN-SUFFIX,2018jsybh.com
-  - DOMAIN-SUFFIX,2018sshcg.com
   - DOMAIN-SUFFIX,2018zjjly.com
   - DOMAIN-SUFFIX,201980.com
   - DOMAIN-SUFFIX,2019ayaya.com
@@ -11015,6 +11015,7 @@ payload:
   - DOMAIN-SUFFIX,c2h4.org
   - DOMAIN-SUFFIX,c32356.com
   - DOMAIN-SUFFIX,c32375.com
+  - DOMAIN-SUFFIX,c32869.com
   - DOMAIN-SUFFIX,c360dn.com
   - DOMAIN-SUFFIX,c366.com
   - DOMAIN-SUFFIX,c3acg.com
@@ -11817,6 +11818,7 @@ payload:
   - DOMAIN-SUFFIX,celwk.com
   - DOMAIN-SUFFIX,cem5117.com
   - DOMAIN-SUFFIX,cement365.com
+  - DOMAIN-SUFFIX,cementren.com
   - DOMAIN-SUFFIX,ceming.com
   - DOMAIN-SUFFIX,cemyun.com
   - DOMAIN-SUFFIX,cenbel.com
@@ -14673,6 +14675,7 @@ payload:
   - DOMAIN-SUFFIX,cqqzgrh.com
   - DOMAIN-SUFFIX,cqrc.net
   - DOMAIN-SUFFIX,cqrcb.com
+  - DOMAIN-SUFFIX,cqshangceng.com
   - DOMAIN-SUFFIX,cqshenou.com
   - DOMAIN-SUFFIX,cqskl.com
   - DOMAIN-SUFFIX,cqslib.org
@@ -19992,6 +19995,7 @@ payload:
   - DOMAIN-SUFFIX,flyzy.com
   - DOMAIN-SUFFIX,flzgh.org
   - DOMAIN-SUFFIX,flzhan.com
+  - DOMAIN-SUFFIX,flzsdq.com
   - DOMAIN-SUFFIX,fm.p0y.cn
   - DOMAIN-SUFFIX,fm120.com
   - DOMAIN-SUFFIX,fm4399.com
@@ -25753,6 +25757,7 @@ payload:
   - DOMAIN-SUFFIX,i4t.com
   - DOMAIN-SUFFIX,i51game.com
   - DOMAIN-SUFFIX,i5738.com
+  - DOMAIN-SUFFIX,i5good.com
   - DOMAIN-SUFFIX,i5i6.net
   - DOMAIN-SUFFIX,i5read.com
   - DOMAIN-SUFFIX,i5seo.com

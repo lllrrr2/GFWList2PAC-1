@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc2OTU4NAo=
+# Checksum: MTYxMDc3OTU2MQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.2.9-20210116-1
-# TimeUpdated: 2021-01-16T03:59:44+00:00
+# Version: 1.2.9-20210116-2
+# TimeUpdated: 2021-01-16T06:46:01+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1095,7 +1095,6 @@ DOMAIN-SUFFIX,52jav.com
 DOMAIN-SUFFIX,52news.chinatimes.com
 DOMAIN-SUFFIX,52sex.cc
 DOMAIN-SUFFIX,52sod.co
-DOMAIN-SUFFIX,52ssr.cn
 DOMAIN-SUFFIX,52ssr.net
 DOMAIN-SUFFIX,53.etowns.net
 DOMAIN-SUFFIX,53.my03.com
@@ -4894,6 +4893,7 @@ DOMAIN-SUFFIX,blogspot.hk
 DOMAIN-SUFFIX,blogspot.hr
 DOMAIN-SUFFIX,blogspot.hu
 DOMAIN-SUFFIX,blogspot.ie
+DOMAIN-SUFFIX,blogspot.in
 DOMAIN-SUFFIX,blogspot.is
 DOMAIN-SUFFIX,blogspot.it
 DOMAIN-SUFFIX,blogspot.jp
@@ -9757,6 +9757,7 @@ DOMAIN-SUFFIX,etbc.com.hk
 DOMAIN-SUFFIX,eteenporn.com
 DOMAIN-SUFFIX,eth0.org.uk
 DOMAIN-SUFFIX,ethanology.net
+DOMAIN-SUFFIX,etheadphones.com
 DOMAIN-SUFFIX,etherdelta.com
 DOMAIN-SUFFIX,ethereum.foundation
 DOMAIN-SUFFIX,ethereum.org
