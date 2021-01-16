@@ -1,7 +1,7 @@
-# Checksum: MTYxMDgwMTE2Mgo=
+# Checksum: MTYxMDgxMTE2NAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210116-4
-# TimeUpdated: 2021-01-16T12:46:02+00:00
+# Version: 1.2.9-20210116-5
+# TimeUpdated: 2021-01-16T15:32:44+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -511,6 +511,7 @@ domain:0735.com,
 domain:07358.com,
 domain:0735ba.com,
 domain:0735jz.com,
+domain:0735zx.com,
 domain:0735zz.com,
 domain:0736fdc.com,
 domain:0736zz.com,
@@ -14902,6 +14903,7 @@ domain:css-js.com,
 domain:css.network,
 domain:css6.com,
 domain:css88.com,
+domain:css88.vip,
 domain:cssa-swansea.com,
 domain:cssaaa.com,
 domain:csser.me,
