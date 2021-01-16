@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc2MDU2Ngo=
+# Checksum: MTYxMDc2OTU3Ngo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210116-0
-# TimeUpdated: 2021-01-16T01:29:26+00:00
+# Version: 1.2.9-20210116-1
+# TimeUpdated: 2021-01-16T03:59:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -220,7 +220,6 @@ domain:025ct.com,
 domain:025ebaidu.com,
 domain:025jxsb.com,
 domain:025kaiyi.com,
-domain:025nj.com,
 domain:025sc.com,
 domain:025xingshi.net,
 domain:025xl.com,
