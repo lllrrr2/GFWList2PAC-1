@@ -1,7 +1,7 @@
-# Checksum: MTYxMDgxMTE2NAo=
+# Checksum: MTYxMDgyMzE4Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210116-5
-# TimeUpdated: 2021-01-16T15:32:44+00:00
+# Version: 1.2.9-20210116-6
+# TimeUpdated: 2021-01-16T18:53:03+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -4598,7 +4598,6 @@ DOMAIN-SUFFIX,5kcrm.com
 DOMAIN-SUFFIX,5kcrm.net
 DOMAIN-SUFFIX,5kda.com
 DOMAIN-SUFFIX,5khouse.com
-DOMAIN-SUFFIX,5kym.com
 DOMAIN-SUFFIX,5lanren.com
 DOMAIN-SUFFIX,5lewen.com
 DOMAIN-SUFFIX,5lux.com
@@ -8785,7 +8784,6 @@ DOMAIN-SUFFIX,baidubaidubaidu.net
 DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,baiduc.com
 DOMAIN-SUFFIX,baiducontent.com
-DOMAIN-SUFFIX,baidudw.com
 DOMAIN-SUFFIX,baidufanyi.com
 DOMAIN-SUFFIX,baidufe.com
 DOMAIN-SUFFIX,baiduhua.com
@@ -10710,7 +10708,6 @@ DOMAIN-SUFFIX,btcbbs.com
 DOMAIN-SUFFIX,btcfans.com
 DOMAIN-SUFFIX,btcha.com
 DOMAIN-SUFFIX,btckan.com
-DOMAIN-SUFFIX,btckj.net
 DOMAIN-SUFFIX,btcsearch.com
 DOMAIN-SUFFIX,btcside.com
 DOMAIN-SUFFIX,btcsos.com
@@ -34492,6 +34489,7 @@ DOMAIN-SUFFIX,mequn.com
 DOMAIN-SUFFIX,mercedes-benzarena.com
 DOMAIN-SUFFIX,mergeek.com
 DOMAIN-SUFFIX,merry-box.com
+DOMAIN-SUFFIX,merryuser.com
 DOMAIN-SUFFIX,mescroll.com
 DOMAIN-SUFFIX,mesesoft.net
 DOMAIN-SUFFIX,meshang.net
@@ -41734,6 +41732,7 @@ DOMAIN-SUFFIX,sbeacon.sina.com.cn
 DOMAIN-SUFFIX,sbeira.com
 DOMAIN-SUFFIX,sbgl.net
 DOMAIN-SUFFIX,sbiquge.com
+DOMAIN-SUFFIX,sbk-h5.com
 DOMAIN-SUFFIX,sbkk8.com
 DOMAIN-SUFFIX,sbkk88.com
 DOMAIN-SUFFIX,sblunwen.com
@@ -47035,6 +47034,7 @@ DOMAIN-SUFFIX,tqedu.net
 DOMAIN-SUFFIX,tqiantu.com
 DOMAIN-SUFFIX,tql.ink
 DOMAIN-SUFFIX,tqle.com
+DOMAIN-SUFFIX,tqmall.com
 DOMAIN-SUFFIX,tqqa.com
 DOMAIN-SUFFIX,tqsafe.com
 DOMAIN-SUFFIX,tqschool.net
