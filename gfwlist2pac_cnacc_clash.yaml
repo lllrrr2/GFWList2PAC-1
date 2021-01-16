@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDc0NjQ4Mwo=
+# Checksum: MTYxMDc2MDU2Ngo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210115-7
-# TimeUpdated: 2021-01-15T21:34:43+00:00
+# Version: 1.2.9-20210116-0
+# TimeUpdated: 2021-01-16T01:29:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -221,6 +221,7 @@ payload:
   - DOMAIN-SUFFIX,025ebaidu.com
   - DOMAIN-SUFFIX,025jxsb.com
   - DOMAIN-SUFFIX,025kaiyi.com
+  - DOMAIN-SUFFIX,025nj.com
   - DOMAIN-SUFFIX,025sc.com
   - DOMAIN-SUFFIX,025xingshi.net
   - DOMAIN-SUFFIX,025xl.com
@@ -1235,7 +1236,6 @@ payload:
   - DOMAIN-SUFFIX,151.hk
   - DOMAIN-SUFFIX,15111223344.com
   - DOMAIN-SUFFIX,15153.com
-  - DOMAIN-SUFFIX,1515bh.com
   - DOMAIN-SUFFIX,15166.com
   - DOMAIN-SUFFIX,1518.com
   - DOMAIN-SUFFIX,151kan.com
@@ -2419,7 +2419,6 @@ payload:
   - DOMAIN-SUFFIX,315zw.com
   - DOMAIN-SUFFIX,315zww.com
   - DOMAIN-SUFFIX,31609.com
-  - DOMAIN-SUFFIX,3171688.com
   - DOMAIN-SUFFIX,317hu.com
   - DOMAIN-SUFFIX,3188.la
   - DOMAIN-SUFFIX,318ek.com
@@ -3694,7 +3693,6 @@ payload:
   - DOMAIN-SUFFIX,51psj.com
   - DOMAIN-SUFFIX,51psw.com
   - DOMAIN-SUFFIX,51puer.com
-  - DOMAIN-SUFFIX,51q15.com
   - DOMAIN-SUFFIX,51qc.com
   - DOMAIN-SUFFIX,51qc.net
   - DOMAIN-SUFFIX,51qed.com
@@ -3941,7 +3939,6 @@ payload:
   - DOMAIN-SUFFIX,523touzi.com
   - DOMAIN-SUFFIX,523us.com
   - DOMAIN-SUFFIX,523xs.com
-  - DOMAIN-SUFFIX,5243dian.com
   - DOMAIN-SUFFIX,5251.net
   - DOMAIN-SUFFIX,5252e.com
   - DOMAIN-SUFFIX,5254.com
@@ -4325,7 +4322,6 @@ payload:
   - DOMAIN-SUFFIX,571seo.com
   - DOMAIN-SUFFIX,571xz.com
   - DOMAIN-SUFFIX,5721.net
-  - DOMAIN-SUFFIX,572bet.com
   - DOMAIN-SUFFIX,5755.com
   - DOMAIN-SUFFIX,575ib.com
   - DOMAIN-SUFFIX,57616.com
@@ -8352,7 +8348,6 @@ payload:
   - DOMAIN-SUFFIX,asfzl.net
   - DOMAIN-SUFFIX,asgxsy.com
   - DOMAIN-SUFFIX,ashan.org
-  - DOMAIN-SUFFIX,ashcn.com
   - DOMAIN-SUFFIX,ashj.com
   - DOMAIN-SUFFIX,ashvsash.com
   - DOMAIN-SUFFIX,ashvsash.net
@@ -9207,6 +9202,7 @@ payload:
   - DOMAIN-SUFFIX,bbbaaa.com
   - DOMAIN-SUFFIX,bbbao.com
   - DOMAIN-SUFFIX,bbbb.com
+  - DOMAIN-SUFFIX,bbbbbb.me
   - DOMAIN-SUFFIX,bbbcdns.com
   - DOMAIN-SUFFIX,bbbtgo.com
   - DOMAIN-SUFFIX,bbbvip.com
@@ -10091,7 +10087,6 @@ payload:
   - DOMAIN-SUFFIX,bjhj10000.com
   - DOMAIN-SUFFIX,bjhmxx.net
   - DOMAIN-SUFFIX,bjhouse.com
-  - DOMAIN-SUFFIX,bjhqs.com
   - DOMAIN-SUFFIX,bjhrkc.com
   - DOMAIN-SUFFIX,bjhscx.com
   - DOMAIN-SUFFIX,bjhtzsgs.com
@@ -12176,7 +12171,6 @@ payload:
   - DOMAIN-SUFFIX,chda.net
   - DOMAIN-SUFFIX,chdajob.com
   - DOMAIN-SUFFIX,chdelphin.com
-  - DOMAIN-SUFFIX,chdjs.com
   - DOMAIN-SUFFIX,chdtv.net
   - DOMAIN-SUFFIX,che.com
   - DOMAIN-SUFFIX,che0.com
@@ -13878,6 +13872,7 @@ payload:
   - DOMAIN-SUFFIX,cnhowotruck.com
   - DOMAIN-SUFFIX,cnhpt.com
   - DOMAIN-SUFFIX,cnhszx.com
+  - DOMAIN-SUFFIX,cnhuadong.net
   - DOMAIN-SUFFIX,cnhuanya.com
   - DOMAIN-SUFFIX,cnhubei.com
   - DOMAIN-SUFFIX,cnhup.com
@@ -35315,6 +35310,7 @@ payload:
   - DOMAIN-SUFFIX,monizl.com
   - DOMAIN-SUFFIX,monph.com
   - DOMAIN-SUFFIX,monseng.com
+  - DOMAIN-SUFFIX,monsooncvs.com
   - DOMAIN-SUFFIX,monsterlin.com
   - DOMAIN-SUFFIX,monteamor.com
   - DOMAIN-SUFFIX,montnets.com
