@@ -1,7 +1,7 @@
-# Checksum: MTYxMDgyMzE4Mwo=
+# Checksum: MTYxMDgzMjY1Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.2.9-20210116-6
-# TimeUpdated: 2021-01-16T18:53:03+00:00
+# Version: 1.2.9-20210116-7
+# TimeUpdated: 2021-01-16T21:30:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -4162,7 +4162,6 @@ DOMAIN-SUFFIX,53kf.com
 DOMAIN-SUFFIX,53miji.com
 DOMAIN-SUFFIX,53nic.com
 DOMAIN-SUFFIX,53r.com
-DOMAIN-SUFFIX,53sbc.com
 DOMAIN-SUFFIX,53shop.com
 DOMAIN-SUFFIX,53shubiao.com
 DOMAIN-SUFFIX,53sikao.com
@@ -8545,7 +8544,6 @@ DOMAIN-SUFFIX,av199.com
 DOMAIN-SUFFIX,av2.me
 DOMAIN-SUFFIX,av269.com
 DOMAIN-SUFFIX,av380.net
-DOMAIN-SUFFIX,avacvisa.com
 DOMAIN-SUFFIX,avalon233.com
 DOMAIN-SUFFIX,avanpa.com
 DOMAIN-SUFFIX,avatarmind.com
@@ -12850,7 +12848,6 @@ DOMAIN-SUFFIX,chinatimber.org
 DOMAIN-SUFFIX,chinatiner.com
 DOMAIN-SUFFIX,chinatiredealer.com
 DOMAIN-SUFFIX,chinatopbrands.net
-DOMAIN-SUFFIX,chinatopbrands.org
 DOMAIN-SUFFIX,chinatourguide.com
 DOMAIN-SUFFIX,chinatpm.com
 DOMAIN-SUFFIX,chinatpm.net
@@ -47034,7 +47031,6 @@ DOMAIN-SUFFIX,tqedu.net
 DOMAIN-SUFFIX,tqiantu.com
 DOMAIN-SUFFIX,tql.ink
 DOMAIN-SUFFIX,tqle.com
-DOMAIN-SUFFIX,tqmall.com
 DOMAIN-SUFFIX,tqqa.com
 DOMAIN-SUFFIX,tqsafe.com
 DOMAIN-SUFFIX,tqschool.net

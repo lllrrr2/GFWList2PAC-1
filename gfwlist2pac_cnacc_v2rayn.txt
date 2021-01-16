@@ -1,7 +1,7 @@
-# Checksum: MTYxMDgyMzE4Mwo=
+# Checksum: MTYxMDgzMjY1Nwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210116-6
-# TimeUpdated: 2021-01-16T18:53:03+00:00
+# Version: 1.2.9-20210116-7
+# TimeUpdated: 2021-01-16T21:30:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -4162,7 +4162,6 @@ domain:53kf.com,
 domain:53miji.com,
 domain:53nic.com,
 domain:53r.com,
-domain:53sbc.com,
 domain:53shop.com,
 domain:53shubiao.com,
 domain:53sikao.com,
@@ -8545,7 +8544,6 @@ domain:av199.com,
 domain:av2.me,
 domain:av269.com,
 domain:av380.net,
-domain:avacvisa.com,
 domain:avalon233.com,
 domain:avanpa.com,
 domain:avatarmind.com,
@@ -12850,7 +12848,6 @@ domain:chinatimber.org,
 domain:chinatiner.com,
 domain:chinatiredealer.com,
 domain:chinatopbrands.net,
-domain:chinatopbrands.org,
 domain:chinatourguide.com,
 domain:chinatpm.com,
 domain:chinatpm.net,
@@ -47034,7 +47031,6 @@ domain:tqedu.net,
 domain:tqiantu.com,
 domain:tql.ink,
 domain:tqle.com,
-domain:tqmall.com,
 domain:tqqa.com,
 domain:tqsafe.com,
 domain:tqschool.net,

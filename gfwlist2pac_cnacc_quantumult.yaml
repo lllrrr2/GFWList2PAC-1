@@ -1,7 +1,7 @@
-# Checksum: MTYxMDgyMzE4Mwo=
+# Checksum: MTYxMDgzMjY1Nwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.2.9-20210116-6
-# TimeUpdated: 2021-01-16T18:53:03+00:00
+# Version: 1.2.9-20210116-7
+# TimeUpdated: 2021-01-16T21:30:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -4162,7 +4162,6 @@ DOMAIN-SUFFIX,53kf.com,DIRECT
 DOMAIN-SUFFIX,53miji.com,DIRECT
 DOMAIN-SUFFIX,53nic.com,DIRECT
 DOMAIN-SUFFIX,53r.com,DIRECT
-DOMAIN-SUFFIX,53sbc.com,DIRECT
 DOMAIN-SUFFIX,53shop.com,DIRECT
 DOMAIN-SUFFIX,53shubiao.com,DIRECT
 DOMAIN-SUFFIX,53sikao.com,DIRECT
@@ -8545,7 +8544,6 @@ DOMAIN-SUFFIX,av199.com,DIRECT
 DOMAIN-SUFFIX,av2.me,DIRECT
 DOMAIN-SUFFIX,av269.com,DIRECT
 DOMAIN-SUFFIX,av380.net,DIRECT
-DOMAIN-SUFFIX,avacvisa.com,DIRECT
 DOMAIN-SUFFIX,avalon233.com,DIRECT
 DOMAIN-SUFFIX,avanpa.com,DIRECT
 DOMAIN-SUFFIX,avatarmind.com,DIRECT
@@ -12850,7 +12848,6 @@ DOMAIN-SUFFIX,chinatimber.org,DIRECT
 DOMAIN-SUFFIX,chinatiner.com,DIRECT
 DOMAIN-SUFFIX,chinatiredealer.com,DIRECT
 DOMAIN-SUFFIX,chinatopbrands.net,DIRECT
-DOMAIN-SUFFIX,chinatopbrands.org,DIRECT
 DOMAIN-SUFFIX,chinatourguide.com,DIRECT
 DOMAIN-SUFFIX,chinatpm.com,DIRECT
 DOMAIN-SUFFIX,chinatpm.net,DIRECT
@@ -47034,7 +47031,6 @@ DOMAIN-SUFFIX,tqedu.net,DIRECT
 DOMAIN-SUFFIX,tqiantu.com,DIRECT
 DOMAIN-SUFFIX,tql.ink,DIRECT
 DOMAIN-SUFFIX,tqle.com,DIRECT
-DOMAIN-SUFFIX,tqmall.com,DIRECT
 DOMAIN-SUFFIX,tqqa.com,DIRECT
 DOMAIN-SUFFIX,tqsafe.com,DIRECT
 DOMAIN-SUFFIX,tqschool.net,DIRECT
