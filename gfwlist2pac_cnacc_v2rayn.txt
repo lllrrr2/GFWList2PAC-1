@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc5MDU5Nwo=
+# Checksum: MTYxMDgwMTE2Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210116-3
-# TimeUpdated: 2021-01-16T09:49:57+00:00
+# Version: 1.2.9-20210116-4
+# TimeUpdated: 2021-01-16T12:46:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -3398,7 +3398,6 @@ domain:5173cdn.com,
 domain:5174f.com,
 domain:517best.com,
 domain:517ee.com,
-domain:517far.com,
 domain:517hotel.com,
 domain:517huizhou.com,
 domain:517huwai.com,
@@ -4298,6 +4297,7 @@ domain:56img.com,
 domain:56imgs.com,
 domain:56kandy.com,
 domain:56laile.com,
+domain:56luxury.com,
 domain:56md.com,
 domain:56mp.com,
 domain:56pan.com,
@@ -5191,7 +5191,6 @@ domain:77745.com,
 domain:777524.com,
 domain:777684a.com,
 domain:77773657.com,
-domain:777edu.com,
 domain:777kuu.com,
 domain:777moban.com,
 domain:777zp.com,
@@ -5985,7 +5984,6 @@ domain:91render.com,
 domain:91ri.org,
 domain:91ruyu.com,
 domain:91sd.com,
-domain:91search.net,
 domain:91sem.cc,
 domain:91soer.com,
 domain:91soker.com,
@@ -16233,6 +16231,7 @@ domain:dgzhihongjx.com,
 domain:dgzhisen.com,
 domain:dgzj.com,
 domain:dgzq.com.cn,
+domain:dgzsgjg.com,
 domain:dgzz1.com,
 domain:dgzzm.com,
 domain:dh.cx,

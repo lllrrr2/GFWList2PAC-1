@@ -1,7 +1,7 @@
-# Checksum: MTYxMDc5MDYwNAo=
+# Checksum: MTYxMDgwMTE3MQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.2.9-20210116-3
-# TimeUpdated: 2021-01-16T09:50:04+00:00
+# Version: 1.2.9-20210116-4
+# TimeUpdated: 2021-01-16T12:46:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -639,6 +639,7 @@ domain:2373i.com,
 domain:2378.com,
 domain:237rr.com,
 domain:237yu.com,
+domain:24.2waky.com,
 domain:24.dns2.us,
 domain:24.now-ip.net,
 domain:24.slyip.net,
@@ -739,6 +740,7 @@ domain:2proxy.de,
 domain:2shared.com,
 domain:2st8.ch,
 domain:2usee.com,
+domain:2waky.com,
 domain:2ways.net,
 domain:2win.biz.tm,
 domain:3-a.net,

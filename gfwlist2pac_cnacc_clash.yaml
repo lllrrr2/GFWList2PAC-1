@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDc5MDU5Nwo=
+# Checksum: MTYxMDgwMTE2Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210116-3
-# TimeUpdated: 2021-01-16T09:49:57+00:00
+# Version: 1.2.9-20210116-4
+# TimeUpdated: 2021-01-16T12:46:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -3399,7 +3399,6 @@ payload:
   - DOMAIN-SUFFIX,5174f.com
   - DOMAIN-SUFFIX,517best.com
   - DOMAIN-SUFFIX,517ee.com
-  - DOMAIN-SUFFIX,517far.com
   - DOMAIN-SUFFIX,517hotel.com
   - DOMAIN-SUFFIX,517huizhou.com
   - DOMAIN-SUFFIX,517huwai.com
@@ -4299,6 +4298,7 @@ payload:
   - DOMAIN-SUFFIX,56imgs.com
   - DOMAIN-SUFFIX,56kandy.com
   - DOMAIN-SUFFIX,56laile.com
+  - DOMAIN-SUFFIX,56luxury.com
   - DOMAIN-SUFFIX,56md.com
   - DOMAIN-SUFFIX,56mp.com
   - DOMAIN-SUFFIX,56pan.com
@@ -5192,7 +5192,6 @@ payload:
   - DOMAIN-SUFFIX,777524.com
   - DOMAIN-SUFFIX,777684a.com
   - DOMAIN-SUFFIX,77773657.com
-  - DOMAIN-SUFFIX,777edu.com
   - DOMAIN-SUFFIX,777kuu.com
   - DOMAIN-SUFFIX,777moban.com
   - DOMAIN-SUFFIX,777zp.com
@@ -5986,7 +5985,6 @@ payload:
   - DOMAIN-SUFFIX,91ri.org
   - DOMAIN-SUFFIX,91ruyu.com
   - DOMAIN-SUFFIX,91sd.com
-  - DOMAIN-SUFFIX,91search.net
   - DOMAIN-SUFFIX,91sem.cc
   - DOMAIN-SUFFIX,91soer.com
   - DOMAIN-SUFFIX,91soker.com
@@ -16234,6 +16232,7 @@ payload:
   - DOMAIN-SUFFIX,dgzhisen.com
   - DOMAIN-SUFFIX,dgzj.com
   - DOMAIN-SUFFIX,dgzq.com.cn
+  - DOMAIN-SUFFIX,dgzsgjg.com
   - DOMAIN-SUFFIX,dgzz1.com
   - DOMAIN-SUFFIX,dgzzm.com
   - DOMAIN-SUFFIX,dh.cx
