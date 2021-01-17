@@ -1,7 +1,7 @@
-# Checksum: MTYxMDg2NzAzNQo=
+# Checksum: MTYxMDg3NzAzOQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.3.0-20210117-2
-# TimeUpdated: 2021-01-17T07:03:55+00:00
+# Version: 1.3.0-20210117-3
+# TimeUpdated: 2021-01-17T09:50:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -10848,7 +10848,6 @@ domain:buyanshufa.com,
 domain:buyaor.cc,
 domain:buybieshu.com,
 domain:buycolle.com,
-domain:buyerscellars.com,
 domain:buyfine.net,
 domain:buyigang.com,
 domain:buyihao.com,
@@ -11358,7 +11357,6 @@ domain:catalog-tj.com,
 domain:catfish-cms.com,
 domain:catfun.tv,
 domain:catguo.com,
-domain:cathaycentury.com,
 domain:catjc.com,
 domain:cato-travel.com,
 domain:caua99.com,
@@ -26114,6 +26112,7 @@ domain:idea1986.com,
 domain:ideacms.net,
 domain:ideagou.com,
 domain:ideanote.cc,
+domain:ideapersist.com,
 domain:ideappt.com,
 domain:ideazhao.com,
 domain:ideebank.com,
@@ -33901,6 +33900,7 @@ domain:manhuatai.com,
 domain:manhuav.com,
 domain:manhuayang.com,
 domain:manhui.net,
+domain:maninmusic.com,
 domain:manjiwang.com,
 domain:manlinggame.com,
 domain:manlongye.com,
@@ -35634,6 +35634,7 @@ domain:mtzmyjf.com,
 domain:mtzqty.com,
 domain:mtzuichen.com,
 domain:mtzxgf.com,
+domain:mu8.cc,
 domain:mubie.net,
 domain:mubu.com,
 domain:mubu.io,

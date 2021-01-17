@@ -1,7 +1,7 @@
-# Checksum: MTYxMDg2NzA0NQo=
+# Checksum: MTYxMDg3NzA0Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.0-20210117-2
-# TimeUpdated: 2021-01-17T07:04:05+00:00
+# Version: 1.3.0-20210117-3
+# TimeUpdated: 2021-01-17T09:50:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5178,6 +5178,7 @@ domain:bmw-plant-munich.com,
 domain:bmw-powertrain.com,
 domain:bmw-product-highlights.com,
 domain:bmw-qatar.com,
+domain:bmw-routes.com,
 domain:bmw-rp.com,
 domain:bmw-rrdays.com,
 domain:bmw-saudiarabia.com,

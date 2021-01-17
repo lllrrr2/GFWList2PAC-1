@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDg2NzAzNQo=
+# Checksum: MTYxMDg3NzAzOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.3.0-20210117-2
-# TimeUpdated: 2021-01-17T07:03:55+00:00
+# Version: 1.3.0-20210117-3
+# TimeUpdated: 2021-01-17T09:50:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -10849,7 +10849,6 @@ payload:
   - DOMAIN-SUFFIX,buyaor.cc
   - DOMAIN-SUFFIX,buybieshu.com
   - DOMAIN-SUFFIX,buycolle.com
-  - DOMAIN-SUFFIX,buyerscellars.com
   - DOMAIN-SUFFIX,buyfine.net
   - DOMAIN-SUFFIX,buyigang.com
   - DOMAIN-SUFFIX,buyihao.com
@@ -11359,7 +11358,6 @@ payload:
   - DOMAIN-SUFFIX,catfish-cms.com
   - DOMAIN-SUFFIX,catfun.tv
   - DOMAIN-SUFFIX,catguo.com
-  - DOMAIN-SUFFIX,cathaycentury.com
   - DOMAIN-SUFFIX,catjc.com
   - DOMAIN-SUFFIX,cato-travel.com
   - DOMAIN-SUFFIX,caua99.com
@@ -26115,6 +26113,7 @@ payload:
   - DOMAIN-SUFFIX,ideacms.net
   - DOMAIN-SUFFIX,ideagou.com
   - DOMAIN-SUFFIX,ideanote.cc
+  - DOMAIN-SUFFIX,ideapersist.com
   - DOMAIN-SUFFIX,ideappt.com
   - DOMAIN-SUFFIX,ideazhao.com
   - DOMAIN-SUFFIX,ideebank.com
@@ -33902,6 +33901,7 @@ payload:
   - DOMAIN-SUFFIX,manhuav.com
   - DOMAIN-SUFFIX,manhuayang.com
   - DOMAIN-SUFFIX,manhui.net
+  - DOMAIN-SUFFIX,maninmusic.com
   - DOMAIN-SUFFIX,manjiwang.com
   - DOMAIN-SUFFIX,manlinggame.com
   - DOMAIN-SUFFIX,manlongye.com
@@ -35635,6 +35635,7 @@ payload:
   - DOMAIN-SUFFIX,mtzqty.com
   - DOMAIN-SUFFIX,mtzuichen.com
   - DOMAIN-SUFFIX,mtzxgf.com
+  - DOMAIN-SUFFIX,mu8.cc
   - DOMAIN-SUFFIX,mubie.net
   - DOMAIN-SUFFIX,mubu.com
   - DOMAIN-SUFFIX,mubu.io
