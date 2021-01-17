@@ -1,7 +1,7 @@
-# Checksum: MTYxMDg1NjAyNgo=
+# Checksum: MTYxMDg2NTkzMgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.2.9-20210117-1
-# TimeUpdated: 2021-01-17T04:00:26+00:00
+# Version: 1.2.9-20210117-2
+# TimeUpdated: 2021-01-17T06:45:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1859,6 +1859,7 @@ domain:2000dns.com,
 domain:2000new.com,
 domain:2002000.xyz,
 domain:200218.com,
+domain:2003dns.com,
 domain:20063365.com,
 domain:2006q.com,
 domain:2008php.com,
@@ -2557,6 +2558,7 @@ domain:3464.com,
 domain:349603.cc,
 domain:3499.co,
 domain:349broomestreet.com,
+domain:34dm.com,
 domain:34l.com,
 domain:34xiaoshuo.com,
 domain:350.com,
