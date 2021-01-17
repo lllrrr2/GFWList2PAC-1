@@ -1,7 +1,7 @@
-# Checksum: MTYxMDg5NzU1Ngo=
+# Checksum: MTYxMDkwOTU1MAo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.3.0-20210117-5
-# TimeUpdated: 2021-01-17T15:32:36+00:00
+# Version: 1.3.0-20210117-6
+# TimeUpdated: 2021-01-17T18:52:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -905,7 +905,6 @@ domain:112wan.com,
 domain:1131.cc,
 domain:11315.com,
 domain:11320.com,
-domain:1133.cc,
 domain:113989.com,
 domain:114-91.com,
 domain:114160.com,
@@ -2814,7 +2813,6 @@ domain:36mh.com,
 domain:36nu.com,
 domain:36sfw.com,
 domain:36ve.net,
-domain:36xs.net,
 domain:36yc.com,
 domain:36zhen.com,
 domain:37-sky.com,
@@ -5049,7 +5047,6 @@ domain:714.com,
 domain:714.hk,
 domain:715083.com,
 domain:7152223.com,
-domain:715300.com,
 domain:7160.com,
 domain:71714.com,
 domain:71749b.com,
@@ -7690,7 +7687,6 @@ domain:amexpressnetwork.com,
 domain:amfproject.org,
 domain:amgbs.com,
 domain:amh.sh,
-domain:amhaiqiang.com,
 domain:amhl.net,
 domain:amicool.net,
 domain:amijiaoyu.com,

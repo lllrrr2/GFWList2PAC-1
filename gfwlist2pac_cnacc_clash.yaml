@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDg5NzU1Ngo=
+# Checksum: MTYxMDkwOTU1MAo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.3.0-20210117-5
-# TimeUpdated: 2021-01-17T15:32:36+00:00
+# Version: 1.3.0-20210117-6
+# TimeUpdated: 2021-01-17T18:52:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -906,7 +906,6 @@ payload:
   - DOMAIN-SUFFIX,1131.cc
   - DOMAIN-SUFFIX,11315.com
   - DOMAIN-SUFFIX,11320.com
-  - DOMAIN-SUFFIX,1133.cc
   - DOMAIN-SUFFIX,113989.com
   - DOMAIN-SUFFIX,114-91.com
   - DOMAIN-SUFFIX,114160.com
@@ -2815,7 +2814,6 @@ payload:
   - DOMAIN-SUFFIX,36nu.com
   - DOMAIN-SUFFIX,36sfw.com
   - DOMAIN-SUFFIX,36ve.net
-  - DOMAIN-SUFFIX,36xs.net
   - DOMAIN-SUFFIX,36yc.com
   - DOMAIN-SUFFIX,36zhen.com
   - DOMAIN-SUFFIX,37-sky.com
@@ -5050,7 +5048,6 @@ payload:
   - DOMAIN-SUFFIX,714.hk
   - DOMAIN-SUFFIX,715083.com
   - DOMAIN-SUFFIX,7152223.com
-  - DOMAIN-SUFFIX,715300.com
   - DOMAIN-SUFFIX,7160.com
   - DOMAIN-SUFFIX,71714.com
   - DOMAIN-SUFFIX,71749b.com
@@ -7691,7 +7688,6 @@ payload:
   - DOMAIN-SUFFIX,amfproject.org
   - DOMAIN-SUFFIX,amgbs.com
   - DOMAIN-SUFFIX,amh.sh
-  - DOMAIN-SUFFIX,amhaiqiang.com
   - DOMAIN-SUFFIX,amhl.net
   - DOMAIN-SUFFIX,amicool.net
   - DOMAIN-SUFFIX,amijiaoyu.com
