@@ -1,7 +1,7 @@
-# Checksum: MTYxMDg4NzUwMgo=
+# Checksum: MTYxMDg5NzU2NQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.0-20210117-4
-# TimeUpdated: 2021-01-17T12:45:02+00:00
+# Version: 1.3.0-20210117-5
+# TimeUpdated: 2021-01-17T15:32:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1468,6 +1468,7 @@ domain:78ten.com,
 domain:78xtv.com,
 domain:7909.com,
 domain:7911k.app,
+domain:797vip.com,
 domain:799299.com,
 domain:799499.com,
 domain:7afcp.com,
@@ -20144,6 +20145,7 @@ domain:paypaly.com,
 domain:paypass.net,
 domain:payppal.com,
 domain:payypal.com,
+domain:pazou.org,
 domain:pazziperilcinema.it,
 domain:pbassociates.biz,
 domain:pbs-ec.twimg.com,
