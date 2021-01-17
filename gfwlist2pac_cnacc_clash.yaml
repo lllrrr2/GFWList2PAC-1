@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDg0Njk3OQo=
+# Checksum: MTYxMDg1NjAyNgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.2.9-20210117-0
-# TimeUpdated: 2021-01-17T01:29:39+00:00
+# Version: 1.2.9-20210117-1
+# TimeUpdated: 2021-01-17T04:00:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -4503,7 +4503,6 @@ payload:
   - DOMAIN-SUFFIX,5cms.com
   - DOMAIN-SUFFIX,5cocoi.com
   - DOMAIN-SUFFIX,5coser.com
-  - DOMAIN-SUFFIX,5cwm.com
   - DOMAIN-SUFFIX,5dashi.com
   - DOMAIN-SUFFIX,5di.tv
   - DOMAIN-SUFFIX,5ding.com
@@ -6599,7 +6598,6 @@ payload:
   - DOMAIN-SUFFIX,aacheji.com
   - DOMAIN-SUFFIX,aad.tw
   - DOMAIN-SUFFIX,aadongman.com
-  - DOMAIN-SUFFIX,aafangz.com
   - DOMAIN-SUFFIX,aamachina.org
   - DOMAIN-SUFFIX,aaniao.com
   - DOMAIN-SUFFIX,aapig.com
@@ -8413,6 +8411,7 @@ payload:
   - DOMAIN-SUFFIX,astrocn.org
   - DOMAIN-SUFFIX,astron.ac
   - DOMAIN-SUFFIX,asus.com.cn
+  - DOMAIN-SUFFIX,asussmart.com
   - DOMAIN-SUFFIX,aswetalk.net
   - DOMAIN-SUFFIX,asyzonline.com
   - DOMAIN-SUFFIX,aszw.org
@@ -8694,6 +8693,7 @@ payload:
   - DOMAIN-SUFFIX,b8yx.com
   - DOMAIN-SUFFIX,ba-li.com
   - DOMAIN-SUFFIX,ba125.com
+  - DOMAIN-SUFFIX,baaidu.com
   - DOMAIN-SUFFIX,baalchina.net
   - DOMAIN-SUFFIX,baba.cc
   - DOMAIN-SUFFIX,bababus.com
@@ -44422,7 +44422,6 @@ payload:
   - DOMAIN-SUFFIX,ssggg.com
   - DOMAIN-SUFFIX,ssgushi.com
   - DOMAIN-SUFFIX,ssimg.cn
-  - DOMAIN-SUFFIX,ssine.cc
   - DOMAIN-SUFFIX,ssine.ink
   - DOMAIN-SUFFIX,ssipex.com
   - DOMAIN-SUFFIX,ssjjss.com
@@ -45555,6 +45554,7 @@ payload:
   - DOMAIN-SUFFIX,taichi-app.com
   - DOMAIN-SUFFIX,taicihome.com
   - DOMAIN-SUFFIX,taidizh.com
+  - DOMAIN-SUFFIX,taidous.com
   - DOMAIN-SUFFIX,taidu.com
   - DOMAIN-SUFFIX,taidupa.com
   - DOMAIN-SUFFIX,taig.com
@@ -51442,7 +51442,6 @@ payload:
   - DOMAIN-SUFFIX,wxshake.com
   - DOMAIN-SUFFIX,wxsteed.com
   - DOMAIN-SUFFIX,wxsyedu.net
-  - DOMAIN-SUFFIX,wxsywh.com
   - DOMAIN-SUFFIX,wxtpb.com
   - DOMAIN-SUFFIX,wxuse.com
   - DOMAIN-SUFFIX,wxw120.com
@@ -58118,7 +58117,6 @@ payload:
   - DOMAIN-SUFFIX,zonemore.com
   - DOMAIN-SUFFIX,zonen-tech.com
   - DOMAIN-SUFFIX,zonepp.com
-  - DOMAIN-SUFFIX,zoneve.com
   - DOMAIN-SUFFIX,zongcaidarentilihaoya.com
   - DOMAIN-SUFFIX,zongheng.com
   - DOMAIN-SUFFIX,zonghengche.com
