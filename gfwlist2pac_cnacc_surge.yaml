@@ -1,7 +1,7 @@
-# Checksum: MTYxMDk2MzU5NQo=
+# Checksum: MTYxMDk3NDEwMAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.0-20210118-3
-# TimeUpdated: 2021-01-18T09:53:15+00:00
+# Version: 1.3.0-20210118-4
+# TimeUpdated: 2021-01-18T12:48:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -492,6 +492,7 @@ DOMAIN-SUFFIX,0718.cc
 DOMAIN-SUFFIX,071811.cc
 DOMAIN-SUFFIX,0719house.com
 DOMAIN-SUFFIX,0722fc.com
+DOMAIN-SUFFIX,0722h.com
 DOMAIN-SUFFIX,0722zs.com
 DOMAIN-SUFFIX,0724c.com
 DOMAIN-SUFFIX,0728f.com
@@ -5768,7 +5769,6 @@ DOMAIN-SUFFIX,8dexpress.com
 DOMAIN-SUFFIX,8dlive.com
 DOMAIN-SUFFIX,8dol.com
 DOMAIN-SUFFIX,8dp.net
-DOMAIN-SUFFIX,8dream.net
 DOMAIN-SUFFIX,8dudata.com
 DOMAIN-SUFFIX,8dwww.com
 DOMAIN-SUFFIX,8e8z.com
@@ -9134,7 +9134,6 @@ DOMAIN-SUFFIX,baozoumanhua.com
 DOMAIN-SUFFIX,baozy.com
 DOMAIN-SUFFIX,baping.com
 DOMAIN-SUFFIX,baqiu.com
-DOMAIN-SUFFIX,baquge.cc
 DOMAIN-SUFFIX,baquge.com
 DOMAIN-SUFFIX,bar.baidu.com
 DOMAIN-SUFFIX,barlowarl.com
@@ -10140,7 +10139,6 @@ DOMAIN-SUFFIX,bjmeikao.com
 DOMAIN-SUFFIX,bjmeileju.com
 DOMAIN-SUFFIX,bjmepin.com
 DOMAIN-SUFFIX,bjmeri.org
-DOMAIN-SUFFIX,bjmingdi.com
 DOMAIN-SUFFIX,bjmjm.com
 DOMAIN-SUFFIX,bjmslp.com
 DOMAIN-SUFFIX,bjmti.com
@@ -10854,7 +10852,6 @@ DOMAIN-SUFFIX,buyjipifa.com
 DOMAIN-SUFFIX,buyjk.com
 DOMAIN-SUFFIX,buykee.com
 DOMAIN-SUFFIX,buyku88.com
-DOMAIN-SUFFIX,buylabel.com
 DOMAIN-SUFFIX,buysun.net
 DOMAIN-SUFFIX,buysweet.com
 DOMAIN-SUFFIX,buytips.site
@@ -10886,6 +10883,7 @@ DOMAIN-SUFFIX,bxb2b.com
 DOMAIN-SUFFIX,bxd365.com
 DOMAIN-SUFFIX,bxdaka.com
 DOMAIN-SUFFIX,bxdlkj.com
+DOMAIN-SUFFIX,bxfaka.com
 DOMAIN-SUFFIX,bxgfw.com
 DOMAIN-SUFFIX,bxgjyc.com
 DOMAIN-SUFFIX,bxglobal.com
@@ -11486,7 +11484,6 @@ DOMAIN-SUFFIX,ccjzzj.com
 DOMAIN-SUFFIX,cclcn.com
 DOMAIN-SUFFIX,cclexpo.com
 DOMAIN-SUFFIX,cclndx.com
-DOMAIN-SUFFIX,cclolcc.com
 DOMAIN-SUFFIX,cclycs.com
 DOMAIN-SUFFIX,cclyun.com
 DOMAIN-SUFFIX,ccm-1.com
@@ -42887,6 +42884,7 @@ DOMAIN-SUFFIX,shiyanjia.com
 DOMAIN-SUFFIX,shiyanlou.com
 DOMAIN-SUFFIX,shiyebian.net
 DOMAIN-SUFFIX,shiyebian.org
+DOMAIN-SUFFIX,shiyi11.com
 DOMAIN-SUFFIX,shiyibao.com
 DOMAIN-SUFFIX,shiyicunxiao.com
 DOMAIN-SUFFIX,shiyongjun.biz
