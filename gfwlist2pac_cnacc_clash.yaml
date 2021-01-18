@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMDk3NDEwMAo=
+# Checksum: MTYxMDk4NDE4MQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.3.0-20210118-4
-# TimeUpdated: 2021-01-18T12:48:20+00:00
+# Version: 1.3.0-20210118-5
+# TimeUpdated: 2021-01-18T15:36:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -16283,6 +16283,7 @@ payload:
   - DOMAIN-SUFFIX,diandainfo.com
   - DOMAIN-SUFFIX,diandanbao.com
   - DOMAIN-SUFFIX,diandao.org
+  - DOMAIN-SUFFIX,diandawenku.com
   - DOMAIN-SUFFIX,diandian.com
   - DOMAIN-SUFFIX,diandianchu.com
   - DOMAIN-SUFFIX,diandianqi.com
@@ -34948,6 +34949,7 @@ payload:
   - DOMAIN-SUFFIX,mir4399.com
   - DOMAIN-SUFFIX,miraclevision.net
   - DOMAIN-SUFFIX,mirari.cc
+  - DOMAIN-SUFFIX,miro891.com
   - DOMAIN-SUFFIX,mirxat.com
   - DOMAIN-SUFFIX,misall.com
   - DOMAIN-SUFFIX,miscd.com
