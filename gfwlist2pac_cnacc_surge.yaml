@@ -1,7 +1,7 @@
-# Checksum: MTYxMDk4NDE4MQo=
+# Checksum: MTYxMDk5NjA4Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.0-20210118-5
-# TimeUpdated: 2021-01-18T15:36:21+00:00
+# Version: 1.3.0-20210118-6
+# TimeUpdated: 2021-01-18T18:54:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1334,7 +1334,6 @@ DOMAIN-SUFFIX,16789.net
 DOMAIN-SUFFIX,16816.com
 DOMAIN-SUFFIX,168393.com
 DOMAIN-SUFFIX,1684.cc
-DOMAIN-SUFFIX,1684sm.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,16886000.com
 DOMAIN-SUFFIX,16888.com
@@ -2111,6 +2110,7 @@ DOMAIN-SUFFIX,23xsba.cc
 DOMAIN-SUFFIX,23xsw.cc
 DOMAIN-SUFFIX,23yy.com
 DOMAIN-SUFFIX,240yx.com
+DOMAIN-SUFFIX,243ty.com
 DOMAIN-SUFFIX,2455000.com
 DOMAIN-SUFFIX,246ys.com
 DOMAIN-SUFFIX,2478.com
@@ -2984,6 +2984,7 @@ DOMAIN-SUFFIX,3gu.com
 DOMAIN-SUFFIX,3gus.com
 DOMAIN-SUFFIX,3h3.com
 DOMAIN-SUFFIX,3haow.com
+DOMAIN-SUFFIX,3jdh.com
 DOMAIN-SUFFIX,3jidi.com
 DOMAIN-SUFFIX,3jke.com
 DOMAIN-SUFFIX,3jrx.com
@@ -15903,6 +15904,7 @@ DOMAIN-SUFFIX,ddianshang.com
 DOMAIN-SUFFIX,ddimg.mobi
 DOMAIN-SUFFIX,ddimg.net
 DOMAIN-SUFFIX,dding.net
+DOMAIN-SUFFIX,ddiworld.com
 DOMAIN-SUFFIX,ddk-alink.com
 DOMAIN-SUFFIX,ddkefu.com
 DOMAIN-SUFFIX,ddkids.com
@@ -17198,6 +17200,7 @@ DOMAIN-SUFFIX,doyoo.net
 DOMAIN-SUFFIX,doyoudo.com
 DOMAIN-SUFFIX,doyouhike.net
 DOMAIN-SUFFIX,dp.im.weibo.cn
+DOMAIN-SUFFIX,dp.image-gmkt.com
 DOMAIN-SUFFIX,dp2px.com
 DOMAIN-SUFFIX,dp2u.com
 DOMAIN-SUFFIX,dpaot.com
@@ -21453,6 +21456,7 @@ DOMAIN-SUFFIX,gn00.com
 DOMAIN-SUFFIX,gn168.com
 DOMAIN-SUFFIX,gn666.com
 DOMAIN-SUFFIX,gnaixx.cc
+DOMAIN-SUFFIX,gname-dns.com
 DOMAIN-SUFFIX,gndaily.com
 DOMAIN-SUFFIX,gnehr.com
 DOMAIN-SUFFIX,gnhpc.com
@@ -25911,6 +25915,7 @@ DOMAIN-SUFFIX,iccchina.com
 DOMAIN-SUFFIX,iccemt.org
 DOMAIN-SUFFIX,iccessh.org
 DOMAIN-SUFFIX,iccgame.net
+DOMAIN-SUFFIX,icchaoren.com
 DOMAIN-SUFFIX,iccidchaxun.com
 DOMAIN-SUFFIX,iccircle.com
 DOMAIN-SUFFIX,iccsz.com
@@ -28677,6 +28682,7 @@ DOMAIN-SUFFIX,jiuyan.info
 DOMAIN-SUFFIX,jiuyao666.com
 DOMAIN-SUFFIX,jiuyehb.com
 DOMAIN-SUFFIX,jiuyi2005.com
+DOMAIN-SUFFIX,jiuyiliebian.com
 DOMAIN-SUFFIX,jiuyingnet.com
 DOMAIN-SUFFIX,jiuyingwangluo.com
 DOMAIN-SUFFIX,jiuys.com
@@ -46023,6 +46029,7 @@ DOMAIN-SUFFIX,teein.com
 DOMAIN-SUFFIX,teeker.com
 DOMAIN-SUFFIX,teencn.com
 DOMAIN-SUFFIX,teeqee.com
+DOMAIN-SUFFIX,tefl-china.net
 DOMAIN-SUFFIX,tegjlxs.com
 DOMAIN-SUFFIX,tegongji.com
 DOMAIN-SUFFIX,tegoushe.com
@@ -54100,6 +54107,7 @@ DOMAIN-SUFFIX,yclh6.com
 DOMAIN-SUFFIX,yclydf.com
 DOMAIN-SUFFIX,ycmbcd.com
 DOMAIN-SUFFIX,ycnuli.com
+DOMAIN-SUFFIX,ycool.com
 DOMAIN-SUFFIX,ycpack.net
 DOMAIN-SUFFIX,ycpai.com
 DOMAIN-SUFFIX,ycqedu.net
