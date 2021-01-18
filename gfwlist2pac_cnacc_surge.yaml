@@ -1,7 +1,7 @@
-# Checksum: MTYxMDkzMzI2MAo=
+# Checksum: MTYxMDk0MjM2Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.0-20210118-0
-# TimeUpdated: 2021-01-18T01:27:40+00:00
+# Version: 1.3.0-20210118-1
+# TimeUpdated: 2021-01-18T03:59:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1261,6 +1261,7 @@ DOMAIN-SUFFIX,15in.com
 DOMAIN-SUFFIX,15lu.com
 DOMAIN-SUFFIX,15ms.com
 DOMAIN-SUFFIX,15shu.net
+DOMAIN-SUFFIX,15sjw.com
 DOMAIN-SUFFIX,15tianqi.com
 DOMAIN-SUFFIX,15wz.com
 DOMAIN-SUFFIX,15xdd.com
@@ -1374,6 +1375,7 @@ DOMAIN-SUFFIX,16dy.com
 DOMAIN-SUFFIX,16fan.com
 DOMAIN-SUFFIX,16game.net
 DOMAIN-SUFFIX,16hyt.com
+DOMAIN-SUFFIX,16i.cc
 DOMAIN-SUFFIX,16ker.com
 DOMAIN-SUFFIX,16lao.com
 DOMAIN-SUFFIX,16lo.com
@@ -11664,6 +11666,7 @@ DOMAIN-SUFFIX,cdlbyl.com
 DOMAIN-SUFFIX,cdlfvip.com
 DOMAIN-SUFFIX,cdlgame.com
 DOMAIN-SUFFIX,cdlinux.net
+DOMAIN-SUFFIX,cdlute.com
 DOMAIN-SUFFIX,cdmfund.org
 DOMAIN-SUFFIX,cdmlrs.com
 DOMAIN-SUFFIX,cdmm.net
@@ -12353,7 +12356,6 @@ DOMAIN-SUFFIX,chezhibao.com
 DOMAIN-SUFFIX,chezhu1.com
 DOMAIN-SUFFIX,chezizhu.com
 DOMAIN-SUFFIX,chgcis.com
-DOMAIN-SUFFIX,chgjcm.com
 DOMAIN-SUFFIX,chgjedu.com
 DOMAIN-SUFFIX,chhblog.com
 DOMAIN-SUFFIX,chhkjob.com

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDkzMzI2MAo=
+# Checksum: MTYxMDk0MjM2Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.3.0-20210118-0
-# TimeUpdated: 2021-01-18T01:27:40+00:00
+# Version: 1.3.0-20210118-1
+# TimeUpdated: 2021-01-18T03:59:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1261,6 +1261,7 @@ domain:15in.com,
 domain:15lu.com,
 domain:15ms.com,
 domain:15shu.net,
+domain:15sjw.com,
 domain:15tianqi.com,
 domain:15wz.com,
 domain:15xdd.com,
@@ -1374,6 +1375,7 @@ domain:16dy.com,
 domain:16fan.com,
 domain:16game.net,
 domain:16hyt.com,
+domain:16i.cc,
 domain:16ker.com,
 domain:16lao.com,
 domain:16lo.com,
@@ -11664,6 +11666,7 @@ domain:cdlbyl.com,
 domain:cdlfvip.com,
 domain:cdlgame.com,
 domain:cdlinux.net,
+domain:cdlute.com,
 domain:cdmfund.org,
 domain:cdmlrs.com,
 domain:cdmm.net,
@@ -12353,7 +12356,6 @@ domain:chezhibao.com,
 domain:chezhu1.com,
 domain:chezizhu.com,
 domain:chgcis.com,
-domain:chgjcm.com,
 domain:chgjedu.com,
 domain:chhblog.com,
 domain:chhkjob.com,
