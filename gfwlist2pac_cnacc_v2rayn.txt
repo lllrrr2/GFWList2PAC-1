@@ -1,7 +1,7 @@
-# Checksum: MTYxMDk0MjM2Mwo=
+# Checksum: MTYxMDk1MjQxOQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.3.0-20210118-1
-# TimeUpdated: 2021-01-18T03:59:23+00:00
+# Version: 1.3.0-20210118-2
+# TimeUpdated: 2021-01-18T06:46:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -282,7 +282,6 @@ domain:029zx.net,
 domain:02edu.com,
 domain:02laser.com,
 domain:02o.pw,
-domain:02og.com,
 domain:02shu.cc,
 domain:02shu.com,
 domain:02wq.com,
@@ -891,7 +890,6 @@ domain:1116yl.com,
 domain:1117797.com,
 domain:111cn.net,
 domain:111hyk.com,
-domain:111jz.com,
 domain:111qqz.com,
 domain:111yao.com,
 domain:112112.com,
@@ -5107,6 +5105,7 @@ domain:72xit.com,
 domain:72xuan.com,
 domain:730011.com,
 domain:730700.com,
+domain:731c.com,
 domain:73232yx.com,
 domain:732732.com,
 domain:734969.com,
@@ -9179,6 +9178,7 @@ domain:bayinfu.com,
 domain:bayinh.com,
 domain:bayuegua.com,
 domain:bayueju.com,
+domain:bayueweb.com,
 domain:bayunhome.com,
 domain:bazaarjewelrychina.com,
 domain:bazai.com,
@@ -10738,6 +10738,7 @@ domain:btnotes.com,
 domain:btophr.com,
 domain:btorange.com,
 domain:btplay.net,
+domain:btr-static.com,
 domain:btrace.qq.com,
 domain:btrenren.com,
 domain:bts.hk,

@@ -1,7 +1,7 @@
-# Checksum: MTYxMDk0MjM2Mwo=
+# Checksum: MTYxMDk1MjQxOQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.0-20210118-1
-# TimeUpdated: 2021-01-18T03:59:23+00:00
+# Version: 1.3.0-20210118-2
+# TimeUpdated: 2021-01-18T06:46:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -282,7 +282,6 @@ DOMAIN-SUFFIX,029zx.net
 DOMAIN-SUFFIX,02edu.com
 DOMAIN-SUFFIX,02laser.com
 DOMAIN-SUFFIX,02o.pw
-DOMAIN-SUFFIX,02og.com
 DOMAIN-SUFFIX,02shu.cc
 DOMAIN-SUFFIX,02shu.com
 DOMAIN-SUFFIX,02wq.com
@@ -891,7 +890,6 @@ DOMAIN-SUFFIX,1116yl.com
 DOMAIN-SUFFIX,1117797.com
 DOMAIN-SUFFIX,111cn.net
 DOMAIN-SUFFIX,111hyk.com
-DOMAIN-SUFFIX,111jz.com
 DOMAIN-SUFFIX,111qqz.com
 DOMAIN-SUFFIX,111yao.com
 DOMAIN-SUFFIX,112112.com
@@ -5107,6 +5105,7 @@ DOMAIN-SUFFIX,72xit.com
 DOMAIN-SUFFIX,72xuan.com
 DOMAIN-SUFFIX,730011.com
 DOMAIN-SUFFIX,730700.com
+DOMAIN-SUFFIX,731c.com
 DOMAIN-SUFFIX,73232yx.com
 DOMAIN-SUFFIX,732732.com
 DOMAIN-SUFFIX,734969.com
@@ -9179,6 +9178,7 @@ DOMAIN-SUFFIX,bayinfu.com
 DOMAIN-SUFFIX,bayinh.com
 DOMAIN-SUFFIX,bayuegua.com
 DOMAIN-SUFFIX,bayueju.com
+DOMAIN-SUFFIX,bayueweb.com
 DOMAIN-SUFFIX,bayunhome.com
 DOMAIN-SUFFIX,bazaarjewelrychina.com
 DOMAIN-SUFFIX,bazai.com
@@ -10738,6 +10738,7 @@ DOMAIN-SUFFIX,btnotes.com
 DOMAIN-SUFFIX,btophr.com
 DOMAIN-SUFFIX,btorange.com
 DOMAIN-SUFFIX,btplay.net
+DOMAIN-SUFFIX,btr-static.com
 DOMAIN-SUFFIX,btrace.qq.com
 DOMAIN-SUFFIX,btrenren.com
 DOMAIN-SUFFIX,bts.hk
