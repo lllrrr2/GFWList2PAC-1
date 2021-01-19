@@ -1,7 +1,7 @@
-# Checksum: MTYxMTAxOTgwMAo=
+# Checksum: MTYxMTAyODg5NAo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.3.0-20210119-0
-# TimeUpdated: 2021-01-19T01:30:00+00:00
+# Version: 1.3.0-20210119-1
+# TimeUpdated: 2021-01-19T04:01:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -9402,7 +9402,6 @@ DOMAIN-SUFFIX,beijingbang.com,DIRECT
 DOMAIN-SUFFIX,beijingbaomu.com,DIRECT
 DOMAIN-SUFFIX,beijingfenxiangkeji.com,DIRECT
 DOMAIN-SUFFIX,beijinghenghua.com,DIRECT
-DOMAIN-SUFFIX,beijinghuashen.com,DIRECT
 DOMAIN-SUFFIX,beijingidc.com,DIRECT
 DOMAIN-SUFFIX,beijingkbd.com,DIRECT
 DOMAIN-SUFFIX,beijingnorthstar.com,DIRECT
@@ -13195,6 +13194,7 @@ DOMAIN-SUFFIX,chuwi.com,DIRECT
 DOMAIN-SUFFIX,chuxinm.com,DIRECT
 DOMAIN-SUFFIX,chuxueyun.com,DIRECT
 DOMAIN-SUFFIX,chuying.org,DIRECT
+DOMAIN-SUFFIX,chuyouke.com,DIRECT
 DOMAIN-SUFFIX,chuyu.me,DIRECT
 DOMAIN-SUFFIX,chuzhaobiao.com,DIRECT
 DOMAIN-SUFFIX,chw365.com,DIRECT
