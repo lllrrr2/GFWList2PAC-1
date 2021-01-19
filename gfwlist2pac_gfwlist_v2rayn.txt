@@ -1,7 +1,7 @@
-# Checksum: MTYxMTAzODg3Ngo=
+# Checksum: MTYxMTA1MDA4Ngo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.0-20210119-2
-# TimeUpdated: 2021-01-19T06:47:56+00:00
+# Version: 1.3.0-20210119-3
+# TimeUpdated: 2021-01-19T09:54:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -763,7 +763,6 @@ domain:300avi.com,
 domain:300kb.com,
 domain:300tube.com,
 domain:301hk.com,
-domain:3033s.com,
 domain:303xvideos.com,
 domain:30boxes.com,
 domain:310128.com,
@@ -2776,7 +2775,6 @@ domain:ampj223.com,
 domain:ampj224.com,
 domain:ampj226.com,
 domain:ampj228.com,
-domain:ampj30.com,
 domain:ampj557.com,
 domain:ampj558.com,
 domain:ampj559.com,
@@ -23666,6 +23664,7 @@ domain:starbucks.com,
 domain:starbucks.de,
 domain:starbucks.fr,
 domain:starbucks.ie,
+domain:starbucksreserve.com,
 domain:starcelebs.com,
 domain:starchu.com,
 domain:starcraft.com,
