@@ -1,7 +1,7 @@
-# Checksum: MTYxMTAwNTczOQo=
+# Checksum: MTYxMTAxOTgwOQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.0-20210118-7
-# TimeUpdated: 2021-01-18T21:35:39+00:00
+# Version: 1.3.0-20210119-0
+# TimeUpdated: 2021-01-19T01:30:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -9212,6 +9212,7 @@ DOMAIN-SUFFIX,easportsfootball.com,PROXY
 DOMAIN-SUFFIX,easportsfootballclub.com,PROXY
 DOMAIN-SUFFIX,easportsmma.com,PROXY
 DOMAIN-SUFFIX,easportsworld.com,PROXY
+DOMAIN-SUFFIX,east.moe,PROXY
 DOMAIN-SUFFIX,eastasiaforum.org,PROXY
 DOMAIN-SUFFIX,eastern-ark.com,PROXY
 DOMAIN-SUFFIX,easternlightning.org,PROXY
