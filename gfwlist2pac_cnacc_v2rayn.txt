@@ -1,7 +1,7 @@
-# Checksum: MTYxMTA1MDA3OQo=
+# Checksum: MTYxMTA2MDU3Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.3.0-20210119-3
-# TimeUpdated: 2021-01-19T09:54:39+00:00
+# Version: 1.3.0-20210119-4
+# TimeUpdated: 2021-01-19T12:49:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -220,7 +220,6 @@ domain:025ct.com,
 domain:025ebaidu.com,
 domain:025jxsb.com,
 domain:025kaiyi.com,
-domain:025nj.com,
 domain:025sc.com,
 domain:025xingshi.net,
 domain:025xl.com,
@@ -10561,6 +10560,7 @@ domain:bornlead.com,
 domain:borpor.com,
 domain:boruiqin.com,
 domain:boruisx.com,
+domain:boruisz.com,
 domain:boryou.com,
 domain:bosc.cn,
 domain:bosdile.com,
@@ -23846,7 +23846,6 @@ domain:hg88jj.com,
 domain:hg9707.com,
 domain:hga833.cc,
 domain:hga994.com,
-domain:hgaas.com,
 domain:hgame.com,
 domain:hgdjw.net,
 domain:hgfdcscxx.com,
@@ -55768,7 +55767,6 @@ domain:yueqiweixiu.com,
 domain:yueqixuexi.com,
 domain:yuer.com,
 domain:yuerbao.com,
-domain:yuese-qubo-jiujiujiu-12-tv.com,
 domain:yuesehan.com,
 domain:yuesir.com,
 domain:yuesuoping.com,

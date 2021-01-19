@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTA1MDA3OQo=
+# Checksum: MTYxMTA2MDU3Mgo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.3.0-20210119-3
-# TimeUpdated: 2021-01-19T09:54:39+00:00
+# Version: 1.3.0-20210119-4
+# TimeUpdated: 2021-01-19T12:49:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -221,7 +221,6 @@ payload:
   - DOMAIN-SUFFIX,025ebaidu.com
   - DOMAIN-SUFFIX,025jxsb.com
   - DOMAIN-SUFFIX,025kaiyi.com
-  - DOMAIN-SUFFIX,025nj.com
   - DOMAIN-SUFFIX,025sc.com
   - DOMAIN-SUFFIX,025xingshi.net
   - DOMAIN-SUFFIX,025xl.com
@@ -10562,6 +10561,7 @@ payload:
   - DOMAIN-SUFFIX,borpor.com
   - DOMAIN-SUFFIX,boruiqin.com
   - DOMAIN-SUFFIX,boruisx.com
+  - DOMAIN-SUFFIX,boruisz.com
   - DOMAIN-SUFFIX,boryou.com
   - DOMAIN-SUFFIX,bosc.cn
   - DOMAIN-SUFFIX,bosdile.com
@@ -23847,7 +23847,6 @@ payload:
   - DOMAIN-SUFFIX,hg9707.com
   - DOMAIN-SUFFIX,hga833.cc
   - DOMAIN-SUFFIX,hga994.com
-  - DOMAIN-SUFFIX,hgaas.com
   - DOMAIN-SUFFIX,hgame.com
   - DOMAIN-SUFFIX,hgdjw.net
   - DOMAIN-SUFFIX,hgfdcscxx.com
@@ -55769,7 +55768,6 @@ payload:
   - DOMAIN-SUFFIX,yueqixuexi.com
   - DOMAIN-SUFFIX,yuer.com
   - DOMAIN-SUFFIX,yuerbao.com
-  - DOMAIN-SUFFIX,yuese-qubo-jiujiujiu-12-tv.com
   - DOMAIN-SUFFIX,yuesehan.com
   - DOMAIN-SUFFIX,yuesir.com
   - DOMAIN-SUFFIX,yuesuoping.com
