@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTAyODg5NAo=
+# Checksum: MTYxMTAzODg2OQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.3.0-20210119-1
-# TimeUpdated: 2021-01-19T04:01:34+00:00
+# Version: 1.3.0-20210119-2
+# TimeUpdated: 2021-01-19T06:47:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -5991,6 +5991,7 @@ payload:
   - DOMAIN-SUFFIX,91spj.com
   - DOMAIN-SUFFIX,91sport.cc
   - DOMAIN-SUFFIX,91student.com
+  - DOMAIN-SUFFIX,91suan.com
   - DOMAIN-SUFFIX,91suke.com
   - DOMAIN-SUFFIX,91taobaoquan.com
   - DOMAIN-SUFFIX,91tech.net
@@ -6466,7 +6467,6 @@ payload:
   - DOMAIN-SUFFIX,9ihb.com
   - DOMAIN-SUFFIX,9ihere.com
   - DOMAIN-SUFFIX,9ihome.com
-  - DOMAIN-SUFFIX,9ihs.com
   - DOMAIN-SUFFIX,9inx.com
   - DOMAIN-SUFFIX,9iphp.com
   - DOMAIN-SUFFIX,9ishe.com
@@ -12033,6 +12033,7 @@ payload:
   - DOMAIN-SUFFIX,changchun-ccpit.com
   - DOMAIN-SUFFIX,changeol.com
   - DOMAIN-SUFFIX,changfon.com
+  - DOMAIN-SUFFIX,changfubai.com
   - DOMAIN-SUFFIX,changhe.tech
   - DOMAIN-SUFFIX,changheng-pcb.com
   - DOMAIN-SUFFIX,changhong.com
@@ -23239,6 +23240,7 @@ payload:
   - DOMAIN-SUFFIX,hbhm.net
   - DOMAIN-SUFFIX,hbhtcm.com
   - DOMAIN-SUFFIX,hbhxbb.com
+  - DOMAIN-SUFFIX,hbhxqq.com
   - DOMAIN-SUFFIX,hbhz.net
   - DOMAIN-SUFFIX,hbifeng.com
   - DOMAIN-SUFFIX,hbinitiate.com
