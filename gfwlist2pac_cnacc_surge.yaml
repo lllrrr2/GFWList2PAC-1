@@ -1,7 +1,7 @@
-# Checksum: MTYxMTQyNzk3MAo=
+# Checksum: MTYxMTQzNzU1Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210123-6
-# TimeUpdated: 2021-01-23T18:52:50+00:00
+# Version: 1.3.1-20210123-7
+# TimeUpdated: 2021-01-23T21:32:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -2866,7 +2866,6 @@ DOMAIN-SUFFIX,398990.com
 DOMAIN-SUFFIX,39ask.net
 DOMAIN-SUFFIX,39box.com
 DOMAIN-SUFFIX,39clean.com
-DOMAIN-SUFFIX,39cs.com
 DOMAIN-SUFFIX,39dg.com
 DOMAIN-SUFFIX,39ej7e.com
 DOMAIN-SUFFIX,39fengliao.com
@@ -8105,6 +8104,7 @@ DOMAIN-SUFFIX,applex.net
 DOMAIN-SUFFIX,applicationloader.net
 DOMAIN-SUFFIX,applinzi.com
 DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,appmifile.com
 DOMAIN-SUFFIX,appnode.com
 DOMAIN-SUFFIX,appnz.com
 DOMAIN-SUFFIX,appotronics.com
@@ -8455,6 +8455,7 @@ DOMAIN-SUFFIX,autobaidu.com
 DOMAIN-SUFFIX,autobizreview.com
 DOMAIN-SUFFIX,autocamel.com
 DOMAIN-SUFFIX,autochina360.com
+DOMAIN-SUFFIX,autocsdn.xyz
 DOMAIN-SUFFIX,autodmp.com
 DOMAIN-SUFFIX,autodwg.com
 DOMAIN-SUFFIX,autoesd.com
@@ -8486,6 +8487,7 @@ DOMAIN-SUFFIX,av199.com
 DOMAIN-SUFFIX,av2.me
 DOMAIN-SUFFIX,av269.com
 DOMAIN-SUFFIX,av380.net
+DOMAIN-SUFFIX,avacvisa.com
 DOMAIN-SUFFIX,avalon233.com
 DOMAIN-SUFFIX,avanpa.com
 DOMAIN-SUFFIX,avatarmind.com
@@ -16490,6 +16492,7 @@ DOMAIN-SUFFIX,djdkk.com
 DOMAIN-SUFFIX,djduoduo.com
 DOMAIN-SUFFIX,djec.net
 DOMAIN-SUFFIX,djfsm.com
+DOMAIN-SUFFIX,djhuying.com
 DOMAIN-SUFFIX,dji.com
 DOMAIN-SUFFIX,djicdn.com
 DOMAIN-SUFFIX,djivideos.com
@@ -16775,6 +16778,7 @@ DOMAIN-SUFFIX,dodovip.com
 DOMAIN-SUFFIX,doergob.com
 DOMAIN-SUFFIX,doershow.com
 DOMAIN-SUFFIX,dofanyi.com
+DOMAIN-SUFFIX,dofund.com
 DOMAIN-SUFFIX,dog126.com
 DOMAIN-SUFFIX,dogecdn.com
 DOMAIN-SUFFIX,dogecloud.com
@@ -44521,6 +44525,7 @@ DOMAIN-SUFFIX,syitgz.com
 DOMAIN-SUFFIX,syitu.com
 DOMAIN-SUFFIX,syjcxs.com
 DOMAIN-SUFFIX,syjiancai.com
+DOMAIN-SUFFIX,syjingmei.com
 DOMAIN-SUFFIX,syjkqzw.com
 DOMAIN-SUFFIX,sykong.com
 DOMAIN-SUFFIX,sylixos.com
@@ -52641,6 +52646,7 @@ DOMAIN-SUFFIX,xuechebu.com
 DOMAIN-SUFFIX,xuechela.com
 DOMAIN-SUFFIX,xueda.com
 DOMAIN-SUFFIX,xuedi.com
+DOMAIN-SUFFIX,xuedong97.com
 DOMAIN-SUFFIX,xueersen.com
 DOMAIN-SUFFIX,xueersi.com
 DOMAIN-SUFFIX,xueerxing.com
