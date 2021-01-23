@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTQwMDgxNQo=
+# Checksum: MTYxMTQwNTk1Ngo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210123-3
-# TimeUpdated: 2021-01-23T11:20:15+00:00
+# Version: 1.3.1-20210123-4
+# TimeUpdated: 2021-01-23T12:45:56+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -903,7 +903,6 @@ payload:
   - DOMAIN-SUFFIX,3pi3t.j5.biz.tm
   - DOMAIN-SUFFIX,3proxy.de
   - DOMAIN-SUFFIX,3proxy.ru
-  - DOMAIN-SUFFIX,3rat.com
   - DOMAIN-SUFFIX,3ren.blog
   - DOMAIN-SUFFIX,3ren.ca
   - DOMAIN-SUFFIX,3ruwl5q.x.incapdns.net
@@ -964,7 +963,6 @@ payload:
   - DOMAIN-SUFFIX,484.ddns.ms
   - DOMAIN-SUFFIX,486486.com
   - DOMAIN-SUFFIX,486646.com
-  - DOMAIN-SUFFIX,4888jp.com
   - DOMAIN-SUFFIX,494hu.com
   - DOMAIN-SUFFIX,495777.com
   - DOMAIN-SUFFIX,49oa3o49b6.com
@@ -1075,7 +1073,6 @@ payload:
   - DOMAIN-SUFFIX,52jav.com
   - DOMAIN-SUFFIX,52news.chinatimes.com
   - DOMAIN-SUFFIX,52sod.co
-  - DOMAIN-SUFFIX,52ssr.cn
   - DOMAIN-SUFFIX,52ssr.net
   - DOMAIN-SUFFIX,53.etowns.net
   - DOMAIN-SUFFIX,53.my03.com
@@ -1092,7 +1089,6 @@ payload:
   - DOMAIN-SUFFIX,53worldsweeps.com
   - DOMAIN-SUFFIX,53xtv.com
   - DOMAIN-SUFFIX,5405.com
-  - DOMAIN-SUFFIX,54271.com
   - DOMAIN-SUFFIX,542777.com
   - DOMAIN-SUFFIX,543211.com
   - DOMAIN-SUFFIX,54321365.com
@@ -1528,7 +1524,6 @@ payload:
   - DOMAIN-SUFFIX,8466.com
   - DOMAIN-SUFFIX,8468466.com
   - DOMAIN-SUFFIX,8505038.com
-  - DOMAIN-SUFFIX,8505040.com
   - DOMAIN-SUFFIX,85299.com
   - DOMAIN-SUFFIX,8545.com
   - DOMAIN-SUFFIX,85cc.net
@@ -1597,7 +1592,6 @@ payload:
   - DOMAIN-SUFFIX,88gae.com
   - DOMAIN-SUFFIX,88gpz.com
   - DOMAIN-SUFFIX,88hah.com
-  - DOMAIN-SUFFIX,88jmp.com
   - DOMAIN-SUFFIX,88laohu.com
   - DOMAIN-SUFFIX,88lilai.com
   - DOMAIN-SUFFIX,88lo.com
@@ -1705,8 +1699,6 @@ payload:
   - DOMAIN-SUFFIX,960876.com
   - DOMAIN-SUFFIX,960986.com
   - DOMAIN-SUFFIX,960987.com
-  - DOMAIN-SUFFIX,966cp1.com
-  - DOMAIN-SUFFIX,966cp7.com
   - DOMAIN-SUFFIX,966cpa.com
   - DOMAIN-SUFFIX,96777.cc
   - DOMAIN-SUFFIX,9685f.com
@@ -1889,7 +1881,6 @@ payload:
   - DOMAIN-SUFFIX,aa2211.com
   - DOMAIN-SUFFIX,aa228.net
   - DOMAIN-SUFFIX,aa611.net
-  - DOMAIN-SUFFIX,aa6789.com
   - DOMAIN-SUFFIX,aa8258.com
   - DOMAIN-SUFFIX,aa835.net
   - DOMAIN-SUFFIX,aa888.com
@@ -2562,10 +2553,7 @@ payload:
   - DOMAIN-SUFFIX,altavista.com
   - DOMAIN-SUFFIX,altera.com
   - DOMAIN-SUFFIX,alteraforums.com
-  - DOMAIN-SUFFIX,alterauserforum.com
-  - DOMAIN-SUFFIX,alterauserforum.net
   - DOMAIN-SUFFIX,alterauserforums.com
-  - DOMAIN-SUFFIX,alterauserforums.net
   - DOMAIN-SUFFIX,alternate-tools.com
   - DOMAIN-SUFFIX,alternativeto.net
   - DOMAIN-SUFFIX,alternet.co.il
@@ -2714,7 +2702,6 @@ payload:
   - DOMAIN-SUFFIX,ampj662.com
   - DOMAIN-SUFFIX,ampj665.com
   - DOMAIN-SUFFIX,ampj778.com
-  - DOMAIN-SUFFIX,ampj90.com
   - DOMAIN-SUFFIX,amplifyframework.com
   - DOMAIN-SUFFIX,amplitude.com
   - DOMAIN-SUFFIX,ampproject.com
@@ -6048,7 +6035,6 @@ payload:
   - DOMAIN-SUFFIX,ca957.com
   - DOMAIN-SUFFIX,ca962.com
   - DOMAIN-SUFFIX,ca963.com
-  - DOMAIN-SUFFIX,ca966.com
   - DOMAIN-SUFFIX,ca971.com
   - DOMAIN-SUFFIX,ca972.com
   - DOMAIN-SUFFIX,ca975.com
@@ -13028,7 +13014,6 @@ payload:
   - DOMAIN-SUFFIX,his-n-herbs.com
   - DOMAIN-SUFFIX,hishadowsocks.com
   - DOMAIN-SUFFIX,hispavista.com
-  - DOMAIN-SUFFIX,hit3.tk
   - DOMAIN-SUFFIX,hitboxarcade.com
   - DOMAIN-SUFFIX,hitbtc.com
   - DOMAIN-SUFFIX,hitekrecruiting.net
@@ -21815,7 +21800,6 @@ payload:
   - DOMAIN-SUFFIX,rxcp1010.com
   - DOMAIN-SUFFIX,rxhj.net
   - DOMAIN-SUFFIX,rxproxy.com
-  - DOMAIN-SUFFIX,ry-ss.tk
   - DOMAIN-SUFFIX,ry1002.com
   - DOMAIN-SUFFIX,ry3.yay.etowns.org
   - DOMAIN-SUFFIX,rztcapital.com
