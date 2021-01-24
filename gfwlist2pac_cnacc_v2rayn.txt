@@ -1,7 +1,7 @@
-# Checksum: MTYxMTQzNzU1Mwo=
+# Checksum: MTYxMTQ1MTg3OQo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.3.1-20210123-7
-# TimeUpdated: 2021-01-23T21:32:33+00:00
+# Version: 1.3.1-20210124-0
+# TimeUpdated: 2021-01-24T01:31:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-6.com,
@@ -1567,7 +1567,6 @@ domain:17yc.com,
 domain:17ym.org,
 domain:17you.com,
 domain:17yucai.com,
-domain:17yue.me,
 domain:17yund.com,
 domain:17yy.com,
 domain:17yyba.com,
@@ -2762,7 +2761,6 @@ domain:365zyw.com,
 domain:365zzd.com,
 domain:3663.com,
 domain:366300.com,
-domain:366980.com,
 domain:366ec.com,
 domain:366translation.com,
 domain:367783.net,
