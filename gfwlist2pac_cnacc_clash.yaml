@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTQ4MTg4Mwo=
+# Checksum: MTYxMTQ5MjQ2Nwo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.3.1-20210124-3
-# TimeUpdated: 2021-01-24T09:51:23+00:00
+# Version: 1.3.1-20210124-4
+# TimeUpdated: 2021-01-24T12:47:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,0-6.com
@@ -7423,6 +7423,7 @@ payload:
   - DOMAIN-SUFFIX,alibaba-inc.com
   - DOMAIN-SUFFIX,alibaba.com
   - DOMAIN-SUFFIX,alibabacapital.com
+  - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,alibabacorp.com
   - DOMAIN-SUFFIX,alibabadns.com
   - DOMAIN-SUFFIX,alibabafuturehotel.com
@@ -8037,6 +8038,7 @@ payload:
   - DOMAIN-SUFFIX,apoyl.com
   - DOMAIN-SUFFIX,apozh.com
   - DOMAIN-SUFFIX,app-echo.com
+  - DOMAIN-SUFFIX,app-measurement.com
   - DOMAIN-SUFFIX,app-router.com
   - DOMAIN-SUFFIX,app-store.name
   - DOMAIN-SUFFIX,app-web-seo-aso.com
@@ -15967,6 +15969,7 @@ payload:
   - DOMAIN-SUFFIX,devdiv.com
   - DOMAIN-SUFFIX,developer.dji.com
   - DOMAIN-SUFFIX,developer.htcvive.com
+  - DOMAIN-SUFFIX,developer.microsoft.com
   - DOMAIN-SUFFIX,developer.vive.com
   - DOMAIN-SUFFIX,devemi.com
   - DOMAIN-SUFFIX,devework.com
@@ -16945,6 +16948,7 @@ payload:
   - DOMAIN-SUFFIX,doubean.com
   - DOMAIN-SUFFIX,doubimeizhi.com
   - DOMAIN-SUFFIX,doubimm.net
+  - DOMAIN-SUFFIX,doubleclick.net
   - DOMAIN-SUFFIX,douboshi.net
   - DOMAIN-SUFFIX,douc.cc
   - DOMAIN-SUFFIX,doucang.com
@@ -21461,6 +21465,8 @@ payload:
   - DOMAIN-SUFFIX,goods-brand.com
   - DOMAIN-SUFFIX,goodstudydayup.com
   - DOMAIN-SUFFIX,goofish.com
+  - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,googleadsl.com
   - DOMAIN-SUFFIX,googlebridge.com
   - DOMAIN-SUFFIX,googlecnapps.cn
@@ -25250,6 +25256,7 @@ payload:
   - DOMAIN-SUFFIX,hxland.com
   - DOMAIN-SUFFIX,hxlover.com
   - DOMAIN-SUFFIX,hxlsw.com
+  - DOMAIN-SUFFIX,hxltad.com
   - DOMAIN-SUFFIX,hxmeishi.com
   - DOMAIN-SUFFIX,hxmrys.com
   - DOMAIN-SUFFIX,hxnews.com
@@ -25494,6 +25501,7 @@ payload:
   - DOMAIN-SUFFIX,ia-shenzhen.com
   - DOMAIN-SUFFIX,iacblog.com
   - DOMAIN-SUFFIX,iadmob.com
+  - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,iaikx.com
   - DOMAIN-SUFFIX,ialicdn.com
   - DOMAIN-SUFFIX,ialloc.com
@@ -37801,6 +37809,7 @@ payload:
   - DOMAIN-SUFFIX,philosophypeople.com
   - DOMAIN-SUFFIX,phnixpool.com
   - DOMAIN-SUFFIX,pho.so
+  - DOMAIN-SUFFIX,phobos.apple.com
   - DOMAIN-SUFFIX,phodal.com
   - DOMAIN-SUFFIX,phoemix.net
   - DOMAIN-SUFFIX,phoenixcenter.cn

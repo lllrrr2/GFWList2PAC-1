@@ -1,7 +1,7 @@
-# Checksum: MTYxMTQ4MTg4Mwo=
+# Checksum: MTYxMTQ5MjQ2Nwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.3.1-20210124-3
-# TimeUpdated: 2021-01-24T09:51:23+00:00
+# Version: 1.3.1-20210124-4
+# TimeUpdated: 2021-01-24T12:47:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com,DIRECT
@@ -7422,6 +7422,7 @@ DOMAIN-SUFFIX,aliavv.com,DIRECT
 DOMAIN-SUFFIX,alibaba-inc.com,DIRECT
 DOMAIN-SUFFIX,alibaba.com,DIRECT
 DOMAIN-SUFFIX,alibabacapital.com,DIRECT
+DOMAIN-SUFFIX,alibabacloud.com,DIRECT
 DOMAIN-SUFFIX,alibabacorp.com,DIRECT
 DOMAIN-SUFFIX,alibabadns.com,DIRECT
 DOMAIN-SUFFIX,alibabafuturehotel.com,DIRECT
@@ -8036,6 +8037,7 @@ DOMAIN-SUFFIX,apowogame.com,DIRECT
 DOMAIN-SUFFIX,apoyl.com,DIRECT
 DOMAIN-SUFFIX,apozh.com,DIRECT
 DOMAIN-SUFFIX,app-echo.com,DIRECT
+DOMAIN-SUFFIX,app-measurement.com,DIRECT
 DOMAIN-SUFFIX,app-router.com,DIRECT
 DOMAIN-SUFFIX,app-store.name,DIRECT
 DOMAIN-SUFFIX,app-web-seo-aso.com,DIRECT
@@ -15966,6 +15968,7 @@ DOMAIN-SUFFIX,devclub.cc,DIRECT
 DOMAIN-SUFFIX,devdiv.com,DIRECT
 DOMAIN-SUFFIX,developer.dji.com,DIRECT
 DOMAIN-SUFFIX,developer.htcvive.com,DIRECT
+DOMAIN-SUFFIX,developer.microsoft.com,DIRECT
 DOMAIN-SUFFIX,developer.vive.com,DIRECT
 DOMAIN-SUFFIX,devemi.com,DIRECT
 DOMAIN-SUFFIX,devework.com,DIRECT
@@ -16944,6 +16947,7 @@ DOMAIN-SUFFIX,doubaojf.com,DIRECT
 DOMAIN-SUFFIX,doubean.com,DIRECT
 DOMAIN-SUFFIX,doubimeizhi.com,DIRECT
 DOMAIN-SUFFIX,doubimm.net,DIRECT
+DOMAIN-SUFFIX,doubleclick.net,DIRECT
 DOMAIN-SUFFIX,douboshi.net,DIRECT
 DOMAIN-SUFFIX,douc.cc,DIRECT
 DOMAIN-SUFFIX,doucang.com,DIRECT
@@ -21460,6 +21464,8 @@ DOMAIN-SUFFIX,goodrain.com,DIRECT
 DOMAIN-SUFFIX,goods-brand.com,DIRECT
 DOMAIN-SUFFIX,goodstudydayup.com,DIRECT
 DOMAIN-SUFFIX,goofish.com,DIRECT
+DOMAIN-SUFFIX,google.cn,DIRECT
+DOMAIN-SUFFIX,googleadservices.com,DIRECT
 DOMAIN-SUFFIX,googleadsl.com,DIRECT
 DOMAIN-SUFFIX,googlebridge.com,DIRECT
 DOMAIN-SUFFIX,googlecnapps.cn,DIRECT
@@ -25249,6 +25255,7 @@ DOMAIN-SUFFIX,hxkvm.com,DIRECT
 DOMAIN-SUFFIX,hxland.com,DIRECT
 DOMAIN-SUFFIX,hxlover.com,DIRECT
 DOMAIN-SUFFIX,hxlsw.com,DIRECT
+DOMAIN-SUFFIX,hxltad.com,DIRECT
 DOMAIN-SUFFIX,hxmeishi.com,DIRECT
 DOMAIN-SUFFIX,hxmrys.com,DIRECT
 DOMAIN-SUFFIX,hxnews.com,DIRECT
@@ -25493,6 +25500,7 @@ DOMAIN-SUFFIX,i9wang.com,DIRECT
 DOMAIN-SUFFIX,ia-shenzhen.com,DIRECT
 DOMAIN-SUFFIX,iacblog.com,DIRECT
 DOMAIN-SUFFIX,iadmob.com,DIRECT
+DOMAIN-SUFFIX,iadsdk.apple.com,DIRECT
 DOMAIN-SUFFIX,iaikx.com,DIRECT
 DOMAIN-SUFFIX,ialicdn.com,DIRECT
 DOMAIN-SUFFIX,ialloc.com,DIRECT
@@ -37800,6 +37808,7 @@ DOMAIN-SUFFIX,philm.cc,DIRECT
 DOMAIN-SUFFIX,philosophypeople.com,DIRECT
 DOMAIN-SUFFIX,phnixpool.com,DIRECT
 DOMAIN-SUFFIX,pho.so,DIRECT
+DOMAIN-SUFFIX,phobos.apple.com,DIRECT
 DOMAIN-SUFFIX,phodal.com,DIRECT
 DOMAIN-SUFFIX,phoemix.net,DIRECT
 DOMAIN-SUFFIX,phoenixcenter.cn,DIRECT
