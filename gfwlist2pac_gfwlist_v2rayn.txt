@@ -1,7 +1,7 @@
-# Checksum: MTYxMTU4OTA3MQo=
+# Checksum: MTYxMTYwMDkzMgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210125-5
-# TimeUpdated: 2021-01-25T15:37:51+00:00
+# Version: 1.3.1-20210125-6
+# TimeUpdated: 2021-01-25T18:55:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -627,6 +627,7 @@ domain:226.etowns.org,
 domain:226.slyip.net,
 domain:2267a.com,
 domain:2267b.com,
+domain:2267k.com,
 domain:2267l.com,
 domain:2267s.com,
 domain:22707.mmavday.com,
@@ -7379,7 +7380,6 @@ domain:co.ng.mil,
 domain:co.ni,
 domain:co.nz,
 domain:co.rs,
-domain:co.spacetechnology.net,
 domain:co.tz,
 domain:co.ug,
 domain:co.uz,
