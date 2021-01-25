@@ -1,7 +1,7 @@
-# Checksum: MTYxMTU2ODQ5OQo=
+# Checksum: MTYxMTU3ODk3MAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210125-3
-# TimeUpdated: 2021-01-25T09:54:59+00:00
+# Version: 1.3.1-20210125-4
+# TimeUpdated: 2021-01-25T12:49:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -7049,6 +7049,7 @@ DOMAIN-SUFFIX,chromecast.com
 DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,chromegae.com
 DOMAIN-SUFFIX,chromeos.dev
+DOMAIN-SUFFIX,chromercise.com
 DOMAIN-SUFFIX,chromes.cn
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromium.org
@@ -30673,6 +30674,7 @@ DOMAIN-SUFFIX,www.ncad.fr
 DOMAIN-SUFFIX,www.ncat.edu
 DOMAIN-SUFFIX,www.ndr.de
 DOMAIN-SUFFIX,www.ne88.net
+DOMAIN-SUFFIX,www.neihan8.com
 DOMAIN-SUFFIX,www.neopets.com
 DOMAIN-SUFFIX,www.net-chuko.com
 DOMAIN-SUFFIX,www.net10.com

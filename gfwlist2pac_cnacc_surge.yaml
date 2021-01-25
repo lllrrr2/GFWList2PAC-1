@@ -1,7 +1,7 @@
-# Checksum: MTYxMTU2ODQ5MAo=
+# Checksum: MTYxMTU3ODk2MAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210125-3
-# TimeUpdated: 2021-01-25T09:54:50+00:00
+# Version: 1.3.1-20210125-4
+# TimeUpdated: 2021-01-25T12:49:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -1972,7 +1972,6 @@ DOMAIN-SUFFIX,189rc.com
 DOMAIN-SUFFIX,189read.com
 DOMAIN-SUFFIX,189share.com
 DOMAIN-SUFFIX,189store.com
-DOMAIN-SUFFIX,189works.com
 DOMAIN-SUFFIX,189xc.com
 DOMAIN-SUFFIX,189yo.com
 DOMAIN-SUFFIX,189young.com
@@ -3605,6 +3604,7 @@ DOMAIN-SUFFIX,3lsoft.com
 DOMAIN-SUFFIX,3mbang.com
 DOMAIN-SUFFIX,3mh0yvx.com
 DOMAIN-SUFFIX,3miao.net
+DOMAIN-SUFFIX,3miii.com
 DOMAIN-SUFFIX,3mmr.com
 DOMAIN-SUFFIX,3mtw.com
 DOMAIN-SUFFIX,3n110.com
@@ -6219,6 +6219,7 @@ DOMAIN-SUFFIX,789294.cc
 DOMAIN-SUFFIX,789314.cc
 DOMAIN-SUFFIX,789515.com
 DOMAIN-SUFFIX,789gg.com
+DOMAIN-SUFFIX,789hi.com
 DOMAIN-SUFFIX,789msw.com
 DOMAIN-SUFFIX,78bar.com
 DOMAIN-SUFFIX,78dian.com
@@ -6398,6 +6399,7 @@ DOMAIN-SUFFIX,800ux.com
 DOMAIN-SUFFIX,800xs.net
 DOMAIN-SUFFIX,800youhuo.com
 DOMAIN-SUFFIX,800zy99.com
+DOMAIN-SUFFIX,801358.com
 DOMAIN-SUFFIX,8044445.com
 DOMAIN-SUFFIX,806699a.com
 DOMAIN-SUFFIX,80714.com
@@ -10626,7 +10628,6 @@ DOMAIN-SUFFIX,bao100.com
 DOMAIN-SUFFIX,bao12333.com
 DOMAIN-SUFFIX,bao315.com
 DOMAIN-SUFFIX,bao369.com
-DOMAIN-SUFFIX,bao8899.com
 DOMAIN-SUFFIX,baobao.com
 DOMAIN-SUFFIX,baobao001.com
 DOMAIN-SUFFIX,baobao18.com
@@ -12052,7 +12053,6 @@ DOMAIN-SUFFIX,bjzwzx.com
 DOMAIN-SUFFIX,bjzxcp.com
 DOMAIN-SUFFIX,bjzycd.com
 DOMAIN-SUFFIX,bjzyrxgs.com
-DOMAIN-SUFFIX,bjzzlx.com
 DOMAIN-SUFFIX,bk41.net
 DOMAIN-SUFFIX,bkbok.com
 DOMAIN-SUFFIX,bkclouds.cc
@@ -12819,7 +12819,6 @@ DOMAIN-SUFFIX,bxgjyc.com
 DOMAIN-SUFFIX,bxgtd.com
 DOMAIN-SUFFIX,bxhaibao.com
 DOMAIN-SUFFIX,bxjob.net
-DOMAIN-SUFFIX,bxjr.com
 DOMAIN-SUFFIX,bxkejian.com
 DOMAIN-SUFFIX,bxkxw.com
 DOMAIN-SUFFIX,bxlac.com
@@ -13658,6 +13657,7 @@ DOMAIN-SUFFIX,cctvlib.cn
 DOMAIN-SUFFIX,cctvlib.com.cn
 DOMAIN-SUFFIX,cctvlibrary.cn
 DOMAIN-SUFFIX,cctvlibrary.com.cn
+DOMAIN-SUFFIX,cctvmall.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cctvpro.cn
 DOMAIN-SUFFIX,cctvpro.com.cn
@@ -16804,6 +16804,7 @@ DOMAIN-SUFFIX,cnwxw.com
 DOMAIN-SUFFIX,cnxad.com
 DOMAIN-SUFFIX,cnxct.com
 DOMAIN-SUFFIX,cnxds.com
+DOMAIN-SUFFIX,cnxhacker.com
 DOMAIN-SUFFIX,cnxiangyan.com
 DOMAIN-SUFFIX,cnxiantao.com
 DOMAIN-SUFFIX,cnxiaoyuan.com
@@ -20934,6 +20935,7 @@ DOMAIN-SUFFIX,dzz.cc
 DOMAIN-SUFFIX,dzzgsw.com
 DOMAIN-SUFFIX,dzzoffice.com
 DOMAIN-SUFFIX,e-10031.com
+DOMAIN-SUFFIX,e-315.org
 DOMAIN-SUFFIX,e-3lue.com
 DOMAIN-SUFFIX,e-bidding.org
 DOMAIN-SUFFIX,e-bq.com
@@ -23482,6 +23484,7 @@ DOMAIN-SUFFIX,flutterchina.club
 DOMAIN-SUFFIX,flvcd.com
 DOMAIN-SUFFIX,flvurl.net
 DOMAIN-SUFFIX,flxc.net
+DOMAIN-SUFFIX,flxdns.com
 DOMAIN-SUFFIX,fly086.com
 DOMAIN-SUFFIX,fly1999.com
 DOMAIN-SUFFIX,fly3949.com
@@ -30499,6 +30502,7 @@ DOMAIN-SUFFIX,icourses.cn
 DOMAIN-SUFFIX,icourt.cc
 DOMAIN-SUFFIX,icp100.net
 DOMAIN-SUFFIX,icp21.com
+DOMAIN-SUFFIX,icpcn.com
 DOMAIN-SUFFIX,icpcw.com
 DOMAIN-SUFFIX,icpdaili.com
 DOMAIN-SUFFIX,icphu.com
@@ -59399,6 +59403,7 @@ DOMAIN-SUFFIX,wyn88.com
 DOMAIN-SUFFIX,wynnad.com
 DOMAIN-SUFFIX,wyptk.com
 DOMAIN-SUFFIX,wypxj.com
+DOMAIN-SUFFIX,wyqrks.com
 DOMAIN-SUFFIX,wyr.me
 DOMAIN-SUFFIX,wyrj.com
 DOMAIN-SUFFIX,wys.net
@@ -67209,6 +67214,7 @@ DOMAIN-SUFFIX,zoucheng.cc
 DOMAIN-SUFFIX,zoucz.com
 DOMAIN-SUFFIX,zoues.com
 DOMAIN-SUFFIX,zoujinvr.com
+DOMAIN-SUFFIX,zoulj.xyz
 DOMAIN-SUFFIX,zoutu.com
 DOMAIN-SUFFIX,zouzhenzhong.com
 DOMAIN-SUFFIX,zouzhiqiang.com

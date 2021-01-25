@@ -1,7 +1,7 @@
-# Checksum: MTYxMTU2ODQ5OQo=
+# Checksum: MTYxMTU3ODk3MAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210125-3
-# TimeUpdated: 2021-01-25T09:54:59+00:00
+# Version: 1.3.1-20210125-4
+# TimeUpdated: 2021-01-25T12:49:30+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -7049,6 +7049,7 @@ domain:chromecast.com,
 domain:chromeexperiments.com,
 domain:chromegae.com,
 domain:chromeos.dev,
+domain:chromercise.com,
 domain:chromes.cn,
 domain:chromestatus.com,
 domain:chromium.org,
@@ -30673,6 +30674,7 @@ domain:www.ncad.fr,
 domain:www.ncat.edu,
 domain:www.ndr.de,
 domain:www.ne88.net,
+domain:www.neihan8.com,
 domain:www.neopets.com,
 domain:www.net-chuko.com,
 domain:www.net10.com,
