@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTYxMDU0NQo=
+# Checksum: MTYxMTYyMjQ3Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210125-7
-# TimeUpdated: 2021-01-25T21:35:45+00:00
+# Version: 1.3.1-20210126-0
+# TimeUpdated: 2021-01-26T00:54:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -549,6 +549,7 @@ payload:
   - DOMAIN-SUFFIX,2-vpn1.com
   - DOMAIN-SUFFIX,2.4.je
   - DOMAIN-SUFFIX,2.cr.rs
+  - DOMAIN-SUFFIX,2.inc.gs
   - DOMAIN-SUFFIX,2000cai.com
   - DOMAIN-SUFFIX,2000fun.com
   - DOMAIN-SUFFIX,2000mov.com
@@ -628,7 +629,6 @@ payload:
   - DOMAIN-SUFFIX,226.slyip.net
   - DOMAIN-SUFFIX,2267a.com
   - DOMAIN-SUFFIX,2267b.com
-  - DOMAIN-SUFFIX,2267k.com
   - DOMAIN-SUFFIX,2267l.com
   - DOMAIN-SUFFIX,2267s.com
   - DOMAIN-SUFFIX,22707.mmavday.com
@@ -1273,6 +1273,7 @@ payload:
   - DOMAIN-SUFFIX,62033.com
   - DOMAIN-SUFFIX,62365t.com
   - DOMAIN-SUFFIX,62382013-bf.cp168.ws
+  - DOMAIN-SUFFIX,626aaa.net
   - DOMAIN-SUFFIX,626ccc.net
   - DOMAIN-SUFFIX,626hhh.net
   - DOMAIN-SUFFIX,626ii.net
@@ -3063,7 +3064,6 @@ payload:
   - DOMAIN-SUFFIX,app-dynamics.com
   - DOMAIN-SUFFIX,app-sales.net
   - DOMAIN-SUFFIX,app.algoriddim.com
-  - DOMAIN-SUFFIX,app.arukas.io
   - DOMAIN-SUFFIX,app.asso.st
   - DOMAIN-SUFFIX,app.bookcreator.com
   - DOMAIN-SUFFIX,app.box.com
@@ -3441,7 +3441,6 @@ payload:
   - DOMAIN-SUFFIX,artstationmedia.com
   - DOMAIN-SUFFIX,artsy.net
   - DOMAIN-SUFFIX,artworld.tw
-  - DOMAIN-SUFFIX,arukas.io
   - DOMAIN-SUFFIX,arxiv.org
   - DOMAIN-SUFFIX,arzon.com
   - DOMAIN-SUFFIX,arzon.jp
@@ -4610,7 +4609,6 @@ payload:
   - DOMAIN-SUFFIX,bf633.com
   - DOMAIN-SUFFIX,bf730.com
   - DOMAIN-SUFFIX,bf750.com
-  - DOMAIN-SUFFIX,bfa999.com
   - DOMAIN-SUFFIX,bfbet.com
   - DOMAIN-SUFFIX,bfi.org.uk
   - DOMAIN-SUFFIX,bfnn.org
