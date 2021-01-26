@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTY3NDQyNwo=
+# Checksum: MTYxMTY4NTg1NQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210126-5
-# TimeUpdated: 2021-01-26T15:20:27+00:00
+# Version: 1.3.1-20210126-6
+# TimeUpdated: 2021-01-26T18:30:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -400,7 +400,6 @@ payload:
   - DOMAIN-SUFFIX,188522.com
   - DOMAIN-SUFFIX,188982.com
   - DOMAIN-SUFFIX,1889bet.com
-  - DOMAIN-SUFFIX,188aff188.com
   - DOMAIN-SUFFIX,188bet.com
   - DOMAIN-SUFFIX,188euro.com
   - DOMAIN-SUFFIX,188f1play.com
@@ -2284,7 +2283,6 @@ payload:
   - DOMAIN-SUFFIX,afantibbs.com
   - DOMAIN-SUFFIX,afcp09.com
   - DOMAIN-SUFFIX,afewmomentswith.com
-  - DOMAIN-SUFFIX,aff.188aff188.com
   - DOMAIN-SUFFIX,aff.51wanqiu.com.com
   - DOMAIN-SUFFIX,aff.lolxtv.com
   - DOMAIN-SUFFIX,aff.ptw8.com
@@ -2674,7 +2672,6 @@ payload:
   - DOMAIN-SUFFIX,alteraforum.com
   - DOMAIN-SUFFIX,alteraforums.com
   - DOMAIN-SUFFIX,alterauserforum.com
-  - DOMAIN-SUFFIX,alterauserforum.net
   - DOMAIN-SUFFIX,alterauserforums.com
   - DOMAIN-SUFFIX,alternate-tools.com
   - DOMAIN-SUFFIX,alternativeto.net
@@ -4633,7 +4630,6 @@ payload:
   - DOMAIN-SUFFIX,bi-si777.xyz
   - DOMAIN-SUFFIX,bi-si999.xyz
   - DOMAIN-SUFFIX,bi.tvbeee.com
-  - DOMAIN-SUFFIX,bianlei.com
   - DOMAIN-SUFFIX,biaobaila.cn
   - DOMAIN-SUFFIX,bibitunik.com
   - DOMAIN-SUFFIX,biblepoint.net
