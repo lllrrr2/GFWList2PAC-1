@@ -1,7 +1,7 @@
-# Checksum: MTYxMTY4NTg1NQo=
+# Checksum: MTYxMTY5NTkwMQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210126-6
-# TimeUpdated: 2021-01-26T18:30:55+00:00
+# Version: 1.3.1-20210126-7
+# TimeUpdated: 2021-01-26T21:18:21+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -294,7 +294,6 @@ DOMAIN-SUFFIX,1337x.to
 DOMAIN-SUFFIX,135sihu.com
 DOMAIN-SUFFIX,1365.com
 DOMAIN-SUFFIX,138138l.com
-DOMAIN-SUFFIX,1382tt.com
 DOMAIN-SUFFIX,139.re
 DOMAIN-SUFFIX,1408137807-sd.cp168.ws
 DOMAIN-SUFFIX,141529.com
@@ -399,6 +398,7 @@ DOMAIN-SUFFIX,18844a.com
 DOMAIN-SUFFIX,188522.com
 DOMAIN-SUFFIX,188982.com
 DOMAIN-SUFFIX,1889bet.com
+DOMAIN-SUFFIX,188asia.net
 DOMAIN-SUFFIX,188bet.com
 DOMAIN-SUFFIX,188euro.com
 DOMAIN-SUFFIX,188f1play.com
@@ -2282,6 +2282,7 @@ DOMAIN-SUFFIX,af.mil
 DOMAIN-SUFFIX,afantibbs.com
 DOMAIN-SUFFIX,afcp09.com
 DOMAIN-SUFFIX,afewmomentswith.com
+DOMAIN-SUFFIX,aff.188asia.net
 DOMAIN-SUFFIX,aff.51wanqiu.com.com
 DOMAIN-SUFFIX,aff.lolxtv.com
 DOMAIN-SUFFIX,aff.ptw8.com
@@ -33564,6 +33565,7 @@ DOMAIN-SUFFIX,zz9515.pw
 DOMAIN-SUFFIX,zzc.healthins.xyz
 DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
+DOMAIN-SUFFIX,zzf.healthins.xyz
 DOMAIN-SUFFIX,zzju.22.4irc.com
 DOMAIN-SUFFIX,zzp.familyhealth.xyz
 DOMAIN-SUFFIX,zzr.familyhealth.xyz
