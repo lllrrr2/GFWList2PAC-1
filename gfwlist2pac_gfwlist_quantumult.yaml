@@ -1,7 +1,7 @@
-# Checksum: MTYxMTY1MzAyMQo=
+# Checksum: MTYxMTY2NDEzMAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210126-3
-# TimeUpdated: 2021-01-26T09:23:41+00:00
+# Version: 1.3.1-20210126-4
+# TimeUpdated: 2021-01-26T12:28:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -23334,7 +23334,6 @@ DOMAIN-SUFFIX,sinocism.com,PROXY
 DOMAIN-SUFFIX,sinoinsider.com,PROXY
 DOMAIN-SUFFIX,sinomontreal.ca,PROXY
 DOMAIN-SUFFIX,sinonet.ca,PROXY
-DOMAIN-SUFFIX,sinopitt.info,PROXY
 DOMAIN-SUFFIX,sinopsis.cz,PROXY
 DOMAIN-SUFFIX,sinoquebec.com,PROXY
 DOMAIN-SUFFIX,sinostand.com,PROXY
@@ -33225,7 +33224,6 @@ DOMAIN-SUFFIX,yunchao.net,PROXY
 DOMAIN-SUFFIX,yunfan.pw,PROXY
 DOMAIN-SUFFIX,yungyunghk.com,PROXY
 DOMAIN-SUFFIX,yunti.me,PROXY
-DOMAIN-SUFFIX,yuntipub.com,PROXY
 DOMAIN-SUFFIX,yuspa.co.za,PROXY
 DOMAIN-SUFFIX,yustu.net,PROXY
 DOMAIN-SUFFIX,yuvutu.com,PROXY

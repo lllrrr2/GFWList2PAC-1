@@ -1,7 +1,7 @@
-# Checksum: MTYxMTY1MzAyMQo=
+# Checksum: MTYxMTY2NDEzMAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210126-3
-# TimeUpdated: 2021-01-26T09:23:41+00:00
+# Version: 1.3.1-20210126-4
+# TimeUpdated: 2021-01-26T12:28:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -23334,7 +23334,6 @@ domain:sinocism.com,
 domain:sinoinsider.com,
 domain:sinomontreal.ca,
 domain:sinonet.ca,
-domain:sinopitt.info,
 domain:sinopsis.cz,
 domain:sinoquebec.com,
 domain:sinostand.com,
@@ -33225,7 +33224,6 @@ domain:yunchao.net,
 domain:yunfan.pw,
 domain:yungyunghk.com,
 domain:yunti.me,
-domain:yuntipub.com,
 domain:yuspa.co.za,
 domain:yustu.net,
 domain:yuvutu.com,

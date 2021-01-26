@@ -1,7 +1,7 @@
-# Checksum: MTYxMTY1MzAyMQo=
+# Checksum: MTYxMTY2NDEzMAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210126-3
-# TimeUpdated: 2021-01-26T09:23:41+00:00
+# Version: 1.3.1-20210126-4
+# TimeUpdated: 2021-01-26T12:28:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -23334,7 +23334,6 @@ DOMAIN-SUFFIX,sinocism.com
 DOMAIN-SUFFIX,sinoinsider.com
 DOMAIN-SUFFIX,sinomontreal.ca
 DOMAIN-SUFFIX,sinonet.ca
-DOMAIN-SUFFIX,sinopitt.info
 DOMAIN-SUFFIX,sinopsis.cz
 DOMAIN-SUFFIX,sinoquebec.com
 DOMAIN-SUFFIX,sinostand.com
@@ -33225,7 +33224,6 @@ DOMAIN-SUFFIX,yunchao.net
 DOMAIN-SUFFIX,yunfan.pw
 DOMAIN-SUFFIX,yungyunghk.com
 DOMAIN-SUFFIX,yunti.me
-DOMAIN-SUFFIX,yuntipub.com
 DOMAIN-SUFFIX,yuspa.co.za
 DOMAIN-SUFFIX,yustu.net
 DOMAIN-SUFFIX,yuvutu.com
