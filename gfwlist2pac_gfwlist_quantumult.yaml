@@ -1,7 +1,7 @@
-# Checksum: MTYxMTY2NDEzMAo=
+# Checksum: MTYxMTY3NDQyNwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210126-4
-# TimeUpdated: 2021-01-26T12:28:50+00:00
+# Version: 1.3.1-20210126-5
+# TimeUpdated: 2021-01-26T15:20:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2675,7 +2675,6 @@ DOMAIN-SUFFIX,alteraforums.com,PROXY
 DOMAIN-SUFFIX,alterauserforum.com,PROXY
 DOMAIN-SUFFIX,alterauserforum.net,PROXY
 DOMAIN-SUFFIX,alterauserforums.com,PROXY
-DOMAIN-SUFFIX,alterauserforums.net,PROXY
 DOMAIN-SUFFIX,alternate-tools.com,PROXY
 DOMAIN-SUFFIX,alternativeto.net,PROXY
 DOMAIN-SUFFIX,alternet.co.il,PROXY
@@ -4633,6 +4632,7 @@ DOMAIN-SUFFIX,bi-si2.xyz,PROXY
 DOMAIN-SUFFIX,bi-si777.xyz,PROXY
 DOMAIN-SUFFIX,bi-si999.xyz,PROXY
 DOMAIN-SUFFIX,bi.tvbeee.com,PROXY
+DOMAIN-SUFFIX,bianlei.com,PROXY
 DOMAIN-SUFFIX,biaobaila.cn,PROXY
 DOMAIN-SUFFIX,bibitunik.com,PROXY
 DOMAIN-SUFFIX,biblepoint.net,PROXY
@@ -20924,21 +20924,27 @@ DOMAIN-SUFFIX,piss.com,PROXY
 DOMAIN-SUFFIX,pistonheads.com,PROXY
 DOMAIN-SUFFIX,pittpatt.com,PROXY
 DOMAIN-SUFFIX,pivotalinitiative.com,PROXY
+DOMAIN-SUFFIX,pixanalytics.com,PROXY
 DOMAIN-SUFFIX,pixapp.net,PROXY
 DOMAIN-SUFFIX,pixate.com,PROXY
 DOMAIN-SUFFIX,pixclub.net,PROXY
 DOMAIN-SUFFIX,pixelmator.com,PROXY
 DOMAIN-SUFFIX,pixelqi.com,PROXY
+DOMAIN-SUFFIX,pixfs.net,PROXY
 DOMAIN-SUFFIX,pixia.com,PROXY
+DOMAIN-SUFFIX,pixinsight.com.tw,PROXY
 DOMAIN-SUFFIX,pixiv.co.jp,PROXY
 DOMAIN-SUFFIX,pixiv.com,PROXY
 DOMAIN-SUFFIX,pixiv.me,PROXY
 DOMAIN-SUFFIX,pixiv.net,PROXY
 DOMAIN-SUFFIX,pixiv.org,PROXY
 DOMAIN-SUFFIX,pixivsketch.net,PROXY
+DOMAIN-SUFFIX,pixnet.cc,PROXY
 DOMAIN-SUFFIX,pixnet.in,PROXY
 DOMAIN-SUFFIX,pixnet.jp,PROXY
 DOMAIN-SUFFIX,pixnet.net,PROXY
+DOMAIN-SUFFIX,pixnet.pro,PROXY
+DOMAIN-SUFFIX,pixnet.tw,PROXY
 DOMAIN-SUFFIX,pixolium.com,PROXY
 DOMAIN-SUFFIX,pixplug.in,PROXY
 DOMAIN-SUFFIX,pixtronix.com,PROXY

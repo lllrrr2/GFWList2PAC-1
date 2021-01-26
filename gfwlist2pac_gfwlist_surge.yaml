@@ -1,7 +1,7 @@
-# Checksum: MTYxMTY2NDEzMAo=
+# Checksum: MTYxMTY3NDQyNwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210126-4
-# TimeUpdated: 2021-01-26T12:28:50+00:00
+# Version: 1.3.1-20210126-5
+# TimeUpdated: 2021-01-26T15:20:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2675,7 +2675,6 @@ DOMAIN-SUFFIX,alteraforums.com
 DOMAIN-SUFFIX,alterauserforum.com
 DOMAIN-SUFFIX,alterauserforum.net
 DOMAIN-SUFFIX,alterauserforums.com
-DOMAIN-SUFFIX,alterauserforums.net
 DOMAIN-SUFFIX,alternate-tools.com
 DOMAIN-SUFFIX,alternativeto.net
 DOMAIN-SUFFIX,alternet.co.il
@@ -4633,6 +4632,7 @@ DOMAIN-SUFFIX,bi-si2.xyz
 DOMAIN-SUFFIX,bi-si777.xyz
 DOMAIN-SUFFIX,bi-si999.xyz
 DOMAIN-SUFFIX,bi.tvbeee.com
+DOMAIN-SUFFIX,bianlei.com
 DOMAIN-SUFFIX,biaobaila.cn
 DOMAIN-SUFFIX,bibitunik.com
 DOMAIN-SUFFIX,biblepoint.net
@@ -20924,21 +20924,27 @@ DOMAIN-SUFFIX,piss.com
 DOMAIN-SUFFIX,pistonheads.com
 DOMAIN-SUFFIX,pittpatt.com
 DOMAIN-SUFFIX,pivotalinitiative.com
+DOMAIN-SUFFIX,pixanalytics.com
 DOMAIN-SUFFIX,pixapp.net
 DOMAIN-SUFFIX,pixate.com
 DOMAIN-SUFFIX,pixclub.net
 DOMAIN-SUFFIX,pixelmator.com
 DOMAIN-SUFFIX,pixelqi.com
+DOMAIN-SUFFIX,pixfs.net
 DOMAIN-SUFFIX,pixia.com
+DOMAIN-SUFFIX,pixinsight.com.tw
 DOMAIN-SUFFIX,pixiv.co.jp
 DOMAIN-SUFFIX,pixiv.com
 DOMAIN-SUFFIX,pixiv.me
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixivsketch.net
+DOMAIN-SUFFIX,pixnet.cc
 DOMAIN-SUFFIX,pixnet.in
 DOMAIN-SUFFIX,pixnet.jp
 DOMAIN-SUFFIX,pixnet.net
+DOMAIN-SUFFIX,pixnet.pro
+DOMAIN-SUFFIX,pixnet.tw
 DOMAIN-SUFFIX,pixolium.com
 DOMAIN-SUFFIX,pixplug.in
 DOMAIN-SUFFIX,pixtronix.com
