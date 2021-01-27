@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTczOTQ1MAo=
+# Checksum: MTYxMTc1MDU3Mgo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210127-3
-# TimeUpdated: 2021-01-27T09:24:10+00:00
+# Version: 1.3.1-20210127-4
+# TimeUpdated: 2021-01-27T12:29:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -399,7 +399,6 @@ payload:
   - DOMAIN-SUFFIX,188522.com
   - DOMAIN-SUFFIX,188982.com
   - DOMAIN-SUFFIX,1889bet.com
-  - DOMAIN-SUFFIX,188asia.net
   - DOMAIN-SUFFIX,188bet.com
   - DOMAIN-SUFFIX,188euro.com
   - DOMAIN-SUFFIX,188f1play.com
@@ -589,6 +588,7 @@ payload:
   - DOMAIN-SUFFIX,21pron.com
   - DOMAIN-SUFFIX,21sextury.com
   - DOMAIN-SUFFIX,21uscity.com
+  - DOMAIN-SUFFIX,22.404.mn
   - DOMAIN-SUFFIX,22.biz.tm
   - DOMAIN-SUFFIX,22.cr.rs
   - DOMAIN-SUFFIX,22.dns2.us
@@ -1511,7 +1511,6 @@ payload:
   - DOMAIN-SUFFIX,7cow.com
   - DOMAIN-SUFFIX,7cplay.com
   - DOMAIN-SUFFIX,7g.tv
-  - DOMAIN-SUFFIX,7hg8.vip
   - DOMAIN-SUFFIX,7j94.sec.b0ne.com
   - DOMAIN-SUFFIX,7mm.tv
   - DOMAIN-SUFFIX,7mmtv.cc
@@ -4088,7 +4087,6 @@ payload:
   - DOMAIN-SUFFIX,bbs.hanminzu.org
   - DOMAIN-SUFFIX,bbs.huasing.org
   - DOMAIN-SUFFIX,bbs.junglobal.net
-  - DOMAIN-SUFFIX,bbs.k369.eu.org
   - DOMAIN-SUFFIX,bbs.kanshifang.com
   - DOMAIN-SUFFIX,bbs.kimy.com.tw
   - DOMAIN-SUFFIX,bbs.mikocon.com
@@ -28443,7 +28441,6 @@ payload:
   - DOMAIN-SUFFIX,www.188226.com
   - DOMAIN-SUFFIX,www.18844a.com
   - DOMAIN-SUFFIX,www.1889bet.com
-  - DOMAIN-SUFFIX,www.188asia.net
   - DOMAIN-SUFFIX,www.188bet.com
   - DOMAIN-SUFFIX,www.188euro.com
   - DOMAIN-SUFFIX,www.188f1play.com
