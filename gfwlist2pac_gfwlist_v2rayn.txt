@@ -1,7 +1,7 @@
-# Checksum: MTYxMTc1MDU3Mgo=
+# Checksum: MTYxMTc2MDgwNwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210127-4
-# TimeUpdated: 2021-01-27T12:29:32+00:00
+# Version: 1.3.1-20210127-5
+# TimeUpdated: 2021-01-27T15:20:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -538,6 +538,7 @@ domain:1ucrs.com,
 domain:1wtu5.g88.biz.tm,
 domain:1x.com,
 domain:1x.net,
+domain:1x88bet.com,
 domain:1xiaoshivpn.com,
 domain:1z2x1z.blogspot.hk,
 domain:2-floor.dyndns.org,
@@ -587,7 +588,6 @@ domain:21newyouth.net,
 domain:21pron.com,
 domain:21sextury.com,
 domain:21uscity.com,
-domain:22.404.mn,
 domain:22.biz.tm,
 domain:22.cr.rs,
 domain:22.dns2.us,
@@ -26217,6 +26217,7 @@ domain:uploaded.net,
 domain:uploaded.to,
 domain:uploadfiles.io,
 domain:uploadhouse.com,
+domain:uploadstation.com,
 domain:uplynk.com,
 domain:upmedia.mg,
 domain:upo.xxxy.biz,

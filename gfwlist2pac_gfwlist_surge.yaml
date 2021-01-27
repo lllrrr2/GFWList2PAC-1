@@ -1,7 +1,7 @@
-# Checksum: MTYxMTc1MDU3Mgo=
+# Checksum: MTYxMTc2MDgwNwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210127-4
-# TimeUpdated: 2021-01-27T12:29:32+00:00
+# Version: 1.3.1-20210127-5
+# TimeUpdated: 2021-01-27T15:20:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -538,6 +538,7 @@ DOMAIN-SUFFIX,1ucrs.com
 DOMAIN-SUFFIX,1wtu5.g88.biz.tm
 DOMAIN-SUFFIX,1x.com
 DOMAIN-SUFFIX,1x.net
+DOMAIN-SUFFIX,1x88bet.com
 DOMAIN-SUFFIX,1xiaoshivpn.com
 DOMAIN-SUFFIX,1z2x1z.blogspot.hk
 DOMAIN-SUFFIX,2-floor.dyndns.org
@@ -587,7 +588,6 @@ DOMAIN-SUFFIX,21newyouth.net
 DOMAIN-SUFFIX,21pron.com
 DOMAIN-SUFFIX,21sextury.com
 DOMAIN-SUFFIX,21uscity.com
-DOMAIN-SUFFIX,22.404.mn
 DOMAIN-SUFFIX,22.biz.tm
 DOMAIN-SUFFIX,22.cr.rs
 DOMAIN-SUFFIX,22.dns2.us
@@ -26217,6 +26217,7 @@ DOMAIN-SUFFIX,uploaded.net
 DOMAIN-SUFFIX,uploaded.to
 DOMAIN-SUFFIX,uploadfiles.io
 DOMAIN-SUFFIX,uploadhouse.com
+DOMAIN-SUFFIX,uploadstation.com
 DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,upmedia.mg
 DOMAIN-SUFFIX,upo.xxxy.biz
