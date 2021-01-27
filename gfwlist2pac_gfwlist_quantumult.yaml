@@ -1,7 +1,7 @@
-# Checksum: MTYxMTcxNzk0NQo=
+# Checksum: MTYxMTcyODYzNAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210127-1
-# TimeUpdated: 2021-01-27T03:25:45+00:00
+# Version: 1.3.1-20210127-2
+# TimeUpdated: 2021-01-27T06:23:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -2670,7 +2670,6 @@ DOMAIN-SUFFIX,altavista.com,PROXY
 DOMAIN-SUFFIX,altera.com,PROXY
 DOMAIN-SUFFIX,alteraforum.com,PROXY
 DOMAIN-SUFFIX,alteraforums.com,PROXY
-DOMAIN-SUFFIX,alterauserforum.com,PROXY
 DOMAIN-SUFFIX,alterauserforums.com,PROXY
 DOMAIN-SUFFIX,alternate-tools.com,PROXY
 DOMAIN-SUFFIX,alternativeto.net,PROXY
@@ -10127,6 +10126,7 @@ DOMAIN-SUFFIX,expressvpn.asia,PROXY
 DOMAIN-SUFFIX,expressvpn.biz,PROXY
 DOMAIN-SUFFIX,expressvpn.co,PROXY
 DOMAIN-SUFFIX,expressvpn.com,PROXY
+DOMAIN-SUFFIX,expressvpn.io,PROXY
 DOMAIN-SUFFIX,expressvpn.net,PROXY
 DOMAIN-SUFFIX,expressvpn.org,PROXY
 DOMAIN-SUFFIX,expressvpn.pm,PROXY
