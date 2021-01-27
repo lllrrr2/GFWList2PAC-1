@@ -1,7 +1,7 @@
-# Checksum: MTYxMTc3MjMyMwo=
+# Checksum: MTYxMTc4MjI5OAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210127-6
-# TimeUpdated: 2021-01-27T18:32:03+00:00
+# Version: 1.3.1-20210127-7
+# TimeUpdated: 2021-01-27T21:18:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -8077,6 +8077,7 @@ DOMAIN-SUFFIX,dajiyuan.com,PROXY
 DOMAIN-SUFFIX,dajiyuan.de,PROXY
 DOMAIN-SUFFIX,dajiyuan.eu,PROXY
 DOMAIN-SUFFIX,dakaba.pw,PROXY
+DOMAIN-SUFFIX,dakaba.xyz,PROXY
 DOMAIN-SUFFIX,dakashangche.com,PROXY
 DOMAIN-SUFFIX,dakashangche.net,PROXY
 DOMAIN-SUFFIX,dalailama-archives.org,PROXY
@@ -27576,6 +27577,7 @@ DOMAIN-SUFFIX,walderviolin.com,PROXY
 DOMAIN-SUFFIX,wallet.com,PROXY
 DOMAIN-SUFFIX,walllink.cc,PROXY
 DOMAIN-SUFFIX,wallmama.com,PROXY
+DOMAIN-SUFFIX,wallornot.org,PROXY
 DOMAIN-SUFFIX,wallpapercasa.com,PROXY
 DOMAIN-SUFFIX,wallproxy.com,PROXY
 DOMAIN-SUFFIX,walls.io,PROXY

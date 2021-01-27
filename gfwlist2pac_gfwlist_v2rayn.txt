@@ -1,7 +1,7 @@
-# Checksum: MTYxMTc3MjMyMwo=
+# Checksum: MTYxMTc4MjI5OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210127-6
-# TimeUpdated: 2021-01-27T18:32:03+00:00
+# Version: 1.3.1-20210127-7
+# TimeUpdated: 2021-01-27T21:18:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -8077,6 +8077,7 @@ domain:dajiyuan.com,
 domain:dajiyuan.de,
 domain:dajiyuan.eu,
 domain:dakaba.pw,
+domain:dakaba.xyz,
 domain:dakashangche.com,
 domain:dakashangche.net,
 domain:dalailama-archives.org,
@@ -27576,6 +27577,7 @@ domain:walderviolin.com,
 domain:wallet.com,
 domain:walllink.cc,
 domain:wallmama.com,
+domain:wallornot.org,
 domain:wallpapercasa.com,
 domain:wallproxy.com,
 domain:walls.io,
