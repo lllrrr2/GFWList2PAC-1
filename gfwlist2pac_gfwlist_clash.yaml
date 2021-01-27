@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMTcyODYzNAo=
+# Checksum: MTYxMTczOTQ1MAo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210127-2
-# TimeUpdated: 2021-01-27T06:23:54+00:00
+# Version: 1.3.1-20210127-3
+# TimeUpdated: 2021-01-27T09:24:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -399,6 +399,7 @@ payload:
   - DOMAIN-SUFFIX,188522.com
   - DOMAIN-SUFFIX,188982.com
   - DOMAIN-SUFFIX,1889bet.com
+  - DOMAIN-SUFFIX,188asia.net
   - DOMAIN-SUFFIX,188bet.com
   - DOMAIN-SUFFIX,188euro.com
   - DOMAIN-SUFFIX,188f1play.com
@@ -1973,6 +1974,7 @@ payload:
   - DOMAIN-SUFFIX,aa1802.com
   - DOMAIN-SUFFIX,aa2211.com
   - DOMAIN-SUFFIX,aa228.net
+  - DOMAIN-SUFFIX,aa337.net
   - DOMAIN-SUFFIX,aa611.net
   - DOMAIN-SUFFIX,aa8258.com
   - DOMAIN-SUFFIX,aa835.net
@@ -4086,6 +4088,7 @@ payload:
   - DOMAIN-SUFFIX,bbs.hanminzu.org
   - DOMAIN-SUFFIX,bbs.huasing.org
   - DOMAIN-SUFFIX,bbs.junglobal.net
+  - DOMAIN-SUFFIX,bbs.k369.eu.org
   - DOMAIN-SUFFIX,bbs.kanshifang.com
   - DOMAIN-SUFFIX,bbs.kimy.com.tw
   - DOMAIN-SUFFIX,bbs.mikocon.com
@@ -9556,6 +9559,7 @@ payload:
   - DOMAIN-SUFFIX,echainhost.com
   - DOMAIN-SUFFIX,echofon.com
   - DOMAIN-SUFFIX,echosign.com
+  - DOMAIN-SUFFIX,ecimg.tw
   - DOMAIN-SUFFIX,ecimleon.org.mx
   - DOMAIN-SUFFIX,eclipsewebmedia.com
   - DOMAIN-SUFFIX,ecministry.net
@@ -10127,7 +10131,6 @@ payload:
   - DOMAIN-SUFFIX,expressvpn.biz
   - DOMAIN-SUFFIX,expressvpn.co
   - DOMAIN-SUFFIX,expressvpn.com
-  - DOMAIN-SUFFIX,expressvpn.io
   - DOMAIN-SUFFIX,expressvpn.net
   - DOMAIN-SUFFIX,expressvpn.org
   - DOMAIN-SUFFIX,expressvpn.pm
@@ -23524,6 +23527,7 @@ payload:
   - DOMAIN-SUFFIX,soasta-dswb.com
   - DOMAIN-SUFFIX,sobees.com
   - DOMAIN-SUFFIX,sobody88.com
+  - DOMAIN-SUFFIX,soc.mil
   - DOMAIN-SUFFIX,socalbmw.com
   - DOMAIN-SUFFIX,socaltibet.org
   - DOMAIN-SUFFIX,soccerfanz.com.my
@@ -28439,6 +28443,7 @@ payload:
   - DOMAIN-SUFFIX,www.188226.com
   - DOMAIN-SUFFIX,www.18844a.com
   - DOMAIN-SUFFIX,www.1889bet.com
+  - DOMAIN-SUFFIX,www.188asia.net
   - DOMAIN-SUFFIX,www.188bet.com
   - DOMAIN-SUFFIX,www.188euro.com
   - DOMAIN-SUFFIX,www.188f1play.com
