@@ -1,7 +1,7 @@
-# Checksum: MTYxMTg0NzE5Nwo=
+# Checksum: MTYxMTg1ODgzMQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210128-5
-# TimeUpdated: 2021-01-28T15:19:57+00:00
+# Version: 1.3.1-20210128-6
+# TimeUpdated: 2021-01-28T18:33:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1268,6 +1268,7 @@ domain:62.slyip.net,
 domain:62033.com,
 domain:62365t.com,
 domain:62382013-bf.cp168.ws,
+domain:626aaa.net,
 domain:626ccc.net,
 domain:626hhh.net,
 domain:626ii.net,
@@ -6043,6 +6044,7 @@ domain:bwh8.net,
 domain:bwh88.net,
 domain:bwin01.com,
 domain:bwin1177.com,
+domain:bwin3099.com,
 domain:bwin8899.com,
 domain:bwtiyu.com,
 domain:bww.yakexi1024.net,
