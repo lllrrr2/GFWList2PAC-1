@@ -1,7 +1,7 @@
-# Checksum: MTYxMTgyNjg4MAo=
+# Checksum: MTYxMTgzNjk1OAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210128-3
-# TimeUpdated: 2021-01-28T09:41:20+00:00
+# Version: 1.3.1-20210128-4
+# TimeUpdated: 2021-01-28T12:29:18+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -18096,7 +18096,6 @@ DOMAIN-SUFFIX,mist.so,PROXY
 DOMAIN-SUFFIX,mist.vip,PROXY
 DOMAIN-SUFFIX,mit.edu,PROXY
 DOMAIN-SUFFIX,mit.net,PROXY
-DOMAIN-SUFFIX,mitao.com.tw,PROXY
 DOMAIN-SUFFIX,mitao123.com,PROXY
 DOMAIN-SUFFIX,mitbbs.com,PROXY
 DOMAIN-SUFFIX,mitbbs.org,PROXY
