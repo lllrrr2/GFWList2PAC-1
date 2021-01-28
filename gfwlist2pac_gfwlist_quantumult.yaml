@@ -1,7 +1,7 @@
-# Checksum: MTYxMTgzNjk1OAo=
+# Checksum: MTYxMTg0NzE5Nwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210128-4
-# TimeUpdated: 2021-01-28T12:29:18+00:00
+# Version: 1.3.1-20210128-5
+# TimeUpdated: 2021-01-28T15:19:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -25687,6 +25687,7 @@ DOMAIN-SUFFIX,tuidang.org,PROXY
 DOMAIN-SUFFIX,tuidang.se,PROXY
 DOMAIN-SUFFIX,tuintuin.nl,PROXY
 DOMAIN-SUFFIX,tuite.im,PROXY
+DOMAIN-SUFFIX,tuite.in,PROXY
 DOMAIN-SUFFIX,tuitt.ch,PROXY
 DOMAIN-SUFFIX,tuitwit.com,PROXY
 DOMAIN-SUFFIX,tukif.com,PROXY
