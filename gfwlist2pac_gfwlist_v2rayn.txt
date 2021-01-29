@@ -1,7 +1,7 @@
-# Checksum: MTYxMTg5MDg5Nwo=
+# Checksum: MTYxMTkwMTQyOAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210129-1
-# TimeUpdated: 2021-01-29T03:28:17+00:00
+# Version: 1.3.1-20210129-2
+# TimeUpdated: 2021-01-29T06:23:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1432,7 +1432,6 @@ domain:73999z.com,
 domain:73m4v.x.incapdns.net,
 domain:742919.com,
 domain:744.flnet.org,
-domain:7460.vip,
 domain:747.us.to,
 domain:7490099.com,
 domain:75.4pu.com,
@@ -1751,6 +1750,7 @@ domain:92ccav.com,
 domain:92sihu.com,
 domain:931.dnset.com,
 domain:9345345.com,
+domain:935dd.net,
 domain:9388js.com,
 domain:939016.com,
 domain:939025.com,
