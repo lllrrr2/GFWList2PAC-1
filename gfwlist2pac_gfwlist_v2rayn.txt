@@ -1,7 +1,7 @@
-# Checksum: MTYxMTg4MTYxOQo=
+# Checksum: MTYxMTg5MDg5Nwo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210129-0
-# TimeUpdated: 2021-01-29T00:53:39+00:00
+# Version: 1.3.1-20210129-1
+# TimeUpdated: 2021-01-29T03:28:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -1432,6 +1432,7 @@ domain:73999z.com,
 domain:73m4v.x.incapdns.net,
 domain:742919.com,
 domain:744.flnet.org,
+domain:7460.vip,
 domain:747.us.to,
 domain:7490099.com,
 domain:75.4pu.com,
@@ -4430,6 +4431,7 @@ domain:beautiful.ai,
 domain:beauty.fm,
 domain:beauty.md,
 domain:bebepremium3.com.bo,
+domain:bebo.com,
 domain:beckley.co.za,
 domain:becomeindex.com,
 domain:bed.b0ne.com,
@@ -20992,6 +20994,7 @@ domain:plasticnews.wf,
 domain:play-asia.com,
 domain:play.drawnguess.com,
 domain:play.googleapis.com,
+domain:play.itunes.apple.com,
 domain:play168.cc,
 domain:play4free.com,
 domain:playapex.com,

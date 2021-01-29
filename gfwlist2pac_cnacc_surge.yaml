@@ -1,7 +1,7 @@
-# Checksum: MTYxMTg4MTYwOQo=
+# Checksum: MTYxMTg5MDg4Ngo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210129-0
-# TimeUpdated: 2021-01-29T00:53:29+00:00
+# Version: 1.3.1-20210129-1
+# TimeUpdated: 2021-01-29T03:28:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -2804,7 +2804,6 @@ DOMAIN-SUFFIX,308308.com
 DOMAIN-SUFFIX,309edu.com
 DOMAIN-SUFFIX,309yy.com
 DOMAIN-SUFFIX,30c.org
-DOMAIN-SUFFIX,30cgy.com
 DOMAIN-SUFFIX,30cn.net
 DOMAIN-SUFFIX,30dj.com
 DOMAIN-SUFFIX,30nl.net
@@ -3456,7 +3455,6 @@ DOMAIN-SUFFIX,3d-stereovision.com
 DOMAIN-SUFFIX,3d-yizao.com
 DOMAIN-SUFFIX,3d-zh.com
 DOMAIN-SUFFIX,3d2000.com
-DOMAIN-SUFFIX,3d2013.com
 DOMAIN-SUFFIX,3d2s.com
 DOMAIN-SUFFIX,3d414.com
 DOMAIN-SUFFIX,3d56.net
@@ -6629,7 +6627,6 @@ DOMAIN-SUFFIX,88582.com
 DOMAIN-SUFFIX,8858a.com
 DOMAIN-SUFFIX,8860.net
 DOMAIN-SUFFIX,8864.org
-DOMAIN-SUFFIX,886520.cc
 DOMAIN-SUFFIX,8866.org
 DOMAIN-SUFFIX,886966.com
 DOMAIN-SUFFIX,886abc.com
@@ -7105,7 +7102,6 @@ DOMAIN-SUFFIX,92python.com
 DOMAIN-SUFFIX,92sucai.com
 DOMAIN-SUFFIX,92tianjin.com
 DOMAIN-SUFFIX,92to.com
-DOMAIN-SUFFIX,92u93e.com
 DOMAIN-SUFFIX,92wan.com
 DOMAIN-SUFFIX,92wudao.com
 DOMAIN-SUFFIX,92wx.com
@@ -13211,6 +13207,7 @@ DOMAIN-SUFFIX,caogen.com
 DOMAIN-SUFFIX,caogen88.com
 DOMAIN-SUFFIX,caohaifeng.com
 DOMAIN-SUFFIX,caohejing.com
+DOMAIN-SUFFIX,caohejing.org
 DOMAIN-SUFFIX,caohua.com
 DOMAIN-SUFFIX,caoliu.com
 DOMAIN-SUFFIX,caomeibook.com
@@ -17944,6 +17941,7 @@ DOMAIN-SUFFIX,cy.com
 DOMAIN-SUFFIX,cy12301.com
 DOMAIN-SUFFIX,cy1990.com
 DOMAIN-SUFFIX,cy2009.com
+DOMAIN-SUFFIX,cy52.org
 DOMAIN-SUFFIX,cy580.com
 DOMAIN-SUFFIX,cy865.com
 DOMAIN-SUFFIX,cy88.com
@@ -24867,6 +24865,7 @@ DOMAIN-SUFFIX,ggwan.com
 DOMAIN-SUFFIX,ggweb.net
 DOMAIN-SUFFIX,ggxt.net
 DOMAIN-SUFFIX,ggxxe.com
+DOMAIN-SUFFIX,ggytc.com
 DOMAIN-SUFFIX,ggyum.com
 DOMAIN-SUFFIX,ggyy8.cc
 DOMAIN-SUFFIX,ggzgg.com
@@ -26975,6 +26974,7 @@ DOMAIN-SUFFIX,haomijie.com
 DOMAIN-SUFFIX,haomingr.com
 DOMAIN-SUFFIX,haommn.com
 DOMAIN-SUFFIX,haomou.net
+DOMAIN-SUFFIX,haomove.com
 DOMAIN-SUFFIX,haomugua.com
 DOMAIN-SUFFIX,haonames.com
 DOMAIN-SUFFIX,haonongzi.com
@@ -43939,6 +43939,7 @@ DOMAIN-SUFFIX,papergod.com
 DOMAIN-SUFFIX,paperisok.com
 DOMAIN-SUFFIX,paperok.com
 DOMAIN-SUFFIX,paperonce.org
+DOMAIN-SUFFIX,paperopen.com
 DOMAIN-SUFFIX,paperpass.com
 DOMAIN-SUFFIX,paperpi.com
 DOMAIN-SUFFIX,paperrater.net
@@ -46291,7 +46292,6 @@ DOMAIN-SUFFIX,qmei.me
 DOMAIN-SUFFIX,qmei.vip
 DOMAIN-SUFFIX,qmengyun.com
 DOMAIN-SUFFIX,qmht.com
-DOMAIN-SUFFIX,qmht.mobi
 DOMAIN-SUFFIX,qmood.com
 DOMAIN-SUFFIX,qmqm.net
 DOMAIN-SUFFIX,qmrobot.com
@@ -46584,6 +46584,7 @@ DOMAIN-SUFFIX,qthmedia.com
 DOMAIN-SUFFIX,qthnews.com
 DOMAIN-SUFFIX,qthosp.com
 DOMAIN-SUFFIX,qtj5.com
+DOMAIN-SUFFIX,qtlcn.com
 DOMAIN-SUFFIX,qtlglb.com
 DOMAIN-SUFFIX,qtluyuan.com
 DOMAIN-SUFFIX,qtmlhs.com
@@ -48103,6 +48104,7 @@ DOMAIN-SUFFIX,samyuong.com
 DOMAIN-SUFFIX,samzhe.com
 DOMAIN-SUFFIX,san-health.net
 DOMAIN-SUFFIX,san-sheng.net
+DOMAIN-SUFFIX,sanban18.com
 DOMAIN-SUFFIX,sancanal.com
 DOMAIN-SUFFIX,sanctpalace.com
 DOMAIN-SUFFIX,sancunrenjian.org
@@ -61569,6 +61571,7 @@ DOMAIN-SUFFIX,xswdcasting.com
 DOMAIN-SUFFIX,xsxkzz.com
 DOMAIN-SUFFIX,xsyk021.com
 DOMAIN-SUFFIX,xsyqmztg.com
+DOMAIN-SUFFIX,xsyqw.com
 DOMAIN-SUFFIX,xsyushan.com
 DOMAIN-SUFFIX,xsyxsc.com
 DOMAIN-SUFFIX,xszedu.com

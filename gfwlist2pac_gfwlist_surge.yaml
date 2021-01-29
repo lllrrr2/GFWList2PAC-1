@@ -1,7 +1,7 @@
-# Checksum: MTYxMTg4MTYxOQo=
+# Checksum: MTYxMTg5MDg5Nwo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210129-0
-# TimeUpdated: 2021-01-29T00:53:39+00:00
+# Version: 1.3.1-20210129-1
+# TimeUpdated: 2021-01-29T03:28:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1432,6 +1432,7 @@ DOMAIN-SUFFIX,73999z.com
 DOMAIN-SUFFIX,73m4v.x.incapdns.net
 DOMAIN-SUFFIX,742919.com
 DOMAIN-SUFFIX,744.flnet.org
+DOMAIN-SUFFIX,7460.vip
 DOMAIN-SUFFIX,747.us.to
 DOMAIN-SUFFIX,7490099.com
 DOMAIN-SUFFIX,75.4pu.com
@@ -4430,6 +4431,7 @@ DOMAIN-SUFFIX,beautiful.ai
 DOMAIN-SUFFIX,beauty.fm
 DOMAIN-SUFFIX,beauty.md
 DOMAIN-SUFFIX,bebepremium3.com.bo
+DOMAIN-SUFFIX,bebo.com
 DOMAIN-SUFFIX,beckley.co.za
 DOMAIN-SUFFIX,becomeindex.com
 DOMAIN-SUFFIX,bed.b0ne.com
@@ -20992,6 +20994,7 @@ DOMAIN-SUFFIX,plasticnews.wf
 DOMAIN-SUFFIX,play-asia.com
 DOMAIN-SUFFIX,play.drawnguess.com
 DOMAIN-SUFFIX,play.googleapis.com
+DOMAIN-SUFFIX,play.itunes.apple.com
 DOMAIN-SUFFIX,play168.cc
 DOMAIN-SUFFIX,play4free.com
 DOMAIN-SUFFIX,playapex.com
