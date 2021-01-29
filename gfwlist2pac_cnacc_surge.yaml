@@ -1,7 +1,7 @@
-# Checksum: MTYxMTkxMjMwNgo=
+# Checksum: MTYxMTkyMzM0OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210129-3
-# TimeUpdated: 2021-01-29T09:25:06+00:00
+# Version: 1.3.1-20210129-4
+# TimeUpdated: 2021-01-29T12:29:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -490,7 +490,6 @@ DOMAIN-SUFFIX,057.com
 DOMAIN-SUFFIX,0570fc.com
 DOMAIN-SUFFIX,0570zs.com
 DOMAIN-SUFFIX,057191.com
-DOMAIN-SUFFIX,0571dns.com
 DOMAIN-SUFFIX,0571ok.com
 DOMAIN-SUFFIX,0573fang.com
 DOMAIN-SUFFIX,0573ren.com
@@ -940,6 +939,7 @@ DOMAIN-SUFFIX,100zp.com
 DOMAIN-SUFFIX,101.com
 DOMAIN-SUFFIX,10100000.com
 DOMAIN-SUFFIX,10101111.com
+DOMAIN-SUFFIX,10101111cdn.com
 DOMAIN-SUFFIX,1010jiajiao.com
 DOMAIN-SUFFIX,1010jz.com
 DOMAIN-SUFFIX,1010pic.com
@@ -5113,6 +5113,7 @@ DOMAIN-SUFFIX,57ac.com
 DOMAIN-SUFFIX,57auto.com
 DOMAIN-SUFFIX,57dj.com
 DOMAIN-SUFFIX,57ee.net
+DOMAIN-SUFFIX,57fx.com
 DOMAIN-SUFFIX,57go.com
 DOMAIN-SUFFIX,57lai.com
 DOMAIN-SUFFIX,57px.com
@@ -12963,7 +12964,6 @@ DOMAIN-SUFFIX,cabontek.com
 DOMAIN-SUFFIX,cabplink.com
 DOMAIN-SUFFIX,cabxgw.com
 DOMAIN-SUFFIX,cacfo.com
-DOMAIN-SUFFIX,cacg.cc
 DOMAIN-SUFFIX,cache.pack.google.com
 DOMAIN-SUFFIX,cachecn.com
 DOMAIN-SUFFIX,cachecn.net
@@ -16911,6 +16911,7 @@ DOMAIN-SUFFIX,coffee08.com
 DOMAIN-SUFFIX,cofly.com
 DOMAIN-SUFFIX,cofool.com
 DOMAIN-SUFFIX,cofoolfx.com
+DOMAIN-SUFFIX,cogcpa.org
 DOMAIN-SUFFIX,cogitosoft.com
 DOMAIN-SUFFIX,cogobuy.com
 DOMAIN-SUFFIX,cogonline.com
@@ -22277,7 +22278,6 @@ DOMAIN-SUFFIX,exuanpin.com
 DOMAIN-SUFFIX,exuanshi.com
 DOMAIN-SUFFIX,exuekt.com
 DOMAIN-SUFFIX,exunchi.com
-DOMAIN-SUFFIX,exxstar.com
 DOMAIN-SUFFIX,exxvip.com
 DOMAIN-SUFFIX,exziyuan.com
 DOMAIN-SUFFIX,ey-app.com
@@ -27468,6 +27468,7 @@ DOMAIN-SUFFIX,hdchina.net
 DOMAIN-SUFFIX,hddhhn.com
 DOMAIN-SUFFIX,hddznet.com
 DOMAIN-SUFFIX,hdfimg.com
+DOMAIN-SUFFIX,hdggapi.com
 DOMAIN-SUFFIX,hdgogogo.com
 DOMAIN-SUFFIX,hdhgzx.com
 DOMAIN-SUFFIX,hdhospital.com
@@ -40969,6 +40970,7 @@ DOMAIN-SUFFIX,moqilin.net
 DOMAIN-SUFFIX,moqing.com
 DOMAIN-SUFFIX,moqipobing.com
 DOMAIN-SUFFIX,moqu8.com
+DOMAIN-SUFFIX,moquu.com
 DOMAIN-SUFFIX,moracoffee.cc
 DOMAIN-SUFFIX,morechinese.cc
 DOMAIN-SUFFIX,moreck.com
@@ -44609,6 +44611,7 @@ DOMAIN-SUFFIX,pioneertimes.net
 DOMAIN-SUFFIX,pip919.com
 DOMAIN-SUFFIX,pipa.com
 DOMAIN-SUFFIX,pipacoding.com
+DOMAIN-SUFFIX,pipapai.com
 DOMAIN-SUFFIX,pipaw.com
 DOMAIN-SUFFIX,pipaw.net
 DOMAIN-SUFFIX,pipedetect.com
@@ -44718,6 +44721,7 @@ DOMAIN-SUFFIX,play910.com
 DOMAIN-SUFFIX,playbeta.net
 DOMAIN-SUFFIX,playcomet.jp
 DOMAIN-SUFFIX,playcrab.com
+DOMAIN-SUFFIX,playcvn.com
 DOMAIN-SUFFIX,playfifa.com
 DOMAIN-SUFFIX,playlu.com
 DOMAIN-SUFFIX,playnail.com
@@ -45596,6 +45600,7 @@ DOMAIN-SUFFIX,qhd.net
 DOMAIN-SUFFIX,qhdae.com
 DOMAIN-SUFFIX,qhdaikuan.com
 DOMAIN-SUFFIX,qhdatongnews.com
+DOMAIN-SUFFIX,qhdfxkj.com
 DOMAIN-SUFFIX,qhdgjj.com
 DOMAIN-SUFFIX,qhdjcbj.com
 DOMAIN-SUFFIX,qhdnews.com
@@ -45871,6 +45876,7 @@ DOMAIN-SUFFIX,qiigame.com
 DOMAIN-SUFFIX,qiji.tech
 DOMAIN-SUFFIX,qijiadianzi.com
 DOMAIN-SUFFIX,qijianzs.com
+DOMAIN-SUFFIX,qijiapay.com
 DOMAIN-SUFFIX,qijiayoudao.net
 DOMAIN-SUFFIX,qijishow.com
 DOMAIN-SUFFIX,qijizuopin.com
@@ -48216,6 +48222,7 @@ DOMAIN-SUFFIX,sao.so
 DOMAIN-SUFFIX,saohuo7.com
 DOMAIN-SUFFIX,saoic.com
 DOMAIN-SUFFIX,saolife.com
+DOMAIN-SUFFIX,saomadang.com
 DOMAIN-SUFFIX,saopu.com
 DOMAIN-SUFFIX,saoso.com
 DOMAIN-SUFFIX,saowen.net
@@ -50289,6 +50296,7 @@ DOMAIN-SUFFIX,sinocateringexpo.com
 DOMAIN-SUFFIX,sinocax.com
 DOMAIN-SUFFIX,sinoces.com
 DOMAIN-SUFFIX,sinochem.com
+DOMAIN-SUFFIX,sinochemb2c.com
 DOMAIN-SUFFIX,sinochemitc.com
 DOMAIN-SUFFIX,sinocul.com
 DOMAIN-SUFFIX,sinoec.net
@@ -55026,6 +55034,7 @@ DOMAIN-SUFFIX,txxtw16.com
 DOMAIN-SUFFIX,txy8.com
 DOMAIN-SUFFIX,txyapp.com
 DOMAIN-SUFFIX,txyes.com
+DOMAIN-SUFFIX,txylab.com
 DOMAIN-SUFFIX,txzad.com
 DOMAIN-SUFFIX,txzdq.com
 DOMAIN-SUFFIX,ty-im.com
@@ -55722,6 +55731,7 @@ DOMAIN-SUFFIX,uthinks.com
 DOMAIN-SUFFIX,utiankong.com
 DOMAIN-SUFFIX,utility.baidu.com
 DOMAIN-SUFFIX,utkang.com
+DOMAIN-SUFFIX,utogame.com
 DOMAIN-SUFFIX,utom.design
 DOMAIN-SUFFIX,utoper.com
 DOMAIN-SUFFIX,utourworld.com
@@ -62495,6 +62505,7 @@ DOMAIN-SUFFIX,ycjyjt.com
 DOMAIN-SUFFIX,ycku.com
 DOMAIN-SUFFIX,ycl37.com
 DOMAIN-SUFFIX,yclh6.com
+DOMAIN-SUFFIX,yclunwen.com
 DOMAIN-SUFFIX,ycmbcd.com
 DOMAIN-SUFFIX,ycnuli.com
 DOMAIN-SUFFIX,ycpack.net
