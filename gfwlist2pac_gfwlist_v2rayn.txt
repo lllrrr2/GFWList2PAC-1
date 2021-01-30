@@ -1,7 +1,7 @@
-# Checksum: MTYxMTk3NzIzNwo=
+# Checksum: MTYxMTk4NzgzNQo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210130-1
-# TimeUpdated: 2021-01-30T03:27:17+00:00
+# Version: 1.3.1-20210130-2
+# TimeUpdated: 2021-01-30T06:23:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -293,6 +293,7 @@ domain:1314.4irc.com,
 domain:1337.cx,
 domain:1337x.to,
 domain:135sihu.com,
+domain:136.microcycas.com,
 domain:1365.com,
 domain:138138l.com,
 domain:139.re,
@@ -1273,6 +1274,7 @@ domain:626ccc.net,
 domain:626hhh.net,
 domain:626ii.net,
 domain:626www.net,
+domain:626xxx.net,
 domain:627.flnet.org,
 domain:6272aa.com,
 domain:62775a.com,
