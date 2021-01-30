@@ -1,7 +1,7 @@
-# Checksum: MTYxMjAzMTU1Ngo=
+# Checksum: MTYxMjA0MTQ4OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210130-6
-# TimeUpdated: 2021-01-30T18:32:36+00:00
+# Version: 1.3.1-20210130-7
+# TimeUpdated: 2021-01-30T21:18:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -217,7 +217,6 @@ domain:111we.com,
 domain:112.b0ne.com,
 domain:1121199.net,
 domain:112263.com,
-domain:1124455.net,
 domain:1128811.net,
 domain:11328t.com,
 domain:113365.com,
@@ -619,7 +618,6 @@ domain:223pp.net,
 domain:223qq.net,
 domain:223ww.net,
 domain:223zz.net,
-domain:224.cc,
 domain:224tt.com,
 domain:225.etowns.org,
 domain:225.xxxy.biz,
@@ -1344,7 +1342,6 @@ domain:66773885.com,
 domain:667874.com,
 domain:668200000.com,
 domain:668452.com,
-domain:668cc668.com,
 domain:668cp.cc,
 domain:668cp99.com,
 domain:668p668.com,
