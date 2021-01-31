@@ -1,7 +1,7 @@
-# Checksum: MTYxMjA2MzU5OAo=
+# Checksum: MTYxMjA3NDIzNwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210131-1
-# TimeUpdated: 2021-01-31T03:26:38+00:00
+# Version: 1.3.1-20210131-2
+# TimeUpdated: 2021-01-31T06:23:57+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,00544.com
 DOMAIN-SUFFIX,0061.com.au
 DOMAIN-SUFFIX,00615.net
 DOMAIN-SUFFIX,006163.com
+DOMAIN-SUFFIX,007.mx
 DOMAIN-SUFFIX,007856.com
 DOMAIN-SUFFIX,00791.com
 DOMAIN-SUFFIX,007hd.com
@@ -6178,6 +6179,7 @@ DOMAIN-SUFFIX,79yx.net
 DOMAIN-SUFFIX,7a8k.com
 DOMAIN-SUFFIX,7acg.com
 DOMAIN-SUFFIX,7ahr.com
+DOMAIN-SUFFIX,7analytics.com
 DOMAIN-SUFFIX,7b2.com
 DOMAIN-SUFFIX,7c.com
 DOMAIN-SUFFIX,7caijiaqi.com
@@ -6753,7 +6755,6 @@ DOMAIN-SUFFIX,8llp.com
 DOMAIN-SUFFIX,8mhh.com
 DOMAIN-SUFFIX,8miu.com
 DOMAIN-SUFFIX,8miu.net
-DOMAIN-SUFFIX,8n6n.com
 DOMAIN-SUFFIX,8njy.com
 DOMAIN-SUFFIX,8oqwl9.wang
 DOMAIN-SUFFIX,8pingce.com
@@ -8835,7 +8836,6 @@ DOMAIN-SUFFIX,aliyue.net
 DOMAIN-SUFFIX,aliyun-cdn.com
 DOMAIN-SUFFIX,aliyun-inc.com
 DOMAIN-SUFFIX,aliyun-iot-share.com
-DOMAIN-SUFFIX,aliyun-youhui.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyun.org
 DOMAIN-SUFFIX,aliyun365.com
@@ -10371,7 +10371,6 @@ DOMAIN-SUFFIX,baishigo.com
 DOMAIN-SUFFIX,baishishuju.com
 DOMAIN-SUFFIX,baishixi.xyz
 DOMAIN-SUFFIX,baishudata.com
-DOMAIN-SUFFIX,baishuge.net
 DOMAIN-SUFFIX,baishunet.com
 DOMAIN-SUFFIX,baisiker.com
 DOMAIN-SUFFIX,baisu.com
@@ -10843,6 +10842,7 @@ DOMAIN-SUFFIX,bd-film.cc
 DOMAIN-SUFFIX,bd-film.co
 DOMAIN-SUFFIX,bd-film.com
 DOMAIN-SUFFIX,bd-gl.com
+DOMAIN-SUFFIX,bd001.net
 DOMAIN-SUFFIX,bd689.com
 DOMAIN-SUFFIX,bdall.com
 DOMAIN-SUFFIX,bdapark.com
@@ -41193,6 +41193,7 @@ DOMAIN-SUFFIX,msiyw.com
 DOMAIN-SUFFIX,msjcqm.com
 DOMAIN-SUFFIX,msjyfund.com.cn
 DOMAIN-SUFFIX,mskjf.com
+DOMAIN-SUFFIX,mslzz.com
 DOMAIN-SUFFIX,msmartlife.com
 DOMAIN-SUFFIX,msmbjp.com
 DOMAIN-SUFFIX,msneg.com
@@ -44469,6 +44470,7 @@ DOMAIN-SUFFIX,piaoyi.org
 DOMAIN-SUFFIX,piaoyun.net
 DOMAIN-SUFFIX,piaozhilan.com
 DOMAIN-SUFFIX,piaozone.com
+DOMAIN-SUFFIX,piasy.com
 DOMAIN-SUFFIX,pibaosi.net
 DOMAIN-SUFFIX,pic138.com
 DOMAIN-SUFFIX,pic16.com
@@ -46111,6 +46113,7 @@ DOMAIN-SUFFIX,qipeisyj.com
 DOMAIN-SUFFIX,qipeng.com
 DOMAIN-SUFFIX,qiqici.com
 DOMAIN-SUFFIX,qiqilm.com
+DOMAIN-SUFFIX,qiqipu.com
 DOMAIN-SUFFIX,qiqipu.tv
 DOMAIN-SUFFIX,qiqiuyu.com
 DOMAIN-SUFFIX,qiqiuyun.net
@@ -47050,6 +47053,7 @@ DOMAIN-SUFFIX,raidcn.com
 DOMAIN-SUFFIX,rail-transit.com
 DOMAIN-SUFFIX,railcn.net
 DOMAIN-SUFFIX,rails365.net
+DOMAIN-SUFFIX,railwayfan.net
 DOMAIN-SUFFIX,rain8.com
 DOMAIN-SUFFIX,rainasmoon.com
 DOMAIN-SUFFIX,rainbond.com
@@ -50282,6 +50286,7 @@ DOMAIN-SUFFIX,sinashow.com
 DOMAIN-SUFFIX,sinasinasinasina.com
 DOMAIN-SUFFIX,sinastorage.com
 DOMAIN-SUFFIX,sinasws.com
+DOMAIN-SUFFIX,sinauda.com
 DOMAIN-SUFFIX,sinawallent.com
 DOMAIN-SUFFIX,sinawap.com
 DOMAIN-SUFFIX,sinawf.com
@@ -62500,6 +62505,7 @@ DOMAIN-SUFFIX,ybzhao.com
 DOMAIN-SUFFIX,ybzkb.com
 DOMAIN-SUFFIX,yc.cc
 DOMAIN-SUFFIX,yc123.com
+DOMAIN-SUFFIX,yc370.com
 DOMAIN-SUFFIX,yc38.com
 DOMAIN-SUFFIX,yc717.com
 DOMAIN-SUFFIX,yc999vip.com
@@ -63574,6 +63580,7 @@ DOMAIN-SUFFIX,ymt360.com
 DOMAIN-SUFFIX,ymtc.com
 DOMAIN-SUFFIX,ymtmt.com
 DOMAIN-SUFFIX,ymvkt.com
+DOMAIN-SUFFIX,ymwl111.com
 DOMAIN-SUFFIX,ymxinxi.com
 DOMAIN-SUFFIX,ymxxs.com
 DOMAIN-SUFFIX,ymyun.com
@@ -63965,7 +63972,6 @@ DOMAIN-SUFFIX,youxi01.com
 DOMAIN-SUFFIX,youxi021.com
 DOMAIN-SUFFIX,youxi186.com
 DOMAIN-SUFFIX,youxi369.com
-DOMAIN-SUFFIX,youxi377.com
 DOMAIN-SUFFIX,youxi49.com
 DOMAIN-SUFFIX,youxi500.com
 DOMAIN-SUFFIX,youxi528.com
