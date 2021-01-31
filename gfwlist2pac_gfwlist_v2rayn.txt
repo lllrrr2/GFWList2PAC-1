@@ -1,7 +1,7 @@
-# Checksum: MTYxMjA4NTAwMwo=
+# Checksum: MTYxMjA5NjE0OAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210131-3
-# TimeUpdated: 2021-01-31T09:23:23+00:00
+# Version: 1.3.1-20210131-4
+# TimeUpdated: 2021-01-31T12:29:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -393,11 +393,11 @@ domain:1843magazine.com,
 domain:187908.com,
 domain:188188188188b.com,
 domain:188226.com,
-domain:1883030.com,
 domain:18844a.com,
 domain:188522.com,
 domain:188982.com,
 domain:1889bet.com,
+domain:188af188.com,
 domain:188bet.com,
 domain:188euro.com,
 domain:188f1play.com,
@@ -2284,6 +2284,7 @@ domain:af.mil,
 domain:afantibbs.com,
 domain:afcp09.com,
 domain:afewmomentswith.com,
+domain:aff.188af188.com,
 domain:aff.51wanqiu.com.com,
 domain:aff.lolxtv.com,
 domain:aff.ptw8.com,
@@ -12295,6 +12296,7 @@ domain:gitbook.io,
 domain:gitbooks.io,
 domain:githack.com,
 domain:github-avatars.oss-cn-hongkong.aliyuncs.com,
+domain:github-releases.githubusercontent.com,
 domain:github.blog,
 domain:github.com,
 domain:github.community,
