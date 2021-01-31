@@ -1,7 +1,7 @@
-# Checksum: MTYxMjEwNjQxOQo=
+# Checksum: MTYxMjExNzg4NAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210131-5
-# TimeUpdated: 2021-01-31T15:20:19+00:00
+# Version: 1.3.1-20210131-6
+# TimeUpdated: 2021-01-31T18:31:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5624,6 +5624,7 @@ DOMAIN-SUFFIX,booktopia.com.au
 DOMAIN-SUFFIX,bookzone.cwgv.com.tw
 DOMAIN-SUFFIX,booloo.com
 DOMAIN-SUFFIX,booming.com.br
+DOMAIN-SUFFIX,boomssr.com
 DOMAIN-SUFFIX,boomtrain.com
 DOMAIN-SUFFIX,boostmobile.com
 DOMAIN-SUFFIX,boots.co.uk
@@ -26869,7 +26870,6 @@ DOMAIN-SUFFIX,video.fkhh1-2.fna.fbcdn.net
 DOMAIN-SUFFIX,video.foxbusiness.com
 DOMAIN-SUFFIX,video.genyt.net
 DOMAIN-SUFFIX,video.pbs.org
-DOMAIN-SUFFIX,video.rti.org.tw
 DOMAIN-SUFFIX,video.yahoo.com
 DOMAIN-SUFFIX,videobam.com
 DOMAIN-SUFFIX,videobreakdown.com

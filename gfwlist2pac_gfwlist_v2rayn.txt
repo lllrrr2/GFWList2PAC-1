@@ -1,7 +1,7 @@
-# Checksum: MTYxMjEwNjQxOQo=
+# Checksum: MTYxMjExNzg4NAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210131-5
-# TimeUpdated: 2021-01-31T15:20:19+00:00
+# Version: 1.3.1-20210131-6
+# TimeUpdated: 2021-01-31T18:31:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -5624,6 +5624,7 @@ domain:booktopia.com.au,
 domain:bookzone.cwgv.com.tw,
 domain:booloo.com,
 domain:booming.com.br,
+domain:boomssr.com,
 domain:boomtrain.com,
 domain:boostmobile.com,
 domain:boots.co.uk,
@@ -26869,7 +26870,6 @@ domain:video.fkhh1-2.fna.fbcdn.net,
 domain:video.foxbusiness.com,
 domain:video.genyt.net,
 domain:video.pbs.org,
-domain:video.rti.org.tw,
 domain:video.yahoo.com,
 domain:videobam.com,
 domain:videobreakdown.com,
