@@ -1,7 +1,7 @@
-# Checksum: MTYxMjA1NDYwNwo=
+# Checksum: MTYxMjA2MzYwNgo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210131-0
-# TimeUpdated: 2021-01-31T00:56:47+00:00
+# Version: 1.3.1-20210131-1
+# TimeUpdated: 2021-01-31T03:26:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -8138,6 +8138,7 @@ domain:dancemeets.com,
 domain:dancingbear.com,
 domain:dandalinvoa.com,
 domain:danejones.com,
+domain:danemarket.com,
 domain:danfis.cz,
 domain:danielgranda.com,
 domain:danke4china.net,

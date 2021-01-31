@@ -1,7 +1,7 @@
-# Checksum: MTYxMjA1NDU5Nwo=
+# Checksum: MTYxMjA2MzU5OAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210131-0
-# TimeUpdated: 2021-01-31T00:56:37+00:00
+# Version: 1.3.1-20210131-1
+# TimeUpdated: 2021-01-31T03:26:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -1338,7 +1338,6 @@ DOMAIN-SUFFIX,131.com
 DOMAIN-SUFFIX,13112.com
 DOMAIN-SUFFIX,1314520sz.com
 DOMAIN-SUFFIX,131458.com
-DOMAIN-SUFFIX,1314mylove.com
 DOMAIN-SUFFIX,1314study.com
 DOMAIN-SUFFIX,1314wallet.com
 DOMAIN-SUFFIX,1314zf.com
@@ -1560,6 +1559,7 @@ DOMAIN-SUFFIX,1666.com
 DOMAIN-SUFFIX,1668g.com
 DOMAIN-SUFFIX,166cai.com
 DOMAIN-SUFFIX,166ks.net
+DOMAIN-SUFFIX,166sh.com
 DOMAIN-SUFFIX,166xs.cc
 DOMAIN-SUFFIX,166xs.com
 DOMAIN-SUFFIX,166zw.com
@@ -3059,7 +3059,6 @@ DOMAIN-SUFFIX,360500.com
 DOMAIN-SUFFIX,36099.com
 DOMAIN-SUFFIX,360abc.com
 DOMAIN-SUFFIX,360aiyi.com
-DOMAIN-SUFFIX,360anyu.com
 DOMAIN-SUFFIX,360bifen.net
 DOMAIN-SUFFIX,360bike.net
 DOMAIN-SUFFIX,360buy.com
@@ -6725,6 +6724,7 @@ DOMAIN-SUFFIX,8dlive.com
 DOMAIN-SUFFIX,8dol.com
 DOMAIN-SUFFIX,8dp.net
 DOMAIN-SUFFIX,8dream.net
+DOMAIN-SUFFIX,8du.in
 DOMAIN-SUFFIX,8dudata.com
 DOMAIN-SUFFIX,8dwww.com
 DOMAIN-SUFFIX,8e8z.com
@@ -6753,6 +6753,7 @@ DOMAIN-SUFFIX,8llp.com
 DOMAIN-SUFFIX,8mhh.com
 DOMAIN-SUFFIX,8miu.com
 DOMAIN-SUFFIX,8miu.net
+DOMAIN-SUFFIX,8n6n.com
 DOMAIN-SUFFIX,8njy.com
 DOMAIN-SUFFIX,8oqwl9.wang
 DOMAIN-SUFFIX,8pingce.com
@@ -6951,7 +6952,6 @@ DOMAIN-SUFFIX,91lda.com
 DOMAIN-SUFFIX,91liangcai.com
 DOMAIN-SUFFIX,91linux.com
 DOMAIN-SUFFIX,91listen.com
-DOMAIN-SUFFIX,91lmgg.com
 DOMAIN-SUFFIX,91lx.com
 DOMAIN-SUFFIX,91lxs.com
 DOMAIN-SUFFIX,91maker.com
@@ -10371,6 +10371,7 @@ DOMAIN-SUFFIX,baishigo.com
 DOMAIN-SUFFIX,baishishuju.com
 DOMAIN-SUFFIX,baishixi.xyz
 DOMAIN-SUFFIX,baishudata.com
+DOMAIN-SUFFIX,baishuge.net
 DOMAIN-SUFFIX,baishunet.com
 DOMAIN-SUFFIX,baisiker.com
 DOMAIN-SUFFIX,baisu.com
@@ -12751,6 +12752,7 @@ DOMAIN-SUFFIX,bxwx.us
 DOMAIN-SUFFIX,bxwx520.com
 DOMAIN-SUFFIX,bxwx99.com
 DOMAIN-SUFFIX,bxwxtxt.com
+DOMAIN-SUFFIX,bxxhdq.com
 DOMAIN-SUFFIX,bxxy.com
 DOMAIN-SUFFIX,bxycw.com
 DOMAIN-SUFFIX,bxynzz.com
@@ -26701,6 +26703,7 @@ DOMAIN-SUFFIX,haizhoumo.com
 DOMAIN-SUFFIX,haizihe.com
 DOMAIN-SUFFIX,haizitong.com
 DOMAIN-SUFFIX,hajjjc.com
+DOMAIN-SUFFIX,halade.com
 DOMAIN-SUFFIX,halaha.com
 DOMAIN-SUFFIX,half.com.cn
 DOMAIN-SUFFIX,halffashion.com
@@ -38326,6 +38329,7 @@ DOMAIN-SUFFIX,lovehifi.com
 DOMAIN-SUFFIX,loveineurope.com
 DOMAIN-SUFFIX,loveinhere.com
 DOMAIN-SUFFIX,lovejavascript.com
+DOMAIN-SUFFIX,lovejia.win
 DOMAIN-SUFFIX,lovelacelee.com
 DOMAIN-SUFFIX,loveleesangwoo.com
 DOMAIN-SUFFIX,loveliao.com
@@ -63961,6 +63965,7 @@ DOMAIN-SUFFIX,youxi01.com
 DOMAIN-SUFFIX,youxi021.com
 DOMAIN-SUFFIX,youxi186.com
 DOMAIN-SUFFIX,youxi369.com
+DOMAIN-SUFFIX,youxi377.com
 DOMAIN-SUFFIX,youxi49.com
 DOMAIN-SUFFIX,youxi500.com
 DOMAIN-SUFFIX,youxi528.com
