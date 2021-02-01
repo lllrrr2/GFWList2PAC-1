@@ -1,7 +1,7 @@
-# Checksum: MTYxMjE0MTAxMAo=
+# Checksum: MTYxMjE1MDA3MAo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210201-0
-# TimeUpdated: 2021-02-01T00:56:50+00:00
+# Version: 1.3.1-20210201-1
+# TimeUpdated: 2021-02-01T03:27:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -5187,7 +5187,6 @@ DOMAIN-SUFFIX,58xs.la
 DOMAIN-SUFFIX,58xs.tw
 DOMAIN-SUFFIX,58xueche.com
 DOMAIN-SUFFIX,58xuexi.com
-DOMAIN-SUFFIX,58yiji.com
 DOMAIN-SUFFIX,58yuefu.com
 DOMAIN-SUFFIX,58yuesao.com
 DOMAIN-SUFFIX,58zcw.com
@@ -6288,6 +6287,7 @@ DOMAIN-SUFFIX,8000ad.com
 DOMAIN-SUFFIX,800400.net
 DOMAIN-SUFFIX,800423.com
 DOMAIN-SUFFIX,800535.com
+DOMAIN-SUFFIX,800646.com
 DOMAIN-SUFFIX,8006506.com
 DOMAIN-SUFFIX,8006511.com
 DOMAIN-SUFFIX,800820.net
@@ -6605,6 +6605,7 @@ DOMAIN-SUFFIX,88582.com
 DOMAIN-SUFFIX,8858a.com
 DOMAIN-SUFFIX,8860.net
 DOMAIN-SUFFIX,8864.org
+DOMAIN-SUFFIX,886520.cc
 DOMAIN-SUFFIX,8866.org
 DOMAIN-SUFFIX,886966.com
 DOMAIN-SUFFIX,886abc.com
@@ -6627,6 +6628,7 @@ DOMAIN-SUFFIX,888rj.com
 DOMAIN-SUFFIX,888y17.com
 DOMAIN-SUFFIX,8898wz.com
 DOMAIN-SUFFIX,88995799.com
+DOMAIN-SUFFIX,88999.com
 DOMAIN-SUFFIX,889su.com
 DOMAIN-SUFFIX,889xp.com
 DOMAIN-SUFFIX,88bada.com
@@ -7340,6 +7342,7 @@ DOMAIN-SUFFIX,97you.net
 DOMAIN-SUFFIX,97yrbl.com
 DOMAIN-SUFFIX,9800.com
 DOMAIN-SUFFIX,980uc.com
+DOMAIN-SUFFIX,9831.com
 DOMAIN-SUFFIX,984g.com
 DOMAIN-SUFFIX,985.so
 DOMAIN-SUFFIX,98523.com
@@ -8731,7 +8734,6 @@ DOMAIN-SUFFIX,aliapp.com
 DOMAIN-SUFFIX,aliavv.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,alibaba.net
 DOMAIN-SUFFIX,alibabacapital.com
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacorp.com
@@ -13001,6 +13003,7 @@ DOMAIN-SUFFIX,caidao1.com
 DOMAIN-SUFFIX,caidao8.com
 DOMAIN-SUFFIX,caidaocloud.com
 DOMAIN-SUFFIX,caidaoli.com
+DOMAIN-SUFFIX,caidian.com
 DOMAIN-SUFFIX,caidianqu.com
 DOMAIN-SUFFIX,caiens.com
 DOMAIN-SUFFIX,caifu110.com
@@ -15041,7 +15044,6 @@ DOMAIN-SUFFIX,chinanews.com.cn
 DOMAIN-SUFFIX,chinanewscb.com
 DOMAIN-SUFFIX,chinaningbo.com
 DOMAIN-SUFFIX,chinanmi.com
-DOMAIN-SUFFIX,chinanotary.org
 DOMAIN-SUFFIX,chinaobp.com
 DOMAIN-SUFFIX,chinaoct.com
 DOMAIN-SUFFIX,chinaonward.net
@@ -24517,7 +24519,6 @@ DOMAIN-SUFFIX,gdcic.net
 DOMAIN-SUFFIX,gdcom.wang
 DOMAIN-SUFFIX,gdcoop.com
 DOMAIN-SUFFIX,gdcts.com
-DOMAIN-SUFFIX,gdctsvisa.com
 DOMAIN-SUFFIX,gdcx.net
 DOMAIN-SUFFIX,gdcyl.org
 DOMAIN-SUFFIX,gddarf.com
@@ -26925,6 +26926,7 @@ DOMAIN-SUFFIX,haohaizi.com
 DOMAIN-SUFFIX,haohanfw.com
 DOMAIN-SUFFIX,haohanguo.com
 DOMAIN-SUFFIX,haohanseo.com
+DOMAIN-SUFFIX,haohaotuan.com
 DOMAIN-SUFFIX,haohaowan.com
 DOMAIN-SUFFIX,haohaoyx.com
 DOMAIN-SUFFIX,haohaozhu.com
@@ -29250,6 +29252,7 @@ DOMAIN-SUFFIX,huankkk.com
 DOMAIN-SUFFIX,huanle.com
 DOMAIN-SUFFIX,huanle800.com
 DOMAIN-SUFFIX,huanleap.com
+DOMAIN-SUFFIX,huanlecdn.com
 DOMAIN-SUFFIX,huanlefish.com
 DOMAIN-SUFFIX,huanleguang.com
 DOMAIN-SUFFIX,huanlejia.vip
@@ -33737,7 +33740,6 @@ DOMAIN-SUFFIX,jmsqw.com
 DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,jmtd0531.com
 DOMAIN-SUFFIX,jmtsg.com
-DOMAIN-SUFFIX,jmtxjj.com
 DOMAIN-SUFFIX,jmxfw.com
 DOMAIN-SUFFIX,jmxw.net
 DOMAIN-SUFFIX,jmyna.net
@@ -33750,7 +33752,6 @@ DOMAIN-SUFFIX,jn-seo.com
 DOMAIN-SUFFIX,jn001.com
 DOMAIN-SUFFIX,jn123456.com
 DOMAIN-SUFFIX,jn1535.com
-DOMAIN-SUFFIX,jnaoliyuan.com
 DOMAIN-SUFFIX,jnbbbyy.com
 DOMAIN-SUFFIX,jnbnzk.com
 DOMAIN-SUFFIX,jncarw.com
@@ -33877,6 +33878,7 @@ DOMAIN-SUFFIX,joojzz.com
 DOMAIN-SUFFIX,joomob.com
 DOMAIN-SUFFIX,joooz.com
 DOMAIN-SUFFIX,joowhee.com
+DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,jooyoo.net
 DOMAIN-SUFFIX,jooyuu.com
 DOMAIN-SUFFIX,joozone.com
@@ -50045,6 +50047,7 @@ DOMAIN-SUFFIX,shunshikj.com
 DOMAIN-SUFFIX,shuntu.cn
 DOMAIN-SUFFIX,shunvzhi.com
 DOMAIN-SUFFIX,shunwang.com
+DOMAIN-SUFFIX,shunye.com
 DOMAIN-SUFFIX,shunyiqu.com
 DOMAIN-SUFFIX,shuo6.com
 DOMAIN-SUFFIX,shuo66.com
@@ -56589,7 +56592,6 @@ DOMAIN-SUFFIX,vvic.com
 DOMAIN-SUFFIX,vvjob.com
 DOMAIN-SUFFIX,vvkaoyan.com
 DOMAIN-SUFFIX,vvmeiju.com
-DOMAIN-SUFFIX,vvo2o.com
 DOMAIN-SUFFIX,vvpool.com
 DOMAIN-SUFFIX,vvup.net
 DOMAIN-SUFFIX,vvv.io
