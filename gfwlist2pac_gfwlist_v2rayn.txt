@@ -1,7 +1,7 @@
-# Checksum: MTYxMjE4MjYxMQo=
+# Checksum: MTYxMjE5MjgwOAo=
 # Title: Zhijie's GFWList for v2rayN
-# Version: 1.3.1-20210201-4
-# TimeUpdated: 2021-02-01T12:30:11+00:00
+# Version: 1.3.1-20210201-5
+# TimeUpdated: 2021-02-01T15:20:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000000000000000000000000000000000000000000000000000000000000001.com,
@@ -8207,7 +8207,6 @@ domain:dawartz.com,
 domain:dawhois.com,
 domain:dawngate.com,
 domain:dawngatechronicles.com,
-domain:daxa.cn,
 domain:dayaarmongol.ning.com,
 domain:dayabook.com,
 domain:daylife.com,
@@ -13227,6 +13226,7 @@ domain:headphones-outlet-online.com,
 domain:headphonesbeatsaudio.com,
 domain:headphonesbeatsbydre.com,
 domain:headphoneses.com,
+domain:headphoneshome.com,
 domain:headphonesretailer.com,
 domain:headset987.com,
 domain:health.businessweekly.com.tw,
@@ -20887,7 +20887,6 @@ domain:photoshop.com,
 domain:php.de,
 domain:php.net,
 domain:php.now-ip.net,
-domain:php3.cf,
 domain:php5.idv.tw,
 domain:php5.ml,
 domain:phpbido.com,
@@ -25573,7 +25572,6 @@ domain:torrentx.cc,
 domain:torrentz.com,
 domain:torrentz.eu,
 domain:torrentz2.is,
-domain:torss.cf,
 domain:torvpn.com,
 domain:tosh.comedycentral.com,
 domain:tosohshanghai.com,
@@ -25902,7 +25900,6 @@ domain:tv365.ga,
 domain:tv5.ca,
 domain:tv55.ga,
 domain:tv55.gq,
-domain:tv555.ml,
 domain:tv72.ga,
 domain:tvants.com,
 domain:tvappstore.net,

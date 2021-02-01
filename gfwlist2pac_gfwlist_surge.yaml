@@ -1,7 +1,7 @@
-# Checksum: MTYxMjE4MjYxMQo=
+# Checksum: MTYxMjE5MjgwOAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210201-4
-# TimeUpdated: 2021-02-01T12:30:11+00:00
+# Version: 1.3.1-20210201-5
+# TimeUpdated: 2021-02-01T15:20:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -8207,7 +8207,6 @@ DOMAIN-SUFFIX,dawartz.com
 DOMAIN-SUFFIX,dawhois.com
 DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,dawngatechronicles.com
-DOMAIN-SUFFIX,daxa.cn
 DOMAIN-SUFFIX,dayaarmongol.ning.com
 DOMAIN-SUFFIX,dayabook.com
 DOMAIN-SUFFIX,daylife.com
@@ -13227,6 +13226,7 @@ DOMAIN-SUFFIX,headphones-outlet-online.com
 DOMAIN-SUFFIX,headphonesbeatsaudio.com
 DOMAIN-SUFFIX,headphonesbeatsbydre.com
 DOMAIN-SUFFIX,headphoneses.com
+DOMAIN-SUFFIX,headphoneshome.com
 DOMAIN-SUFFIX,headphonesretailer.com
 DOMAIN-SUFFIX,headset987.com
 DOMAIN-SUFFIX,health.businessweekly.com.tw
@@ -20887,7 +20887,6 @@ DOMAIN-SUFFIX,photoshop.com
 DOMAIN-SUFFIX,php.de
 DOMAIN-SUFFIX,php.net
 DOMAIN-SUFFIX,php.now-ip.net
-DOMAIN-SUFFIX,php3.cf
 DOMAIN-SUFFIX,php5.idv.tw
 DOMAIN-SUFFIX,php5.ml
 DOMAIN-SUFFIX,phpbido.com
@@ -25573,7 +25572,6 @@ DOMAIN-SUFFIX,torrentx.cc
 DOMAIN-SUFFIX,torrentz.com
 DOMAIN-SUFFIX,torrentz.eu
 DOMAIN-SUFFIX,torrentz2.is
-DOMAIN-SUFFIX,torss.cf
 DOMAIN-SUFFIX,torvpn.com
 DOMAIN-SUFFIX,tosh.comedycentral.com
 DOMAIN-SUFFIX,tosohshanghai.com
@@ -25902,7 +25900,6 @@ DOMAIN-SUFFIX,tv365.ga
 DOMAIN-SUFFIX,tv5.ca
 DOMAIN-SUFFIX,tv55.ga
 DOMAIN-SUFFIX,tv55.gq
-DOMAIN-SUFFIX,tv555.ml
 DOMAIN-SUFFIX,tv72.ga
 DOMAIN-SUFFIX,tvants.com
 DOMAIN-SUFFIX,tvappstore.net

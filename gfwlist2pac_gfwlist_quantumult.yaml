@@ -1,7 +1,7 @@
-# Checksum: MTYxMjE4MjYxMQo=
+# Checksum: MTYxMjE5MjgwOAo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210201-4
-# TimeUpdated: 2021-02-01T12:30:11+00:00
+# Version: 1.3.1-20210201-5
+# TimeUpdated: 2021-02-01T15:20:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -8207,7 +8207,6 @@ DOMAIN-SUFFIX,dawartz.com,PROXY
 DOMAIN-SUFFIX,dawhois.com,PROXY
 DOMAIN-SUFFIX,dawngate.com,PROXY
 DOMAIN-SUFFIX,dawngatechronicles.com,PROXY
-DOMAIN-SUFFIX,daxa.cn,PROXY
 DOMAIN-SUFFIX,dayaarmongol.ning.com,PROXY
 DOMAIN-SUFFIX,dayabook.com,PROXY
 DOMAIN-SUFFIX,daylife.com,PROXY
@@ -13227,6 +13226,7 @@ DOMAIN-SUFFIX,headphones-outlet-online.com,PROXY
 DOMAIN-SUFFIX,headphonesbeatsaudio.com,PROXY
 DOMAIN-SUFFIX,headphonesbeatsbydre.com,PROXY
 DOMAIN-SUFFIX,headphoneses.com,PROXY
+DOMAIN-SUFFIX,headphoneshome.com,PROXY
 DOMAIN-SUFFIX,headphonesretailer.com,PROXY
 DOMAIN-SUFFIX,headset987.com,PROXY
 DOMAIN-SUFFIX,health.businessweekly.com.tw,PROXY
@@ -20887,7 +20887,6 @@ DOMAIN-SUFFIX,photoshop.com,PROXY
 DOMAIN-SUFFIX,php.de,PROXY
 DOMAIN-SUFFIX,php.net,PROXY
 DOMAIN-SUFFIX,php.now-ip.net,PROXY
-DOMAIN-SUFFIX,php3.cf,PROXY
 DOMAIN-SUFFIX,php5.idv.tw,PROXY
 DOMAIN-SUFFIX,php5.ml,PROXY
 DOMAIN-SUFFIX,phpbido.com,PROXY
@@ -25573,7 +25572,6 @@ DOMAIN-SUFFIX,torrentx.cc,PROXY
 DOMAIN-SUFFIX,torrentz.com,PROXY
 DOMAIN-SUFFIX,torrentz.eu,PROXY
 DOMAIN-SUFFIX,torrentz2.is,PROXY
-DOMAIN-SUFFIX,torss.cf,PROXY
 DOMAIN-SUFFIX,torvpn.com,PROXY
 DOMAIN-SUFFIX,tosh.comedycentral.com,PROXY
 DOMAIN-SUFFIX,tosohshanghai.com,PROXY
@@ -25902,7 +25900,6 @@ DOMAIN-SUFFIX,tv365.ga,PROXY
 DOMAIN-SUFFIX,tv5.ca,PROXY
 DOMAIN-SUFFIX,tv55.ga,PROXY
 DOMAIN-SUFFIX,tv55.gq,PROXY
-DOMAIN-SUFFIX,tv555.ml,PROXY
 DOMAIN-SUFFIX,tv72.ga,PROXY
 DOMAIN-SUFFIX,tvants.com,PROXY
 DOMAIN-SUFFIX,tvappstore.net,PROXY
