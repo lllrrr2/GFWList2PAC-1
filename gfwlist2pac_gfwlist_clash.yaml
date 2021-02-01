@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMjE2MDY1NAo=
+# Checksum: MTYxMjE3MTUyOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210201-2
-# TimeUpdated: 2021-02-01T06:24:14+00:00
+# Version: 1.3.1-20210201-3
+# TimeUpdated: 2021-02-01T09:25:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5559,7 +5559,6 @@ payload:
   - DOMAIN-SUFFIX,bod.asia
   - DOMAIN-SUFFIX,bodenwart.at
   - DOMAIN-SUFFIX,bodog.com
-  - DOMAIN-SUFFIX,bodog110.com
   - DOMAIN-SUFFIX,bodog127.com
   - DOMAIN-SUFFIX,bodog168.com
   - DOMAIN-SUFFIX,bodog26.com
@@ -26710,7 +26709,6 @@ payload:
   - DOMAIN-SUFFIX,vegasred.com
   - DOMAIN-SUFFIX,veixin.icccq.com
   - DOMAIN-SUFFIX,veja.ro
-  - DOMAIN-SUFFIX,vel.velikiyustyug.ru
   - DOMAIN-SUFFIX,velase.com
   - DOMAIN-SUFFIX,velikiyustyug.ru
   - DOMAIN-SUFFIX,velkaepocha.cz

@@ -1,7 +1,7 @@
-# Checksum: MTYxMjE2MDY0NAo=
+# Checksum: MTYxMjE3MTUxOQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210201-2
-# TimeUpdated: 2021-02-01T06:24:04+00:00
+# Version: 1.3.1-20210201-3
+# TimeUpdated: 2021-02-01T09:25:19+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -834,7 +834,6 @@ DOMAIN-SUFFIX,1001hw.com
 DOMAIN-SUFFIX,1001p.com
 DOMAIN-SUFFIX,10044.cn
 DOMAIN-SUFFIX,100580.com
-DOMAIN-SUFFIX,1006.tv
 DOMAIN-SUFFIX,100669.com
 DOMAIN-SUFFIX,1008011.com
 DOMAIN-SUFFIX,10086.cn
@@ -940,6 +939,7 @@ DOMAIN-SUFFIX,1010jz.com
 DOMAIN-SUFFIX,1010pic.com
 DOMAIN-SUFFIX,1010school.com
 DOMAIN-SUFFIX,1010sh.com
+DOMAIN-SUFFIX,101400.net
 DOMAIN-SUFFIX,101505.com
 DOMAIN-SUFFIX,10155.com
 DOMAIN-SUFFIX,1015600.com
@@ -6655,6 +6655,7 @@ DOMAIN-SUFFIX,88mmmoney.com
 DOMAIN-SUFFIX,88ng.com
 DOMAIN-SUFFIX,88pets.com
 DOMAIN-SUFFIX,88popo.com
+DOMAIN-SUFFIX,88rpg.net
 DOMAIN-SUFFIX,88tang.com
 DOMAIN-SUFFIX,88tph.com
 DOMAIN-SUFFIX,88ty96.com
@@ -8385,7 +8386,6 @@ DOMAIN-SUFFIX,aigtek.com
 DOMAIN-SUFFIX,aigupiao.com
 DOMAIN-SUFFIX,aihacoin.com
 DOMAIN-SUFFIX,aihaisi.com
-DOMAIN-SUFFIX,aihandu.com
 DOMAIN-SUFFIX,aihanfu.com
 DOMAIN-SUFFIX,aihanfu.net
 DOMAIN-SUFFIX,aihangtian.com
@@ -27648,6 +27648,7 @@ DOMAIN-SUFFIX,heiyan.com
 DOMAIN-SUFFIX,heiyan.la
 DOMAIN-SUFFIX,heiyan.org
 DOMAIN-SUFFIX,heiyange.com
+DOMAIN-SUFFIX,heiyanimg.com
 DOMAIN-SUFFIX,heiyanwang.com
 DOMAIN-SUFFIX,heiying.cc
 DOMAIN-SUFFIX,heiyuege.com
@@ -35933,6 +35934,7 @@ DOMAIN-SUFFIX,kuaijisishu.com
 DOMAIN-SUFFIX,kuaijitong.com
 DOMAIN-SUFFIX,kuaijizheng365.com
 DOMAIN-SUFFIX,kuaikanmanhua.com
+DOMAIN-SUFFIX,kuaikq.com
 DOMAIN-SUFFIX,kuaikuaicloud.com
 DOMAIN-SUFFIX,kuaikuaidai.com
 DOMAIN-SUFFIX,kuaikuaiyu.com
@@ -39082,6 +39084,7 @@ DOMAIN-SUFFIX,madailicai.com
 DOMAIN-SUFFIX,made-in-china.com
 DOMAIN-SUFFIX,madefuns.com
 DOMAIN-SUFFIX,madeqr.com
+DOMAIN-SUFFIX,madigi.net
 DOMAIN-SUFFIX,madio.net
 DOMAIN-SUFFIX,madisonboom.com
 DOMAIN-SUFFIX,madku.com
@@ -52416,6 +52419,7 @@ DOMAIN-SUFFIX,szfa.com
 DOMAIN-SUFFIX,szfachina.org
 DOMAIN-SUFFIX,szffmr.com
 DOMAIN-SUFFIX,szflysky.com
+DOMAIN-SUFFIX,szfob.cc
 DOMAIN-SUFFIX,szfuit.com
 DOMAIN-SUFFIX,szfw.org
 DOMAIN-SUFFIX,szfwzl.com
@@ -66788,7 +66792,6 @@ DOMAIN-SUFFIX,ziling.com
 DOMAIN-SUFFIX,zilongame.com
 DOMAIN-SUFFIX,zilongshanren.com
 DOMAIN-SUFFIX,ziluolanh.com
-DOMAIN-SUFFIX,zimacaihang.com
 DOMAIN-SUFFIX,zimilan.com
 DOMAIN-SUFFIX,zimoapps.com
 DOMAIN-SUFFIX,zimrilink.com

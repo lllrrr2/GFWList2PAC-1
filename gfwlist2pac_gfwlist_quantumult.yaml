@@ -1,7 +1,7 @@
-# Checksum: MTYxMjE2MDY1NAo=
+# Checksum: MTYxMjE3MTUyOQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210201-2
-# TimeUpdated: 2021-02-01T06:24:14+00:00
+# Version: 1.3.1-20210201-3
+# TimeUpdated: 2021-02-01T09:25:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -5558,7 +5558,6 @@ DOMAIN-SUFFIX,bobwills4homes.com,PROXY
 DOMAIN-SUFFIX,bod.asia,PROXY
 DOMAIN-SUFFIX,bodenwart.at,PROXY
 DOMAIN-SUFFIX,bodog.com,PROXY
-DOMAIN-SUFFIX,bodog110.com,PROXY
 DOMAIN-SUFFIX,bodog127.com,PROXY
 DOMAIN-SUFFIX,bodog168.com,PROXY
 DOMAIN-SUFFIX,bodog26.com,PROXY
@@ -26709,7 +26708,6 @@ DOMAIN-SUFFIX,vegasmpegs.com,PROXY
 DOMAIN-SUFFIX,vegasred.com,PROXY
 DOMAIN-SUFFIX,veixin.icccq.com,PROXY
 DOMAIN-SUFFIX,veja.ro,PROXY
-DOMAIN-SUFFIX,vel.velikiyustyug.ru,PROXY
 DOMAIN-SUFFIX,velase.com,PROXY
 DOMAIN-SUFFIX,velikiyustyug.ru,PROXY
 DOMAIN-SUFFIX,velkaepocha.cz,PROXY
