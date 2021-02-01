@@ -1,7 +1,7 @@
-# Checksum: MTYxMjE1MDA3OAo=
+# Checksum: MTYxMjE2MDY1NAo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210201-1
-# TimeUpdated: 2021-02-01T03:27:58+00:00
+# Version: 1.3.1-20210201-2
+# TimeUpdated: 2021-02-01T06:24:14+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -4094,6 +4094,7 @@ DOMAIN-SUFFIX,bbs.huasing.org
 DOMAIN-SUFFIX,bbs.junglobal.net
 DOMAIN-SUFFIX,bbs.kanshifang.com
 DOMAIN-SUFFIX,bbs.kimy.com.tw
+DOMAIN-SUFFIX,bbs.lxty8.com
 DOMAIN-SUFFIX,bbs.mikocon.com
 DOMAIN-SUFFIX,bbs.morbell.com
 DOMAIN-SUFFIX,bbs.mychat.to
@@ -16911,6 +16912,7 @@ DOMAIN-SUFFIX,lvcha888.com
 DOMAIN-SUFFIX,lvhai.org
 DOMAIN-SUFFIX,lvrj.com
 DOMAIN-SUFFIX,lvv2.com
+DOMAIN-SUFFIX,lxty8.com
 DOMAIN-SUFFIX,ly.rs
 DOMAIN-SUFFIX,lyfhk.net
 DOMAIN-SUFFIX,lyhzjd.com
@@ -26707,6 +26709,7 @@ DOMAIN-SUFFIX,vegasmpegs.com
 DOMAIN-SUFFIX,vegasred.com
 DOMAIN-SUFFIX,veixin.icccq.com
 DOMAIN-SUFFIX,veja.ro
+DOMAIN-SUFFIX,vel.velikiyustyug.ru
 DOMAIN-SUFFIX,velase.com
 DOMAIN-SUFFIX,velikiyustyug.ru
 DOMAIN-SUFFIX,velkaepocha.cz
