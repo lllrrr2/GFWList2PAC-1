@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMjI1Nzg4Nwo=
+# Checksum: MTYxMjI2OTAwOQo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210202-3
-# TimeUpdated: 2021-02-02T09:24:47+00:00
+# Version: 1.3.1-20210202-4
+# TimeUpdated: 2021-02-02T12:30:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -5627,7 +5627,6 @@ payload:
   - DOMAIN-SUFFIX,bnn.co
   - DOMAIN-SUFFIX,bnrmetal.com
   - DOMAIN-SUFFIX,bo.biz.tm
-  - DOMAIN-SUFFIX,bo123g.com
   - DOMAIN-SUFFIX,bo92.ga
   - DOMAIN-SUFFIX,boardreader.com
   - DOMAIN-SUFFIX,boards.4chan.org
@@ -23541,7 +23540,6 @@ payload:
   - DOMAIN-SUFFIX,shark-chinaz.com
   - DOMAIN-SUFFIX,sharks-lagoon.fr
   - DOMAIN-SUFFIX,sharpdaily.hk
-  - DOMAIN-SUFFIX,sharpdaily.tw
   - DOMAIN-SUFFIX,shat-tibet.com
   - DOMAIN-SUFFIX,shattered.io
   - DOMAIN-SUFFIX,shayunet.net
@@ -27206,7 +27204,6 @@ payload:
   - DOMAIN-SUFFIX,video.aol.ca
   - DOMAIN-SUFFIX,video.aol.co.uk
   - DOMAIN-SUFFIX,video.aol.com
-  - DOMAIN-SUFFIX,video.ap.org
   - DOMAIN-SUFFIX,video.enlighten.org.tw
   - DOMAIN-SUFFIX,video.fkhh1-2.fna.fbcdn.net
   - DOMAIN-SUFFIX,video.foxbusiness.com

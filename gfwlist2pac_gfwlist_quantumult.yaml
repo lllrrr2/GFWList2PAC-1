@@ -1,7 +1,7 @@
-# Checksum: MTYxMjI1Nzg4Nwo=
+# Checksum: MTYxMjI2OTAwOQo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210202-3
-# TimeUpdated: 2021-02-02T09:24:47+00:00
+# Version: 1.3.1-20210202-4
+# TimeUpdated: 2021-02-02T12:30:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -5626,7 +5626,6 @@ DOMAIN-SUFFIX,bnews.co,PROXY
 DOMAIN-SUFFIX,bnn.co,PROXY
 DOMAIN-SUFFIX,bnrmetal.com,PROXY
 DOMAIN-SUFFIX,bo.biz.tm,PROXY
-DOMAIN-SUFFIX,bo123g.com,PROXY
 DOMAIN-SUFFIX,bo92.ga,PROXY
 DOMAIN-SUFFIX,boardreader.com,PROXY
 DOMAIN-SUFFIX,boards.4chan.org,PROXY
@@ -23540,7 +23539,6 @@ DOMAIN-SUFFIX,sharethis.com,PROXY
 DOMAIN-SUFFIX,shark-chinaz.com,PROXY
 DOMAIN-SUFFIX,sharks-lagoon.fr,PROXY
 DOMAIN-SUFFIX,sharpdaily.hk,PROXY
-DOMAIN-SUFFIX,sharpdaily.tw,PROXY
 DOMAIN-SUFFIX,shat-tibet.com,PROXY
 DOMAIN-SUFFIX,shattered.io,PROXY
 DOMAIN-SUFFIX,shayunet.net,PROXY
@@ -27205,7 +27203,6 @@ DOMAIN-SUFFIX,video-proxy.com,PROXY
 DOMAIN-SUFFIX,video.aol.ca,PROXY
 DOMAIN-SUFFIX,video.aol.co.uk,PROXY
 DOMAIN-SUFFIX,video.aol.com,PROXY
-DOMAIN-SUFFIX,video.ap.org,PROXY
 DOMAIN-SUFFIX,video.enlighten.org.tw,PROXY
 DOMAIN-SUFFIX,video.fkhh1-2.fna.fbcdn.net,PROXY
 DOMAIN-SUFFIX,video.foxbusiness.com,PROXY
