@@ -1,7 +1,7 @@
-# Checksum: MTYxMjI5MDgzMAo=
+# Checksum: MTYxMjMwMDY0OQo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210202-6
-# TimeUpdated: 2021-02-02T18:33:50+00:00
+# Version: 1.3.1-20210202-7
+# TimeUpdated: 2021-02-02T21:17:29+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -1358,7 +1358,6 @@ DOMAIN-SUFFIX,66.4pu.com
 DOMAIN-SUFFIX,66.effers.com
 DOMAIN-SUFFIX,660003.com
 DOMAIN-SUFFIX,6600aaa.com
-DOMAIN-SUFFIX,663.bot.nu
 DOMAIN-SUFFIX,66333885.com
 DOMAIN-SUFFIX,66365365.com
 DOMAIN-SUFFIX,6655js.com
@@ -4640,6 +4639,7 @@ DOMAIN-SUFFIX,bet98.com
 DOMAIN-SUFFIX,bet999.com
 DOMAIN-SUFFIX,betak.net
 DOMAIN-SUFFIX,betavip.com
+DOMAIN-SUFFIX,betboy.cc
 DOMAIN-SUFFIX,betfair.com
 DOMAIN-SUFFIX,betflag.it
 DOMAIN-SUFFIX,beth.games
@@ -12090,6 +12090,7 @@ DOMAIN-SUFFIX,galletasparati.cl
 DOMAIN-SUFFIX,gallup.com
 DOMAIN-SUFFIX,gambe.jp
 DOMAIN-SUFFIX,game.fun88721.com
+DOMAIN-SUFFIX,game.ky195.com
 DOMAIN-SUFFIX,game.tw
 DOMAIN-SUFFIX,game2.fun605.com
 DOMAIN-SUFFIX,game3737.com
@@ -16449,6 +16450,7 @@ DOMAIN-SUFFIX,kwok7.com
 DOMAIN-SUFFIX,kwongwah.com.my
 DOMAIN-SUFFIX,kwp52.com
 DOMAIN-SUFFIX,kxlatv.com
+DOMAIN-SUFFIX,ky195.com
 DOMAIN-SUFFIX,kycloud.asia
 DOMAIN-SUFFIX,kycloud.co
 DOMAIN-SUFFIX,kyleyan.com
@@ -22787,6 +22789,7 @@ DOMAIN-SUFFIX,rpzhphoto.netne.net
 DOMAIN-SUFFIX,rqq.co
 DOMAIN-SUFFIX,rrr200.com
 DOMAIN-SUFFIX,rrr3285.com
+DOMAIN-SUFFIX,rrr626.net
 DOMAIN-SUFFIX,rrr633.net
 DOMAIN-SUFFIX,rrtis.com
 DOMAIN-SUFFIX,rsc.org
@@ -26212,6 +26215,7 @@ DOMAIN-SUFFIX,tv123.cf
 DOMAIN-SUFFIX,tv123.ga
 DOMAIN-SUFFIX,tv2.byinter.net
 DOMAIN-SUFFIX,tv2.max.st
+DOMAIN-SUFFIX,tv2.spacetechnology.net
 DOMAIN-SUFFIX,tv2016.ml
 DOMAIN-SUFFIX,tv22.infos.st
 DOMAIN-SUFFIX,tv3.tv322.yustu.net
