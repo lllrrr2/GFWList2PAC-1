@@ -1,7 +1,7 @@
-# Checksum: MTYxMjIzNjUxMAo=
+# Checksum: MTYxMjI0NzA2Mgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210202-1
-# TimeUpdated: 2021-02-02T03:28:30+00:00
+# Version: 1.3.1-20210202-2
+# TimeUpdated: 2021-02-02T06:24:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -1267,6 +1267,7 @@ DOMAIN-SUFFIX,123slg.com
 DOMAIN-SUFFIX,123u.com
 DOMAIN-SUFFIX,123webgame.com
 DOMAIN-SUFFIX,123xun.com
+DOMAIN-SUFFIX,123yingyu.com
 DOMAIN-SUFFIX,125.la
 DOMAIN-SUFFIX,12530.com
 DOMAIN-SUFFIX,12540.org
@@ -3298,7 +3299,6 @@ DOMAIN-SUFFIX,36sfw.com
 DOMAIN-SUFFIX,36ve.net
 DOMAIN-SUFFIX,36yc.com
 DOMAIN-SUFFIX,36zhen.com
-DOMAIN-SUFFIX,37-sky.com
 DOMAIN-SUFFIX,370fd.com
 DOMAIN-SUFFIX,370kan.com
 DOMAIN-SUFFIX,370kk.com
@@ -6716,7 +6716,6 @@ DOMAIN-SUFFIX,8jiaoye.com
 DOMAIN-SUFFIX,8jxn.com
 DOMAIN-SUFFIX,8jzw.cc
 DOMAIN-SUFFIX,8jzw.com
-DOMAIN-SUFFIX,8k.cm
 DOMAIN-SUFFIX,8k7k.com
 DOMAIN-SUFFIX,8k8z.com
 DOMAIN-SUFFIX,8kana.com
@@ -26411,6 +26410,7 @@ DOMAIN-SUFFIX,gzylxixin.com
 DOMAIN-SUFFIX,gzyouai.com
 DOMAIN-SUFFIX,gzyszy.com
 DOMAIN-SUFFIX,gzyucai.com
+DOMAIN-SUFFIX,gzyzsp8.com
 DOMAIN-SUFFIX,gzzbgs.com
 DOMAIN-SUFFIX,gzzbtbzx.com
 DOMAIN-SUFFIX,gzzg.org
@@ -66540,6 +66540,7 @@ DOMAIN-SUFFIX,zhuanzhuyuwin7.com
 DOMAIN-SUFFIX,zhuatang.com
 DOMAIN-SUFFIX,zhuatongji.com
 DOMAIN-SUFFIX,zhuax.com
+DOMAIN-SUFFIX,zhuaxia.com
 DOMAIN-SUFFIX,zhuaying.com
 DOMAIN-SUFFIX,zhuayou.com
 DOMAIN-SUFFIX,zhuayoukong.com

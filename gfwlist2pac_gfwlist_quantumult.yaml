@@ -1,7 +1,7 @@
-# Checksum: MTYxMjIzNjUxOQo=
+# Checksum: MTYxMjI0NzA3Mgo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210202-1
-# TimeUpdated: 2021-02-02T03:28:39+00:00
+# Version: 1.3.1-20210202-2
+# TimeUpdated: 2021-02-02T06:24:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -7553,6 +7553,7 @@ DOMAIN-SUFFIX,coinonecore.com,PROXY
 DOMAIN-SUFFIX,coinonecorp.com,PROXY
 DOMAIN-SUFFIX,coinrail.co.kr,PROXY
 DOMAIN-SUFFIX,cointiger.com,PROXY
+DOMAIN-SUFFIX,cointobe.com,PROXY
 DOMAIN-SUFFIX,coinut.com,PROXY
 DOMAIN-SUFFIX,coinx.ph,PROXY
 DOMAIN-SUFFIX,cokeconsolidated.com,PROXY
@@ -7606,7 +7607,6 @@ DOMAIN-SUFFIX,com.fr,PROXY
 DOMAIN-SUFFIX,com.ge,PROXY
 DOMAIN-SUFFIX,com.gh,PROXY
 DOMAIN-SUFFIX,com.gi,PROXY
-DOMAIN-SUFFIX,com.google,PROXY
 DOMAIN-SUFFIX,com.gr,PROXY
 DOMAIN-SUFFIX,com.gt,PROXY
 DOMAIN-SUFFIX,com.gy,PROXY
@@ -10693,7 +10693,6 @@ DOMAIN-SUFFIX,falundafanevada.org,PROXY
 DOMAIN-SUFFIX,falundafanorge.com,PROXY
 DOMAIN-SUFFIX,falundafaradio.org,PROXY
 DOMAIN-SUFFIX,falundafautah.org,PROXY
-DOMAIN-SUFFIX,falungong-wa.org,PROXY
 DOMAIN-SUFFIX,falungong.club,PROXY
 DOMAIN-SUFFIX,falungong.cz,PROXY
 DOMAIN-SUFFIX,falungong.de,PROXY
@@ -13041,6 +13040,7 @@ DOMAIN-SUFFIX,greatfirewall.biz,PROXY
 DOMAIN-SUFFIX,greatfirewallofchina.org,PROXY
 DOMAIN-SUFFIX,greatproxies.com,PROXY
 DOMAIN-SUFFIX,greatroc.org,PROXY
+DOMAIN-SUFFIX,greatroc.tw,PROXY
 DOMAIN-SUFFIX,greatwallofchina.com,PROXY
 DOMAIN-SUFFIX,greatzhonghua.org,PROXY
 DOMAIN-SUFFIX,greenbed.com,PROXY
@@ -32653,6 +32653,7 @@ DOMAIN-SUFFIX,www.yule.hk,PROXY
 DOMAIN-SUFFIX,www.yundong.idv.tw,PROXY
 DOMAIN-SUFFIX,www.yungton.org,PROXY
 DOMAIN-SUFFIX,www.yungyunghk.com,PROXY
+DOMAIN-SUFFIX,www.yuntipub.com,PROXY
 DOMAIN-SUFFIX,www.yuyanlive.com,PROXY
 DOMAIN-SUFFIX,www.yyh3.com,PROXY
 DOMAIN-SUFFIX,www.yzc212.com,PROXY

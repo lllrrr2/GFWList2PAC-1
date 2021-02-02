@@ -1,7 +1,7 @@
-# Checksum: MTYxMjIzNjUxMAo=
+# Checksum: MTYxMjI0NzA2Mgo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.3.1-20210202-1
-# TimeUpdated: 2021-02-02T03:28:30+00:00
+# Version: 1.3.1-20210202-2
+# TimeUpdated: 2021-02-02T06:24:22+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:0-100.com,
@@ -1267,6 +1267,7 @@ domain:123slg.com,
 domain:123u.com,
 domain:123webgame.com,
 domain:123xun.com,
+domain:123yingyu.com,
 domain:125.la,
 domain:12530.com,
 domain:12540.org,
@@ -3298,7 +3299,6 @@ domain:36sfw.com,
 domain:36ve.net,
 domain:36yc.com,
 domain:36zhen.com,
-domain:37-sky.com,
 domain:370fd.com,
 domain:370kan.com,
 domain:370kk.com,
@@ -6716,7 +6716,6 @@ domain:8jiaoye.com,
 domain:8jxn.com,
 domain:8jzw.cc,
 domain:8jzw.com,
-domain:8k.cm,
 domain:8k7k.com,
 domain:8k8z.com,
 domain:8kana.com,
@@ -26411,6 +26410,7 @@ domain:gzylxixin.com,
 domain:gzyouai.com,
 domain:gzyszy.com,
 domain:gzyucai.com,
+domain:gzyzsp8.com,
 domain:gzzbgs.com,
 domain:gzzbtbzx.com,
 domain:gzzg.org,
@@ -66540,6 +66540,7 @@ domain:zhuanzhuyuwin7.com,
 domain:zhuatang.com,
 domain:zhuatongji.com,
 domain:zhuax.com,
+domain:zhuaxia.com,
 domain:zhuaying.com,
 domain:zhuayou.com,
 domain:zhuayoukong.com,
