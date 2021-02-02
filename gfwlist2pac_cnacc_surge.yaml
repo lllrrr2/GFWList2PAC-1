@@ -1,7 +1,7 @@
-# Checksum: MTYxMjI0NzA2Mgo=
+# Checksum: MTYxMjI1Nzg3Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210202-2
-# TimeUpdated: 2021-02-02T06:24:22+00:00
+# Version: 1.3.1-20210202-3
+# TimeUpdated: 2021-02-02T09:24:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-100.com
@@ -1267,7 +1267,6 @@ DOMAIN-SUFFIX,123slg.com
 DOMAIN-SUFFIX,123u.com
 DOMAIN-SUFFIX,123webgame.com
 DOMAIN-SUFFIX,123xun.com
-DOMAIN-SUFFIX,123yingyu.com
 DOMAIN-SUFFIX,125.la
 DOMAIN-SUFFIX,12530.com
 DOMAIN-SUFFIX,12540.org
@@ -7713,6 +7712,7 @@ DOMAIN-SUFFIX,abbyychina.com
 DOMAIN-SUFFIX,abc-ca.com
 DOMAIN-SUFFIX,abc12345.net
 DOMAIN-SUFFIX,abc12366.com
+DOMAIN-SUFFIX,abc188.com
 DOMAIN-SUFFIX,abc360.com
 DOMAIN-SUFFIX,abcache.com
 DOMAIN-SUFFIX,abcbxw.com
@@ -26410,7 +26410,6 @@ DOMAIN-SUFFIX,gzylxixin.com
 DOMAIN-SUFFIX,gzyouai.com
 DOMAIN-SUFFIX,gzyszy.com
 DOMAIN-SUFFIX,gzyucai.com
-DOMAIN-SUFFIX,gzyzsp8.com
 DOMAIN-SUFFIX,gzzbgs.com
 DOMAIN-SUFFIX,gzzbtbzx.com
 DOMAIN-SUFFIX,gzzg.org
@@ -31433,6 +31432,7 @@ DOMAIN-SUFFIX,internetcaff.com
 DOMAIN-SUFFIX,internetke.com
 DOMAIN-SUFFIX,internettrademark.com
 DOMAIN-SUFFIX,internetworld.cloud
+DOMAIN-SUFFIX,interpretation.biz
 DOMAIN-SUFFIX,intertid.com
 DOMAIN-SUFFIX,intiea.org
 DOMAIN-SUFFIX,intio.org
@@ -38392,6 +38392,7 @@ DOMAIN-SUFFIX,lq41.vip
 DOMAIN-SUFFIX,lq580.com
 DOMAIN-SUFFIX,lq5u.com
 DOMAIN-SUFFIX,lqabr.com
+DOMAIN-SUFFIX,lqalm.com
 DOMAIN-SUFFIX,lqart.com
 DOMAIN-SUFFIX,lqbj.com
 DOMAIN-SUFFIX,lqbj66.com
@@ -58981,6 +58982,7 @@ DOMAIN-SUFFIX,wsamc.com
 DOMAIN-SUFFIX,wsbuluo.com
 DOMAIN-SUFFIX,wsbz008.com
 DOMAIN-SUFFIX,wsc-expo.com
+DOMAIN-SUFFIX,wscdns.org
 DOMAIN-SUFFIX,wsclouddns.com
 DOMAIN-SUFFIX,wscloudsec.com
 DOMAIN-SUFFIX,wscont1.apps.microsoft.com
@@ -58992,6 +58994,7 @@ DOMAIN-SUFFIX,wscxy.com
 DOMAIN-SUFFIX,wsdcasa.com
 DOMAIN-SUFFIX,wsdccq.com
 DOMAIN-SUFFIX,wsdipei.com
+DOMAIN-SUFFIX,wsdvs.info
 DOMAIN-SUFFIX,wsecar.com
 DOMAIN-SUFFIX,wseen.com
 DOMAIN-SUFFIX,wselearning.com
@@ -66540,7 +66543,6 @@ DOMAIN-SUFFIX,zhuanzhuyuwin7.com
 DOMAIN-SUFFIX,zhuatang.com
 DOMAIN-SUFFIX,zhuatongji.com
 DOMAIN-SUFFIX,zhuax.com
-DOMAIN-SUFFIX,zhuaxia.com
 DOMAIN-SUFFIX,zhuaying.com
 DOMAIN-SUFFIX,zhuayou.com
 DOMAIN-SUFFIX,zhuayoukong.com

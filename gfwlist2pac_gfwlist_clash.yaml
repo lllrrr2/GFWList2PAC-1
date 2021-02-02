@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTYxMjI0NzA3Mgo=
+# Checksum: MTYxMjI1Nzg4Nwo=
 # Title: Zhijie's GFWList for Clash
-# Version: 1.3.1-20210202-2
-# TimeUpdated: 2021-02-02T06:24:32+00:00
+# Version: 1.3.1-20210202-3
+# TimeUpdated: 2021-02-02T09:24:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -7554,7 +7554,6 @@ payload:
   - DOMAIN-SUFFIX,coinonecorp.com
   - DOMAIN-SUFFIX,coinrail.co.kr
   - DOMAIN-SUFFIX,cointiger.com
-  - DOMAIN-SUFFIX,cointobe.com
   - DOMAIN-SUFFIX,coinut.com
   - DOMAIN-SUFFIX,coinx.ph
   - DOMAIN-SUFFIX,cokeconsolidated.com
@@ -13041,7 +13040,6 @@ payload:
   - DOMAIN-SUFFIX,greatfirewallofchina.org
   - DOMAIN-SUFFIX,greatproxies.com
   - DOMAIN-SUFFIX,greatroc.org
-  - DOMAIN-SUFFIX,greatroc.tw
   - DOMAIN-SUFFIX,greatwallofchina.com
   - DOMAIN-SUFFIX,greatzhonghua.org
   - DOMAIN-SUFFIX,greenbed.com
@@ -16608,6 +16606,7 @@ payload:
   - DOMAIN-SUFFIX,leagueoflegends.com
   - DOMAIN-SUFFIX,leagueoflegends.info
   - DOMAIN-SUFFIX,leagueoflegends.net
+  - DOMAIN-SUFFIX,leagueoflegendsscripts.com
   - DOMAIN-SUFFIX,leaguesharp.info
   - DOMAIN-SUFFIX,leaguoflegends.com
   - DOMAIN-SUFFIX,leancloud.com
@@ -23542,6 +23541,7 @@ payload:
   - DOMAIN-SUFFIX,shark-chinaz.com
   - DOMAIN-SUFFIX,sharks-lagoon.fr
   - DOMAIN-SUFFIX,sharpdaily.hk
+  - DOMAIN-SUFFIX,sharpdaily.tw
   - DOMAIN-SUFFIX,shat-tibet.com
   - DOMAIN-SUFFIX,shattered.io
   - DOMAIN-SUFFIX,shayunet.net
@@ -27206,6 +27206,7 @@ payload:
   - DOMAIN-SUFFIX,video.aol.ca
   - DOMAIN-SUFFIX,video.aol.co.uk
   - DOMAIN-SUFFIX,video.aol.com
+  - DOMAIN-SUFFIX,video.ap.org
   - DOMAIN-SUFFIX,video.enlighten.org.tw
   - DOMAIN-SUFFIX,video.fkhh1-2.fna.fbcdn.net
   - DOMAIN-SUFFIX,video.foxbusiness.com
@@ -32654,7 +32655,6 @@ payload:
   - DOMAIN-SUFFIX,www.yundong.idv.tw
   - DOMAIN-SUFFIX,www.yungton.org
   - DOMAIN-SUFFIX,www.yungyunghk.com
-  - DOMAIN-SUFFIX,www.yuntipub.com
   - DOMAIN-SUFFIX,www.yuyanlive.com
   - DOMAIN-SUFFIX,www.yyh3.com
   - DOMAIN-SUFFIX,www.yzc212.com
@@ -33879,7 +33879,6 @@ payload:
   - DOMAIN-SUFFIX,yungton.org
   - DOMAIN-SUFFIX,yungyunghk.com
   - DOMAIN-SUFFIX,yunti.me
-  - DOMAIN-SUFFIX,yuntipub.com
   - DOMAIN-SUFFIX,yuri.soshistagram.com
   - DOMAIN-SUFFIX,yuspa.co.za
   - DOMAIN-SUFFIX,yustu.net

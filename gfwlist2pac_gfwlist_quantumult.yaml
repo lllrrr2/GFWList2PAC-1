@@ -1,7 +1,7 @@
-# Checksum: MTYxMjI0NzA3Mgo=
+# Checksum: MTYxMjI1Nzg4Nwo=
 # Title: Zhijie's GFWList for Quantumult
-# Version: 1.3.1-20210202-2
-# TimeUpdated: 2021-02-02T06:24:32+00:00
+# Version: 1.3.1-20210202-3
+# TimeUpdated: 2021-02-02T09:24:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com,PROXY
@@ -7553,7 +7553,6 @@ DOMAIN-SUFFIX,coinonecore.com,PROXY
 DOMAIN-SUFFIX,coinonecorp.com,PROXY
 DOMAIN-SUFFIX,coinrail.co.kr,PROXY
 DOMAIN-SUFFIX,cointiger.com,PROXY
-DOMAIN-SUFFIX,cointobe.com,PROXY
 DOMAIN-SUFFIX,coinut.com,PROXY
 DOMAIN-SUFFIX,coinx.ph,PROXY
 DOMAIN-SUFFIX,cokeconsolidated.com,PROXY
@@ -13040,7 +13039,6 @@ DOMAIN-SUFFIX,greatfirewall.biz,PROXY
 DOMAIN-SUFFIX,greatfirewallofchina.org,PROXY
 DOMAIN-SUFFIX,greatproxies.com,PROXY
 DOMAIN-SUFFIX,greatroc.org,PROXY
-DOMAIN-SUFFIX,greatroc.tw,PROXY
 DOMAIN-SUFFIX,greatwallofchina.com,PROXY
 DOMAIN-SUFFIX,greatzhonghua.org,PROXY
 DOMAIN-SUFFIX,greenbed.com,PROXY
@@ -16607,6 +16605,7 @@ DOMAIN-SUFFIX,leagueoflegends.co.kr,PROXY
 DOMAIN-SUFFIX,leagueoflegends.com,PROXY
 DOMAIN-SUFFIX,leagueoflegends.info,PROXY
 DOMAIN-SUFFIX,leagueoflegends.net,PROXY
+DOMAIN-SUFFIX,leagueoflegendsscripts.com,PROXY
 DOMAIN-SUFFIX,leaguesharp.info,PROXY
 DOMAIN-SUFFIX,leaguoflegends.com,PROXY
 DOMAIN-SUFFIX,leancloud.com,PROXY
@@ -23541,6 +23540,7 @@ DOMAIN-SUFFIX,sharethis.com,PROXY
 DOMAIN-SUFFIX,shark-chinaz.com,PROXY
 DOMAIN-SUFFIX,sharks-lagoon.fr,PROXY
 DOMAIN-SUFFIX,sharpdaily.hk,PROXY
+DOMAIN-SUFFIX,sharpdaily.tw,PROXY
 DOMAIN-SUFFIX,shat-tibet.com,PROXY
 DOMAIN-SUFFIX,shattered.io,PROXY
 DOMAIN-SUFFIX,shayunet.net,PROXY
@@ -27205,6 +27205,7 @@ DOMAIN-SUFFIX,video-proxy.com,PROXY
 DOMAIN-SUFFIX,video.aol.ca,PROXY
 DOMAIN-SUFFIX,video.aol.co.uk,PROXY
 DOMAIN-SUFFIX,video.aol.com,PROXY
+DOMAIN-SUFFIX,video.ap.org,PROXY
 DOMAIN-SUFFIX,video.enlighten.org.tw,PROXY
 DOMAIN-SUFFIX,video.fkhh1-2.fna.fbcdn.net,PROXY
 DOMAIN-SUFFIX,video.foxbusiness.com,PROXY
@@ -32653,7 +32654,6 @@ DOMAIN-SUFFIX,www.yule.hk,PROXY
 DOMAIN-SUFFIX,www.yundong.idv.tw,PROXY
 DOMAIN-SUFFIX,www.yungton.org,PROXY
 DOMAIN-SUFFIX,www.yungyunghk.com,PROXY
-DOMAIN-SUFFIX,www.yuntipub.com,PROXY
 DOMAIN-SUFFIX,www.yuyanlive.com,PROXY
 DOMAIN-SUFFIX,www.yyh3.com,PROXY
 DOMAIN-SUFFIX,www.yzc212.com,PROXY
@@ -33878,7 +33878,6 @@ DOMAIN-SUFFIX,yunfan.pw,PROXY
 DOMAIN-SUFFIX,yungton.org,PROXY
 DOMAIN-SUFFIX,yungyunghk.com,PROXY
 DOMAIN-SUFFIX,yunti.me,PROXY
-DOMAIN-SUFFIX,yuntipub.com,PROXY
 DOMAIN-SUFFIX,yuri.soshistagram.com,PROXY
 DOMAIN-SUFFIX,yuspa.co.za,PROXY
 DOMAIN-SUFFIX,yustu.net,PROXY
