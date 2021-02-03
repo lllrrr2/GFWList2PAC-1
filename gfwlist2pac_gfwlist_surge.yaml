@@ -1,7 +1,7 @@
-# Checksum: MTYxMjMwMDY0OQo=
+# Checksum: MTYxMjMxMzIyMgo=
 # Title: Zhijie's GFWList for Surge
-# Version: 1.3.1-20210202-7
-# TimeUpdated: 2021-02-02T21:17:29+00:00
+# Version: 1.3.1-20210203-0
+# TimeUpdated: 2021-02-03T00:47:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000000000000000000000000000000000000000000000000000000000000001.com
@@ -2201,7 +2201,6 @@ DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,adblockplus.org
 DOMAIN-SUFFIX,adcex.com
 DOMAIN-SUFFIX,adcommerce.tv
-DOMAIN-SUFFIX,adcp002.com
 DOMAIN-SUFFIX,addictedtocoffee.de
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addtoany.com
@@ -6564,7 +6563,6 @@ DOMAIN-SUFFIX,capitalfoodsmw.com
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,capsule.cl
 DOMAIN-SUFFIX,carabinasypistolas.com
-DOMAIN-SUFFIX,caraterbaru.web.id
 DOMAIN-SUFFIX,caravan.kz
 DOMAIN-SUFFIX,carbon.com
 DOMAIN-SUFFIX,carcano.me
@@ -26215,7 +26213,6 @@ DOMAIN-SUFFIX,tv123.cf
 DOMAIN-SUFFIX,tv123.ga
 DOMAIN-SUFFIX,tv2.byinter.net
 DOMAIN-SUFFIX,tv2.max.st
-DOMAIN-SUFFIX,tv2.spacetechnology.net
 DOMAIN-SUFFIX,tv2016.ml
 DOMAIN-SUFFIX,tv22.infos.st
 DOMAIN-SUFFIX,tv3.tv322.yustu.net
