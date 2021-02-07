@@ -1,7 +1,7 @@
-# Checksum: MTYxMjY4OTQ5OAo=
+# Checksum: MTYxMjcwMDU5NQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.3.1-20210207-3
-# TimeUpdated: 2021-02-07T09:18:18+00:00
+# Version: 1.3.1-20210207-4
+# TimeUpdated: 2021-02-07T12:23:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,0-6.com
@@ -1978,6 +1978,7 @@ DOMAIN-SUFFIX,3737g.com
 DOMAIN-SUFFIX,3737k.com
 DOMAIN-SUFFIX,373f.com
 DOMAIN-SUFFIX,373net.com
+DOMAIN-SUFFIX,373yx.com
 DOMAIN-SUFFIX,375263.com
 DOMAIN-SUFFIX,377bbs.com
 DOMAIN-SUFFIX,37job.net
@@ -3197,6 +3198,7 @@ DOMAIN-SUFFIX,6186.com
 DOMAIN-SUFFIX,6187wo.com
 DOMAIN-SUFFIX,618day.com
 DOMAIN-SUFFIX,618hr.com
+DOMAIN-SUFFIX,618ky.com
 DOMAIN-SUFFIX,61916.com
 DOMAIN-SUFFIX,619k.com
 DOMAIN-SUFFIX,61baobao.com
@@ -3314,6 +3316,7 @@ DOMAIN-SUFFIX,68ge.com
 DOMAIN-SUFFIX,68h5.com
 DOMAIN-SUFFIX,68hanchen.com
 DOMAIN-SUFFIX,68hr.com
+DOMAIN-SUFFIX,68play.com
 DOMAIN-SUFFIX,68t68.com
 DOMAIN-SUFFIX,68team.com
 DOMAIN-SUFFIX,68tuku.com
@@ -5679,6 +5682,7 @@ DOMAIN-SUFFIX,anews7.nvwu.com
 DOMAIN-SUFFIX,anf-z.com
 DOMAIN-SUFFIX,anfan.com
 DOMAIN-SUFFIX,anfantech.com
+DOMAIN-SUFFIX,anfeng.com
 DOMAIN-SUFFIX,anfensi.com
 DOMAIN-SUFFIX,angeeks.com
 DOMAIN-SUFFIX,angel-game.net
@@ -11545,6 +11549,7 @@ DOMAIN-SUFFIX,d65d6.com
 DOMAIN-SUFFIX,d7.mobaders.com
 DOMAIN-SUFFIX,d7.sina.com.cn
 DOMAIN-SUFFIX,d7.sinaimg.cn
+DOMAIN-SUFFIX,d7baike.net
 DOMAIN-SUFFIX,d7ol.com
 DOMAIN-SUFFIX,d8.sina.com.cn
 DOMAIN-SUFFIX,d8.sinaimg.cn
@@ -15667,6 +15672,7 @@ DOMAIN-SUFFIX,ffpic.com
 DOMAIN-SUFFIX,ffpic.net
 DOMAIN-SUFFIX,ffplay.net
 DOMAIN-SUFFIX,ffquan.com
+DOMAIN-SUFFIX,ffsgame.com
 DOMAIN-SUFFIX,ffsky.com
 DOMAIN-SUFFIX,fft123.com
 DOMAIN-SUFFIX,ffxiv.xin
@@ -16386,6 +16392,7 @@ DOMAIN-SUFFIX,fsyzcs.com
 DOMAIN-SUFFIX,fszhjx.com
 DOMAIN-SUFFIX,ft12.com
 DOMAIN-SUFFIX,ft22.com
+DOMAIN-SUFFIX,ftaro.com
 DOMAIN-SUFFIX,ftbifen.com
 DOMAIN-SUFFIX,ftbj.net
 DOMAIN-SUFFIX,ftcauction.com
@@ -16648,6 +16655,7 @@ DOMAIN-SUFFIX,fxzpfyy.com
 DOMAIN-SUFFIX,fxzxgs.com
 DOMAIN-SUFFIX,fxzygc.com
 DOMAIN-SUFFIX,fy-data.com
+DOMAIN-SUFFIX,fy-game.com
 DOMAIN-SUFFIX,fy-ns.com
 DOMAIN-SUFFIX,fy-team.com
 DOMAIN-SUFFIX,fy027.com
@@ -16837,6 +16845,7 @@ DOMAIN-SUFFIX,game-as.com
 DOMAIN-SUFFIX,game-coder.com
 DOMAIN-SUFFIX,game-props.com
 DOMAIN-SUFFIX,game-reign.com
+DOMAIN-SUFFIX,game-yx.com
 DOMAIN-SUFFIX,game.weibo.cn
 DOMAIN-SUFFIX,game.weibo.com
 DOMAIN-SUFFIX,game100.wiki
@@ -18392,6 +18401,7 @@ DOMAIN-SUFFIX,gsp4-cn.ls.apple.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,gsp5-cn.ls.apple.com
+DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspcc.com
 DOMAIN-SUFFIX,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,gspe12-cn-ssl.ls.apple.com
@@ -26764,6 +26774,7 @@ DOMAIN-SUFFIX,jiyiblog.com
 DOMAIN-SUFFIX,jiyifa.com
 DOMAIN-SUFFIX,jiyili.net
 DOMAIN-SUFFIX,jiyin-tech.com
+DOMAIN-SUFFIX,jiyin2020.com
 DOMAIN-SUFFIX,jiyingw.com
 DOMAIN-SUFFIX,jiyingw.net
 DOMAIN-SUFFIX,jiyixcx.com
@@ -33110,6 +33121,7 @@ DOMAIN-SUFFIX,mapeng.net
 DOMAIN-SUFFIX,mapgis.com
 DOMAIN-SUFFIX,mapgun.com
 DOMAIN-SUFFIX,mapks.com
+DOMAIN-SUFFIX,maple-game.com
 DOMAIN-SUFFIX,maplebeats.com
 DOMAIN-SUFFIX,maplef.net
 DOMAIN-SUFFIX,mappn.com
@@ -35427,6 +35439,7 @@ DOMAIN-SUFFIX,myjishu.com
 DOMAIN-SUFFIX,myjob.com
 DOMAIN-SUFFIX,myjob500.com
 DOMAIN-SUFFIX,myjoit.com
+DOMAIN-SUFFIX,myjoy777.com
 DOMAIN-SUFFIX,myk3.com
 DOMAIN-SUFFIX,mykqyy.com
 DOMAIN-SUFFIX,mylbabao.com
@@ -39562,6 +39575,7 @@ DOMAIN-SUFFIX,qbaoting.com
 DOMAIN-SUFFIX,qbb6.com
 DOMAIN-SUFFIX,qbdcc.com
 DOMAIN-SUFFIX,qbdgame.com
+DOMAIN-SUFFIX,qbeenslee.com
 DOMAIN-SUFFIX,qbitai.com
 DOMAIN-SUFFIX,qbjrxs.com
 DOMAIN-SUFFIX,qbox.me
@@ -44633,6 +44647,7 @@ DOMAIN-SUFFIX,sigujx.com
 DOMAIN-SUFFIX,siguoya.name
 DOMAIN-SUFFIX,sigure.xyz
 DOMAIN-SUFFIX,sigvc.org
+DOMAIN-SUFFIX,sihai-inc.com
 DOMAIN-SUFFIX,sihaidj.com
 DOMAIN-SUFFIX,sihaimg.com
 DOMAIN-SUFFIX,sihaishuyuan.com
@@ -52231,6 +52246,7 @@ DOMAIN-SUFFIX,webfont.com
 DOMAIN-SUFFIX,webfoss.com
 DOMAIN-SUFFIX,webfreecounter.com
 DOMAIN-SUFFIX,webfuwu.com
+DOMAIN-SUFFIX,webgame138.com
 DOMAIN-SUFFIX,webgzs.com
 DOMAIN-SUFFIX,webhek.com
 DOMAIN-SUFFIX,webhivers.com
@@ -56218,6 +56234,7 @@ DOMAIN-SUFFIX,xiongmaoxingyan.com
 DOMAIN-SUFFIX,xiongyin.com
 DOMAIN-SUFFIX,xiongying.com
 DOMAIN-SUFFIX,xiongzhangad.com
+DOMAIN-SUFFIX,xipushuju.net
 DOMAIN-SUFFIX,xipuu.com
 DOMAIN-SUFFIX,xiqb.com
 DOMAIN-SUFFIX,xiqihe.com
@@ -61755,6 +61772,7 @@ DOMAIN-SUFFIX,zhishi.life
 DOMAIN-SUFFIX,zhishichong.com
 DOMAIN-SUFFIX,zhishifenzi.com
 DOMAIN-SUFFIX,zhishihao.com
+DOMAIN-SUFFIX,zhishikoo.com
 DOMAIN-SUFFIX,zhishilin.com
 DOMAIN-SUFFIX,zhishisoft.com
 DOMAIN-SUFFIX,zhishiwu.com
@@ -63403,6 +63421,7 @@ DOMAIN-SUFFIX,zxtzx.com
 DOMAIN-SUFFIX,zxw51.com
 DOMAIN-SUFFIX,zxwcbj.com
 DOMAIN-SUFFIX,zxwindow.com
+DOMAIN-SUFFIX,zxwyouxi.com
 DOMAIN-SUFFIX,zxxk.com
 DOMAIN-SUFFIX,zxxww.com
 DOMAIN-SUFFIX,zxxxkj.com
